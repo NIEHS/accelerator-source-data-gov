@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "eb32b453-35e8-4c89-95e1-6919a7ea2ff9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Eben Thoma",
+    "maintainer_email": "thoma.eben@epa.gov",
+    "metadata_created": "2023-03-19T14:42:08.311739",
+    "metadata_modified": "2023-03-19T14:42:08.311744",
+    "name": "dataset-and-dictionary-for-wv-tanks-paper",
+    "notes": "The dataset contains the data found in the figures of the paper \"Methane Emissions from Oil and Gas Production Sites and Their Storage Tanks in West Virginia\", along with a data dictionary. \n\nThis dataset is associated with the following publication:\nJohnson, D., N. Clark, R. Heltzel, M. Darzi, T. Footer, S. Herndon, C. Murral, and E. Thoma. Methane Emissions from Oil and Gas Production Sites and Their Storage Tanks in West Virginia.   Atmospheric Environment: X. Elsevier B.V., Amsterdam,  NETHERLANDS,  na, (2022).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset and Dictionary for WV Tanks Paper",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "78a1544b864d1db4409e4dc86f7602af1edb657d"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1523134"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-12-29"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.aeaoa.2022.100193"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1a91292a-068e-4ea9-83ba-f8baad06e107"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-03-19T14:42:08.344819",
+            "description": "Dataset%20and%20Dictionary%20for%20WV%20Tanks%20Paper_Final_122222.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "69dccef7-0373-4306-9e28-fa6a9c2d9109",
+            "last_modified": null,
+            "metadata_modified": "2023-03-19T14:42:08.295646",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Dataset and Dictionary for WV Tanks Paper_Final_122222.xlsx",
+            "package_id": "eb32b453-35e8-4c89-95e1-6919a7ea2ff9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523134/Dataset%20and%20Dictionary%20for%20WV%20Tanks%20Paper_Final_122222.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "methane",
+            "id": "8a86604e-586f-4609-bbb7-489e40eddd15",
+            "name": "methane",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ngem",
+            "id": "4e8ea048-2bdc-476a-b7e7-c9c3e86f9023",
+            "name": "ngem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oil-and-gas",
+            "id": "d3975821-671e-417d-b66f-bc5f7252068c",
+            "name": "oil-and-gas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "optical-gas-imaging",
+            "id": "3fed5466-e450-4f65-abf9-93423711cf39",
+            "name": "optical-gas-imaging",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tanks",
+            "id": "14098429-80d5-49f4-bcfb-4326b2095811",
+            "name": "tanks",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 29,
+        "recent": 1
+    }
+}

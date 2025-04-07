@@ -1,0 +1,260 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "a255827f-8914-476d-b1c6-3ec0bcff796f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jeffrey Szabo",
+    "maintainer_email": "szabo.jeff@epa.gov",
+    "metadata_created": "2020-11-12T13:38:48.922551",
+    "metadata_modified": "2020-11-12T13:38:48.922561",
+    "name": "decontamination-of-b-globigii-spores-from-drinking-water-infrastructure-using-disinfectant",
+    "notes": "Decontamination of Bacillus spores adhered to common drinking water infrastructure surfaces was evaluated using a variety of disinfectants.  Corroded iron and cement-mortar lined iron represented the infrastructure surfaces, and were conditioned in a 23 m long, 15 cm diameter (75 ft long, 6 in diameter) pilot-scale drinking water distribution pipe system.  Decontamination was evaluated using increased water velocity (flushing) alone at 0.5 m sec-1 (1.7 ft sec-1), as well as free chlorine (5 and 25 mg L-1), monochloramine (25 mg L-1), chlorine dioxide (5 and 25 mg L-1), ozone (2.0 mg L-1), peracetic acid 25 mg L-1) and acidified nitrite (0.1 mol L-1 at pH 2 and 3), all followed by flushing at 0.3 m sec-1 (1 ft sec-1).  Flushing alone reduced the adhered spores by 0.5 and 2.0 log10 from iron and cement-mortar, respectively.   Log10 reduction on corroded iron pipe wall coupons ranged from 1.0 to 2.9 at respective chlorine dioxide concentrations of 5 and 25 mg L-1, although spores were undetectable on the iron surface during disinfection at 25 mg L-1.  Acidified nitrite (pH 2, 0.1 mol L-1) yielded no detectable spores on the iron surface during the flushing phase after disinfection. Chlorine dioxide was the best performing disinfectant with >3.0 log10 removal from cement-mortar at 5 and 25 mg L-1.The data show that free chlorine, monochloramine, ozone and chlorine dioxide followed by flushing can reduce adhered spores by >3.0 log10 on cement-mortar. \n\nThis dataset is associated with the following publication:\nSzabo , J., G. Meiners, L. Heckman, G. Rice , and J. Hall. Decontamination of Bacillus spores adhered to iron and cement-mortar drinking water infrastructure in a model system using disinfectants.   JOURNAL OF ENVIRONMENTAL MANAGEMENT. Elsevier Science Ltd, New York, NY, USA, 187: 1-7, (2017).",
+    "num_resources": 1,
+    "num_tags": 16,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Decontamination of B. globigii spores from drinking water infrastructure using disinfectants",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:060"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jenvman.2016.11.024"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "95921266-e747-43cb-86a7-eebb9faf51d2"
+        },
+        {
+            "key": "source_hash",
+            "value": "7bddd861394f2e4019bae5f18d8b9610b10cf7dd"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-11-25"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-g79s-453"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:48.976295",
+            "description": "Disinfection%20Loop%20Data%20Analysis%2011252016.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0bd524c9-f4c9-4b40-b20b-1611dae32706",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:48.976295",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Disinfection Loop Data Analysis 11252016.xlsx",
+            "package_id": "a255827f-8914-476d-b1c6-3ec0bcff796f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/453/Disinfection%20Loop%20Data%20Analysis%2011252016.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "acidified-nitrite",
+            "id": "9e37734c-6a39-451e-9812-043ebdd428c0",
+            "name": "acidified-nitrite",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bacillus-anthracis",
+            "id": "78834053-4500-4f69-9d46-c0cccf3953ee",
+            "name": "bacillus-anthracis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bacillus-atrophaeus",
+            "id": "4d5f12e9-2c5d-40e8-9e10-46bdd18cc014",
+            "name": "bacillus-atrophaeus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bacterial-spores",
+            "id": "4b465dc1-df12-4a85-bb84-db112c8c5df5",
+            "name": "bacterial-spores",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cement-mortar",
+            "id": "2b70141b-c826-41a2-952f-41656c961c2f",
+            "name": "cement-mortar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chlorine-dioixde",
+            "id": "5e618bb8-6910-4aba-b596-1bfdbc873735",
+            "name": "chlorine-dioixde",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "decontamination",
+            "id": "076c6307-6979-45c1-9b34-8c7ef39d011b",
+            "name": "decontamination",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "flushing",
+            "id": "f49127d9-2316-41e0-9ec5-3927da47ea7f",
+            "name": "flushing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "free-chlorine",
+            "id": "d6fc3313-703a-4fe8-8ebc-09e4421fabf1",
+            "name": "free-chlorine",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "infrastructure",
+            "id": "e2ab1a39-4aab-4ae8-8398-40ca98cfb4eb",
+            "name": "infrastructure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "iron",
+            "id": "e807f73f-5f96-451a-866f-664b7f3affed",
+            "name": "iron",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "monochloramine",
+            "id": "3b87746a-e7af-4a00-a125-574b13f81093",
+            "name": "monochloramine",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "peracetic-acid",
+            "id": "1dde22a3-6594-47c9-9462-7432f145d68b",
+            "name": "peracetic-acid",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-pipes",
+            "id": "12c0b2f2-c2f5-46c5-a254-34bd3245047f",
+            "name": "water-pipes",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 139,
+        "recent": 1
+    }
+}

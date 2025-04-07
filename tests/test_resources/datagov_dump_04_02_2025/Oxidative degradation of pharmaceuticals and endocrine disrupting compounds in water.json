@@ -1,0 +1,583 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Chunming Su",
+    "maintainer_email": "su.chunming@epa.gov",
+    "metadata_created": "2021-03-21T07:53:55.972441",
+    "metadata_modified": "2021-03-21T07:53:55.972450",
+    "name": "oxidative-degradation-of-pharmaceuticals-and-endocrine-disrupting-compounds-in-water",
+    "notes": "The dataset includes: \n\nTEM micrographs of rGO-Ag0/Fe3O4 NH.\n\nXRD patterns, FT-IR spectra, and UV-Vis absorption spectra of rGO, AgNP, and rGO-Ag0/Fe3O4 NH.\n\nX-ray photoelectron spectra of rGO and rGO-Ag0/Fe3O4 NH.\n\nConcentrations of phenol, acetaminophen, ibuprofen, naproxen, BPA, E2, and EE2 as a function of time in graphs. \n\nThis dataset is associated with the following publication:\nPark, C.M., J. Heo, D. Wang, C. Su, and Y. Yoon. Heterogeneous activation of persulfate by reduced graphene oxide\u2013elemental silver/magnetite nanohybrids for the oxidative degradation of pharmaceuticals and endocrine disrupting compounds in water.   APPLIED CATALYSIS B: ENVIRONMENTAL. Elsevier Science Ltd, New York, NY, USA, 225: 91-99, (2018).",
+    "num_resources": 17,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Oxidative degradation of pharmaceuticals and endocrine disrupting compounds in water",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.apcatb.2017.11.058"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b948a02d-864d-4055-b469-45454f6f75bb"
+        },
+        {
+            "key": "source_hash",
+            "value": "23883ed385d9fb4277a7d461f96bdd1f0912d900"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2021-03-15"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1521026"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989112",
+            "description": "4.%20Conc.%20of%20pollutants%20vs%20time%20in%20graphs.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "cae35403-82c0-41b0-936d-785d1c1a7ef0",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989112",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "4. Conc. of pollutants vs time in graphs.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/4.%20Conc.%20of%20pollutants%20vs%20time%20in%20graphs.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989119",
+            "description": "3-8.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20Fe2p.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "7b448426-ee49-4913-92fd-f8fee91cc7ab",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989119",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "3-8. XPS for rGO-Ag0_Fe3O4 NH Fe2p.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/3-8.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20Fe2p.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989123",
+            "description": "3-7.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20Ag3d.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "f96b8371-3fa0-4ef6-b43d-55634bbf4b23",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989123",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "3-7. XPS for rGO-Ag0_Fe3O4 NH Ag3d.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/3-7.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20Ag3d.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989126",
+            "description": "3-6.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20O1s.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "6136449d-1f2a-428b-bdfe-19b2af93c131",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989126",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "3-6. XPS for rGO-Ag0_Fe3O4 NH O1s.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/3-6.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20O1s.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989129",
+            "description": "3-5.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20C1s.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "69b33371-9096-486c-a01c-8508f4cd9067",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989129",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "3-5. XPS for rGO-Ag0_Fe3O4 NH C1s.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/3-5.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20C1s.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989131",
+            "description": "3-4.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20wide.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "0219ea38-a815-4e85-addd-cbe87f1575ac",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989131",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "3-4. XPS for rGO-Ag0_Fe3O4 NH wide.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/3-4.%20XPS%20for%20rGO-Ag0_Fe3O4%20NH%20wide.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989134",
+            "description": "3-3.%20XPS%20for%20rGO%20O1s.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "9483beac-81ed-4779-9f85-496919de22ac",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989134",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "3-3. XPS for rGO O1s.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/3-3.%20XPS%20for%20rGO%20O1s.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989137",
+            "description": "3-2.%20XPS%20for%20rGO%20C1s.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "cfa7f39c-0f1a-4afb-a080-b673d88044f8",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989137",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "3-2. XPS for rGO C1s.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/3-2.%20XPS%20for%20rGO%20C1s.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989139",
+            "description": "3-1.%20XPS%20for%20rGO%20wide.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "ba052f09-4784-436b-9856-cd61b4b1b8fc",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989139",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "3-1. XPS for rGO wide.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/3-1.%20XPS%20for%20rGO%20wide.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989142",
+            "description": "2-7.%20UV-Vis%20for%20rGO-Ag0_Fe3O4%20NH.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "27101882-e3a8-498c-b91c-6adad3adaf41",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989142",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "2-7. UV-Vis for rGO-Ag0_Fe3O4 NH.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/2-7.%20UV-Vis%20for%20rGO-Ag0_Fe3O4%20NH.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989145",
+            "description": "2-6.%20UV-Vis%20for%20AgNP.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "7c0ab19c-b394-4541-9cde-aa4d75915c29",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989145",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "2-6. UV-Vis for AgNP.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 10,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/2-6.%20UV-Vis%20for%20AgNP.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989147",
+            "description": "2-5.%20UV-Vis%20for%20rGO.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "b6a60a67-a6ec-4ef4-8cc3-37d813d48536",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989147",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "2-5. UV-Vis for rGO.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 11,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/2-5.%20UV-Vis%20for%20rGO.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989150",
+            "description": "2-4.%20FTIR%20for%20rGO-Ag0_Fe3O4%20NH.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "58019105-8715-4fc2-89fc-ee94b0569515",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989150",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "2-4. FTIR for rGO-Ag0_Fe3O4 NH.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 12,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/2-4.%20FTIR%20for%20rGO-Ag0_Fe3O4%20NH.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989153",
+            "description": "2-3.%20FTIR%20for%20rGO.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "025fb246-8b1c-48fb-bfcc-0d95d364c421",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989153",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "2-3. FTIR for rGO.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 13,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/2-3.%20FTIR%20for%20rGO.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989155",
+            "description": "2-2.%20XRD%20for%20rGO-Ag0_Fe3O4%20NH.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "121690e4-7423-4f35-8b41-f9bec4547390",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989155",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "2-2. XRD for rGO-Ag0_Fe3O4 NH.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 14,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/2-2.%20XRD%20for%20rGO-Ag0_Fe3O4%20NH.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989158",
+            "description": "2-1.%20XRD%20for%20rGO.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "e04e76ca-004c-421f-bd85-21a1942a4396",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989158",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "2-1. XRD for rGO.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 15,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/2-1.%20XRD%20for%20rGO.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-21T07:53:55.989161",
+            "description": "1.%20TEM%20for%20rGO-Ag0_Fe3O4%20NH.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "747ac8ea-1fee-42af-9519-74c90e1b6e92",
+            "last_modified": null,
+            "metadata_modified": "2021-03-21T07:53:55.989161",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "1. TEM for rGO-Ag0_Fe3O4 NH.pdf",
+            "package_id": "75c6b090-5c47-4f1a-b155-23366ffb3790",
+            "position": 16,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521026/1.%20TEM%20for%20rGO-Ag0_Fe3O4%20NH.pdf",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "advanced-oxidation",
+            "id": "77ba5fb4-184c-474b-9065-df9b54e825f5",
+            "name": "advanced-oxidation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "endocrine-disrupting-compounds",
+            "id": "aac36101-f99a-4cfc-96f6-77c060930046",
+            "name": "endocrine-disrupting-compounds",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "graphene-oxide",
+            "id": "51284c9f-85c5-46ef-bf08-184c105c42a8",
+            "name": "graphene-oxide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nanocomposites",
+            "id": "98c11410-6187-4147-b628-bd03a163c2f4",
+            "name": "nanocomposites",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pharmaceuticals",
+            "id": "48328ef1-141c-49cb-8fb8-d4de5af8ce94",
+            "name": "pharmaceuticals",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 144,
+        "recent": 3
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b7ff145a-0387-40b6-8f4a-c5aa0cdb551d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Matthew Hopton",
+    "maintainer_email": "hopton.matthew@epa.gov",
+    "metadata_created": "2020-11-12T13:47:16.198013",
+    "metadata_modified": "2020-11-12T13:47:16.198024",
+    "name": "a-runoff-trading-system-to-meet-watershed-level-stormwater-reduction-goals-with-parcel-lev",
+    "notes": "Data are estimated stormwater values based on curve numbers (CN) values are based on hydrologic soil groups (A, B, C, and D) and four land cover types in the study area, such as, grassland, forest land, impervious area, and other open space.  We apply SMPSS-TRAC to a watershed located in Hamilton County, Ohio, USA and develop five scenarios representing increasing use of GI.  We test the scenarios under a 5-year rainfall intensity and set a cap of runoff for each scenario at a level that is equal to the runoff from an undeveloped status (1.03-inch runoff depth for the watershed).  With the proposed SMPSS-TRAC, the watershed authority could encourage all parcel owners to install suitable GI or purchase credits from the market. \n\nThis dataset is associated with the following publication:\nFu, X., M. Hopton, X. Wang, H. Goddard, and H. Liu. A runoff trading system to meet watershed-level stormwater reduction goals with parcel-level green infrastructure installation.   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 689: 1149-1159, (2019).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "A runoff trading system to meet watershed-level stormwater reduction goals with parcel-level green infrastructure installation",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2019.06.439"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "92d9cfe6-4897-4828-ad28-761cb64d0909"
+        },
+        {
+            "key": "source_hash",
+            "value": "77300ed45cf9efa1a4b39a25066ebf0dd7fcf269"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-06-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504551"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:16.221558",
+            "description": "Output%20of%20the%20paper%20SMPSS-TRAC%20to%20STICS.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "4aefab75-e09c-454f-bf12-c1d870c37d3b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:16.221558",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Output of the paper SMPSS-TRAC to STICS.xlsx",
+            "package_id": "b7ff145a-0387-40b6-8f4a-c5aa0cdb551d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504551/Output%20of%20the%20paper%20SMPSS-TRAC%20to%20STICS.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "green-infrastructure",
+            "id": "5b6d5012-95dd-4a9e-93b0-945ce771e70c",
+            "name": "green-infrastructure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "planning-support-system",
+            "id": "3698b792-85f4-48e5-bece-83a9a2b7a43e",
+            "name": "planning-support-system",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "scenario-planning",
+            "id": "f06d9843-d8e1-4d63-8e2a-dbced06e25a1",
+            "name": "scenario-planning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stormwater-management",
+            "id": "7d4f2a3b-7309-4403-a7fc-05b32816c418",
+            "name": "stormwater-management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stormwater-trading",
+            "id": "17ecc436-653e-4af3-8c20-b06061cbc7e4",
+            "name": "stormwater-trading",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 112,
+        "recent": 1
+    }
+}

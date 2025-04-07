@@ -1,0 +1,170 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "4bf239de-267f-45a2-a3d4-40a417021c86",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Pervin Kaplanakman",
+    "maintainer_email": "kaplan.ozge@epa.gov",
+    "metadata_created": "2025-03-10T06:43:25.954160",
+    "metadata_modified": "2025-03-10T06:43:25.954169",
+    "name": "sustainable-and-resilient-solid-waste-infrastructure-onondaga-county-new-york-case-study",
+    "notes": "EPA Report on Sustainable and Resilient Solid Waste Infrastructure: Onondaga County, New York Case Study. \n\nThis dataset is associated with the following publication:\nKaplanakman, P., K. Weitz, and S. Thorneloe-Howard. Sustainable and Resilient Solid Waste Infrastructure: Onondaga County, New York Case Study. U.S. Environmental Protection Agency, Washington, DC, USA, 2023.",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Sustainable and Resilient Solid Waste Infrastructure: Onondaga County, New York Case Study",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "9a78c2230ad4c47d0d8f0208d11e2ef0922f09f05ec454981d02b8fde2415fd8"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1532040"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2025-02-24"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "5f51e0f1-8060-4138-af27-29ba76a727ad"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-10T06:43:25.972746",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "48747aec-664f-4a80-9658-cb52f839f408",
+            "last_modified": null,
+            "metadata_modified": "2025-03-10T06:43:25.929877",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://cfpub.epa.gov/si/si_public_file_download.cfm?p_download_id=547610&Lab=CEMM",
+            "package_id": "4bf239de-267f-45a2-a3d4-40a417021c86",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://cfpub.epa.gov/si/si_public_file_download.cfm?p_download_id=547610&Lab=CEMM",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "lca",
+            "id": "3801a5b3-ecfb-4413-8a75-6bf46ae79a04",
+            "name": "lca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "msw",
+            "id": "5fa1d7c7-6b5f-4938-9fa1-ed67ec087285",
+            "name": "msw",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "resilience",
+            "id": "af13db60-2555-426c-b876-f0ea147c62e3",
+            "name": "resilience",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waste-management",
+            "id": "59f39b0a-c713-4701-bccb-c9870c945aab",
+            "name": "waste-management",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 11,
+        "recent": 1
+    }
+}

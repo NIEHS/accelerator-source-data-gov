@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "1510fbc3-ea66-47e0-a74c-6ccc58717418",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Christopher Nolte",
+    "maintainer_email": "nolte.chris@epa.gov",
+    "metadata_created": "2020-11-12T13:36:02.038383",
+    "metadata_modified": "2020-11-12T13:36:02.038394",
+    "name": "evaluation-of-near-surface-ozone-and-particulate-matter-in-air-quality-simulations-driven-",
+    "notes": "This dataset supports the modeling study of Seltzer et al. (2016) published in Atmospheric Environment. In this study, techniques typically used for future air quality projections are applied to a historical 11-year period to assess the performance of the modeling system when the driving meteorological conditions are obtained using dynamical downscaling of coarse-scale fields without correcting toward higher resolution observations. The Weather Research and Forecasting model and the Community Multiscale Air Quality model are used to simulate regional climate and air quality over the contiguous United States for 2000-2010. The air quality simulations for that historical period are then compared to observations from four national networks. Comparisons are drawn between defined performance metrics and other published modeling results for predicted ozone, fine particulate matter, and speciated fine particulate matter. The results indicate that the historical air quality simulations driven by dynamically downscaled meteorology are typically within defined modeling performance benchmarks and are consistent with results from other published modeling studies using finer-resolution meteorology. This indicates that the regional climate and air quality modeling framework utilized here does not introduce substantial bias, which provides confidence in the method\u2019s use for future air quality projections. \n\nThis dataset is associated with the following publication:\nSeltzer, K., C. Nolte, T. Spero, W. Appel, and J. Xing. Evaluation of near surface ozone and particulate matter in air quality simulations driven by dynamically downscaled historical meteorological fields.   ATMOSPHERIC ENVIRONMENT. Elsevier Science Ltd, New York, NY, USA, 138: 42-54, (2016).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Evaluation of near surface ozone and particulate matter in air quality simulations driven by dynamically downscaled historical meteorological fields",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "http://www.sciencedirect.com/science/journal/aip/13522310"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "62126b2b-c7d7-418b-9593-8a37ff97e124"
+        },
+        {
+            "key": "source_hash",
+            "value": "9b2dd4dd08afe3b167cc462eec4b24ac5068c329"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-05-26"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-37pz-84"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:36:02.044475",
+            "description": "Seltzer_2016.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "409866f6-c917-47ff-b4b9-e705dcf9e02f",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:36:02.044475",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Seltzer_2016.zip",
+            "package_id": "1510fbc3-ea66-47e0-a74c-6ccc58717418",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/84/Seltzer_2016.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cmaq",
+            "id": "0b0fef67-e80d-444d-bb78-bb953300d6e3",
+            "name": "cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dynamical-downscaling",
+            "id": "9a9ca245-0d47-4708-8755-d2beead78ecf",
+            "name": "dynamical-downscaling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "model-evaluation",
+            "id": "8f74818f-9434-4551-a9e6-e83d567a38cd",
+            "name": "model-evaluation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regional-climate-modeling",
+            "id": "c0dd1d34-9747-4dcf-94c2-55bc14038e04",
+            "name": "regional-climate-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 54,
+        "recent": 1
+    }
+}

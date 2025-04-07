@@ -1,0 +1,355 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "d80b9583-e8d9-4947-acbf-ae407ca340b4",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:18:18.204837",
+    "metadata_modified": "2025-02-25T05:18:18.204842",
+    "name": "abandoned-uranium-mine-aum-surface-areas-navajo-nation-2016-u-s-epa-region-913",
+    "notes": "This GIS dataset contains polygon features that represent all Abandoned Uranium Mines (AUMs) on or within one mile of the Navajo Nation. Attributes include mine names, aliases, Potentially Responsible Parties, reclamation status, EPA mine status, links to AUM reports, and the region in which an AUM is located. This dataset contains 608 features.\n\nAs of June 2021, Phase 2 Trust mines were updated.",
+    "num_resources": 3,
+    "num_tags": 16,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Abandoned Uranium Mine (AUM) Surface Areas, Navajo Nation, 2016, U.S. EPA Region 9",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "06ABE7B6-8723-4CC0-86AE-A526A8E9F509"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2017-07-06\"}, {\"type\": \"revision\", \"value\": \"2021-06-30\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2022-10-13"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "henley.cheryl@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2006-01-01T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2006-01-01T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 9\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-107.13824"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "37.412156"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "35.076876"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-111.640163"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.640163, 35.076876], [-107.13824, 35.076876], [-107.13824, 37.412156], [-111.640163, 37.412156], [-111.640163, 35.076876]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.640163, 35.076876], [-107.13824, 35.076876], [-107.13824, 37.412156], [-111.640163, 37.412156], [-111.640163, 35.076876]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "7a72d7a7-06c9-440f-a389-acaca7a6dce0"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:18:18.212002",
+            "description": "Web Map Application",
+            "format": "",
+            "hash": "",
+            "id": "fe39530d-d645-4e37-9238-d07e60bcb978",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:18:18.188090",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Abandoned Uranium Mines Site Screening Map",
+            "package_id": "d80b9583-e8d9-4947-acbf-ae407ca340b4",
+            "position": 0,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://geopub.epa.gov/NavajoNationAUM",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:18:18.212005",
+            "description": "RESTful Web Service",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "d63431e6-f8b6-4f1c-9228-fcab936013c2",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:18:18.188204",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Abandoned Uranium Mines Site Screening Map Service",
+            "package_id": "d80b9583-e8d9-4947-acbf-ae407ca340b4",
+            "position": 1,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://geodata.epa.gov/arcgis/rest/services/Region9/NavajoNationAUMSiteScreening/MapServer",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:18:18.212007",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "a0d5fdf0-8530-4fca-8bfd-70c15d49b599",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:18:18.188287",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "d80b9583-e8d9-4947-acbf-ae407ca340b4",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "website",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "http://www.epa.gov/region09/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:106",
+            "id": "69242009-f29a-4602-9474-c1ebdf1d847b",
+            "name": "020:106",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "020:109",
+            "id": "f8234244-c5e2-4e6f-a81a-bb21ebffc1cc",
+            "name": "020:109",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "020:118",
+            "id": "fcb4bb00-987e-4443-8b93-8381d080ced8",
+            "name": "020:118",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arizona",
+            "id": "505b3704-0140-4a4b-b0ca-1d68829851c9",
+            "name": "arizona",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "contaminant",
+            "id": "2437510a-6d3f-40af-89f4-e922116ab457",
+            "name": "contaminant",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exposure",
+            "id": "8049ad10-3bf6-4846-b6f7-ad415afd0ae7",
+            "name": "exposure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hazards",
+            "id": "e353b54d-727c-4c4f-ac4b-1c6e16722135",
+            "name": "hazards",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "health",
+            "id": "3b24c0fa-1ddf-4dc3-965f-93a79d68ab18",
+            "name": "health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new mexico",
+            "id": "e79c2ba6-bd42-4b31-8289-93fcc1554d07",
+            "name": "new mexico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radiation",
+            "id": "5fde1601-db8c-4685-a621-9c430b975225",
+            "name": "radiation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation",
+            "id": "d7a31147-fbf4-4cc4-9813-fcd875012e5c",
+            "name": "remediation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "utah",
+            "id": "51a1d813-a630-4490-9ce5-015334c39826",
+            "name": "utah",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waste",
+            "id": "c8c45fd7-e96a-4e36-9d54-71543519256b",
+            "name": "waste",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "2ed166c6-8468-4d18-bcbb-2dd5c937c43f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Yingping Yang",
+    "maintainer_email": "yang.jeff@epa.gov",
+    "metadata_created": "2020-11-12T13:40:01.502965",
+    "metadata_modified": "2020-11-12T13:40:01.502973",
+    "name": "mixing-at-double-tee-junctions-with-unequal-pipe-sizes-in-water-distribution-systems",
+    "notes": "Pipe flow mixing with various solute concentrations and flow rates at pipe junctions is investigated. The degree of mixing affects the spread of contaminants in a water distribution system. Many studies have been conducted on the mixing at the cross junctions. Yet few have focused on double-Tee junctions of unequal pipe sizes. To investigate the solute mixing at double-Tee junctions with unequal pipe sizes, a series of experiments were conducted in a turbulent regime (Re=12500\u201350000) with different Reynolds number ratios and connecting pipe lengths. It is found that dimensionless outlet concentrations depended on mixing mechanism at the impinging interface of pipe junctions. Junction with a larger pipe size ratio is associated with more complete mixing. The inlet Reynolds number ratio affects mixing more strongly than the outlet Reynolds number ratio. Furthermore, the dimensionless connecting pipe length in a double-Tee played an important and complicated role in the flow mixing. Based on these results, two-dimensional isopleth maps were developed for the calculation of normalized north outlet concentration. This dataset is not publicly accessible because: The present research is funded by the National Natural Science Foundation of China (No. 51208457 and 51478417), the Major Science and Technology Program for Water Pollution Control and Treatment in China (2012ZX07408-002 and 2012ZX07403-004), and the Fundamental Research Funds for the Central Universities. It can be accessed through the following means: Yang.jeff@epa.gov. Format: Secondary data not available. \n\nThis dataset is associated with the following publication:\nYu, T., H. Qiu, J. Yang, y. shao, and L. Tao. Mixing at double-Tee junctions with unequal pipe sizes in water distribution systems.   Water Science and Technology:  Water Supply. IWA Publishing, London,  UK, 16(6): 1595-1602, (2016).",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Mixing at double-Tee junctions with unequal pipe sizes in water distribution systems",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.2166/ws.2016.076"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "41bd1cff-c1a0-489f-8a26-d41221fc2b34"
+        },
+        {
+            "key": "source_hash",
+            "value": "42c907c3c9ff008fe57b1bed2001fff3eeb74fcc"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-12-14"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1390232"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "double-tee-junctions",
+            "id": "e576284e-329a-46d2-a7eb-b3c9af4a2f5c",
+            "name": "double-tee-junctions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "solute-mixing",
+            "id": "944a1dd8-9f1f-491f-a943-5c7ab14b017e",
+            "name": "solute-mixing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "unequal-pipe-sizes",
+            "id": "7f016d51-2ce1-4c06-b4bb-93ef929fc746",
+            "name": "unequal-pipe-sizes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-distribution-systems",
+            "id": "5bfd76a2-6f33-4571-9d90-029ecd7b2f7e",
+            "name": "water-distribution-systems",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 32,
+        "recent": 1
+    }
+}

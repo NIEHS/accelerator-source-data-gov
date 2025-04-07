@@ -1,0 +1,384 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "4715b38f-5f62-4285-b5ff-eb13ff35f009",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:08:06.820930",
+    "metadata_modified": "2025-02-25T05:08:06.820936",
+    "name": "enviroatlas-tampa-fl-near-road-block-group-summary6",
+    "notes": "This EnviroAtlas dataset addresses the tree buffer along heavily traveled roads. The roads are interstates, arterials, and collectors within the EnviroAtlas community boundary. Forest is defined as Trees & Forest and Woody Wetlands. Sufficient tree bufferage is defined as 25% coverage within the circular moving window with a radius of 14.5m at any given point along the roadway. There are potential negative health effects for those living in a location without a sufficient tree buffer. Those populations are estimated here using dasymetric data calculated for the EnviroAtlas. There are potential negative health effects for those living in a location without a sufficient tree buffer. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
+    "num_resources": 4,
+    "num_tags": 17,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EnviroAtlas - Tampa, FL - Near Road Block Group Summary",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "{6F0C61B7-7BB9-4670-A69D-A789D7EBA97C}"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2015-05-19\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng; USA"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2017-05-18"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "EnviroAtlas@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.htm\"]"
+        },
+        {
+            "key": "licence_url",
+            "value": "https://edg.epa.gov/EPA_Data_License.htm"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"US Environmental Protection Agency, Research Triangle Park\", \"roles\": [\"pointOfContact\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-82.056207"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "28.418373"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "27.651249"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-82.851123"
+        },
+        {
+            "key": "lineage",
+            "value": "This lineage was generated by the FGDC CSDGM to 19139 transformation"
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.851123, 27.651249], [-82.056207, 27.651249], [-82.056207, 28.418373], [-82.851123, 28.418373], [-82.851123, 27.651249]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.851123, 27.651249], [-82.056207, 27.651249], [-82.056207, 28.418373], [-82.851123, 28.418373], [-82.851123, 27.651249]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4706a12d-2c06-4e56-a19e-db4b44baeadd"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:08:06.825534",
+            "description": "The URL providing direct access to the downloadable dataset. ",
+            "format": "",
+            "hash": "",
+            "id": "664df012-2611-41cb-a24a-2f163ca741c0",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:08:06.802180",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Download",
+            "package_id": "4715b38f-5f62-4285-b5ff-eb13ff35f009",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "download",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/Communities/TampaFL",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:08:06.825537",
+            "description": "The endpoint of a web service to access the dataset (REST endpoint, WMS GetCapabilities URL, or a SOAP WSDL endpoint).",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "d93f9a67-88b0-4a82-91b8-fa5286a9493d",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:08:06.802306",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "API",
+            "package_id": "4715b38f-5f62-4285-b5ff-eb13ff35f009",
+            "position": 1,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "ESRI:ArcGIS",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://enviroatlas.epa.gov/arcgis/rest/services/Communities/Community_BGmetrics/MapServer",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:08:06.825539",
+            "description": "URL for accessing related documents such as data dictionary, technical information about a dataset, developer documentation, etc. ",
+            "format": "",
+            "hash": "",
+            "id": "e9d2f135-2009-4222-8cd6-c9fe2ae593bd",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:08:06.802394",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Documentation",
+            "package_id": "4715b38f-5f62-4285-b5ff-eb13ff35f009",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:08:06.825540",
+            "description": "Alternative landing page used to redirect user to a contextual, Agency-hosted \"homepage\" for the Dataset or API",
+            "format": "",
+            "hash": "",
+            "id": "c91a5c0b-5bf8-4b03-81da-7115acfd3b2c",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:08:06.802477",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Home Page",
+            "package_id": "4715b38f-5f62-4285-b5ff-eb13ff35f009",
+            "position": 3,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/enviroatlas",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 12,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air",
+            "id": "0c285224-7a71-45b4-804a-ae078ca6f436",
+            "name": "air",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "census block groups",
+            "id": "a4ee30b3-f055-4976-b27c-ef46ebda393e",
+            "name": "census block groups",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "communities",
+            "id": "5c23cc33-06db-472c-b8f2-308d0b3631ca",
+            "name": "communities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem",
+            "id": "76ce6029-c904-4ad7-a8dd-531c90a09522",
+            "name": "ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem services",
+            "id": "44fb7141-4528-4814-a750-bd293bddb4a4",
+            "name": "ecosystem services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "enviroatlas",
+            "id": "07950295-6219-4233-a952-2fc3763c2891",
+            "name": "enviroatlas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental atlas",
+            "id": "c6e53900-d97f-4008-adc0-d0872c80066b",
+            "name": "environmental atlas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fl",
+            "id": "1a08edbc-6f9b-463d-a71b-721e6e3d6029",
+            "name": "fl",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "florida",
+            "id": "9ac17e70-a9bc-456a-b4ba-a4f23a7b4515",
+            "name": "florida",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "health",
+            "id": "3b24c0fa-1ddf-4dc3-965f-93a79d68ab18",
+            "name": "health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "human well-being",
+            "id": "73ad5998-130a-48da-a703-ee9164deebf2",
+            "name": "human well-being",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land cover",
+            "id": "1a02a1e7-20f1-4cfd-a811-0aa5d61aa755",
+            "name": "land cover",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "quality",
+            "id": "c016018e-05ba-4dfc-b223-5d2336db8d3c",
+            "name": "quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tampa",
+            "id": "503e0e7d-6803-47e0-931a-380d19bc9786",
+            "name": "tampa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "transportation",
+            "id": "9de63758-c817-4198-8946-25300ec44352",
+            "name": "transportation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "trees",
+            "id": "38fac07c-cf75-45e8-bc90-6e2ce787cb80",
+            "name": "trees",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

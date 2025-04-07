@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "1d5c6a62-8871-42c0-a9cc-59dd4ff4e16f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Melanie Hedgespeth",
+    "maintainer_email": "hedgespeth.melanie@epa.gov",
+    "metadata_created": "2023-05-30T17:56:10.976667",
+    "metadata_modified": "2023-05-30T17:56:10.976672",
+    "name": "ecological-characteristics-impact-pfas-concentrations-in-a-u-s-north-atlantic-food-web-dat",
+    "notes": "PFAS concentration, stable isotope, and organism data are provided for archived samples of marine/estuarine organisms collected in Narragansett Bay, RI, and associated offshore waters from 2006-2014. Portions of this dataset are inaccessible because: Dataset will be provided as an Excel file upon publication in journal. They can be accessed through the following means: Dataset will be provided as an Excel file. Format: Dataset will be provided as an Excel file. \n\nThis dataset is associated with the following publication:\nHedgespeth, M.L., D.L. Taylor, S. Balint, M. Schwartz, and M.G. Cantwell. Ecological characteristics impact PFAS concentrations in a U.S. North Atlantic food web..   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 880(1 July 2023): 163302, (2023).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Ecological characteristics impact PFAS concentrations in a U.S. North Atlantic food web- Dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "6e1b5f733a0bd22d841c4e3b38a3d50dc0f2b3d0"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528286"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-11-18"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2023.163302"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d2424a5b-ae36-427d-828b-4645b9a2a7ae"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-30T17:56:10.993709",
+            "description": "Dataset_SciHub_04182023.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "7fb9fd93-6193-49fe-ac58-5558a6ac8bd1",
+            "last_modified": null,
+            "metadata_modified": "2023-05-30T17:56:10.965007",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Dataset_SciHub_04182023.xlsx",
+            "package_id": "1d5c6a62-8871-42c0-a9cc-59dd4ff4e16f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528286/Dataset_SciHub_04182023.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 6,
+                "recent": 6
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bioaccumulation",
+            "id": "8de7a116-8a5e-4bef-970d-0d84c4c35160",
+            "name": "bioaccumulation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "estuary",
+            "id": "45c59167-199e-499d-b352-16e4c2ea9f5e",
+            "name": "estuary",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fluorochemical",
+            "id": "bfbd1df3-3104-4902-b585-2347cc933c3d",
+            "name": "fluorochemical",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "trophic-magnification",
+            "id": "f6c07bf4-3e51-48c5-bba1-71027ec2cb71",
+            "name": "trophic-magnification",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 46,
+        "recent": 3
+    }
+}

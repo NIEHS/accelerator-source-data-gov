@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "d8a749da-a403-4d30-b1a1-6cf51d0c4f82",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "James Wickham",
+    "maintainer_email": "wickham.james@epa.gov",
+    "metadata_created": "2024-03-03T20:15:32.624349",
+    "metadata_modified": "2024-03-03T20:15:32.624359",
+    "name": "data-support-results-reported-in-modeling-future-land-cover-change-scenarios-in-minneapoli",
+    "notes": "Data supporting results presented in \"Modeling future land cover change scenarios in Minneapolis, MN, to support drinking water source protection decisions.\". \n\nThis dataset is associated with the following publication:\nWoznicki, S., G. Kraynick, J. Wickham, M. Nash, and T. Sohl. Modeling future land cover and water quality change in Minneapolis, MN, USA to support drinking water source protection decisions.   Global Environmental Change. Elsevier B.V., Amsterdam,  NETHERLANDS, 59(4): 726-742, (2023).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data support results reported in \"Modeling future land cover change scenarios in Minneapolis, MN, to support drinking water source protection decisions\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "e94ad050518d83c177465407f51cf8c0e0877c1209498eba05eb4dc993ab1b22"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1521325"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2020-12-15"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1111/1752-1688.13109"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6a58f938-4d77-4e20-927a-75ed1ea65ec1"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-03-03T20:15:32.633697",
+            "description": "SciHub_A-fbgt.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d598678c-e15c-4a3a-8951-75b9e9732d21",
+            "last_modified": null,
+            "metadata_modified": "2024-03-03T20:15:32.606199",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "SciHub_A-fbgt.zip",
+            "package_id": "d8a749da-a403-4d30-b1a1-6cf51d0c4f82",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521325/SciHub_A-fbgt.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fore-sce",
+            "id": "ea83fa9d-8e0b-44ce-a72f-486fe92aa11a",
+            "name": "fore-sce",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land-cover-change",
+            "id": "3e4fda87-bc82-4748-b056-9c3d86b7944f",
+            "name": "land-cover-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "source-water-protection",
+            "id": "40e1d2b6-84dd-4cb6-8da6-743c5b6cf915",
+            "name": "source-water-protection",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "swat",
+            "id": "0e229e62-a353-4e0f-8bd0-15546b8be18d",
+            "name": "swat",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 1
+    }
+}

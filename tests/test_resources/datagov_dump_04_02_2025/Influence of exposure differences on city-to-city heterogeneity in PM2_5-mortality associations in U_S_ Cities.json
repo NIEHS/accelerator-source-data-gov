@@ -1,0 +1,169 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "25e7588c-bf9a-4a18-b1f0-ebdb6d912a3b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Lisa Baxter",
+    "maintainer_email": "baxter.lisa@epa.gov",
+    "metadata_created": "2020-11-12T13:38:09.552240",
+    "metadata_modified": "2020-11-12T13:38:09.552254",
+    "name": "influence-of-exposure-differences-on-city-to-city-heterogeneity-in-pm2-5-mortality-associa",
+    "notes": "This dataset contains information on the cluster characteristics, health effect estimates, and the meta-regression results. \n\nThis dataset is associated with the following publication:\nBaxter, L., J. Crooks, and J. Sacks. Influence of exposure differences on city-to-city heterogeneity in PM2.5-mortality associations in US cities.   ENVIRONMENTAL HEALTH. Academic Press Incorporated, Orlando, FL, USA, 16(1): 1-8, (2017).",
+    "num_resources": 1,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Influence of exposure differences on city-to-city heterogeneity in PM2.5-mortality associations in U.S. Cities",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1186/s12940-016-0208-y"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "83bd9820-4cd3-4f9c-85b3-b2c9990e91f6"
+        },
+        {
+            "key": "source_hash",
+            "value": "6731145215d96bf983676f992abe7768367e7299"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-12-20"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-15dx-523"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:09.562231",
+            "description": "Baxter_A-15dx_datasets.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "bf6c118d-697e-4d30-b2aa-bff4e2c03e3c",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:09.562231",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Baxter_A-15dx_datasets.xlsx",
+            "package_id": "25e7588c-bf9a-4a18-b1f0-ebdb6d912a3b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/523/Baxter_A-15dx_datasets.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-pollution-exposure",
+            "id": "d72437c4-5d2b-4754-97d5-dfa036f10d41",
+            "name": "air-pollution-exposure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "epidemiology",
+            "id": "a4302605-faa5-47e7-bbd7-e2fd866b0ffe",
+            "name": "epidemiology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fine-particulate-matter",
+            "id": "8fe071ca-778a-4b81-9083-9b63c6116cd0",
+            "name": "fine-particulate-matter",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 96,
+        "recent": 1
+    }
+}

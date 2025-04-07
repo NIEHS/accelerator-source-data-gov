@@ -1,0 +1,175 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c350d797-8c2a-4eb4-8269-71e110a12806",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Danelle Lobdell",
+    "maintainer_email": "lobdell.danelle@epa.gov",
+    "metadata_created": "2020-11-12T13:50:45.508329",
+    "metadata_modified": "2020-11-12T13:50:45.508339",
+    "name": "divergent-trends-in-life-expectancy-across-the-rural-urban-gradient-and-association-w-2000",
+    "notes": "We used individual-level death data to estimate county-level life expectancy at 25 (e25) for Whites, Black, AIAN and Asian in the contiguous US for 2000-2005. Race-sex-stratified models were used to examine the associations among e25, rurality and specific race proportion, adjusted for socioeconomic variables. Individual death data from the National Center for Health Statistics were aggregated as death counts into five-year age groups by county and race-sex groups for the contiguous US for years 2000-2005 (National Center for Health Statistics 2000-2005). We used bridged-race population estimates to calculate five-year mortality rates. The bridged population data mapped 31 race categories, as specified in the 1997 Office of Management and Budget standards for the collection of data on race and ethnicity, to the four race categories specified under the 1977 standards (the same as race categories in mortality registration) (Ingram et al. 2003). The urban-rural gradient was represented by the 2003 Rural Urban Continuum Codes (RUCC), which distinguished metropolitan counties by population size, and nonmetropolitan counties by degree of urbanization and adjacency to a metro area (United States Department of Agriculture 2016). We obtained county-level sociodemographic data for 2000-2005 from the US Census Bureau. These included median household income, percent of population attaining greater than high school education (high school%), and percent of county occupied rental units (rent%). We obtained county violent crime from Uniform Crime Reports and used it to calculate mean number of violent crimes per capita (Federal Bureau of Investigation 2010). This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Request to author. Format: Data are stored as csv files. \n\nThis dataset is associated with the following publication:\nJian, Y., L. Neas, L. Messer, C. Gray, J. Jagai, K. Rappazzo, and D. Lobdell. Divergent trends in life expectancy across the rural-urban gradient among races in the contiguous United States.   International Journal of Public Health. Springer Basel AG, Basel,  SWITZERLAND, 64(9): 1367-1374, (2019).",
+    "num_resources": 0,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Divergent trends in life expectancy across the rural-urban gradient and association with specific racial proportions in the contiguous United States 2000-2005",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s00038-019-01274-5"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "331445a6-06d9-45c9-8fee-5890b11150da"
+        },
+        {
+            "key": "source_hash",
+            "value": "5089e857b88ca94932bb7227716c69ff58ba3d7e"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-12-14"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504089"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "built-environment",
+            "id": "66e7d342-c772-41cc-aaf3-288b5055070a",
+            "name": "built-environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-quality",
+            "id": "80e6c743-36bc-4642-9f9a-fb0fc22805f2",
+            "name": "environmental-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land-quality",
+            "id": "a4e61d2e-ffcf-410c-92b1-59ea13fc8796",
+            "name": "land-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-expectancy",
+            "id": "34ae9872-2e31-4654-8453-c4f546a252aa",
+            "name": "life-expectancy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sociodemographic-quality",
+            "id": "b12f841e-fdcd-4e81-98a7-833bbfbd5289",
+            "name": "sociodemographic-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 164,
+        "recent": 5
+    }
+}

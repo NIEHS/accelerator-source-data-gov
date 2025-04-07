@@ -1,0 +1,151 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "15812093-7482-40bb-86b9-2e0cd4b4ecba",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Yingping Yang",
+    "maintainer_email": "yang.jeff@epa.gov",
+    "metadata_created": "2020-11-12T13:50:27.329057",
+    "metadata_modified": "2020-11-12T13:50:27.329067",
+    "name": "water-demand-data-and-distribution-network",
+    "notes": "Observed and modeled water demand variations in a city's drinking water distribution system. This dataset is not publicly accessible because: EPA cannot release the personally identifiable information regarding the  water demand variations and drinking water distribution network information according to the Privacy and the Freedom of Information Act (FOIA). This data set contains information on the distribution network, which is under a signed confidential agreement for homeland security conditions. It can be accessed through the following means: Restricted access may be granted to authorized persons or organizations under a possible legal arrangement. Format: Data are stored in Excel and computer-modeling meta data. \n\nThis dataset is associated with the following publication:\nZhao, Y., J. Yang, Y. Shao, Y. Lee, and T. Zhang. Demand-Driven Spatiotemporal Variations of Flow Hydraulics and Water Age by Comparative Modeling Analysis of Distribution Network.   JOURNAL OF WATER RESOURCES PLANNING AND MANAGEMENT. American Society of Civil Engineers  (ASCE), Reston, VA, USA, 144(12): 0401874  1-10, (2018).",
+    "num_resources": 0,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Water demand data and distribution network",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c92bbba9-4e4f-447f-b572-cc13736b1b5b"
+        },
+        {
+            "key": "source_hash",
+            "value": "8f0348129d27683861649431e70d1ad27a98f12c"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-05-26"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518724"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "chlorine-wall-demand",
+            "id": "ddd6aa71-2eef-46c7-9ff5-e1093052a2a7",
+            "name": "chlorine-wall-demand",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "demand-patterns",
+            "id": "da917826-a38c-44c4-8b84-874b5940cf41",
+            "name": "demand-patterns",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dispersion",
+            "id": "41a2dc0b-6c49-448a-a2a5-4264f60fe0ba",
+            "name": "dispersion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "distribution-system",
+            "id": "d3349823-80ab-479b-84e0-a95eea7a29da",
+            "name": "distribution-system",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "numerical-solution",
+            "id": "31834dfa-f9d7-473c-915e-d8acbacd2f94",
+            "name": "numerical-solution",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 68,
+        "recent": 1
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "477d105d-3ee5-4acb-a633-5a1528978505",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Yongshan Wan",
+    "maintainer_email": "wan.yongshan@epa.gov",
+    "metadata_created": "2022-12-12T17:11:39.429302",
+    "metadata_modified": "2022-12-12T17:11:39.429307",
+    "name": "microbial-communities-of-fecal-samples-from-a-mouse-model-with-ingestion-of-lead-contamina",
+    "notes": "The data set involved mice consumed diets amended with a lead-contaminated soil in its native (untreated) state or after treatment with phosphoric acid or triple superphosphate alone or in combination with iron-waste material or biosolids compost. \n\nThis dataset is associated with the following publication:\nGeorge, S., J. James, R. Devereux, Y. Wan, G. Diamond, K. Bradham, K. Scheckel, and D. Thomas. Ingestion of Remediated Lead-Contaminated Soils Affects the Fecal Microbiome of Mice.   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 837: 155797, (2022).",
+    "num_resources": 2,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Microbial communities of fecal samples from a mouse model with ingestion of lead contaminated soils with four treatment amendments.  The data set includes relative abundance and taxonomy.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "399f9d5f533b38f1c64252a958f3267cecae37a4"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524374"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-12-16"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2022.155797"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "7f8004cf-6be4-4eb8-8800-28c3ade8ad2b"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-12-12T17:11:39.489138",
+            "description": "TAXONOMY%20ALL%20joplin.new.tax.primer.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "1b5d2e7a-c828-4ff1-a164-a23906b3f3f8",
+            "last_modified": null,
+            "metadata_modified": "2022-12-12T17:11:39.417076",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "TAXONOMY ALL joplin.new.tax.primer.xlsx",
+            "package_id": "477d105d-3ee5-4acb-a633-5a1528978505",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524374/TAXONOMY%20ALL%20joplin.new.tax.primer.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-12-12T17:11:39.489141",
+            "description": "Joplin%20Relative%20Abundance%20Data%20NEW.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "cc6a00e3-dbec-4e18-9dd0-d819cf03962e",
+            "last_modified": null,
+            "metadata_modified": "2022-12-12T17:11:39.417236",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Joplin Relative Abundance Data NEW.xlsx",
+            "package_id": "477d105d-3ee5-4acb-a633-5a1528978505",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524374/Joplin%20Relative%20Abundance%20Data%20NEW.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bioavailability",
+            "id": "636e89af-12d2-477b-b87e-717167755036",
+            "name": "bioavailability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "heavy-metals",
+            "id": "be9bbdf5-2f3a-4146-b2f8-f81fb559a675",
+            "name": "heavy-metals",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lead",
+            "id": "3208a57e-f3bb-4d6c-9a9a-b0101de6d5e0",
+            "name": "lead",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation",
+            "id": "d7a31147-fbf4-4cc4-9813-fcd875012e5c",
+            "name": "remediation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 38,
+        "recent": 1
+    }
+}

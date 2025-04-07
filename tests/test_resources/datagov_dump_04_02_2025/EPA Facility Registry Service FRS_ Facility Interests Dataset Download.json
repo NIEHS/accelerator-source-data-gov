@@ -1,0 +1,904 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "892d23f4-ffbd-42ae-b7f0-83f1ee6757ae",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:16:05.859258",
+    "metadata_modified": "2025-03-31T20:42:49.395395",
+    "name": "epa-facility-registry-service-frs-facility-interests-dataset-download9",
+    "notes": "This downloadable data package consists of location and facility identification information from EPA's Facility Registry Service (FRS) for all sites that are available in the FRS individual feature layers. The layers comprise the FRS major program databases, including: Assessment Cleanup and Redevelopment Exchange System (ACRES) : brownfields sites ; Air Facility System (AFS) : stationary sources of air pollution ; ICIS-AIR (AIR) : stationary sources of air pollution;  Bureau of Indian Affairs (BIA) : schools data on Indian land; Base Realignment and Closure (BRAC) facilities; Clean Air Markets Division Business System (CAMDBS) :  market-based air pollution control programs;  Comprehensive Environmental Response, Superfund Enterprise Management System (SEMS): hazardous waste sites; Integrated Compliance Information System (ICIS) : integrated enforcement and compliance information; National Compliance Database (NCDB) : Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) and the Toxic Substances Control Act (TSCA); National Pollutant Discharge Elimination System (NPDES) module of ICIS : NPDES surface water permits; Radiation Information Database (RADINFO) : radiation and radioactivity facilities; RACT/BACT/LAER Clearinghouse (RBLC) : best available air pollution technology requirements; Resource Conservation and Recovery Act Information System (RCRAInfo) : tracks generators, transporters, treaters, storers, and disposers of hazardous waste; Toxic Release Inventory (TRI) : certain industries that use, manufacture, treat, or transport more than 650 toxic chemicals; Emission Inventory System (EIS) : inventory of large stationary sources and voluntarily-reported smaller sources of air point pollution emitters; countermeasure (SPCC) and facility response plan (FRP) subject facilities; Electronic Greenhouse Gas Reporting Tool (E-GGRT) : large greenhouse gas emitters; Emissions and; Generation Resource Integrated Database (EGRID) : power plants. The Facility Registry Service (FRS) identifies and geospatially locates facilities, sites or places subject to environmental regulations or of environmental interest. Using vigorous verification and data management procedures, FRS integrates facility data from EPA's national program systems, other federal agencies, and State and tribal master facility records and provides EPA with a centrally managed, single source of comprehensive and authoritative information on facilities. This data set contains the FRS facilities that link to the programs listed above once the program data has been integrated into the FRS database. Additional information on FRS is available at the EPA website https://www.epa.gov/enviro/facility-registry-service-frs.  Included in this package are a file geodatabase, Esri ArcMap map document and an XML file of this metadata record.  Full FGDC metadata records for each layer are contained in the database.",
+    "num_resources": 4,
+    "num_tags": 89,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EPA Facility Registry Service (FRS): Facility Interests Dataset Download",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "01AB5777-E768-4088-9817-C186F297970B"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "EPSG:4326"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2020-01-09\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2025-03-30"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "FRS_Support@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "weekly"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"Unless otherwise specified, all data produced by the U.S EPA is by default in the public domain and is not subject to domestic copyright protection under 17 U.S.C. \\u00a7 105. More details on the U.S. Public Domain license are available here: https://www.usa.gov/publicdomain/label/1.0/  Additionally, please be advised that although these data have been processed successfully on a computer system at the U.S. EPA, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. EPA shall not be held liable for improper or incorrect use of the data.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "graphic-preview-file",
+            "value": "https://edg.epa.gov/data/PUBLIC/OEI/METADATA/GEO/THUMBNAILS/AGSDownload_Service.png"
+        },
+        {
+            "key": "graphic-preview-description",
+            "value": "FRS Download Package"
+        },
+        {
+            "key": "graphic-preview-type",
+            "value": "PNG"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2020-04-08T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2020-04-08T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Environmental Information\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "145.72"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "71.301199"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "13.27111"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-176.6525"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.6525, 13.27111], [145.72, 13.27111], [145.72, 71.301199], [-176.6525, 71.301199], [-176.6525, 13.27111]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.6525, 13.27111], [145.72, 13.27111], [145.72, 71.301199], [-176.6525, 71.301199], [-176.6525, 13.27111]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d4b3ad5e-5e47-4d59-8ec5-2c4e635f4cc4"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:42:49.712009",
+            "description": "FRS_Interests_Download.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e572fb3d-8c63-4454-967a-93b1055d7361",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:42:49.403982",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "Zipped File Geodatabase",
+            "package_id": "892d23f4-ffbd-42ae-b7f0-83f1ee6757ae",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "download",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 16,
+                "recent": 5
+            },
+            "url": "https://dmap-prod-oms-edc.s3.amazonaws.com/OMS/FRS/FRS_Interests_Download.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:42:49.712015",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "1be78ad9-74c3-466e-aa8d-7ed493a4cfc9",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:42:49.404102",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "EPA Geoplatform Item page",
+            "package_id": "892d23f4-ffbd-42ae-b7f0-83f1ee6757ae",
+            "position": 1,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://epa.maps.arcgis.com/home/item.html?id=cdff193a3e3743a5bc770e2743f215b3",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:42:49.712017",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "e2bdaa5f-c9ac-4dbc-8c77-2b9391397ac5",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:42:49.404193",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "EDG Open Data site with Clip N Ship capability",
+            "package_id": "892d23f4-ffbd-42ae-b7f0-83f1ee6757ae",
+            "position": 2,
+            "resource_locator_function": "order",
+            "resource_locator_protocol": "order",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://edg-epa.hub.arcgis.com/datasets/facility-registry-service-frs-interests",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:42:49.712019",
+            "description": "",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "63b04577-98b4-46da-b789-1ddb5c821d51",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:42:49.404291",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "EPA GeoPlatform Hosted Feature Service",
+            "package_id": "892d23f4-ffbd-42ae-b7f0-83f1ee6757ae",
+            "position": 3,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "ESRI:ArcGIS",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            },
+            "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/FRS_INTERESTS/FeatureServer",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:072",
+            "id": "ee6ec260-2686-4482-884a-e21bd34c47f0",
+            "name": "020:072",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aces",
+            "id": "0fd94d40-c0d6-4f6a-ab5c-59d4997c99f4",
+            "name": "aces",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "acres",
+            "id": "a23c3191-b791-4d5b-afdf-6312bc68b085",
+            "name": "acres",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air",
+            "id": "0c285224-7a71-45b4-804a-ae078ca6f436",
+            "name": "air",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "airs/afs",
+            "id": "9922e17a-022f-4170-a4df-066068f9c389",
+            "name": "airs/afs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "airs/aqs",
+            "id": "5192dc60-6dc7-47db-b68d-be6928ed998f",
+            "name": "airs/aqs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "azurite",
+            "id": "0ee69cea-102f-467c-a60d-5bb24769d18c",
+            "name": "azurite",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bia indian school",
+            "id": "049d17f4-4422-4b97-9d69-494763cd4c7e",
+            "name": "bia indian school",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bms",
+            "id": "bce13581-829b-47d5-bffd-1b3722d4ffec",
+            "name": "bms",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "brac",
+            "id": "d6a077f5-7c21-4bd3-9faa-adf3e178f922",
+            "name": "brac",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "camdbs",
+            "id": "c1979df2-dcac-4090-9f66-955fbfe5ceb8",
+            "name": "camdbs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "caswis",
+            "id": "18aab3a7-0ede-4c57-bff9-0cc6da629027",
+            "name": "caswis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ceds",
+            "id": "2032cc58-e021-4d31-8766-77674d0119ff",
+            "name": "ceds",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cim",
+            "id": "f3e31ea6-b9d3-4272-a5cf-b95b87c12b99",
+            "name": "cim",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cnfrs",
+            "id": "a8e98851-5caf-446a-b69b-f1b38b237d2a",
+            "name": "cnfrs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "compliance",
+            "id": "640a04f0-a875-48d9-817a-cd288e94cc0c",
+            "name": "compliance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking water",
+            "id": "cf264a55-2d50-4fb2-ba58-ba6ef9df39b9",
+            "name": "drinking water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dtsc-envirostor",
+            "id": "8d2c523a-ba3e-432a-a21a-b6d48f9cfc08",
+            "name": "dtsc-envirostor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecomap",
+            "id": "2ef4e124-d015-48e1-8167-9e525d02a594",
+            "name": "ecomap",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecrm",
+            "id": "49eef259-d484-4f27-b394-1eb666cfcab8",
+            "name": "ecrm",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "egrid",
+            "id": "5ac87e57-ee54-40b1-b1e5-d49955f6e7e3",
+            "name": "egrid",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "facilities",
+            "id": "e84e6137-8dce-41d2-b63e-38319e3f618a",
+            "name": "facilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fdm",
+            "id": "c4e27223-4671-4d00-9df3-e9d8778c038c",
+            "name": "fdm",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fis",
+            "id": "79309b1a-1603-46ae-aa94-5b90ebbaf5c8",
+            "name": "fis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "frs",
+            "id": "13797fc5-6924-4bf3-b70e-642319854d40",
+            "name": "frs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "geims",
+            "id": "e50349d8-ccf8-4aa5-8c23-6aa8a2771422",
+            "name": "geims",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "gnis",
+            "id": "c94ee519-9c80-4ece-ba33-34e7aa736a37",
+            "name": "gnis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "heer-frs",
+            "id": "c4d680ed-7437-451c-9d30-94b6c9aba07c",
+            "name": "heer-frs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hi-ecs",
+            "id": "6beb3496-13c0-4be6-953d-a625815f7fcc",
+            "name": "hi-ecs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hi-sw",
+            "id": "58f4c1f1-5d2f-4cbd-bb86-1cab020bbc5e",
+            "name": "hi-sw",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hi-ust",
+            "id": "d03933e3-38d0-40b6-b5f7-2c8ecdd46fe6",
+            "name": "hi-ust",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hwts-datamart",
+            "id": "e3e6d07b-e13e-4767-8d87-2a0b418128c6",
+            "name": "hwts-datamart",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "icis",
+            "id": "2cf5e912-8977-45c5-8841-9beaed4217c1",
+            "name": "icis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "idnr_efd",
+            "id": "c4d79d1c-b6d0-4338-b831-c972c6f7f0bb",
+            "name": "idnr_efd",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-frs",
+            "id": "345fe51c-d982-4090-8d83-d2cfe61c091a",
+            "name": "in-frs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "isd",
+            "id": "4ce3dbc5-732b-4401-94b7-d109fdf41b60",
+            "name": "isd",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "iur",
+            "id": "3512be4a-5979-4ccc-8a3f-8228a80256b4",
+            "name": "iur",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ks-fp",
+            "id": "8c545c22-d147-47ad-8ce1-574a5ea1cf64",
+            "name": "ks-fp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "la-tempo",
+            "id": "2d48356a-8931-4d41-8c47-07e1d34a4717",
+            "name": "la-tempo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ma-epics",
+            "id": "46d271e9-bcf8-401d-b831-e54d8178a510",
+            "name": "ma-epics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "md-epsc",
+            "id": "c6b85643-7a9e-42e1-b2e2-d2e3338f8099",
+            "name": "md-epsc",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "md-pemis",
+            "id": "b192c6b4-58db-460e-b2b0-60d8af8cabc1",
+            "name": "md-pemis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "md-rcra",
+            "id": "1157ea8e-4651-4425-92ff-34c674d404f0",
+            "name": "md-rcra",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "me-efis",
+            "id": "d3c3b8ff-484f-4274-8ed7-ab8dfaf7afa8",
+            "name": "me-efis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mn-delta",
+            "id": "59b1b884-e599-4747-9054-4cb74631a064",
+            "name": "mn-delta",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mo-dnr",
+            "id": "a1b59f53-f416-4354-b418-dfc89408a98d",
+            "name": "mo-dnr",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ms-ensite",
+            "id": "93332059-b4dc-4b23-93e6-7bfb74eb62ec",
+            "name": "ms-ensite",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mt-cedars",
+            "id": "b546e5eb-3728-4b7f-94df-295d091f15a1",
+            "name": "mt-cedars",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nc-fits",
+            "id": "6343f22e-6419-4951-9ba4-c3766cbc1e94",
+            "name": "nc-fits",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ncdb",
+            "id": "93086e29-92fc-4d41-8208-20317474a56d",
+            "name": "ncdb",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nd-fp",
+            "id": "a2d2b107-f73d-4b3c-96f1-363322377ac2",
+            "name": "nd-fp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ne-iis",
+            "id": "6121812c-c1d0-4f4e-b91d-b434d0b06514",
+            "name": "ne-iis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nei",
+            "id": "47ec922e-1946-4650-9165-ec3c8334b8cd",
+            "name": "nei",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nh-des",
+            "id": "5961af67-a1ad-4f33-b196-f04020f728d1",
+            "name": "nh-des",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nj-njems",
+            "id": "4dc92b1b-ef9f-451c-91db-fca2834643e2",
+            "name": "nj-njems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nm-tempo",
+            "id": "3bfe5f26-db88-4dba-8557-8e17bb476504",
+            "name": "nm-tempo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nnems",
+            "id": "6d4e4914-d911-428e-ae0d-168d105c6d45",
+            "name": "nnems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "npdes",
+            "id": "a08a66e1-f556-44be-a09e-9f13a37ecfef",
+            "name": "npdes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nv-fp",
+            "id": "773b8a6b-4776-44a8-a1f9-d21265ae3703",
+            "name": "nv-fp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oh-core",
+            "id": "60883219-5b8e-4cb7-a93e-018100cde879",
+            "name": "oh-core",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oil",
+            "id": "de39542d-e9e4-4f3b-beae-08829e05bef0",
+            "name": "oil",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ok-fms",
+            "id": "d441a310-8f88-48da-bb61-030eb4c7ab2d",
+            "name": "ok-fms",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "or-deq",
+            "id": "b35980f2-0447-445a-84b9-6b27ff974fba",
+            "name": "or-deq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pa-efacts",
+            "id": "6590e491-a238-48cc-b37c-72151bb00247",
+            "name": "pa-efacts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pds",
+            "id": "cefc385b-c6ac-4a27-bdd0-db572bdb8700",
+            "name": "pds",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "permit tracking",
+            "id": "85022908-95cd-4384-b357-95f27d9ea04b",
+            "name": "permit tracking",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radinfo",
+            "id": "56f16b8a-bb17-4eb2-ba46-5998f28e93ba",
+            "name": "radinfo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rblc",
+            "id": "380c5ea5-82fb-4a29-b064-21de385259ec",
+            "name": "rblc",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regulatory",
+            "id": "50c58c0b-82e9-44b9-b420-0fbbaa729533",
+            "name": "regulatory",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation",
+            "id": "d7a31147-fbf4-4cc4-9813-fcd875012e5c",
+            "name": "remediation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rfs",
+            "id": "2b5c0e90-ac14-4f17-8788-5c6f7089c92f",
+            "name": "rfs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ri-plover",
+            "id": "462d252f-222d-44b0-b783-0ee00fd025dc",
+            "name": "ri-plover",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sc-efis",
+            "id": "68f5673a-c59c-4845-95d7-8d9dbc566e58",
+            "name": "sc-efis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sdwis",
+            "id": "e7d1b94f-a96c-45a3-b354-8797c6e083a2",
+            "name": "sdwis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sems",
+            "id": "de3ce1ba-b722-4d2e-8570-fdf542bd5f58",
+            "name": "sems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sims",
+            "id": "29deb4df-3963-41c9-b4c8-47d91a718f41",
+            "name": "sims",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "srpmicems",
+            "id": "7937bc9a-b67b-4a73-aafe-d434caed7bae",
+            "name": "srpmicems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ssts",
+            "id": "9afabce5-c5c3-4a79-9ed2-6f65769896d6",
+            "name": "ssts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "swis",
+            "id": "a4ff278f-d79b-4cf7-b9a4-2bd215382977",
+            "name": "swis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tba",
+            "id": "c44b065a-f280-4e86-83e1-6ec34d2d1b03",
+            "name": "tba",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tris",
+            "id": "80307710-8800-4be1-b475-cd7fff41f371",
+            "name": "tris",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tsca",
+            "id": "0a881ac0-3281-419a-89a3-f2c21c342f4a",
+            "name": "tsca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tx-tceq acr",
+            "id": "2befdc7b-910f-4ecd-b750-42ba00a572a5",
+            "name": "tx-tceq acr",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "uors",
+            "id": "29e13323-b22c-4b22-987a-3375963f173a",
+            "name": "uors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ust",
+            "id": "461f0713-f434-4b52-9722-d4d6206a6f53",
+            "name": "ust",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wa-fsis",
+            "id": "564f9adf-a872-4070-b4d4-fd2d0b07ba78",
+            "name": "wa-fsis",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 22,
+        "recent": 13
+    }
+}

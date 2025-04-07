@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "6d42c952-99f1-4543-abed-516f0b74057b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Carol Lenox",
+    "maintainer_email": "lenox.carol@epa.gov",
+    "metadata_created": "2020-11-12T13:40:23.677298",
+    "metadata_modified": "2020-11-12T13:40:23.677332",
+    "name": "effects-of-energy-system-changes-on-co2-projections-for-the-united-states-data-tables-with",
+    "notes": "Dataset that corresponds to paper titled Effects of recent energy system changes on CO2 projections for the United States. \n\nThis dataset is associated with the following publication:\nLenox, C., and D. Loughlin. Effects of recent energy system changes on CO2 projections for the United States.   CLEAN TECHNOLOGIES AND ENVIRONMENTAL POLICY. Springer-Verlag, New York, NY, USA, 19(9): 2277-2290, (2017).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Effects of energy system changes on CO2 projections for the United States_data tables with data dictionary",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s10098-017-1417-y"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8131b0c7-ec3c-4719-89a2-6af980fe5418"
+        },
+        {
+            "key": "source_hash",
+            "value": "76bc8cb84b3b3556254a62f1fcb5a5b01e92c51b"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-08-08"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1394400"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:40:23.683521",
+            "description": "LenoxLoughlin_paper_Effects%20of%20energy%20system%20changes_data%20tables%20with%20data%20dictionary_FINAL.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9dd3e7b9-fee6-4f0f-a035-9a9910ef1456",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:40:23.683521",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "LenoxLoughlin_paper_Effects of energy system changes_data tables with data dictionary_FINAL.xlsx",
+            "package_id": "6d42c952-99f1-4543-abed-516f0b74057b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1394400/LenoxLoughlin_paper_Effects%20of%20energy%20system%20changes_data%20tables%20with%20data%20dictionary_FINAL.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy",
+            "id": "7c35fe0d-a745-4f8a-aff7-961189fe994f",
+            "name": "energy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "greenhouse-gas",
+            "id": "99246d47-89cc-4b9a-b752-ef0bd11797d7",
+            "name": "greenhouse-gas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "markal",
+            "id": "a0ce729f-b952-4025-b8ad-daa1d7c8e49d",
+            "name": "markal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "modeling",
+            "id": "6dab039d-306b-4964-a66a-39a76a295408",
+            "name": "modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "systems-analyses",
+            "id": "13be5809-26bb-496d-84f7-2420ccf46786",
+            "name": "systems-analyses",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 201,
+        "recent": 1
+    }
+}

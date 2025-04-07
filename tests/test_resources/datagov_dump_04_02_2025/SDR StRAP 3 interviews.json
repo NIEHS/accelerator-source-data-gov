@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "35d4ec93-7ac6-4603-8c6d-156449ea18a9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Katherine Canfield",
+    "maintainer_email": "canfield.katherine@epa.gov",
+    "metadata_created": "2024-04-07T05:14:34.736653",
+    "metadata_modified": "2024-04-07T05:14:34.736659",
+    "name": "sdr-strap-3-interviews",
+    "notes": "Interview data from EPA researchers and partners involved with solutions-driven research pilots on nutrient management and wildland fire smoke. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Restricted access may be granted to authorized persons by contacting the party listed. Format: Confidential interview data contains identifiable information of interviewees, including identifiable experiences at or with EPA, position with EPA, and role within the projects studied. \n\nThis dataset is associated with the following publication:\nCanfield, K.N., B. Hubbell, L. Rivers, B. Rodan, B. Hassett-Sipple, A. Rea, T. Gleason, A. Holder, C. Berg, C.D. Chatelain, S. Coefield, B. Schmidt, and B. McCaughey. Lessons learned and recommendations in conducting solutions-driven environmental and public health research.   JOURNAL OF ENVIRONMENTAL MANAGEMENT. Elsevier Science Ltd, New York, NY, USA, 354(March 2024): 120270, (2024).",
+    "num_resources": 0,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "SDR StRAP 3 interviews",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "7b5ee9b867b5bdd5dc0393290331a97244cfc59edfe7314a413399fdd8923b22"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1530588"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-09-07"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jenvman.2024.120270",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10939729"
+            ]
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6fa11ce9-1a30-4e75-9300-957434a2049c"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "smoke",
+            "id": "67911fe7-504a-4cc0-a518-85f8b174542e",
+            "name": "smoke",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "social-science",
+            "id": "bb1428a8-c753-4ccd-b2ae-2aab3fb8f5da",
+            "name": "social-science",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "solutions-based-research",
+            "id": "c7e663d6-2e2e-427a-b69f-133cbc3caa85",
+            "name": "solutions-based-research",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "solutions-driven-research",
+            "id": "b4484b6f-a666-40f3-8640-5699df8194c7",
+            "name": "solutions-driven-research",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "translational-research",
+            "id": "643e8ac9-de46-4328-bd50-72ccc52e4aba",
+            "name": "translational-research",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wildland-fire",
+            "id": "5d54ac9c-1ca4-4d6d-9390-89e346dbf25a",
+            "name": "wildland-fire",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

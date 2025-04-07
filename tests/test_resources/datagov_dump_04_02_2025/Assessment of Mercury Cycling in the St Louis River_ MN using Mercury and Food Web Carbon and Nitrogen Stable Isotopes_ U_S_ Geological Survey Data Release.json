@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c3650842-715b-4d04-a11d-02cacca65ef5",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Joel Hoffman",
+    "maintainer_email": "hoffman.joel@epa.gov",
+    "metadata_created": "2021-04-12T19:02:13.595674",
+    "metadata_modified": "2021-07-20T04:59:01.915462",
+    "name": "assessment-of-mercury-cycling-in-the-st-louis-river-mn-using-mercury-and-food-web-carbon-a",
+    "notes": "Mercury concentration, mercury stable isotope ratio, and carbon and nitrogen stable isotope ratio data as applicable for sediment, water, invertebrates, and fish collected from the St. Louis River Area of Concern (MN-WI) and the associated reference site, the lower Bad River (WI). \n\nThis dataset is associated with the following publication:\nJanssen, S., J. Hoffman, R. Lepak, D. Krabbenhoft, D. Walters, C. Eagles-Smith, G. Peterson, J. Ogorek, J. DeWild, A. Cotter, M. Pearson, M. Tate, R. Yeardley, and M. Mills. Examining historical mercury sources in the St. Louis River estuary: How legacy contamination influences biological mercury levels in Great Lakes coastal regions.   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 779: 146284, (2021).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Assessment of Mercury Cycling in the St Louis River, MN using Mercury and Food Web (Carbon and Nitrogen) Stable Isotopes: U.S. Geological Survey Data Release",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2021.146284"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "ae44c1c0-bdbd-4a2b-b569-5681c106e921"
+        },
+        {
+            "key": "source_hash",
+            "value": "9b4630abe114dc20253551f686fe711d1fa90697"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-08-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520946"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:05.043142",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "fc17a86c-240c-4d80-b54a-659d259f38fb",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:05.043142",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sciencebase.gov/catalog/item/5f43b20582ce4c3d1222d29e",
+            "package_id": "c3650842-715b-4d04-a11d-02cacca65ef5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.sciencebase.gov/catalog/item/5f43b20582ce4c3d1222d29e",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bioaccumulation",
+            "id": "8de7a116-8a5e-4bef-970d-0d84c4c35160",
+            "name": "bioaccumulation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "food-web",
+            "id": "80ce78df-df11-4ad4-92dc-16b242bb0950",
+            "name": "food-web",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "great-lakes",
+            "id": "1315b549-3030-451b-ae62-870ca4ea1625",
+            "name": "great-lakes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mercury",
+            "id": "546092a9-55ca-4b1e-8c3c-1b0bbda807ef",
+            "name": "mercury",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stable-isotopes",
+            "id": "aff07958-dd02-45b8-9531-d917678c05c7",
+            "name": "stable-isotopes",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 33,
+        "recent": 1
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "32f1e0fa-228b-4722-ab6f-214f573d017f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Matthew Hopton",
+    "maintainer_email": "hopton.matthew@epa.gov",
+    "metadata_created": "2020-11-12T13:49:54.528564",
+    "metadata_modified": "2020-11-12T13:49:54.528574",
+    "name": "omaha-property-values-and-gi",
+    "notes": "In Omaha, NE, more than 25 GI projects have been completed to date, with several featuring GI practices in public parks. Using a repeat sales model , we examined the effect of GI on the value of nearby single-family homes, based on housing sales and characteristic data from 2000 to 2018. We evaluated the sales price for homes using a buffer zone of 0-0.5km, and three additional models: homes within 0-0.25km, 0.25-0.5km, and greater than 0.5km from parks where GI was installed for 25,472 sale pairs. In addition to the repeat sales model, we performed a hot spot analysis on several demographic characteristics to capture systematic differences at a smaller spatial scale and over a longer time period than the repeat sales model could capture. We used US Census data on race and household income to examine changing patterns over time and space, and a spatial lag Maximum Likelihood Estimation model to determine if the location of GI correlated with either of these demographics. \n\nThis dataset is associated with the following publication:\nHoover, F., J. Price, and M. Hopton. Examining the Effects of Green Infrastructure on Residential Sales Prices in Omaha, NE.   Urban Forestry & Urban Greening. Elsevier B.V., Amsterdam,  NETHERLANDS, 54: 126778, (2020).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Omaha Property Values and GI",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.ufug.2020.126778"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c5e8a9be-5ddc-414c-be76-ca430bc57d71"
+        },
+        {
+            "key": "source_hash",
+            "value": "a4944f0395147bfdbb551eb96322e7c3d592205d"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-08-07"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504128"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:49:54.558466",
+            "description": "RepeatSalesModel_RegressionData_FINAL.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "95ff783b-0210-47a6-88ea-c07eb170a45c",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:49:54.558466",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "RepeatSalesModel_RegressionData_FINAL.xlsx",
+            "package_id": "32f1e0fa-228b-4722-ab6f-214f573d017f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504128/RepeatSalesModel_RegressionData_FINAL.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "ecosystem-services",
+            "id": "42c771f8-6d6c-4724-b210-142cad6b6734",
+            "name": "ecosystem-services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "green-infrastructure",
+            "id": "5b6d5012-95dd-4a9e-93b0-945ce771e70c",
+            "name": "green-infrastructure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hedonic-analysis",
+            "id": "548a732b-b00b-4f96-bafb-69bbaa1acd11",
+            "name": "hedonic-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "repeat-sales",
+            "id": "fabae4d5-6583-47d6-961d-c43c0e9ac4d0",
+            "name": "repeat-sales",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "residential-property-sales",
+            "id": "b7c8fbcb-b86b-4027-b03f-3eb059d29b16",
+            "name": "residential-property-sales",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "scenario-planning",
+            "id": "f06d9843-d8e1-4d63-8e2a-dbced06e25a1",
+            "name": "scenario-planning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stormwater-management",
+            "id": "7d4f2a3b-7309-4403-a7fc-05b32816c418",
+            "name": "stormwater-management",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 303,
+        "recent": 5
+    }
+}

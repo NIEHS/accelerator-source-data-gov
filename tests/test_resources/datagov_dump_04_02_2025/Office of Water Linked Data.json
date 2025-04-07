@@ -1,0 +1,236 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "ed4ec37e-9a29-4b3e-81e5-2f196bb12c3c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "WATERS Support",
+    "maintainer_email": "waters_support@epa.gov",
+    "metadata_created": "2024-05-14T19:19:06.181681",
+    "metadata_modified": "2024-05-15T17:22:05.343071",
+    "name": "office-of-water-linked-data",
+    "notes": "The Office of Water Linked Data (OWLD) dataset stores EPA Water program information indexed to several National Hydrography Dataset frameworks. Indexing may be accomplished by catchment, reach or hydrologic unit referencing and includes a curated set of relevant program data attributes. OWLD is closely related to the NHD Event Data model with extensions added to cover catchment-based indexing.",
+    "num_resources": 1,
+    "num_tags": 10,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Office of Water Linked Data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "dd9960a0f3484674163fe08ea5b4e742df97d7c2f01de4c2fad3f620123b33b8"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "dataQuality",
+            "value": true
+        },
+        {
+            "key": "identifier",
+            "value": "d4ae8812-b921-40ee-96b5-ba9829b96568"
+        },
+        {
+            "key": "landingPage",
+            "value": "https://www.epa.gov/waterdata/waters-watershed-assessment-tracking-environmental-results-system/"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-05-14"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:112"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Water (OW)"
+        },
+        {
+            "key": "temporal",
+            "value": "2000-01-01/2024-05-14"
+        },
+        {
+            "key": "primaryitinvestmentuii",
+            "value": "020-000000087"
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/public/OW/metadata/OW.json"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "84a2e127-71f2-42a7-98d8-400c5d0b1ad1"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "8ed177f0-2564-4659-9197-8b64a5f0db3d"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OW Non-Geo Records"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-05-15T17:22:05.407438",
+            "description": "",
+            "format": "API",
+            "hash": "",
+            "id": "cd36f114-435e-4584-bfe6-f366057e5d98",
+            "last_modified": null,
+            "metadata_modified": "2024-05-15T17:22:05.367217",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "Office of Water GIS Services for OWLD datasets",
+            "package_id": "ed4ec37e-9a29-4b3e-81e5-2f196bb12c3c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 2
+            },
+            "url": "https://watersgeo.epa.gov/arcgis/rest/services/owld",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inlandwaters",
+            "id": "7aa0b8df-7ae4-49c3-8f96-a495e7babad5",
+            "name": "inlandwaters",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "location",
+            "id": "eced5b56-955c-407c-a2e8-7e655aec0bd9",
+            "name": "location",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mapping",
+            "id": "959f9652-bc4e-4ef0-ae8e-75e3c8647bac",
+            "name": "mapping",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nhdplus",
+            "id": "d25f02c2-8c3c-4b37-b3c9-601624205a25",
+            "name": "nhdplus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oceans",
+            "id": "3a71f950-a4b8-403e-a5d4-e3655cd89741",
+            "name": "oceans",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stream-network",
+            "id": "110b9249-b633-4f7c-aa74-e59a995b5c7d",
+            "name": "stream-network",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "surface-water",
+            "id": "81d14904-cfd8-4a1f-b8b5-8955c0f4245f",
+            "name": "surface-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water",
+            "id": "143854aa-c603-4193-9c89-232e63461fa4",
+            "name": "water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 107,
+        "recent": 3
+    }
+}

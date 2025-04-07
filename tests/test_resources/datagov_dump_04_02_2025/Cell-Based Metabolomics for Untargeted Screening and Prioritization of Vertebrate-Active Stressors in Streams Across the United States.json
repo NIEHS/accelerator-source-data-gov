@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "f73b7822-0146-4629-91a0-8bf0b8df1054",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Drew Ekman",
+    "maintainer_email": "ekman.drew@epa.gov",
+    "metadata_created": "2020-11-12T13:47:58.102573",
+    "metadata_modified": "2020-11-12T13:47:58.102580",
+    "name": "cell-based-metabolomics-for-untargeted-screening-and-prioritization-of-vertebrate-active-s",
+    "notes": "Extents of impact, as measured by NMR spectroscopy, on the Zebrafish liver cell endogenous metabolite profiles resulting from exposure to the 38 stream waters, along with numbers of anthropogenic organic chemicals detected at each site. Also, a summary of chemicals detected by class is included, along with statistics on their occurances in the group of stressors that most-strongly covary with changes in endogenous metabolite profiles. \n\nThis dataset is associated with the following publication:\nCollette, T., D. Ekman, H. Zhen, H. Nguyen, P.M. Bradley, and Q. Teng. Cell-Based Metabolomics for Untargeted Screening and Prioritization of Vertebrate-Active Stressors in Streams Across the United States.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 53(15): 9232-9240, (2019).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Cell-Based Metabolomics for Untargeted Screening and Prioritization of Vertebrate-Active Stressors in Streams Across the United States",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.9b02736"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c59a636d-440e-4d69-9567-ccdeef9fe3bc"
+        },
+        {
+            "key": "source_hash",
+            "value": "481085435c1538bbc9e6c55dafd5b8aa24e6f65b"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-03-22"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503727"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:58.123120",
+            "description": "Collette%20Stream%20Metabolomics%20SciHub%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2c16e420-34e3-4389-8428-20d92bf3edfd",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:58.123120",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Collette Stream Metabolomics SciHub data.xlsx",
+            "package_id": "f73b7822-0146-4629-91a0-8bf0b8df1054",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503727/Collette%20Stream%20Metabolomics%20SciHub%20data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "effects-based-monitoring",
+            "id": "5e593795-180d-4cb5-876d-0fa33ea391d6",
+            "name": "effects-based-monitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-vitro-bioassays",
+            "id": "b5a15c68-9170-462d-8a9d-4d1f66cf9a6a",
+            "name": "in-vitro-bioassays",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "metabolomics",
+            "id": "71afb5f1-1344-4281-89f0-2ebd936d54aa",
+            "name": "metabolomics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nmr-spectroscopy",
+            "id": "00c88985-6ec9-4c56-8aa9-660051072417",
+            "name": "nmr-spectroscopy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "zebrafish",
+            "id": "e5a8f4a9-0a67-4f55-9f32-66bb86beef0a",
+            "name": "zebrafish",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 98,
+        "recent": 1
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "a9e92491-53ac-4777-8ae6-e14dd37227f7",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Joe Steigerwald",
+    "maintainer_email": "Steigerwald.joe@epa.gov",
+    "metadata_created": "2020-11-30T03:10:30.753980",
+    "metadata_modified": "2021-06-19T03:00:46.269045",
+    "name": "ract-bact-laer-clearninghouse-rblc",
+    "notes": "OAR's RACT, BACT, LAER Clearinghouse (RBLC) data asset contains summary information on selected air permitting actions from EPA, state, and local permitting agencies across the U.S., as well as a number of international permit records supplied by air pollution control agencies in Mexico and Canada. The acronyms refer to program requirements of the New Source Review (NSR) program: RACT is Reasonably Available Control Technology and applies to existing sources in areas that are not meeting national ambient air quality standards (i.e., non-attainment areas); BACT is Best Available Control Technology and applies to major new or modified sources in clean areas (i.e., attainment areas). LAER, or Lowest Achievable Emission Rate, is required on major new or modified sources in non-attainment areas. As of 2012, RBLC includes approximately 6,500 entries. With the exception of LAER permit determinations, whose inclusion in RBLC is mandatory, participation is voluntary. Coverage is therefore not complete or necessarily representative.Required under Section 108 of the 1990 Amendments to the Clean Air Act, RBLC provides users \u00e2?? typically permit writers, permit applicants or holders, and the public \u00e2?? with references and personal contacts to support ongoing air pollution control activities. Information is detailed enough for users to know whether a permit is applicable to their needs. Users may then contact the appropriate agency to access the permit or discuss it with agency staff.RBLC-referenced permits cover Criteria Air Pollutants (CAPs) and Hazardous Air Pollutants (HAPs), but the data is also searchable for Greenhouse Gas (GHG) references. Entries are generally provided by the original permitting agency, though EPA Regional Offices may enter data on behalf of state and local agencies to augment coverage. Since 2009, Canadian and Mexican agencies have had access to the RBLC to submit their own permit information; all data is provided in English.There are three main levels of information \u00e2?? Facility, Process, and Pollutant. Facility Data includes but is not limited to: Facility Name, City/Town, State, Permitting Agency, Permit Date, NAICS, SIC, Facility Registry System Number, Permit Number, and Agency Contact Name & Phone Number. Process Data includes but is not limited to: Process Name, Process Type Code, and Throughput. Pollutant Data includes but is not limited to: Pollutant Name, CAS#, Emissions Testing Method(s), Emission Limits, Case-by-Case Basis and any Other Applicable Requirements; and Control Method Description. U.S. geographic coverage includes all states and territories, plus all U.S. permitted facilities within U.S. waters (generally 3 miles for state limits, but further offshore for DOI-permitted oil platforms). Coverage began in 1980, but some historical permits from the 1970s are included. Over the years the data has been converted from paper to searchable digital form. Data is not overwritten, so multiple historical permit references for a single facility may be included. OAQPS manually cross-references RBLC references to the appropriate Facility Registry System (FRS) ID to the extent possible. All RBLC content is public and non-sensitive and available through EPA.gov after it has been quality assured. Data is quality assured by EPA and entered into the RACT, BACT, LAER Clearinghouse (RBLC) data management system (https://cfpub.epa.gov/rblc/index.cfm?action=Home.Home). Where technical summaries appear inaccurate, OAQPS returns entries for review to their originators. All data is edited and approved by the Office of Air and Radiation\u00e2??s Office of Air Quality Permits and Standards (OAQPS) prior to publication.",
+    "num_resources": 1,
+    "num_tags": 2,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "RACT/BACT/LAER Clearninghouse (RBLC)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "99973969-f369-4284-b7ca-aca76425f384"
+        },
+        {
+            "key": "issued",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OAR-OAQPS Non-Geo Records"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B76189EF6-FB4F-4292-8970-9AB534088D93%7D",
+                "https://edg.epa.gov/metadata/rest/document?id=%7B76189EF6-FB4F-4292-8970-9AB534088D93%7D"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "e14ebd6e-309f-4c40-8a4d-f46096848fde"
+        },
+        {
+            "key": "source_hash",
+            "value": "ea1ec5db9a468baeb69820f5c017c6b8699c699a"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Air and Radiation (OAR) - Office of Air Quality Planning and Standards (OAQPS)"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "language",
+            "value": [
+                "en-US"
+            ]
+        },
+        {
+            "key": "modified",
+            "value": "2015-09-23"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "old-spatial",
+            "value": "-180.0,-90.0,180.0,90.0"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/Public/OAR/OAQPS/metadata/OAR-OAQPS.json"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "irregular"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "{76189EF6-FB4F-4292-8970-9AB534088D93}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [-180.0, 90.0], [180.0, 90.0], [180.0, -90.0], [-180.0, -90.0]]]}"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-19T03:00:48.825674",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "520e507f-8b3d-481e-b8c0-d85d5195ce1a",
+            "last_modified": null,
+            "metadata_modified": "2021-06-19T03:00:48.825674",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "a9e92491-53ac-4777-8ae6-e14dd37227f7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 1
+            },
+            "url": "https://cfpub.epa.gov/rblc/index.cfm?action=Search.BasicSearch&lang=en",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "epa",
+            "id": "eedf2d29-8d66-4673-98ed-2bc3cd2610d4",
+            "name": "epa",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 555,
+        "recent": 8
+    }
+}

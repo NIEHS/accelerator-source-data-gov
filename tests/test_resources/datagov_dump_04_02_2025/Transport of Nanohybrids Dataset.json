@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "d2e22fcb-4bdf-43b9-8c62-d84998a71926",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Chunming Su",
+    "maintainer_email": "su.chunming@epa.gov",
+    "metadata_created": "2020-11-12T13:44:46.108249",
+    "metadata_modified": "2020-11-12T13:44:46.108259",
+    "name": "transport-of-nanohybrids-dataset",
+    "notes": "Characterization of nanohybrids using TEM, XPS, zeta potential measurement, UV-Vis spectrometry. Modeling results of nanohybrids transport. \n\nThis dataset is associated with the following publication:\nWang, D., Y. Jin, C. Park, J. Heo, X. Bai, N. Aich, and C. Su. Modeling the Transport of the \"New Horizon\" Reduced Graphene Oxide\u2014Metal Oxide Nanohybrids in Water-Saturated Porous Media.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 52: 4610-4622, (2018).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Transport of Nanohybrids Dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.7b06488"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "dc083041-5ab2-4b70-8671-a2ce5732724b"
+        },
+        {
+            "key": "source_hash",
+            "value": "3252e32730703233b0c617a7277b7f7066229b83"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-06-12"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1500938"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:46.113481",
+            "description": "Data_Wang%20Su%20EST%20Paper_2018.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "fc336d9c-da21-4fe9-84d9-92798e2ef763",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:46.113481",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "Data_Wang Su EST Paper_2018.pdf",
+            "package_id": "d2e22fcb-4bdf-43b9-8c62-d84998a71926",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500938/Data_Wang%20Su%20EST%20Paper_2018.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "and-rgo-zinc-oxide-zno-nanohybrids",
+            "id": "2a1f48b2-a4d9-4e1a-853d-4761c2a7b3be",
+            "name": "and-rgo-zinc-oxide-zno-nanohybrids",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "column-transport-test",
+            "id": "ce6ec25c-1178-4aa6-aec7-ccb84ebac757",
+            "name": "column-transport-test",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "reduced-graphene-oxide-rgo-magnetite-fe3o4",
+            "id": "d7c84dff-93b0-4e15-bf11-2a0628f84b91",
+            "name": "reduced-graphene-oxide-rgo-magnetite-fe3o4",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rgo-titanium-dioxide-tio2",
+            "id": "e8746c79-b9e2-487d-8f13-d3c6aeeffd1d",
+            "name": "rgo-titanium-dioxide-tio2",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 19,
+        "recent": 1
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "d238dab8-2366-452f-ba9b-ba4a215a36ef",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:46:50.001505",
+    "metadata_modified": "2025-02-25T05:46:50.001510",
+    "name": "hawaii-on-site-sewage-disposal-systems-osds-hawaii-county-hi-2017-u-s-epa-region-914",
+    "notes": "This feature class contains 53,956 On-Site Sewage Disposal System points for the county of Hawaii. Full metadata record can be found here: \"https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={D3033EF0-E148-437A-9446-600E14A01C24}\" https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={D3033EF0-E148-437A-9446-600E14A01C24}\n\tThese features are incorporated in the U.S. EPA Region 9 Hawaii Wastewater Mapping application, a user interface mapping tool to help manage the Large Capacity Cesspool Program compliance and outreach efforts and assist with inspection targeting in Hawaii. The application can be found on the EPA GeoPlatform at: \"https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=afd05fc3ab2347b2bcc63c5c20f59926\"https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=afd05fc3ab2347b2bcc63c5c20f59926",
+    "num_resources": 2,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Hawaii On-Site Sewage Disposal Systems (OSDS), Hawaii County HI, 2017, U.S. EPA Region 9",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "D3033EF0-E148-437A-9446-600E14A01C24"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"creation\", \"value\": \"2017-05-01\"}, {\"type\": \"publication\", \"value\": \"2017-06-30\"}, {\"type\": \"revision\", \"value\": \"2017-06-14\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2022-08-19"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "henley.cheryl@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2017-02-02T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 9\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "19.320094"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "20.264977"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "18.964043"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-154.81521"
+        },
+        {
+            "key": "lineage",
+            "value": "Original dataset was developed as part of the Hawaii State Department of Health source water protection program to assess the health and environmental risks posed by On-Site Sewage Disposal Systems and included approximate location, type, and effluent, nitrogen, and phosphorus flux of On-Site Sewage Distribution Systems; and LCC and tax credit status LCC and tax credit status."
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-154.81521, 18.964043], [19.320094, 18.964043], [19.320094, 20.264977], [-154.81521, 20.264977], [-154.81521, 18.964043]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-154.81521, 18.964043], [19.320094, 18.964043], [19.320094, 20.264977], [-154.81521, 20.264977], [-154.81521, 18.964043]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "575035d6-2936-4b42-9c6a-2510bc20c413"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:46:50.004054",
+            "description": "OSDS Metadata from Hawaii Office of Planning",
+            "format": "PDF",
+            "hash": "",
+            "id": "b87f11f4-bf25-445e-9178-746292c4a0dc",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:46:49.990095",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Original metadata",
+            "package_id": "d238dab8-2366-452f-ba9b-ba4a215a36ef",
+            "position": 0,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "http://files.hawaii.gov/dbedt/op/gis/data/osds_ni.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:46:50.004057",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "41856bb7-dc6d-4beb-b012-9d44feec9704",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:46:49.990204",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "d238dab8-2366-452f-ba9b-ba4a215a36ef",
+            "position": 1,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "website",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "http://www.epa.gov/region09/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:038",
+            "id": "4f931390-eb04-4b3f-838a-526e0d12ace8",
+            "name": "020:038",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "compliance",
+            "id": "640a04f0-a875-48d9-817a-cd288e94cc0c",
+            "name": "compliance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "facilities",
+            "id": "e84e6137-8dce-41d2-b63e-38319e3f618a",
+            "name": "facilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ground water",
+            "id": "2245b3ca-8f8d-4725-a13b-6135e8ab9bf3",
+            "name": "ground water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hawaii",
+            "id": "6d7213ac-9176-4c8c-b7ab-153307561d15",
+            "name": "hawaii",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waste",
+            "id": "c8c45fd7-e96a-4e36-9d54-71543519256b",
+            "name": "waste",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

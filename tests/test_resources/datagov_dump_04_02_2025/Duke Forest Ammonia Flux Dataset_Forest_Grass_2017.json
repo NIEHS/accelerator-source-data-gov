@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "3aec8b42-0c75-4e9c-80ed-b0a64b879899",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "John Walker",
+    "maintainer_email": "walker.johnt@epa.gov",
+    "metadata_created": "2024-09-27T07:39:18.651868",
+    "metadata_modified": "2024-09-27T07:39:18.651875",
+    "name": "duke-forest-ammonia-flux-dataset-forest-grass-2017",
+    "notes": "This dataset includes measurements of ammonia air surface exchange in two adjacent ecosystems measured by open-path quantum cascade laser using the eddy covariance technique.  Analysis includes assessment of the physical and biogeochemical drivers that lead to differences in atmosphere-biosphere exchange of ammonia between these two natural ecosystems. \n\nThis dataset is associated with the following publication:\nGuo, X., D. Pan, R. Daly, X. Chen, J. Walker, L. Tao, J. McSpiritt, and M. Zondlo. Spatial heterogeneity of ammonia fluxes in a deciduous forest and adjacent grassland.   AGRICULTURAL AND FOREST METEOROLOGY. Elsevier Science Ltd, New York, NY, USA, 326: 109128, (2022).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Duke Forest Ammonia Flux Dataset_Forest_Grass_2017",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "493c9dc87a5032d9089078037fe92e2dd1f1ba3864dac93d3b9d7c11b414ea6c"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524745"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-03-08"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.agrformet.2022.109128"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "3e50959e-c6c4-4ec7-9f30-6db1227bbf73"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-09-27T07:39:18.662597",
+            "description": "ScienceHub_Guo_Ammonia_2022_Final.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5faf2707-afc0-408f-a6e7-8586490f9434",
+            "last_modified": null,
+            "metadata_modified": "2024-09-27T07:39:18.641258",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ScienceHub_Guo_Ammonia_2022_Final.xlsx",
+            "package_id": "3aec8b42-0c75-4e9c-80ed-b0a64b879899",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524745/ScienceHub_Guo_Ammonia_2022_Final.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "ammonia",
+            "id": "99a6748a-77cc-45bc-8040-19a358c48f25",
+            "name": "ammonia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "atmospheric-deposition",
+            "id": "e85c2b66-44c1-4d2b-a7cc-3c1008b12165",
+            "name": "atmospheric-deposition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "eddy-covariance",
+            "id": "0cc4a125-8b2d-4758-9a8f-1e2e99af1b96",
+            "name": "eddy-covariance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emissions",
+            "id": "09baf6a3-d24a-4265-8b80-2ada905665dd",
+            "name": "emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 9,
+        "recent": 1
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b3e45225-eda4-4d33-b974-5385ce53d354",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Joseph Wood",
+    "maintainer_email": "wood.joe@epa.gov",
+    "metadata_created": "2020-11-12T13:50:17.535373",
+    "metadata_modified": "2020-11-12T13:50:17.535384",
+    "name": "data-for-journal-article-inactivation-of-bacillus-anthracis-and-bacillus-atrophaeus-spores",
+    "notes": "The spreadsheets contain the colony forming unit data for every experiment, for every test and positive control coupon replicate. \n\nThis dataset is associated with the following publication:\nWood, J., J. Archer, M. Calfee, S. Serre, R. Mickelsen, A. Mikelonis, L. Oudejans, M. Hu, S.  Hurst, and V.K. Rastogi. Inactivation of Bacillus anthracis and Bacillus atrophaeus Spores on Surfaces with Ultraviolet Light Produced Via Either Light Emitting Diodes or a Low-Pressure Mercury Vapor Lamp.   JOURNAL OF APPLIED MICROBIOLOGY. Blackwell Publishing, Malden, MA, USA,  13, (2020).",
+    "num_resources": 7,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data for journal article Inactivation of Bacillus anthracis and Bacillus atrophaeus Spores on Surfaces with Ultraviolet Light Produced Via Either Light Emitting Diodes or a Low-Pressure Mercury Vapor Lamp",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:060"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1111/jam.14791"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "18c73411-00f1-4689-9ccd-e6b85146e928"
+        },
+        {
+            "key": "source_hash",
+            "value": "5e6f4d815384095fe673129c6a08fb5d6ebd6084"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-07-11"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504419"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:17.554995",
+            "description": "Hg%20lamp%20Aerosol%20vs%20Suspension%20run%201%20glass.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "c30bbc61-b83b-4a96-bc58-87d8abd92231",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:17.554995",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Hg lamp Aerosol vs Suspension run 1 glass.xlsx",
+            "package_id": "b3e45225-eda4-4d33-b974-5385ce53d354",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504419/Hg%20lamp%20Aerosol%20vs%20Suspension%20run%201%20glass.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:17.555005",
+            "description": "Hg%20lamp%20Aerosol%20vs%20Suspension%20Run%202%20wood.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0810b48d-5242-4c36-a548-74a2883a3fe6",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:17.555005",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Hg lamp Aerosol vs Suspension Run 2 wood.xlsx",
+            "package_id": "b3e45225-eda4-4d33-b974-5385ce53d354",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504419/Hg%20lamp%20Aerosol%20vs%20Suspension%20Run%202%20wood.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:17.555011",
+            "description": "Hg%20lamp%20Aerosol%20vs%20Suspension%20Run%203%20all%20materials.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "49282c39-af01-4d91-a136-ba56498add83",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:17.555011",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Hg lamp Aerosol vs Suspension Run 3 all materials.xlsx",
+            "package_id": "b3e45225-eda4-4d33-b974-5385ce53d354",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504419/Hg%20lamp%20Aerosol%20vs%20Suspension%20Run%203%20all%20materials.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:17.555017",
+            "description": "Hg%20lamp%20Bg%20high%20and%20low%20RH.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "33c0ca70-da1f-4a27-97af-4112ae355efc",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:17.555017",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Hg lamp Bg high and low RH.xlsx",
+            "package_id": "b3e45225-eda4-4d33-b974-5385ce53d354",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504419/Hg%20lamp%20Bg%20high%20and%20low%20RH.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:17.555022",
+            "description": "Hg%20lamp%20Bg%20vs%20Ames.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2ca52f63-06d2-4f4c-b2ec-640b440ea3fc",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:17.555022",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Hg lamp Bg vs Ames.xlsx",
+            "package_id": "b3e45225-eda4-4d33-b974-5385ce53d354",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504419/Hg%20lamp%20Bg%20vs%20Ames.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:17.555027",
+            "description": "LED%20lamp%20Bg%20high%20and%20low%20RH.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "55e6aefe-bbd1-4ea0-87af-7bf4e4a58925",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:17.555027",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "LED lamp Bg high and low RH.xlsx",
+            "package_id": "b3e45225-eda4-4d33-b974-5385ce53d354",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504419/LED%20lamp%20Bg%20high%20and%20low%20RH.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:17.555032",
+            "description": "Hg%20lamp%20Bg%20vs%20Ames%20w%20data%20dictionary.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "593cfa87-ccdb-4de5-bb9f-5d6c6bc0e25a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:17.555032",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Hg lamp Bg vs Ames w data dictionary.xlsx",
+            "package_id": "b3e45225-eda4-4d33-b974-5385ce53d354",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504419/Hg%20lamp%20Bg%20vs%20Ames%20w%20data%20dictionary.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bacillus-anthracis",
+            "id": "78834053-4500-4f69-9d46-c0cccf3953ee",
+            "name": "bacillus-anthracis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bacterial-spores",
+            "id": "4b465dc1-df12-4a85-bb84-db112c8c5df5",
+            "name": "bacterial-spores",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "decontamination",
+            "id": "076c6307-6979-45c1-9b34-8c7ef39d011b",
+            "name": "decontamination",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ultraviolet-light",
+            "id": "da7ec81f-015f-4ad1-b536-358fba19aaee",
+            "name": "ultraviolet-light",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 85,
+        "recent": 1
+    }
+}

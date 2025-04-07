@@ -1,0 +1,318 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "73777fc5-ea0c-422b-b26f-8aae37b63334",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "ECHO User Support ",
+    "maintainer_email": "support@echo.zendesk.com",
+    "metadata_created": "2020-12-03T22:56:07.029920",
+    "metadata_modified": "2021-06-19T03:01:54.502600",
+    "name": "epa-enforcement-and-compliance-history-online-water-effluent-charts-summaries",
+    "notes": "Summary of compliance status each outfall and parameter for one Clean Water Act discharge permit. Provides the current compliance status and overall compliance status for the date range of interest. This service supports the Summary Matrix on the ECHO website Effluent Charts.",
+    "num_resources": 1,
+    "num_tags": 18,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EPA Enforcement and Compliance History Online: Water Effluent Charts Summaries",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "e647c8ad-380c-4118-b084-15e5b578dd71"
+        },
+        {
+            "key": "describedByType",
+            "value": "text/html"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OECA ECHO Records"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://echo.epa.gov/help/reports/effluent-charts-help"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "49d0e073-0030-4b66-a84d-919998500e3d"
+        },
+        {
+            "key": "source_hash",
+            "value": "d71c8980d7bfc66a866c0eaeb22ffa3f39ccae51"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "landingPage",
+            "value": "https://echo.epa.gov/"
+        },
+        {
+            "key": "language",
+            "value": [
+                "en-US"
+            ]
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2016-07-06"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "dataQuality",
+            "value": true
+        },
+        {
+            "key": "theme",
+            "value": [
+                "environment"
+            ]
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/Public/OECA/Metadata/OECA-ECHO.json"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "R/P1W"
+        },
+        {
+            "key": "spatial",
+            "value": "USA"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:034"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "e2ddb85e-4523-11e6-beb8-9e71128cae77"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://echo.epa.gov/help/reports/dfr-data-dictionary"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-03T22:56:07.092674",
+            "description": "Summary of compliance status each outfall and parameter for one NPDES permit. Provides the current compliance status and overall compliance status for the date range of interest. This service supports the Summary Matrix on the ECHO Effluent Charts.",
+            "format": "",
+            "hash": "",
+            "id": "80b768da-2555-48e6-bed7-2ffae41a04bf",
+            "last_modified": null,
+            "metadata_modified": "2020-12-03T22:56:07.092674",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "Summary Effluent Chart",
+            "package_id": "73777fc5-ea0c-422b-b26f-8aae37b63334",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://echo.epa.gov/tools/web-services/effluent-charts",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "clean-water-act",
+            "id": "46adde13-744b-4962-97bf-548782fa5623",
+            "name": "clean-water-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "compliance",
+            "id": "640a04f0-a875-48d9-817a-cd288e94cc0c",
+            "name": "compliance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "compliance-history",
+            "id": "c4d13342-9ddf-4db8-b5e4-974f7cc37494",
+            "name": "compliance-history",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cwa",
+            "id": "645a4e28-5331-45cc-a19c-8ec2576f0473",
+            "name": "cwa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "detailed-facility-report",
+            "id": "deafb990-52d3-4352-990d-bf23c6c3d012",
+            "name": "detailed-facility-report",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "echo",
+            "id": "33e23f2b-4dde-4df5-aa67-0f03cf83cc12",
+            "name": "echo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "enforcement",
+            "id": "af92a5e6-8afc-4904-8012-435e1af5f3b4",
+            "name": "enforcement",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-performance",
+            "id": "d3fbbc5a-fbba-491d-913a-6b2815a94334",
+            "name": "environmental-performance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "epa-data-download",
+            "id": "50cd5b93-8720-4a79-a61f-dd959156bc37",
+            "name": "epa-data-download",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "icis",
+            "id": "2cf5e912-8977-45c5-8841-9beaed4217c1",
+            "name": "icis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "national-pollutant-discharge-elimination-system",
+            "id": "a300c533-b7e9-4827-bc7e-f5727620732e",
+            "name": "national-pollutant-discharge-elimination-system",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "npdes",
+            "id": "a08a66e1-f556-44be-a09e-9f13a37ecfef",
+            "name": "npdes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oeca",
+            "id": "7f36a0ba-94d3-4afa-a75b-98ac2a2651fd",
+            "name": "oeca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "permit",
+            "id": "b3dff60e-8ea0-4cea-8a47-b02a3cb8f46b",
+            "name": "permit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "permitted-effluent-limits",
+            "id": "03a86bf4-2582-41c2-a260-ef1f8ff532bf",
+            "name": "permitted-effluent-limits",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "releases",
+            "id": "ff94d331-9333-467b-bd0c-2dd5b8a98486",
+            "name": "releases",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "violations",
+            "id": "86aa5919-b576-4e33-9dd3-a90d5fd7d79a",
+            "name": "violations",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wastewater-discharge-permits",
+            "id": "ffaa5f34-dd41-47b9-bfbe-e27d664ffab6",
+            "name": "wastewater-discharge-permits",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 64,
+        "recent": 3
+    }
+}

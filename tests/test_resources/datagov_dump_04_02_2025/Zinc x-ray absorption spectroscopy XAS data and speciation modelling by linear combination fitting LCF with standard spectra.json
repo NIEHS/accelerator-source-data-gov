@@ -1,0 +1,243 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "1365882f-4ca9-4184-85eb-29223e8d4e28",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Aaron Betts",
+    "maintainer_email": "betts.aaron@epa.gov",
+    "metadata_created": "2024-09-20T06:53:46.377513",
+    "metadata_modified": "2024-09-20T06:53:46.377519",
+    "name": "zinc-x-ray-absorption-spectroscopy-xas-data-and-speciation-modelling-by-linear-combination",
+    "notes": "Soil samples were collected from the remediated site according to methods included in the manuscript. Soil samples were prepared by grinding in mortar and pestle and pressing into a 7-mm diameter pellet for X-ray absorption measurement. Sample pellets were measured at Argonne National Laboratory's Advanced Photon Source (APS) in Chicago, IL. X-ray fluorescence was collected while scanning x-ray energy belowe and above the Zinc (Zn) K-edge (9659 eV). Spectra were energy calibrated, background subtracted and spectra modelled in the Athena module of the Demeter software package. Linear combination of standard spectra of Zn species were used to model sample spectra. Model data is in this attached dataset. \n\nThis dataset is associated with the following publication:\nIppolito, J.A., L. Li, T. Banet, J.E. Brummer, C. Buchanan, A.R. Betts, K. Scheckel, N. Basta, and S.L. Brown. Soil health as a proxy for long-term reclamation success of metal-contaminated mine tailings using lime and biosolids.   Soil & Environmental Health. Elsevier B.V., Amsterdam,  NETHERLANDS, 2(3): 100096, (2024).",
+    "num_resources": 2,
+    "num_tags": 10,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Zinc x-ray absorption spectroscopy (XAS) data and speciation modelling by linear combination fitting (LCF) with standard spectra",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "a370d31f8bfce64954caf2eb09d31369b55fe20d90b9648b54ccfecc424e6437"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531727"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-06-17"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.seh.2024.100096"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "acc969a2-74c3-4f0f-95a3-28b8ed9f5d26"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-09-20T06:53:46.402509",
+            "description": "Zn_XAS_data_LCF_models.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5756f624-de0f-429e-9b21-e54989939c75",
+            "last_modified": null,
+            "metadata_modified": "2024-09-20T06:53:46.351911",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "Zn_XAS_data_LCF_models.zip",
+            "package_id": "1365882f-4ca9-4184-85eb-29223e8d4e28",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531727/Zn_XAS_data_LCF_models.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-09-20T06:53:46.402514",
+            "description": "LCF_EXAFS_Table_and_Analysis_Parameters_Zn%20paper.csv",
+            "format": "CSV",
+            "hash": "",
+            "id": "af32422a-e633-477c-af72-989671cfe140",
+            "last_modified": null,
+            "metadata_modified": "2024-09-20T06:53:46.352059",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "LCF_EXAFS_Table_and_Analysis_Parameters_Zn paper.csv",
+            "package_id": "1365882f-4ca9-4184-85eb-29223e8d4e28",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531727/LCF_EXAFS_Table_and_Analysis_Parameters_Zn%20paper.csv",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "alluvial-mine-tailings",
+            "id": "dabfe7a9-ed71-42a1-9d8b-670e5da10ecd",
+            "name": "alluvial-mine-tailings",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "animal-health",
+            "id": "c8d26f6b-d108-44db-b049-aca1f63b8d31",
+            "name": "animal-health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "contaminated-soil",
+            "id": "6eebe553-773a-483d-a375-d4a9f5e05e68",
+            "name": "contaminated-soil",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "plant-health",
+            "id": "62a98186-7cdf-4ff7-be38-2e5463ee0779",
+            "name": "plant-health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "reclamation",
+            "id": "3a36285a-74f0-4bc1-aef3-16ea2f36de53",
+            "name": "reclamation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soil-health",
+            "id": "ca436616-f3ba-4a3e-9240-46d0dbf7c75f",
+            "name": "soil-health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soil-management-assessment-framework",
+            "id": "e0aac4fc-7f98-4e5a-9610-f270bb4e5674",
+            "name": "soil-management-assessment-framework",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "x-ray-absorption-near-edge-structure-spectroscopy",
+            "id": "6800f19c-fe28-4f0c-b99e-8cc126ed4609",
+            "name": "x-ray-absorption-near-edge-structure-spectroscopy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "x-ray-absorption-spectroscopy",
+            "id": "1c9dee81-1711-4cc6-9faa-4aa1aeeb43e5",
+            "name": "x-ray-absorption-spectroscopy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "zinc",
+            "id": "db4c778b-22d5-40bf-8d1c-ec20054bf01a",
+            "name": "zinc",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 24,
+        "recent": 1
+    }
+}

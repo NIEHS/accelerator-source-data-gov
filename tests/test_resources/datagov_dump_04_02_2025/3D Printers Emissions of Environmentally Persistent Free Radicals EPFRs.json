@@ -1,0 +1,202 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "967d4103-d0b4-4cc5-8d35-a9a31d5cfaad",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Souhail Al-Abed",
+    "maintainer_email": "al-abed.souhail@epa.gov",
+    "metadata_created": "2024-01-05T08:30:27.815863",
+    "metadata_modified": "2024-01-05T08:30:27.815868",
+    "name": "3d-printers-emissions-of-environmentally-persistent-free-radicals-epfrs",
+    "notes": "Polymers used in 3D printing are known to emit hazardous materials when heated. While the emissions from pristine polymers and some filaments have been studied, many filaments contain additives that may influence their hazardous emissions. This research used a variety of commercially-available 3D printer filaments to assess the possibly formation of environmentally persistent free radicals (EPFRs), a class of surface-bound free radicals that have much longer lifetimes compared to their gas-phase counterparts. Electron paramagnetic resonance (EPR) spectroscopy was used to successfully identify EPFRs in particulate matter collected during regular 3D printer use. These findings should influence future studies on 3D printer emissions to include consideration of EPFR formation. These methodologies may be used by EPA's Chemical Safety and Pollution Prevention (OCSPP), Consumer Protection and Safety Commission (CPSC), and National Institute of Occupational of Safety and Health (NIOSH). \n\nThis dataset is associated with the following publication:\nHasan, F., P.M. Potter, S.R. Al-Abed, J. Matheson, and S.M. Lomnicki. Investigating environmentally persistent free radicals (EPFRs) emissions of 3D printing process.   Chemical Engineering Journal. Elsevier BV, AMSTERDAM,  NETHERLANDS, 480: 148158, (2024).",
+    "num_resources": 2,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "3D Printers Emissions of Environmentally Persistent Free Radicals (EPFRs)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "7128255ec0c2578fad2455dbbdd9ead17948b315319fe9564e4ed4eb2cb0e285"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529613"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-08-29"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.cej.2023.148158",
+                "https://pasteur.epa.gov/uploads/10.23719/1529613/documents/Supporting%20Information_EPFR%20Manuscript.docx"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0bd7046a-6081-4866-9c79-d62d1c6aff68"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-01-05T08:30:27.828878",
+            "description": "ABS-Blue_Raw%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "bd3e0581-8213-41b8-a175-7feddbe56d9b",
+            "last_modified": null,
+            "metadata_modified": "2024-01-05T08:30:27.806925",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ABS-Blue_Raw Data.xlsx",
+            "package_id": "967d4103-d0b4-4cc5-8d35-a9a31d5cfaad",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529613/ABS-Blue_Raw%20Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-01-05T08:30:27.828882",
+            "description": "ABS-Black_Raw%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3e20476a-8ae1-4da0-a4fa-76b007940b07",
+            "last_modified": null,
+            "metadata_modified": "2024-01-05T08:30:27.807091",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ABS-Black_Raw Data.xlsx",
+            "package_id": "967d4103-d0b4-4cc5-8d35-a9a31d5cfaad",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529613/ABS-Black_Raw%20Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "3d-prining",
+            "id": "82216756-1beb-4236-a673-c5448efc5f84",
+            "name": "3d-prining",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "electron-paramagnetic-resonance-spectroscopy",
+            "id": "575022e9-c5cb-436b-8e6f-16f5a5b1cf62",
+            "name": "electron-paramagnetic-resonance-spectroscopy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emerging-contaminant",
+            "id": "3357fc60-c862-48cf-a202-af6ac80c7799",
+            "name": "emerging-contaminant",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "indoor-air-quality",
+            "id": "c554d727-0315-4379-b1eb-794f99789668",
+            "name": "indoor-air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 23,
+        "recent": 3
+    }
+}

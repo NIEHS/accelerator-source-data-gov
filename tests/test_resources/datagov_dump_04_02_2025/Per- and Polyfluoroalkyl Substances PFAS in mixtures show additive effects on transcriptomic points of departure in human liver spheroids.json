@@ -1,0 +1,191 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "58a135e7-c106-4f5d-828c-a55cc5e58b0d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Barbara Wetmore",
+    "maintainer_email": "wetmore.barbara@epa.gov",
+    "metadata_created": "2023-07-16T04:14:09.592893",
+    "metadata_modified": "2023-07-16T04:14:09.592899",
+    "name": "per-and-polyfluoroalkyl-substances-pfas-in-mixtures-show-additive-effects-on-transcriptomi",
+    "notes": "Data for \"Addicks GC, Rowan-Carroll A, Reardon A, Leingartner K, Williams A, Meier MJ, Moffat I, Carrier R, Lorusso L, Wetmore BA, Yauk C, Atlas E. Per- and Polyfluoroalkyl Substances (PFAS) in mixtures show additive effects on transcriptomic points of departure in human liver spheroids. Toxicol Sci. 2023 May 17:kfad044. doi: 10.1093/toxsci/kfad044. Epub ahead of print. PMID: 37195416.\". \n\nThis dataset is associated with the following publication:\nAddicks, G., A. Rowan-Carroll, A. Reardon, K. Leingartner, A. Williams, M. Meier, I. Moffat, R. Carrier, L. Lorusso, B. Wetmore, C. Yauk, and E. Atlas. Per- and polyfluoroalkyl substances (PFAS) in mixtures show additive effects on transcriptomic points of departure in human liver spheroids.   TOXICOLOGICAL SCIENCES. Society of Toxicology, RESTON, VA,  194(1): 38-52, (2023).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Per- and Polyfluoroalkyl Substances (PFAS) in mixtures show additive effects on transcriptomic points of departure in human liver spheroids",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "d23ff5ce48645a9f4f1275a780f1ded2cf8a7241"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529094"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-05-17"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/toxsci/kfad044",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10306399"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4eb2cd24-fc16-48e1-96a5-63e72377fa96"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-16T04:14:09.601881",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "a7d542bc-104d-43b1-bcc6-dc2255f05ebd",
+            "last_modified": null,
+            "metadata_modified": "2023-07-16T04:14:09.579066",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://clowder.edap-cluster.com/datasets/61147fefe4b0856fdc65639b#folderId=6467aab7e4b08a6b394cd6ca&page=0",
+            "package_id": "58a135e7-c106-4f5d-828c-a55cc5e58b0d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://clowder.edap-cluster.com/datasets/61147fefe4b0856fdc65639b#folderId=6467aab7e4b08a6b394cd6ca&page=0",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "benchmark-concentration",
+            "id": "0dfa9436-d5d9-418a-a63f-5c8ce818eb5c",
+            "name": "benchmark-concentration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "liver-spheroids",
+            "id": "dca7ffd3-e33f-4f76-85a5-802ff1f6d08a",
+            "name": "liver-spheroids",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mixture-toxicity",
+            "id": "572f80b3-e96e-4847-a135-e561b8df509f",
+            "name": "mixture-toxicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new-approach-methodology",
+            "id": "b7f7b4c3-867d-40c3-94f9-5590f11220e3",
+            "name": "new-approach-methodology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfas",
+            "id": "467ff291-49fb-462a-93ad-afccfda9c165",
+            "name": "pfas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tempo-seqtm",
+            "id": "3865e8c8-3adc-4926-9e70-7937b3a8adfc",
+            "name": "tempo-seqtm",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 48,
+        "recent": 1
+    }
+}

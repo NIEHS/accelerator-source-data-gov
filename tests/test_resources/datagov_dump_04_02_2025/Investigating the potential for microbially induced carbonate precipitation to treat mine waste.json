@@ -1,0 +1,186 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "dc8020a8-8e11-4aba-8d3f-64b822acf6bd",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Edwin Barth",
+    "maintainer_email": "barth.ed@epa.gov",
+    "metadata_created": "2022-05-28T01:52:09.818393",
+    "metadata_modified": "2022-05-28T01:52:09.818401",
+    "name": "investigating-the-potential-for-microbially-induced-carbonate-precipitation-to-treat-mine-",
+    "notes": "In this study, the feasibility of promoting microbially induced carbonate precipitation (MICP) in mine waste piles by using an environmental bacterial enrichment is explored, with goals to mitigate erosion and infiltration and reduce metals leaching. MICP has been widely studied as a biotechnology for use in strengthening soils, impacting permeability of porous media and fractures, and mitigating fugitive dust emissions, among other applications.  This technology has also been explored for remediation applications, including co-precipitation of radionuclides in contaminated groundwater as well as stabilization of mine waste and fly ash.  In this study, we utilize a native bacterial enrichment to promote MICP on seven mine waste samples with variability in acid production and extent of toxic metal leaching.  Over the course of fifteen applications of MICP solutions and bacteria on the surface of waste rock in bench-scale columns, calcium carbonate mineral formed on grain surfaces within the waste samples and the effluent from acid-producing wastes increased in pH during MICP treatment. The performance of MICP was evaluated with humidity cell and synthetic precipitation leaching procedure (SPLP) tests. Humidity cell and SPLP leaching tests revealed reductions in Cd, Pb and Zn in leachate of almost all samples, mixed results for Cu, and As increasing in most leachate samples after treatment. While reduction in metals leaching varied between different waste rock samples, MICP-driven formation of calcium carbonate was observed in all mine waste samples by the end of treatment. While the distribution of CaCO3 coating was uneven in microscopic images, the technology has potential for coating solid mine waste and reducing release of acid and some metals. This study provides a laboratory assessment of the feasibility of MICP to stabilize mine waste piles in situ and mitigate release of toxic metals into the environment. \n\nThis dataset is associated with the following publication:\nProudfoot, D., L. Brooks, C.H. Gammons, E. Barth, D. Bless, R.M. Nagisetty, and E.G.  Lauchnor. Investigating the potential for microbially induced carbonate precipitation to treat mine waste.   JOURNAL OF HAZARDOUS MATERIALS. Elsevier Science Ltd, New York, NY, USA, 424 part C: 127490, (2022).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Investigating the potential for microbially induced carbonate precipitation to treat mine waste",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524797"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2020-06-01"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jhazmat.2021.127490",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/Drainage%20efficiency%20of%20tailings.docx",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/Humidity%20Cell%20Results.docx",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/Metal%20concentrations%20in%20tailings.docx",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/MICP%20Effluent%20pH%20of%20leachate.docx",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/Temporal%20profile%20of%20effluent%20pH.docx",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/Grain%20Size%20Distribution%20of%20Tailings.docx",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/Leaching%20results%20pre%20vs.docx",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/Surface%20precipitation%20of%20calcium%20carbonate.docx",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/MICP%20SEM%20photos.docx",
+                "https://pasteur.epa.gov/uploads/10.23719/1524797/documents/microscopy%20images%20MICP.pdf"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "ee6549b2454d2b9611ec59512d39adfdb3b4be69"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "795eeb06-0be9-4975-8cd7-1759236edc3f"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-05-28T01:52:09.935270",
+            "description": "Humidity%20Cells%20Data_26Oct.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b40c8ccb-d611-44d3-a745-e5f929c02695",
+            "last_modified": null,
+            "metadata_modified": "2022-05-28T01:52:09.935270",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Humidity Cells Data_26Oct.xlsx",
+            "package_id": "dc8020a8-8e11-4aba-8d3f-64b822acf6bd",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524797/Humidity%20Cells%20Data_26Oct.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bacterial-ureolysis",
+            "id": "8f58718f-2c51-4f8d-83a4-a991c5ada682",
+            "name": "bacterial-ureolysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "calcium-carbonate",
+            "id": "07e4e598-cd62-4538-bb14-bb521a5e1ecd",
+            "name": "calcium-carbonate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "leaching-tests",
+            "id": "276db4e0-1ffa-408e-a7b9-beb82cb9fbd6",
+            "name": "leaching-tests",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waste-rock",
+            "id": "dfbf0acd-4f7d-425d-a833-d431d67541af",
+            "name": "waste-rock",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 120,
+        "recent": 3
+    }
+}

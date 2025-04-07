@@ -1,0 +1,230 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "42d983fa-1c04-497e-bec2-3d3a55868e15",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:11:14.163526",
+    "metadata_modified": "2025-02-25T05:11:14.163531",
+    "name": "base-water-inventory-cnmi-2018-cnmi-bureau-of-environmental-and-coastal-quality19",
+    "notes": "These public water systems (PWS) were pulled from BECQ's Direct Implementation Management Environment (DIME) database on October 29, 2018 by Karl Banks, EPA, for the Typhoon Yutu response. PWSs are identified by a unique FACID. DIME is used to update the Safe Drinking Water Information System (SDWIS) national drinking water database. ",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "BASE Water Inventory, CNMI, 2018, CNMI Bureau of Environmental and Coastal Quality",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "EC64CC32-3E55-4C3E-880A-2DA59395A608"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2018-11-01\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2021-07-30"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "henley.cheryl@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": ""
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. \"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"CNMI BECQ\", \"roles\": [\"resourceProvider\"]}, {\"name\": \"U.S. Environmental Protection Agency, Region 9\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "154.733056"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "15.264722"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "14.126148"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "142.713333"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[142.713333, 14.126148], [154.733056, 14.126148], [154.733056, 15.264722], [142.713333, 15.264722], [142.713333, 14.126148]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[142.713333, 14.126148], [154.733056, 14.126148], [154.733056, 15.264722], [142.713333, 15.264722], [142.713333, 14.126148]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "07d2d0c7-e1bd-4e91-8055-2860b3b56994"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:11:14.172042",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "bdceffdc-2346-41fc-9aa0-16175a16cc2c",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:11:14.154945",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "42d983fa-1c04-497e-bec2-3d3a55868e15",
+            "position": 0,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "website",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "http://www.epa.gov/region09/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:038",
+            "id": "4f931390-eb04-4b3f-838a-526e0d12ace8",
+            "name": "020:038",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cnmi",
+            "id": "c56aea12-b489-4346-94dc-4109ecd6da2e",
+            "name": "cnmi",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking water",
+            "id": "cf264a55-2d50-4fb2-ba58-ba6ef9df39b9",
+            "name": "drinking water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inlandwater",
+            "id": "b638b38c-21c8-48a5-9dcd-721aed029be1",
+            "name": "inlandwater",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water",
+            "id": "143854aa-c603-4193-9c89-232e63461fa4",
+            "name": "water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

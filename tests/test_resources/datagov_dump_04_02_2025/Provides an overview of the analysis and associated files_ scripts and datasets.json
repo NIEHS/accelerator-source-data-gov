@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "7afa8b14-f340-4fdd-aa89-dfc479c3dd07",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Timothy Shafer",
+    "maintainer_email": "shafer.tim@epa.gov",
+    "metadata_created": "2020-11-12T13:48:06.496869",
+    "metadata_modified": "2020-11-12T13:48:06.496879",
+    "name": "provides-an-overview-of-the-analysis-and-associated-files-scripts-and-datasets",
+    "notes": "This dataset contains the files, scripts and data that were used to run the simulations and data analyses for the manuscript. \n\nThis dataset is associated with the following publication:\nBall, K., C. Grant, W. Mundy, and T. Shafer. A multivariate extension of mutual information for growing neural networks..   Neural Networks. Elsevier B.V., Amsterdam,  NETHERLANDS, 95: 29-43, (2017).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Provides an overview of the analysis and associated files, scripts and datasets",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.neunet.2017.07.009"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "572d0bf7-545c-4f5c-8e17-037ac81052a4"
+        },
+        {
+            "key": "source_hash",
+            "value": "8c122a6ea65949fe5501e99b2e3d0cf31f5e4aee"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-07-19"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1375317"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:06.514183",
+            "description": "Mutual%20Information%20Data%20and%20Scripts.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "38f1ea13-f8bb-462e-b5d2-8f73f3549da3",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:06.514183",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Mutual Information Data and Scripts.zip",
+            "package_id": "7afa8b14-f340-4fdd-aa89-dfc479c3dd07",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1375317/Mutual%20Information%20Data%20and%20Scripts.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "developmental-neurotoxicity",
+            "id": "efe53fb1-bf12-476a-9f71-325ed0b9d9cc",
+            "name": "developmental-neurotoxicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microelectrode-array",
+            "id": "b379bd10-6085-4872-872c-a4a4cb212605",
+            "name": "microelectrode-array",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "neurotoxicity",
+            "id": "483f5b17-137f-46b5-8a82-05b0d1c35e2c",
+            "name": "neurotoxicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "screening",
+            "id": "fc7ba2d5-ab94-49c8-b590-85c220ace91b",
+            "name": "screening",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 79,
+        "recent": 1
+    }
+}

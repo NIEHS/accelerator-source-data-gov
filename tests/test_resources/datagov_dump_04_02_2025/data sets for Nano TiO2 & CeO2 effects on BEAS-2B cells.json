@@ -1,0 +1,283 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b44b2035-5cfe-4064-9e97-cc87a021fe78",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Sheau-Fung Thai",
+    "maintainer_email": "thai.sheau-fung@epa.gov",
+    "metadata_created": "2020-11-12T13:48:12.520530",
+    "metadata_modified": "2020-11-12T13:48:12.520537",
+    "name": "data-sets-for-nano-tio2-ceo2-effects-on-beas-2b-cells",
+    "notes": "Signaling pathways  from IPA:  canonical pathways obtained by uploading differentially expressed genes onto IPA to get the corresponding pathways altered by the chemicals.\n\nFigure 4 ABCDHILM ROS final:  Excel file with raw data and calculated fold change for the ROS (Deep Red) assay on 8 nanoparticles.\n\nData files for tables:  this file include physical-chemical properties of the 8 NPs (worksheet 1), sizing and zeta potential from zeta sizer (worksheet 2&3) and numbers of differentially expressed genes (DEGs) (worksheet 4).\n\nData files for figure 5 to 11:  physical -chemical properties of the NPs, raw data and calculation for ROS-RNS, 8-oxo-dG, AP sites, endogenous DNA adducts, 4-HNE, and MDA adducts. \n\nThis dataset is associated with the following publication:\nThai, S., C. Jones, G. Nelson, B. Vallanat, M. Killius, J. Crooks, w. Ward, C. Blackman, and J. Ross. Differential effects of Nano TiO2 and CeO2 on normal human lung epithelial cells in vitro.   Journal of Nanoscience and Nanotechnology. American Scientific Publishers, VALENCIA, CA, USA, 19(11): 6907-6923, (2019).",
+    "num_resources": 5,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "data sets for Nano TiO2 & CeO2 effects on BEAS-2B cells",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1166/jnn.2019.16737"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2c77e692-3856-4262-9002-e0acaae213e8"
+        },
+        {
+            "key": "source_hash",
+            "value": "b8d5c71168ec858b6e0a93e1196246b39e4fceff"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-07-09"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502468"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:12.525522",
+            "description": "data%20files%20for%20figures.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "425b0f4c-97e1-433a-b704-98823ef1edc7",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:12.525522",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "data files for figures.xlsx",
+            "package_id": "b44b2035-5cfe-4064-9e97-cc87a021fe78",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502468/data%20files%20for%20figures.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:12.525528",
+            "description": "Figure%201-3.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "5a7789c4-8b6f-4484-9f5f-d17d50e671ac",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:12.525528",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Figure 1-3.docx",
+            "package_id": "b44b2035-5cfe-4064-9e97-cc87a021fe78",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502468/Figure%201-3.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:12.525532",
+            "description": "Copy%20of%20signaling%20pathways%20from%20IPA.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "1f192a5a-66af-4af6-9776-a0fa23473549",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:12.525532",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Copy of signaling pathways from IPA.xlsx",
+            "package_id": "b44b2035-5cfe-4064-9e97-cc87a021fe78",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502468/Copy%20of%20signaling%20pathways%20from%20IPA.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:12.525535",
+            "description": "copy%20of%20table%20for%207%20nano%20on%20BEAS2B%205-9-18.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "debc2f86-7f2a-4319-b6a5-55e48e8cc23b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:12.525535",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "copy of table for 7 nano on BEAS2B 5-9-18.xlsx",
+            "package_id": "b44b2035-5cfe-4064-9e97-cc87a021fe78",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502468/copy%20of%20table%20for%207%20nano%20on%20BEAS2B%205-9-18.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:12.525537",
+            "description": "Copy%20of%20figur%204%20Nano%20ABCDHILM%20ROS%20final.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "deccff64-348c-423a-b0ec-5214369bb683",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:12.525537",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Copy of figur 4 Nano ABCDHILM ROS final.xlsx",
+            "package_id": "b44b2035-5cfe-4064-9e97-cc87a021fe78",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502468/Copy%20of%20figur%204%20Nano%20ABCDHILM%20ROS%20final.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "dna-damage-assays",
+            "id": "cb29dc8b-d1e2-4d12-839d-7039d36c8144",
+            "name": "dna-damage-assays",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "engineered-nanomaterials",
+            "id": "975cc248-0066-4de1-8d2c-f63145f6eac8",
+            "name": "engineered-nanomaterials",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "reactive-oxygen-species",
+            "id": "7956d19b-4689-475a-a9ec-0380428b1658",
+            "name": "reactive-oxygen-species",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "signaling-pathways-analysis",
+            "id": "e1efc34f-79d9-4f98-8c5a-c878c89d4ae1",
+            "name": "signaling-pathways-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "transcriptomics",
+            "id": "99bc3551-31fd-41b0-a88a-06f8c55e0217",
+            "name": "transcriptomics",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 59,
+        "recent": 1
+    }
+}

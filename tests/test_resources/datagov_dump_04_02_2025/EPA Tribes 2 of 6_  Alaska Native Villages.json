@@ -1,0 +1,187 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "4044c41c-2bba-43a3-b0e9-1395d073ae5c",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-03-26T19:58:05.696613",
+    "metadata_modified": "2025-03-26T19:58:05.696620",
+    "name": "epa-tribes-2-of-6-alaska-native-villages12",
+    "notes": "This layer represents center points of Alaska Native Villages. The Alaska Native Villages are associated with Federally recognized tribal entities.",
+    "num_resources": 0,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EPA Tribes (2 of 6):  Alaska Native Villages",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "A1AB427E-FA43-4481-B0CA-0576EDAEE18A"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "4269"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2024-04-15\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2025-03-25"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "Lynn.Amy@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "irregular"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"None. Please check sources, scale, accuracy, current-ness and other available information. Please confirm that you are using the most recent copy of both data and metadata.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"EPA Office of Information Management\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-131.595826"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "71.290526"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "52.190962"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-174.189206"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-174.189206, 52.190962], [-131.595826, 52.190962], [-131.595826, 71.290526], [-174.189206, 71.290526], [-174.189206, 52.190962]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-174.189206, 52.190962], [-131.595826, 52.190962], [-131.595826, 71.290526], [-174.189206, 71.290526], [-174.189206, 52.190962]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "47fec068-2b3a-49ac-921c-474e51f1fc09"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:118",
+            "id": "fcb4bb00-987e-4443-8b93-8381d080ced8",
+            "name": "020:118",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "alaska",
+            "id": "5aa6034d-aead-4175-a8df-15f33abffb71",
+            "name": "alaska",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land",
+            "id": "899e1294-851a-4804-95fa-e0c5a45f19fc",
+            "name": "land",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "reservations",
+            "id": "0aeda248-015b-4f1d-b469-208ec562bf8b",
+            "name": "reservations",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tribal",
+            "id": "ad4ee160-bf92-4997-863e-5efc99cb93c4",
+            "name": "tribal",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 3
+    }
+}

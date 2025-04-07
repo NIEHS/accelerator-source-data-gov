@@ -1,0 +1,162 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "a797813e-269a-4093-a3a8-da121667cc0d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Kristen Rappazzo",
+    "maintainer_email": "rappazzo.kristen@epa.gov",
+    "metadata_created": "2024-04-11T05:32:40.859477",
+    "metadata_modified": "2024-04-11T05:32:40.859483",
+    "name": "cares-copd-casecrossover",
+    "notes": "Information on hospitalizations of COPD patients from electronic health records linked to air pollution concentrations for the study period. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Can be requested through NCTracts https://tracs.unc.edu/index.php/services/comparative-effectiveness-research/data-linkage. Format: Data used in this analysis include electronic health records from the UNC healthcare system. \n\nThis dataset is associated with the following publication:\nCowan, K., L. Wyatt, T. Luben, J. Sacks, C. Ward-Caviness, and K. Rappazzo. Effect measure modification of the association between short-term exposures to PM2.5 and hospitalizations by longs-term PM2.5 exposure among a cohort of people with Chronic Obstructive Pulmonary Disease (COPD) in North Carolina, 2002\u20132015.   ENVIRONMENTAL HEALTH. Academic Press Incorporated, Orlando, FL, USA, 22: 49, (2023).",
+    "num_resources": 0,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "CARES_COPD_casecrossover",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "ea1070e7f81d8abc803990e07275a39ef920712e1caa1b4599d2f68eb2121bc0"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1530582"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-01-19"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1186/s12940-023-00999-4",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10308617"
+            ]
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d09eafb5-c273-4bad-ac09-d18ea064064b"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "copd",
+            "id": "7ffc37bc-7180-425a-b35a-de673b3f3779",
+            "name": "copd",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "electronic-health-records",
+            "id": "d9690632-ecf3-48ef-a6cd-a39cd20d28b4",
+            "name": "electronic-health-records",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hospitalization",
+            "id": "69c6e63a-1e81-4696-b5c2-5096c4f3e5c4",
+            "name": "hospitalization",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "long-and-short-term-interaction",
+            "id": "fcd4e4d4-2b87-40c1-a0ec-f28f6f933cd3",
+            "name": "long-and-short-term-interaction",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "particulate-matter-pm",
+            "id": "054788bd-2441-4777-b45b-a99f6b5f918e",
+            "name": "particulate-matter-pm",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 75,
+        "recent": 3
+    }
+}

@@ -1,0 +1,434 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Daiwen Kang",
+    "maintainer_email": "kang.daiwen@epa.gov",
+    "metadata_created": "2023-09-03T04:27:39.997213",
+    "metadata_modified": "2023-09-03T04:27:39.997218",
+    "name": "improving-the-characterization-of-several-natural-emissions-in-cmaq",
+    "notes": "These datasets contains all the data used to make the figures in the associated paper. The excel files are self-explanatory and can be directly used. While the other files in netcdf format, need a visualization tool (such as VERDI) or statistical software (such as R) to make statistical summary or plots. Portions of this dataset are inaccessible because: data will be uploaded when paper will be accepted by journal. They can be accessed through the following means: For excel files, the data can be directly used to make summary or plots. For netcdf files, another visualization tool or statistical package (such as R) can be used. All the netcdf files can be visualized using VERDI. Format: Two types of data formats. One is the excel files which are self-explanatory. The other type is netcdf files which are used to make the spatial plots in the paper. \n\nThis dataset is associated with the following publication:\nKang, D., J. Willison, G. Sarwar, M. Madden, C. Hogrefe, R. Mathur, B. Gantt, and S. Alfonso. Improving the Characterization of the Natural Emissions in CMAQ.   EM Magazine. Air and Waste Management Association, Pittsburgh, PA, USA, (10): 1-7, (2021).",
+    "num_resources": 11,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Improving the Characterization of several Natural Emissions in CMAQ",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "3b29fab7d6adfd4a0f29f3bee13230b77c25a47c3f192ab41a612cace0613d56"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522615"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-08-30"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "88ec0f41-d284-4393-a570-b040c66985a2"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000968",
+            "description": "Region_Mthly_PARMvsNLDN_LNO.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "828c0044-7a32-409e-80c3-eddcc63221aa",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.986006",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Region_Mthly_PARMvsNLDN_LNO.xlsx",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/Region_Mthly_PARMvsNLDN_LNO.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000974",
+            "description": "PARM_LNOx_Monthly_mean_2016_07.ncf.zip",
+            "format": "NetCDF",
+            "hash": "",
+            "id": "eb49b75a-8a1b-42c9-915d-e2669def4bc1",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.986166",
+            "mimetype": "application/x-netcdf",
+            "mimetype_inner": null,
+            "name": "PARM_LNOx_Monthly_mean_2016_07.ncf.zip",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/PARM_LNOx_Monthly_mean_2016_07.ncf.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000976",
+            "description": "NLDN_LNOx_Monthly_mean_2016_07.ncf.zip",
+            "format": "NetCDF",
+            "hash": "",
+            "id": "2ef93079-239e-443f-9d9e-704be871f1f6",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.986298",
+            "mimetype": "application/x-netcdf",
+            "mimetype_inner": null,
+            "name": "NLDN_LNOx_Monthly_mean_2016_07.ncf.zip",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/NLDN_LNOx_Monthly_mean_2016_07.ncf.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000978",
+            "description": "megan_july_avg_no_and_isop.nc.zip",
+            "format": "NetCDF",
+            "hash": "",
+            "id": "68b59eb1-68d4-47b3-b4f6-2537615dfcea",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.986425",
+            "mimetype": "application/x-netcdf",
+            "mimetype_inner": null,
+            "name": "megan_july_avg_no_and_isop.nc.zip",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/megan_july_avg_no_and_isop.nc.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000980",
+            "description": "COMBINE_O3_IMPACT_WINTER_AVG.zip",
+            "format": "NetCDF",
+            "hash": "",
+            "id": "896ff740-de51-49e2-9696-f565f95ab07b",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.986549",
+            "mimetype": "application/x-netcdf",
+            "mimetype_inner": null,
+            "name": "COMBINE_O3_IMPACT_WINTER_AVG.zip",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/COMBINE_O3_IMPACT_WINTER_AVG.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000982",
+            "description": "COMBINE_O3_IMPACT_SUMMER_AVG.zip",
+            "format": "NetCDF",
+            "hash": "",
+            "id": "fb85f29c-cc18-4b78-8121-dcc5e776b1c8",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.986673",
+            "mimetype": "application/x-netcdf",
+            "mimetype_inner": null,
+            "name": "COMBINE_O3_IMPACT_SUMMER_AVG.zip",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/COMBINE_O3_IMPACT_SUMMER_AVG.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000984",
+            "description": "COMBINE_O3_IMPACT_SPRING_AVG.zip",
+            "format": "NetCDF",
+            "hash": "",
+            "id": "783f07c1-e96f-4a3d-a6d3-22d940ea9ff6",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.986796",
+            "mimetype": "application/x-netcdf",
+            "mimetype_inner": null,
+            "name": "COMBINE_O3_IMPACT_SPRING_AVG.zip",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/COMBINE_O3_IMPACT_SPRING_AVG.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000985",
+            "description": "COMBINE_O3_IMPACT_FALL_AVG.zip",
+            "format": "NetCDF",
+            "hash": "",
+            "id": "35f21ccf-98dd-4528-8ff4-2406726f6d29",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.986918",
+            "mimetype": "application/x-netcdf",
+            "mimetype_inner": null,
+            "name": "COMBINE_O3_IMPACT_FALL_AVG.zip",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/COMBINE_O3_IMPACT_FALL_AVG.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000987",
+            "description": "beis_july_avg_no_and_isop.nc.zip",
+            "format": "NetCDF",
+            "hash": "",
+            "id": "af1eedb4-a4a0-4714-8906-b85f9e5e1cff",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.987039",
+            "mimetype": "application/x-netcdf",
+            "mimetype_inner": null,
+            "name": "beis_july_avg_no_and_isop.nc.zip",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/beis_july_avg_no_and_isop.nc.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000989",
+            "description": "AQS_Daily_O3_v53_INTEL_12US1_2016_CON_MG3.csv",
+            "format": "CSV",
+            "hash": "",
+            "id": "55eb3a58-1c51-4091-a7e4-7b3750c4648b",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.987160",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "AQS_Daily_O3_v53_INTEL_12US1_2016_CON_MG3.csv",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/AQS_Daily_O3_v53_INTEL_12US1_2016_CON_MG3.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-03T04:27:40.000991",
+            "description": "AQS_Daily_O3_v53_INTEL_12US1_2016_CON_BE3.csv",
+            "format": "CSV",
+            "hash": "",
+            "id": "a086877f-11b0-4a9f-9c33-23ac37626ffa",
+            "last_modified": null,
+            "metadata_modified": "2023-09-03T04:27:39.987292",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "AQS_Daily_O3_v53_INTEL_12US1_2016_CON_BE3.csv",
+            "package_id": "a3662570-be6b-4fb5-bf19-fadf191010ae",
+            "position": 10,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522615/AQS_Daily_O3_v53_INTEL_12US1_2016_CON_BE3.csv",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "beis",
+            "id": "91470ca5-a9fa-42bf-af0a-db07e1dffc48",
+            "name": "beis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bvocs",
+            "id": "c7afd65c-d56b-4509-b0a1-636a72454a43",
+            "name": "bvocs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "halogen",
+            "id": "f55b11d6-0af4-4b0e-9039-79449f4cbae0",
+            "name": "halogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lightning-nox-emissions",
+            "id": "18facacc-dd3b-431f-9f37-513449078b60",
+            "name": "lightning-nox-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "megan",
+            "id": "737cb9d1-f48e-47b4-86ef-d27c48142523",
+            "name": "megan",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "natural-emissions",
+            "id": "b2c9854c-680a-4f42-900b-f0c9646540c3",
+            "name": "natural-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 31,
+        "recent": 1
+    }
+}

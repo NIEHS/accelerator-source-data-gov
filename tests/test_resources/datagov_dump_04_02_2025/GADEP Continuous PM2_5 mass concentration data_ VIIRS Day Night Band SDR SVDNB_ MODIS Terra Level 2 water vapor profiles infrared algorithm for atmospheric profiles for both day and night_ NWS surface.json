@@ -1,0 +1,252 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "ff36325f-f359-46cc-b446-ac15e51d75e9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "James Szykman",
+    "maintainer_email": "szykman.jim@epa.gov",
+    "metadata_created": "2020-11-12T13:36:55.703635",
+    "metadata_modified": "2022-07-01T16:09:20.383804",
+    "name": "gadep-continuous-pm2-5-mass-concentration-data-viirs-day-night-band-sdr-svdnb-modis-terra-",
+    "notes": "Data descriptions are provided at the following urls:\nGADEP Continuous PM2.5 mass concentration data - https://aqs.epa.gov/aqsweb/documents/data_mart_welcome.html\nhttps://www3.epa.gov/ttn/amtic/files/ambient/pm25/qa/QA-Handbook-Vol-II.pdf\n\nVIIRS Day Night Band SDR (SVDNB) http://www.class.ngdc.noaa.gov/saa/products/search?datatype_family=VIIRS_SDR\n\nMODIS Terra Level 2 water vapor profiles (infrared algorithm for atmospheric profiles for both day and night -MOD0&_L2;  http://modis-atmos.gsfc.nasa.gov/MOD07_L2/index.html \n\nNWS surface meteorological data - https://www.ncdc.noaa.gov/isd. \n\nThis dataset is associated with the following publication:\nWang, J., C. Aegerter, and J. Szykman. Potential Application of VIIRS Day/Night Band for Monitoring Nighttime Surface PM2.5 Air Quality From Space.   ATMOSPHERIC ENVIRONMENT. Elsevier Science Ltd, New York, NY, USA, 124(0): 55-63, (2016).",
+    "num_resources": 4,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "GADEP Continuous PM2.5 mass concentration data, VIIRS Day Night Band SDR (SVDNB), MODIS Terra Level 2 water vapor profiles (infrared algorithm for atmospheric profiles for both day and night, NWS surface meteorological data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "A-4j14-348"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2016-09-19"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "13736233f9e8c1492b8a4e17033e4077a1e0090c"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "cdefe65a-fd5c-4d83-8395-c66e97ed166f"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:36:55.712278",
+            "description": "data_mart_welcome.html",
+            "format": "HTML",
+            "hash": "",
+            "id": "9bd84c95-7fd9-49bd-ab0e-b4088d35fd97",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:36:55.712278",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://aqs.epa.gov/aqsweb/documents/data_mart_welcome.html",
+            "package_id": "ff36325f-f359-46cc-b446-ac15e51d75e9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://aqs.epa.gov/aqsweb/documents/data_mart_welcome.html",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-05-02T08:59:44.072774",
+            "description": "index.html",
+            "format": "HTML",
+            "hash": "",
+            "id": "7cbc584c-d895-46be-a767-8a0f52a2746d",
+            "last_modified": null,
+            "metadata_modified": "2021-05-02T08:59:44.072774",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://modis-atmos.gsfc.nasa.gov/MOD07_L2/index.html",
+            "package_id": "ff36325f-f359-46cc-b446-ac15e51d75e9",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://modis-atmos.gsfc.nasa.gov/MOD07_L2/index.html",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:36:55.712298",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "872a431f-0b9a-432d-b0f9-4b474d8de6c1",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:36:55.712298",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.ncdc.noaa.gov/isd",
+            "package_id": "ff36325f-f359-46cc-b446-ac15e51d75e9",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.ncdc.noaa.gov/isd",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-07-01T16:09:20.440703",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "8f2cfe10-3c9a-4220-80ed-f9f6bef7953a",
+            "last_modified": null,
+            "metadata_modified": "2022-07-01T16:09:20.440703",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://eogdata.mines.edu/products/vnl/",
+            "package_id": "ff36325f-f359-46cc-b446-ac15e51d75e9",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://eogdata.mines.edu/products/vnl/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality-monitoring-at-night",
+            "id": "b7403be3-43b0-4116-bbca-82f613e750f4",
+            "name": "air-quality-monitoring-at-night",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "day-night-band-dnb",
+            "id": "3df71025-1dda-47a5-8c9b-e329f5d0b27a",
+            "name": "day-night-band-dnb",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "particulate-matter-pm",
+            "id": "054788bd-2441-4777-b45b-a99f6b5f918e",
+            "name": "particulate-matter-pm",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "suomi-national-polar-orbiting-partnership-s-npp-satellite",
+            "id": "f86e0360-1884-4967-9948-ca1d61f75999",
+            "name": "suomi-national-polar-orbiting-partnership-s-npp-satellite",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "visible-infrared-imaging-radiometer-suite-viirs",
+            "id": "7cb44d53-226b-4f37-982d-2d3c8c3552c0",
+            "name": "visible-infrared-imaging-radiometer-suite-viirs",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 134,
+        "recent": 1
+    }
+}

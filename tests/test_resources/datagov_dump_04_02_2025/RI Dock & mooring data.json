@@ -1,0 +1,177 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "b05fba9c-77d8-4122-a977-e61f8d6c8821",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Warren Boothman",
+    "maintainer_email": "boothman.warren@epa.gov",
+    "metadata_created": "2023-10-10T13:36:02.355201",
+    "metadata_modified": "2023-10-10T13:36:02.355207",
+    "name": "ri-dock-mooring-data",
+    "notes": "Compilation of mooring and dock numbers for RI embayments. \n\nThis dataset is associated with the following publication:\nBoothman, W.S., and L. Coiro. Mapping Hypoxia Response to Estuarine Nitrogen Loading Using Molybdenum in Sediments.   Estuaries and Coasts. Estuarine Research Federation, Port Republic, MD, USA, 46(5): 1363\u20131374, (2023).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "RI Dock & mooring data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "f345cd5d1d0722ee05fad77715afd00cf59a7fbf5ca868743b8385b4993f6ab9"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529769"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-10-03"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s12237-023-01215-9",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10355058"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "232d9fde-f706-4564-82b4-ca6797280d36"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-10-10T13:36:02.364508",
+            "description": "RI%20Dock%20%26%20mooring%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "57ca52a7-9969-4e44-bfe2-f0e18092b660",
+            "last_modified": null,
+            "metadata_modified": "2023-10-10T13:36:02.342561",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "RI Dock & mooring data.xlsx",
+            "package_id": "b05fba9c-77d8-4122-a977-e61f8d6c8821",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529769/RI%20Dock%20%26%20mooring%20data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "density",
+            "id": "ca9e3c83-f406-4f44-af92-f43f75519afc",
+            "name": "density",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "docks",
+            "id": "d148230e-75c6-4ef8-8095-6be190d580ba",
+            "name": "docks",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "moorings",
+            "id": "4502e160-d347-48b3-9c4a-59badbe638e5",
+            "name": "moorings",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "slips",
+            "id": "2973c3a9-bbb7-4123-b498-50394eab3749",
+            "name": "slips",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 10,
+        "recent": 4
+    }
+}

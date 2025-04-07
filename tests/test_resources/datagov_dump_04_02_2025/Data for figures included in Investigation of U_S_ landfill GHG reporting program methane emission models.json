@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "8e1be67e-75dd-4806-a7a0-96c8210ffffa",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Max Krause",
+    "maintainer_email": "krause.max@epa.gov",
+    "metadata_created": "2025-02-08T01:40:55.395707",
+    "metadata_modified": "2025-02-08T01:40:55.395711",
+    "name": "data-for-figures-included-in-investigation-of-u-s-landfill-ghg-reporting-program-methane-e",
+    "notes": "Data regarding landfill methane emissions for the manuscript \"Investigation of US landfill GHG reporting program methane emission models\". \n\nThis dataset is associated with the following publication:\nStark, B., K. Tian, and M. Krause. Investigation of U.S. landfill GHG reporting program methane emission models.   WASTE MANAGEMENT. Elsevier Science Ltd, New York, NY, USA, 186: 86-93, (2024).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data for figures included in Investigation of U.S. landfill GHG reporting program methane emission models",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "ef9c6a8fbeff8192e3a22c98e26374614a1074003d0f14f5e617f86113d96714"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529424"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-08-16"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.wasman.2024.05.037"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f30c8fee-de58-4771-b064-9429d98a8fd4"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-08T01:40:55.408851",
+            "description": "Scihub%202024_Investigation%20of%20US%20landfill%20GHG%20models.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "93efa5de-73ff-46f6-96a1-0da7a67d8a6a",
+            "last_modified": null,
+            "metadata_modified": "2025-02-08T01:40:55.381408",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Scihub 2024_Investigation of US landfill GHG models.xlsx",
+            "package_id": "8e1be67e-75dd-4806-a7a0-96c8210ffffa",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529424/Scihub%202024_Investigation%20of%20US%20landfill%20GHG%20models.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "greenhouse-gas",
+            "id": "99246d47-89cc-4b9a-b752-ef0bd11797d7",
+            "name": "greenhouse-gas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "landfill",
+            "id": "8fa1c3ca-6228-4430-9928-4242453e4de9",
+            "name": "landfill",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "methane",
+            "id": "8a86604e-586f-4609-bbb7-489e40eddd15",
+            "name": "methane",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "modeling",
+            "id": "6dab039d-306b-4964-a66a-39a76a295408",
+            "name": "modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "municipal-solid-waste",
+            "id": "62c5cb20-1060-47b1-9551-6d0d37136897",
+            "name": "municipal-solid-waste",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 35,
+        "recent": 3
+    }
+}

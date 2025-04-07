@@ -1,0 +1,275 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b4c0e997-06d7-4ce5-8054-a12187fd4410",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Scott Telofski, U.S. EPA Office of Air and Radiation (OAR) - Office of Radiation and Indoor Air (ORIA)",
+    "maintainer_email": "contactperson@example.org",
+    "metadata_created": "2020-11-30T03:11:12.228186",
+    "metadata_modified": "2020-11-30T03:11:12.228201",
+    "name": "radnet-real-time-monitoring-spectrometry-data-inventory",
+    "notes": "The RadNet Real-Time Monitoring Spectrometry Data Inventory contains measured data used to identify and measure specific radioactive materials in the atmosphere at locations across the United States. This data is only collected from the monitors based on a triggered response requirement.The statutory authority leading to the collection of this information comes from Title I Section XII of the Clean Air Act and Title I Chapter XIV of the Atomic Energy Act.Substance classes include Radionuclides and HAPs.Hourly measured data that shows an abnormality is manually downloaded from the monitor the next business day.",
+    "num_resources": 1,
+    "num_tags": 15,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "RadNet Real-Time Monitoring Spectrometry Data Inventory",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "4978c641-58c2-488e-946c-76d6e6246c19"
+        },
+        {
+            "key": "issued",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OAR-ORIA Non-Geo Records"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BADEE4B24-5A16-41D6-A655-83401B95AF63%7D",
+                "https://edg.epa.gov/metadata/rest/document?id=%7BADEE4B24-5A16-41D6-A655-83401B95AF63%7D"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "dced8b38-1d73-40c5-aefc-930c8b61bc72"
+        },
+        {
+            "key": "source_hash",
+            "value": "015b79c542f1993735f0a0c649aac0e6447e9fd5"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Air and Radiation (OAR) - Office of Radiation and Indoor Air (ORIA)"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.htm"
+        },
+        {
+            "key": "modified",
+            "value": "2014-01-05"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/PUBLIC/OAR/ORIA/metadata/OAR-ORIA.json"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "irregular"
+        },
+        {
+            "key": "spatial",
+            "value": "-180.0,18.0,-66.0,72.0"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "ADEE4B24-5A16-41D6-A655-83401B95AF63"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-30T03:11:12.234415",
+            "description": "",
+            "format": "CSV",
+            "hash": "",
+            "id": "f6859190-793a-455b-9a91-8099ad5098c2",
+            "last_modified": null,
+            "metadata_modified": "2020-11-30T03:11:12.234415",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Comma Separated Values File",
+            "no_real_name": true,
+            "package_id": "b4c0e997-06d7-4ce5-8054-a12187fd4410",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/radnet/near-real-time-and-laboratory-data-state",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 17,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "clean-air-actm-atomic-energy-act",
+            "id": "cc88676d-d2d5-4295-95bd-b9a2690c4f88",
+            "name": "clean-air-actm-atomic-energy-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-protection-agency",
+            "id": "6879fc71-8504-4a81-a5c5-16a272bb2a46",
+            "name": "environmental-protection-agency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "epa",
+            "id": "eedf2d29-8d66-4673-98ed-2bc3cd2610d4",
+            "name": "epa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "haps",
+            "id": "9a8c090b-9c0d-4ae5-9dc9-6ddd06b56fc6",
+            "name": "haps",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oar",
+            "id": "94297ff0-1aa4-484d-b842-a5e816078538",
+            "name": "oar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "office-of-radiation-and-indoor-air",
+            "id": "6f23ef3a-0569-4bad-ba17-1c7687c45ab5",
+            "name": "office-of-radiation-and-indoor-air",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oria",
+            "id": "1628bf80-51e5-419e-9bb5-e3a4245defa0",
+            "name": "oria",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radioactive",
+            "id": "6e35d860-2858-4022-b2cc-d8980000f8ac",
+            "name": "radioactive",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radioactivity",
+            "id": "bb39dad3-7a81-47a7-a8a8-d64b16b51b72",
+            "name": "radioactivity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radionuclides",
+            "id": "e95368db-94d1-4b44-b966-b9f3fca18b92",
+            "name": "radionuclides",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radnet",
+            "id": "8c0173d1-5e64-4948-a2b4-1885edbd7a4a",
+            "name": "radnet",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radnet-real-time-monitoring-spectrometry",
+            "id": "c3a44429-1a62-43c6-aa85-83f15ac0236a",
+            "name": "radnet-real-time-monitoring-spectrometry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 196,
+        "recent": 4
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "bf16a3dc-a22f-47f3-845f-26150fae3855",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Julie Weitzman",
+    "maintainer_email": "weitzman.julie@epa.gov",
+    "metadata_created": "2022-06-06T02:38:08.652893",
+    "metadata_modified": "2022-06-06T02:38:08.652905",
+    "name": "vadose-zone-corvallis",
+    "notes": "This field study was designed to test different methods for measuring water and nutrient transport throughout the vadose zone. A pilot study was implemented to determine the feasibility of approach for comparing the impact of interseeding a cover crop into the sweet corn crop versus conventionally managing the sweet corn, without a cover crop. The field experiment was established in June 2016 with the uniform planting of a sweet corn crop across the whole ~2 ac site. In September 2016, monitoring networks were installed in two subfields, North and South, consisting of groundwater wells and vadose zone instrumentation installed near the center of each. Water was sampled every two weeks beginning in October 2016 and analyzed for a suite of nutrients and stable isotopes. We present four years of such nutrient data, along with post-harvest soil data, collected each September after plant harvest. Thus, the data reported herein comes from different measurement methods (monitoring wells, vadose zone lysimeters, post-harvest soil tests) that can be utilized when trying to understand hydrologic nitrate transport in the vadose zone and groundwater. \n\nThis dataset is associated with the following publication:\nHutchins, S., J. Weitzman, J. Brooks, J. Compton, B. Faulkner, S. Pearlstein, R.E. Peachey, M. White, and R. Coulombe. Using Vadose Zone Instruments and Post-Harvest Soil Nitrogen to Evaluate Nutrient Transport at an Agricultural Field Site. U.S. Environmental Protection Agency, Washington, DC, USA, 2022.",
+    "num_resources": 1,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Vadose Zone Corvallis",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1526412"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2022-05-05"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "06cc8b4f8fb06bf6880c339c43152a8a6af4b30a"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0be381f4-1266-47e1-8da6-3e2e563ca508"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-06-06T02:38:08.843142",
+            "description": "Hutchins%20et%20al._Vadose%20Zone%20Corvallis.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "e71f02e3-8d5f-44a2-ab24-ff747b99c9ad",
+            "last_modified": null,
+            "metadata_modified": "2022-06-06T02:38:08.843142",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Hutchins et al._Vadose Zone Corvallis.xlsx",
+            "package_id": "bf16a3dc-a22f-47f3-845f-26150fae3855",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526412/Hutchins%20et%20al._Vadose%20Zone%20Corvallis.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "agriculture",
+            "id": "5d759d19-2821-4f8a-9f1b-9c0d1da3291e",
+            "name": "agriculture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fate-and-transport",
+            "id": "b96888fb-644f-4abf-9a1f-4fd0db8660f2",
+            "name": "fate-and-transport",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "groundwater",
+            "id": "692bc2bf-4d42-4222-9794-b6196f106f94",
+            "name": "groundwater",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lysimeters",
+            "id": "93bf87ee-5edf-4e2b-8551-1b52e74cae77",
+            "name": "lysimeters",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrate",
+            "id": "3d1da94c-4b81-4e6c-b490-f088946d90ea",
+            "name": "nitrate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen",
+            "id": "547959b4-f904-484c-9a1e-0f6ab529e4b2",
+            "name": "nitrogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soil-water",
+            "id": "cc32799e-a7c7-4625-bd87-38db09a4986e",
+            "name": "soil-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vadose-zone",
+            "id": "a2d47027-3347-4a96-95e5-4844c078685f",
+            "name": "vadose-zone",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 2
+    }
+}

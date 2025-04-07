@@ -1,0 +1,235 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "cb45610c-f7b3-4714-80e5-3cca6df2eb6d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Wesley Ingwersen",
+    "maintainer_email": "ingwersen.wesley@epa.gov",
+    "metadata_created": "2021-06-15T13:30:17.424447",
+    "metadata_modified": "2023-07-25T06:49:10.788368",
+    "name": "impactworldv1-3-for-fedeflv1",
+    "notes": "ImpactWorld+ v1.3 (Bulle et al. 2019) is a life cycle impact assessment (LCIA) method. LCIA methods are collections of characterization factors, which are measures of relative potency or potential impact, for a given flow (e.g., NH3 to air) for a set of impact categories (e.g., acidification), provided in units of potency or impact equivalents per unit mass of the flowable associated with a given context (e.g., 1.88 kg SO2 eq/kg NH3 emitted to air). LCIA methods are typically used along with life cycle inventory data to estimate potential impacts in life cycle assessment (LCA).\n\nThe FEDEFL or Federal LCA Commons Elementary Flow List (EPA 2019) is the standardized elementary flow list for use with data meeting the US Federal LCA Commons data guidelines.\n\nIn this dataset, ImpactWorld+ is applied to FEDEFL v1.0.7 flows. This dataset was created by the LCIA Formatter v1.0 (https://github.com/USEPA/LCIAformatter). The LCIA Formatter is a tool for providing standardized life cycle impact assessment methods with characterization factors transparently applied to flows from an authoritative flow list, like the FEDEFL. The LCIA Formatter draws from the original ImpactWorld+ source file and the ImpactWorld+ to FEDEFL flow mapping. The LCIA formatter accesses this mapping file through the fedelemflowlist tool available at https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List. This mapping file and a note about the mapping are provided separately. The LCIA Formatter generates separate Midpoint and Endpoint impact assessment methods for ImpactWorld+.\n\nThe zip files are compressed archives of JSON files following the openLCA schema at https://greendelta.github.io/olca-schema. Separate files are provided for Midpoint and Endpoint methods. Usage Notes for zip files: The files were tested to correctly import into an openLCA v1.10 database already containing flows from the FEDEFL v1.0.7. They will provide matching characterization factors for any FEDEFL v1.0 to 1.0.7 elementary flow already present in the database. The files do not contain the associated elementary flows. The complete FEDEFL v1.0.7 flow list may be retrieved from the Federal LCA Commons elementary flow list repository at https://www.lcacommons.gov.\nThe .parquet file is in the LCIA Formatter's LCIAmethod format (https://github.com/USEPA/LCIAformatter/blob/v1.0.0/format%20specs/LCIAmethod.md). \n\nReferences\nBulle, Cecile, Manuele Margni, Laure Patouillard, Anne-Marie Boulay, Guillaume Bourgault, Vincent De Bruille, Viet Cao, et al. IMPACT World+: A Globally Regionalized Life Cycle Impact Assessment Method. The International Journal of Life Cycle Assessment 24, no. 9 (September 2019), 1653\u201374. https://doi.org/10.1007/s11367-019-01583-0.\nEPA 2019. The Federal LCA Commons Elementary Flow List: Background, Approach, Description and Recommendations for Use. https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=347251. \n\nThis dataset is associated with the following publication:\nYoung, B., M. Srocka, W. Ingwersen, B. Morelli, S. Cashman, and A. Henderson. LCIA Formatter.   Journal of Open Source Software. Journal of Open Source Software,    6(66): 3392, (2021).",
+    "num_resources": 3,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "ImpactWorld+v1.3 for FEDEFLv1",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "00a2cb0d89a7306d0bda05b0788c1d4f308cd0ae"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522444"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-05-11"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.21105/joss.03392",
+                "https://pasteur.epa.gov/uploads/10.23719/1522444/documents/ImpactWorld%2Bv1.3toFEDEFLv1.0.7mapping.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522444/documents/About_ImpactWorld%2Bv1.3toFEDEFLv1.0.7mapping.txt"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "3abfd83e-701d-4d24-b38a-449f6bb171f5"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-15T13:30:17.513939",
+            "description": "ImpactWorld%2B%20-%20Midpoint_json_v1.0.0.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c7b0c68b-627d-4e77-9b0a-853156da5133",
+            "last_modified": null,
+            "metadata_modified": "2021-06-15T13:30:17.513939",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "ImpactWorld+ - Midpoint_json_v1.0.0.zip",
+            "package_id": "cb45610c-f7b3-4714-80e5-3cca6df2eb6d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522444/ImpactWorld%2B%20-%20Midpoint_json_v1.0.0.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-15T13:30:17.513946",
+            "description": "ImpactWorld%2B%20-%20Endpoint_json_v1.0.0.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "dd6380d4-6559-44b0-a260-2447f5ae214f",
+            "last_modified": null,
+            "metadata_modified": "2021-06-15T13:30:17.513946",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "ImpactWorld+ - Endpoint_json_v1.0.0.zip",
+            "package_id": "cb45610c-f7b3-4714-80e5-3cca6df2eb6d",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522444/ImpactWorld%2B%20-%20Endpoint_json_v1.0.0.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:10.819220",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "f7da5d07-075c-420c-942e-5b4e5862545f",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:10.796427",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://dmap-data-commons-ord.s3.amazonaws.com/lciafmt/impactworld/ImpactWorld%2B_v1.0.0_5555779.parquet",
+            "package_id": "cb45610c-f7b3-4714-80e5-3cca6df2eb6d",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://dmap-data-commons-ord.s3.amazonaws.com/lciafmt/impactworld/ImpactWorld%2B_v1.0.0_5555779.parquet",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "impact-methods",
+            "id": "87642175-b67a-415a-a0c6-e33457d82123",
+            "name": "impact-methods",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lca-data",
+            "id": "7b221575-df67-498e-a80b-7905bdae79a3",
+            "name": "lca-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lcia",
+            "id": "0c4ea150-5fc7-4b5d-a784-96862ff47041",
+            "name": "lcia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lcia-formatter",
+            "id": "3364ade7-0df0-4057-b1ad-6cd6a6981b1c",
+            "name": "lcia-formatter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-impact-assessment",
+            "id": "2b5f75ee-dab7-4391-a756-fe07f28ad284",
+            "name": "life-cycle-impact-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 151,
+        "recent": 1
+    }
+}

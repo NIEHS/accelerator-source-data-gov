@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "4d6d8cc3-3d4f-453e-a002-19dc9e53a2f1",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Gerald Ankley",
+    "maintainer_email": "ankley.gerald@epa.gov",
+    "metadata_created": "2021-03-29T21:32:32.981731",
+    "metadata_modified": "2021-03-29T21:32:32.981741",
+    "name": "maumee-river-2012-and-2016",
+    "notes": "The Maumee River and associated tributaries are an example of a system influenced by a mosaic of contaminant inputs from point and nonpoint sources along a gradient of land uses. To assess the potential effects of contaminants on aquatic biota in a system this complex requires a combination of targeted and nontargeted analytical and biological monitoring techniques to provide data that can be assembled and interpreted in an integrated manner. The aim of the current paper was to provide a practical demonstration of this type of approach using a variety of state-of-the-science pathway-based tools. Studies conducted in 2012 and 2106 showed that contaminants in the upper part of the Maumee River reflect agricultural practices, while downstream, the suite of chemicals present includes those from agriculture in conjunction with contaminants more indicative of a general urban setting, influenced in some areas by WWTP inputs. Biological responses using in vitro assays with surface water samples, and measures of biological responses in caged fish deployed a various sites in the Maumee River were used to assess the potential for perturbation of specific biological pathways. Overall there was little evidence for contaminant effects on endocrine pathways involved is reproduction or development. However, multiple lines of evidence suggested the presence of contaminants that could inhibit or induce  cytochrome P450-based enzymes thereby influencing biological pathways/processes associated with these ubiquitous proteins. \n\nThis dataset is associated with the following publication:\nAnkley, G., J. Berninger, B. Blackwell, J. Cavallin, T. Collette, D. Ekman, K. Fay, D. Feifarek, K. Jensen, M. Kahl, J. Mosley, S. Poole, E. Randolph, D. Rearick, A. Schroeder, J. Swintek, and D. Villeneuve. Pathway-based approaches for assessing biological hazards of complex mixtures of contaminants: A case study in the Maumee River.   ENVIRONMENTAL TOXICOLOGY AND CHEMISTRY. Society of Environmental Toxicology and Chemistry, Pensacola, FL, USA, 40(4): 1098\u20131122, (2021).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Maumee River 2012 and 2016",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/etc.4949"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c8587c6f-cbab-4d23-8610-5af397a11676"
+        },
+        {
+            "key": "source_hash",
+            "value": "d3b839a298fd06c611462ef22a4a85d43531f3a3"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2021-02-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520748"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:33.039823",
+            "description": "Maumee%20Bay%20Science%20Hub%20File_Revised.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "83f0deea-b357-429e-96c7-86548a4762a3",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:33.039823",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Maumee Bay Science Hub File_Revised.xlsx",
+            "package_id": "4d6d8cc3-3d4f-453e-a002-19dc9e53a2f1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520748/Maumee%20Bay%20Science%20Hub%20File_Revised.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "adverse-outcome-pathway",
+            "id": "6c32dde5-d17f-444d-b996-e48a9d05ca8b",
+            "name": "adverse-outcome-pathway",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aquatic-ecosystems",
+            "id": "179f5285-53bb-43d2-8c7a-511de9bdb4f0",
+            "name": "aquatic-ecosystems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "contaminant-mixtures",
+            "id": "08ed2afa-d254-4462-952a-2c2b878c2d55",
+            "name": "contaminant-mixtures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecotoxicology",
+            "id": "0994d8ba-74d1-41d8-ae22-4717e1c8e1b1",
+            "name": "ecotoxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "endocrine-disruption",
+            "id": "3b5a8278-b816-43f3-8934-6704f464f46d",
+            "name": "endocrine-disruption",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "field",
+            "id": "bfee699a-7260-4fc9-9df6-fdd2952ad6c8",
+            "name": "field",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "screening-and-prioritization",
+            "id": "4d896dac-5224-4102-a6a1-d903c8da6263",
+            "name": "screening-and-prioritization",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 88,
+        "recent": 1
+    }
+}

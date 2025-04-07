@@ -1,0 +1,198 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "6f269fdf-53a3-4375-b725-56e69bdaf9f6",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Tony McDonald",
+    "maintainer_email": "mcdonald.tony@epa.gov",
+    "metadata_created": "2024-08-03T22:53:12.733038",
+    "metadata_modified": "2024-08-03T22:53:12.733044",
+    "name": "report-on-evaluation-of-the-interaction-based-hazard-index-formula-with-data-on-trihalomet",
+    "notes": "The endpoints selected for evaluation of the HIINT formula were percent relative liver weight of mice (PcLiv) and the logarithm of ALT [Log(ALT)], where the log transformation was used to help stabilize the increases in variance with dose found in the ALT dataset.",
+    "num_resources": 1,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Report on Evaluation of the Interaction-based Hazard Index Formula with Data on Trihalomethanes",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "e8d4a4a107953e80317ab000a8b8439522e9f1488cceb98d6cda79995a1e2820"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531675"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-04-23"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1c0e6edc-b189-4aa0-a076-cbaba0900a21"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-08-03T22:53:12.758375",
+            "description": "Appendix%20A-9_Interact-HI-THMs_2021-01-31.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "b53fe666-b00f-4ba8-bc3d-a617982638e9",
+            "last_modified": null,
+            "metadata_modified": "2024-08-03T22:53:12.712110",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Appendix A-9_Interact-HI-THMs_2021-01-31.docx",
+            "package_id": "6f269fdf-53a3-4375-b725-56e69bdaf9f6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531675/Appendix%20A-9_Interact-HI-THMs_2021-01-31.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "binary-interaction-weight-of-evidence",
+            "id": "c501993e-b667-4725-a865-fa4ecf215b7d",
+            "name": "binary-interaction-weight-of-evidence",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chemical-mixtures",
+            "id": "e670a2f9-4120-4668-9573-ce9e2c27632c",
+            "name": "chemical-mixtures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chemical-mixtures-risk-assessment",
+            "id": "b38bd84f-74f8-4a33-8aff-be06250983db",
+            "name": "chemical-mixtures-risk-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dose-addition",
+            "id": "c0f093ab-eb9d-4afb-8f4d-be2ce3d16410",
+            "name": "dose-addition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dose-additivity",
+            "id": "ee97f716-52ba-47de-8e91-e4f37c2cdb86",
+            "name": "dose-additivity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hazard-index",
+            "id": "1984f68d-8425-4786-a28a-8815f0c856ad",
+            "name": "hazard-index",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "interactions",
+            "id": "b1e99905-8b4c-4579-af1a-43cc70949f7e",
+            "name": "interactions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mixture-effective-dose-estimation",
+            "id": "30ab9f31-03c8-4edb-9c58-160517146892",
+            "name": "mixture-effective-dose-estimation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 2
+    }
+}

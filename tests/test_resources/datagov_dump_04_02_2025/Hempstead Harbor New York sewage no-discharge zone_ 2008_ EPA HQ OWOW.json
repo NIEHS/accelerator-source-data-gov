@@ -1,0 +1,202 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "9d766885-5b59-4905-9960-3066eeac0f0a",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:22:18.335561",
+    "metadata_modified": "2025-02-25T05:22:18.335566",
+    "name": "hempstead-harbor-new-york-sewage-no-discharge-zone-2008-epa-hq-owow12",
+    "notes": "This is a No Discharge Area (NDA) for Hempstead Harbor, NY. The actual NDA areas/polygons were primarily created using narrative description from Federal Register notices and digitized against basemap data for hydrography and from recent aerial photography.",
+    "num_resources": 0,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Hempstead Harbor (New York) sewage no-discharge zone, 2008, EPA HQ OWOW",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "496BF6F1-75EC-4A9D-8B05-6C4C8A8A10EB"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "102039"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2009-07-23\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2024-03-14"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "Watts-Fitzgerald.Kelsey@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2008-11-06T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2009-07-23T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 2, GIS Team\", \"roles\": [\"pointOfContact\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-73.630722"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "40.866587"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "40.800801"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-73.690943"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.690943, 40.800801], [-73.630722, 40.800801], [-73.630722, 40.866587], [-73.690943, 40.866587], [-73.690943, 40.800801]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.690943, 40.800801], [-73.630722, 40.800801], [-73.630722, 40.866587], [-73.690943, 40.866587], [-73.690943, 40.800801]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "eb39f3f5-c067-4c97-8df3-2eebd87ce9d1"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:078",
+            "id": "27141278-172c-47a3-82e2-60abc043aaf8",
+            "name": "020:078",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "marine",
+            "id": "f7696055-3160-4418-b9eb-29c5dc716390",
+            "name": "marine",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new york",
+            "id": "940de59b-e4bf-478d-b975-1f6fb5f998fa",
+            "name": "new york",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water",
+            "id": "143854aa-c603-4193-9c89-232e63461fa4",
+            "name": "water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

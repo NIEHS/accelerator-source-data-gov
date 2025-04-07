@@ -1,0 +1,329 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "35704d7d-22ae-45e2-85f3-e6294c2104c9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "John Darling",
+    "maintainer_email": "darling.john@epa.gov",
+    "metadata_created": "2020-11-12T13:44:08.184260",
+    "metadata_modified": "2020-11-12T13:44:08.184266",
+    "name": "assessing-threats-of-non-native-species-to-native-freshwater-biodiversity-conservation-pri",
+    "notes": "Non-native species pose one of the greatest threats to native biodiversity, and may have particularly severe negative impacts in freshwater ecosystems. Identifying regions of spatial overlap between high freshwater biodiversity value and elevated stress associated with non-native species can thus inform the determination of conservation priorities. Here we employ geospatial analysis of species distribution data at the watershed scale, extracted from publicly available databases, to investigate the potential threat of non-native species to vulnerable aquatic animal taxa across the continental United States. We mapped non-native aquatic plant and animal species richness and an index of cumulative invasion pressure, which weights non-native richness by time since introduction in order to estimate overall negative impact associated with species introductions. These distributions were compared to distributions of native aquatic animal taxa (fish, amphibians, mollusks, and decapods) derived from the International Union for the Conservation of Nature (IUCN) database. To identify hotspots of native biodiversity value we mapped overall species richness, proportion of species listed by IUCN as threatened and endangered, and a community index of species rarity calculated at the watershed scale. An overall priority index allowed identification of watersheds experiencing high pressure from non-native species and also exhibiting high native biodiversity conservation value. While these priority regions are roughly consistent with previously reported attempts to map biodiversity conservation needs across the US, we also recognize novel priority areas characterized by moderate-to-high native diversity but extremely high invasion pressure. We further explore the utility of this approach by comparing priority areas with existing conservation protections as well as projected future threats associated with land use change. Our findings suggest that many regions of elevated freshwater biodiversity value are compromised by high invasion pressure, and also may be poorly safeguarded by existing conservation mechanisms and likely to experience significant additional stresses in the future. \n\nThis dataset is associated with the following publication:\nPanlasigui, S., A. Davis, M. Mangiante, and J. Darling. Assessing threats of non-native species to native freshwater biodiversity: Conservation priorities for the United States.   BIOLOGICAL CONSERVATION. Elsevier Science Ltd, New York, NY, USA, 224: 199-208, (2018).",
+    "num_resources": 6,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Assessing threats of non-native species to native freshwater biodiversity: Conservation priorities for the United States",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.biocon.2018.05.019"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "bd4af980-bc78-4f9c-b8e4-bc3cce98831a"
+        },
+        {
+            "key": "source_hash",
+            "value": "0198f9cb8f9c6e7cec8d3043d799e09b77cce142"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-08-10"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1407599"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:08.219165",
+            "description": "MASTER_wPriorityIndex_HUC8_v3_variabledictionary.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "017854be-d438-4c93-a3f7-b41ce2f2a2cc",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:08.219165",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "MASTER_wPriorityIndex_HUC8_v3_variabledictionary.csv",
+            "package_id": "35704d7d-22ae-45e2-85f3-e6294c2104c9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407599/MASTER_wPriorityIndex_HUC8_v3_variabledictionary.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:08.219172",
+            "description": "MASTER_wPriorityIndex_HUC8_v3.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "129d79d9-44e0-4f38-bada-2e163afa6481",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:08.219172",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "MASTER_wPriorityIndex_HUC8_v3.csv",
+            "package_id": "35704d7d-22ae-45e2-85f3-e6294c2104c9",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407599/MASTER_wPriorityIndex_HUC8_v3.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:08.219176",
+            "description": "NativeExtantRichnessAndRarity_HUC8.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "fdc8930e-7a26-49c8-9118-95000cd3817e",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:08.219176",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "NativeExtantRichnessAndRarity_HUC8.csv",
+            "package_id": "35704d7d-22ae-45e2-85f3-e6294c2104c9",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407599/NativeExtantRichnessAndRarity_HUC8.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:08.219179",
+            "description": "NativeExtantRichnessAndRarity_HUC8_variabledictionary.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "57a87f95-e2c7-486f-aa0b-4e55895e786d",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:08.219179",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "NativeExtantRichnessAndRarity_HUC8_variabledictionary.csv",
+            "package_id": "35704d7d-22ae-45e2-85f3-e6294c2104c9",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407599/NativeExtantRichnessAndRarity_HUC8_variabledictionary.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:08.219181",
+            "description": "nonNativeRich_HUC12.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "7e25f913-5f88-4013-9801-aa524cf69ed9",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:08.219181",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "nonNativeRich_HUC12.csv",
+            "package_id": "35704d7d-22ae-45e2-85f3-e6294c2104c9",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407599/nonNativeRich_HUC12.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:08.219184",
+            "description": "nonNativeRich_HUC12_variabledictionary.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "2fc68440-ef7d-4902-98e0-0eae6bbbedea",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:08.219184",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "nonNativeRich_HUC12_variabledictionary.csv",
+            "package_id": "35704d7d-22ae-45e2-85f3-e6294c2104c9",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407599/nonNativeRich_HUC12_variabledictionary.csv",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "biodiversity",
+            "id": "f47bab1b-9f80-4d5a-b030-a224e425af7b",
+            "name": "biodiversity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "enviroatlas",
+            "id": "d7f1ada0-95b7-4655-baa9-dcf9925e7c19",
+            "name": "enviroatlas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "freshwater-biodiversity",
+            "id": "46ca4d9e-da33-4776-8f3d-163660b16c10",
+            "name": "freshwater-biodiversity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "geospatial-analysis",
+            "id": "42b8dca3-1fcb-4a6d-bdba-c905c3fc5d09",
+            "name": "geospatial-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "invasive-species",
+            "id": "8f8f9cfe-da28-4000-bc54-73953de4eabe",
+            "name": "invasive-species",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "non-indigenous-aquatic-species",
+            "id": "3691d23b-cb36-4786-aaab-510dad03d9a4",
+            "name": "non-indigenous-aquatic-species",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "priority-mapping",
+            "id": "1e6f0a47-d2d8-474c-bec9-02a15e3f45f6",
+            "name": "priority-mapping",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "threatened-and-endangered-species",
+            "id": "6066f73b-c409-47cf-93cd-e81a1954b13f",
+            "name": "threatened-and-endangered-species",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 403,
+        "recent": 12
+    }
+}

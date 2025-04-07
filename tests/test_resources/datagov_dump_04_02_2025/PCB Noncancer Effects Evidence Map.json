@@ -1,0 +1,334 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "510e08d7-5d38-4a0c-9272-189ceae3980b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Laura Carlson",
+    "maintainer_email": "carlson.laura@epa.gov",
+    "metadata_created": "2023-02-18T04:38:11.466049",
+    "metadata_modified": "2024-10-20T06:56:31.451554",
+    "name": "pcb-noncancer-effects-evidence-map",
+    "notes": "Supporting data for the peer reviewed manuscript \"A systematic evidence map for the evaluation of noncancer health effects and exposures to polychlorinated biphenyl mixtures\" and the accompanying government report \"A Systematic Evidence Map of Noncancer Health Endpoints and Exposures to Polychlorinated Biphenyl (PCB) Mixtures\". \n\nThis dataset is associated with the following publications:\nCarlson, L., K. Christensen, S. Sagiv, P. Rajan, C. Klocke, P. Lein, E. Coffman, R. Shaffer, E. Yost, X. Arzuaga Andino, P. Factor-Litvak, A. Sergeev, M. Toborek, M. Bloom, J. Trgovcich, T. Jusko, L. Robertson, J. Meeker, A. Keating, R. Blain, R. Silva, S. Snow, C. Lin, K. Shipkowski, B. Ingle, and G. Lehmann. A Systematic Evidence Map for The Evaluation of Noncancer Health Effects and Exposures to Polychlorinated Biphenyl Mixtures.   ENVIRONMENTAL RESEARCH. Elsevier B.V., Amsterdam,  NETHERLANDS, 220: 115148, (2023).\nCarlson, L., G. Lehmann, E. Yost, B. Ingle, E. Coffman, K. Christensen, R. Shaffer, J. Trgovcich, S. Sagiv, P. Rajan, C. Klocke, P. Lein, A. Sergeev, M. Bloom, M. Toborek, L. Robertson, T. Jusko, J. Meeker, A. Keating, C. Lin, K. Shipkowski, and R. Silva. Systematic Evidence of Noncancer Health Effects of PCB Mixtures. U.S. Environmental Protection Agency, Washington, DC, USA, 2023.",
+    "num_resources": 7,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "PCB Noncancer Effects Evidence Map",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "b32972d11236cf6e88a98a7f21d93f675b0b575eb811e8fc4687fafeb7e731cd"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1526314"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-10-15"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.envres.2022.115148",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10013199"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d466e478-bd1a-465f-a994-f433bda0b56a"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-02-18T04:38:11.476232",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "fc7c8ec1-bd6f-4b34-a9b3-921cf738aa7d",
+            "last_modified": null,
+            "metadata_modified": "2023-02-18T04:38:11.450044",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://hawc.epa.gov/assessment/100500282/",
+            "package_id": "510e08d7-5d38-4a0c-9272-189ceae3980b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://hawc.epa.gov/assessment/100500282/",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-02-18T04:38:11.476236",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "7644ba54-e919-44db-b337-4fd9abe2e92c",
+            "last_modified": null,
+            "metadata_modified": "2023-02-18T04:38:11.450237",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sciencedirect.com/science/article/pii/S0013935122024756#mmc1",
+            "package_id": "510e08d7-5d38-4a0c-9272-189ceae3980b",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.sciencedirect.com/science/article/pii/S0013935122024756#mmc1",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-02-18T04:38:11.476238",
+            "description": "PCB%20SEM%20supplemental%20word%20file.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "2389a0a8-ab2d-4291-baf5-23e8bdf0bda8",
+            "last_modified": null,
+            "metadata_modified": "2023-02-18T04:38:11.450405",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "PCB SEM supplemental word file.docx",
+            "package_id": "510e08d7-5d38-4a0c-9272-189ceae3980b",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526314/PCB%20SEM%20supplemental%20word%20file.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-02-18T04:38:11.476241",
+            "description": "PCB%20SEM%20Endnote%20files.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "88c9fc34-ad4e-4b82-a0fa-4879b27e267c",
+            "last_modified": null,
+            "metadata_modified": "2023-02-18T04:38:11.450756",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "PCB SEM Endnote files.zip",
+            "package_id": "510e08d7-5d38-4a0c-9272-189ceae3980b",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526314/PCB%20SEM%20Endnote%20files.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-20T06:56:31.511498",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "908441cc-ad4b-4e4e-b4f3-c47149258ed7",
+            "last_modified": null,
+            "metadata_modified": "2024-10-20T06:56:31.477094",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://iris.epa.gov/Document/&deid=357285",
+            "package_id": "510e08d7-5d38-4a0c-9272-189ceae3980b",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://iris.epa.gov/Document/&deid=357285",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-20T06:56:31.511502",
+            "description": "PCB%20Supplementary%20File%201_Environmental%20Research%20journal%20article.xlsx",
+            "format": "application/x-tika-ooxml",
+            "hash": "",
+            "id": "8cb03e5f-3cb6-4554-ab19-7845f8d5d5a9",
+            "last_modified": null,
+            "metadata_modified": "2024-10-20T06:56:31.477227",
+            "mimetype": "application/x-tika-ooxml",
+            "mimetype_inner": null,
+            "name": "PCB Supplementary File 1_Environmental Research journal article.xlsx",
+            "package_id": "510e08d7-5d38-4a0c-9272-189ceae3980b",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526314/PCB%20Supplementary%20File%201_Environmental%20Research%20journal%20article.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-20T06:56:31.511504",
+            "description": "PCB%20Supplementary%20File%201_EPA600R22201F.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "017b4542-bb6d-49ef-82ad-f2bbdf6d3917",
+            "last_modified": null,
+            "metadata_modified": "2024-10-20T06:56:31.477344",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "PCB Supplementary File 1_EPA600R22201F.xlsx",
+            "package_id": "510e08d7-5d38-4a0c-9272-189ceae3980b",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526314/PCB%20Supplementary%20File%201_EPA600R22201F.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "hazard-identification",
+            "id": "553ab9a7-5692-421a-9a90-5dbaf6eeb779",
+            "name": "hazard-identification",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mixture",
+            "id": "3b485252-9c2a-4d84-bda8-8b36e6cf1cc7",
+            "name": "mixture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "polychlorinated-biphenyl",
+            "id": "61641755-0050-4e9a-9a88-35e6d0a38a30",
+            "name": "polychlorinated-biphenyl",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "systematic-evidence-map",
+            "id": "c2f0c4e2-ea18-48c2-a2bc-4aecfe23af3c",
+            "name": "systematic-evidence-map",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "systematic-review",
+            "id": "b5ca1d09-167c-4ebc-a28e-59eb3ca6370b",
+            "name": "systematic-review",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 85,
+        "recent": 7
+    }
+}

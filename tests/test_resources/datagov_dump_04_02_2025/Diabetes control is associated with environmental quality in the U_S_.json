@@ -1,0 +1,168 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b5a2815b-0b6f-4ad0-9c28-4496a3a46975",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Danelle Lobdell",
+    "maintainer_email": "lobdell.danelle@epa.gov",
+    "metadata_created": "2022-07-21T06:18:34.835809",
+    "metadata_modified": "2022-07-21T06:18:34.835819",
+    "name": "diabetes-control-is-associated-with-environmental-quality-in-the-u-s",
+    "notes": "Population-based county-level estimates for prevalence of DC were obtained from the Institute for Health Metrics and Evaluation (IHME) for the years 2004-2012 (16). DC prevalence rate was defined as the propor-tion of people within a county who had previously been diagnosed with diabetes (high fasting plasma glu-cose \uf0b3126 mg/dL, hemoglobin A1c (HbA1c) of \uf0b36.5%, or diabetes diagnosis) but do not currently have high fasting plasma glucose or HbA1c for the period 2004-2012. DC prevalence estimates were calculated using a two-stage approach. The first stage used National Health and Nutrition Examination Survey (NHANES) data to predict high fasting plasma glucose (FPG) levels (\u2265126 mg/dL) and/or HbA1C levels (\u22656.5% [48 mmol/mol]) based on self-reported demographic and behavioral characteristics (16). This model was then applied to Behavioral Risk Factor Surveillance System (BRFSS) data to impute high FPG and/or HbA1C status for each BRFSS respondent (16). The second stage used the imputed BRFSS data to fit a series of small area models, which were used to predict county-level prevalence of diabetes-related outcomes, including DC (16).\nThe EQI was constructed for 2006-2010 for all US counties and is composed of five domains (air, water, built, land, and sociodemographic), each composed of variables to represent the environmental quality of that domain. Domain-specific EQIs were developed using principal components analysis (PCA) to reduce these variables within each domain while the overall EQI was constructed from a second PCA from these individual domains (L. C. Messer et al., 2014). To account for differences in environment across rural and urban counties, the overall and domain-specific EQIs were stratified by rural urban continuum codes (RUCCs) (U.S. Department of Agriculture, 2015).\nResults are reported as prevalence rate differences (PRD) with 95% confidence intervals (CIs) comparing the highest quintile/worst environmental quality to the lowest quintile/best environmental quality expo-sure metrics. PRDs are representative of the entire period of interest, 2004-2012. Due to availability of DC data and covariate data, not all counties were captured, however, the majority, 3134 of 3142 were utilized in the analysis. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Human health data are not available publicly. EQI data are available at: https://edg.epa.gov/data/Public/ORD/NHEERL/EQI. Format: Data are stored as csv files. \n\nThis dataset is associated with the following publication:\nJagai, J., A. Krajewski, K. Price, D. Lobdell, and R. Sargis. Diabetes control is associated with environmental quality in the USA.   Endocrine Connections. BioScientifica Ltd., Bristol,  UK, 10(9): 1018-1026, (2021).",
+    "num_resources": 0,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Diabetes control is associated with environmental quality in the U.S.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1519255"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2020-07-31"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1530/ec-21-0132"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "source_hash",
+            "value": "2d21c3fd189fe9c13710ace92dc8f13f340f3239"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "5b52fc80-ec98-4e1d-83fb-efbc9f936277"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "built-environment",
+            "id": "66e7d342-c772-41cc-aaf3-288b5055070a",
+            "name": "built-environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-quality",
+            "id": "80e6c743-36bc-4642-9f9a-fb0fc22805f2",
+            "name": "environmental-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land-quality",
+            "id": "a4e61d2e-ffcf-410c-92b1-59ea13fc8796",
+            "name": "land-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sociodemographic-quality",
+            "id": "b12f841e-fdcd-4e81-98a7-833bbfbd5289",
+            "name": "sociodemographic-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 455,
+        "recent": 18
+    }
+}

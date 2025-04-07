@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "fea050f5-cd53-49ac-8e39-7a43e4bfe2ec",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Caroline Stevens",
+    "maintainer_email": "stevens.caroline@epa.gov",
+    "metadata_created": "2023-07-24T11:21:37.041729",
+    "metadata_modified": "2023-07-24T11:21:37.041734",
+    "name": "a-multiple-linear-regression-approach-to-the-estimation-of-carboxylic-acid-ester-and-lacto",
+    "notes": "The dataset contains identifying information (name, SMILES string), measured hydrolysis rate constants, and calculated molecular descriptors for 223 carboxylic acid esters and 108 lactones. The descriptors include pKa values, charge (and electronegativity), charge density (by H\u00fcckel analysis), and steric parameters (both topological and geometrical). \n\nThis dataset is associated with the following publication:\nLazare, J., C. Stevens, and E. Weber. A multiple linear regression approach to the estimation of carboxylic acid ester and lactone alkaline hydrolysis rate constants.   SAR AND QSAR IN ENVIRONMENTAL RESEARCH. Taylor & Francis, Inc., Philadelphia, PA, USA, 34(3): 183-210, (2023).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "A Multiple Linear Regression Approach to the Estimation of Carboxylic Acid Ester and Lactone Alkaline Hydrolysis Rate Constants",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "7bf50e65b8028a6bd9ede244fbb550eff74767f1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528417"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-03-28"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1080/1062936x.2023.2188608"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d6ba7dd1-2a8d-47f0-baef-cda49aa770a5"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-24T11:21:37.046753",
+            "description": "CAEandLactoneHydrolysisDataset_final.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "62edc7a1-73f5-4df4-ab35-e2b79178ce0c",
+            "last_modified": null,
+            "metadata_modified": "2023-07-24T11:21:37.029110",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "CAEandLactoneHydrolysisDataset_final.xlsx",
+            "package_id": "fea050f5-cd53-49ac-8e39-7a43e4bfe2ec",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528417/CAEandLactoneHydrolysisDataset_final.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cheminformatics",
+            "id": "7af8d2a6-01c7-4414-b439-d034809913e2",
+            "name": "cheminformatics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrolysis",
+            "id": "ad48e569-6bf7-4af8-aacb-9cc5071da054",
+            "name": "hydrolysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "predictive-model",
+            "id": "44f03383-a545-4762-ae3b-cfd23964aed3",
+            "name": "predictive-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "qsar",
+            "id": "74761a8a-b8e5-4c39-910b-7a7811087d67",
+            "name": "qsar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rate-constant",
+            "id": "ea383178-3943-415d-a50c-41d547fb7106",
+            "name": "rate-constant",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 136,
+        "recent": 11
+    }
+}

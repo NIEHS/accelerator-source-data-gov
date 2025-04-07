@@ -1,0 +1,208 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "944c1e59-9229-4490-a542-57da70228625",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Elin Ulrich",
+    "maintainer_email": "ulrich.elin@epa.gov",
+    "metadata_created": "2020-11-12T13:45:46.794992",
+    "metadata_modified": "2020-11-12T13:45:46.794999",
+    "name": "genesis-and-study-design-for-epas-non-targeted-analysis-collaborative-trial-entact",
+    "notes": "Detection by GC and LC for ENTACT chemicals and OPERA predicted physicochemical properties for manuscript Figures 3 and 4. \n\nThis dataset is associated with the following publication:\nUlrich, E., J. Sobus, C. Grulke, A. Richard, S. Newton, M. Strynar, K. Mansouri, and A. Williams. EPA\u2019s non-targeted analysis collaborative trial (ENTACT): genesis, design, and initial findings.   Analytical and Bioanalytical Chemistry. Springer, New York, NY, USA, 411(4): 853-866, (2019).",
+    "num_resources": 2,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Genesis and Study Design for EPA's Non-Targeted Analysis Collaborative Trial (ENTACT)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s00216-018-1435-6"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d41f2273-e1a1-4ab3-8264-92dd0a4c364d"
+        },
+        {
+            "key": "source_hash",
+            "value": "33b1af4545864d1454691dc18fd71c1bb796ad5c"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-07-05"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502488"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:46.815917",
+            "description": "ENTACT%20Study%20Design%20data%20for%20SciHub.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "4db81453-0c59-4eb6-bd6b-c28b6d1246f4",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:46.815917",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ENTACT Study Design data for SciHub.xlsx",
+            "package_id": "944c1e59-9229-4490-a542-57da70228625",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502488/ENTACT%20Study%20Design%20data%20for%20SciHub.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:46.815927",
+            "description": "Supplemental%20Tables.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "1ce81064-eed0-4209-8827-0116b77b3fd1",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:46.815927",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Supplemental Tables.xlsx",
+            "package_id": "944c1e59-9229-4490-a542-57da70228625",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502488/Supplemental%20Tables.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "comptox-chemistry-dashboard",
+            "id": "9bfe7e1a-a48e-4009-b75b-a03edb1add55",
+            "name": "comptox-chemistry-dashboard",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exposome",
+            "id": "46ba9a91-a6f4-492e-8354-bd50db454d2f",
+            "name": "exposome",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "high-resolution-mass-spectrometry",
+            "id": "084335aa-86e7-4859-9b6d-ebe28d107f8f",
+            "name": "high-resolution-mass-spectrometry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "round-robin-or-ring-trial",
+            "id": "c5714a4c-6c8e-43b4-b72e-495df1733126",
+            "name": "round-robin-or-ring-trial",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxcast",
+            "id": "70635af7-3a18-4955-a75a-d5f55cc5901b",
+            "name": "toxcast",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 104,
+        "recent": 1
+    }
+}

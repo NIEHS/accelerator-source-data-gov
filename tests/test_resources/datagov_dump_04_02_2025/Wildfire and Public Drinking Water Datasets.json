@@ -1,0 +1,269 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "53b3f09f-814a-47a8-9731-35b333a9254b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Pennino",
+    "maintainer_email": "pennino.michael@epa.gov",
+    "metadata_created": "2023-02-18T04:38:11.442032",
+    "metadata_modified": "2023-02-18T04:38:11.442038",
+    "name": "wildfire-and-public-drinking-water-datasets",
+    "notes": "These datasets contain the public drinking water contaminant violation, concentration data, wildfire data, and other supplementary datasets used to assess the impact of wildfire events on concentrations and violations.  There is data for nitrate, arsenic, volatile organic compounds (VOCs), and two disinfection byproducts (DBPs): total trihalomethanes (TTHM) and haloacetic acids (HAA5). \n\nThis dataset is associated with the following publication:\nPennino, M., S. Leibowitz, J. Compton, M. Beyene, and S. LeDuc. Wildfires can increase regulated nitrate, arsenic, and disinfection byproduct violations and concentrations in public drinking water supplies manuscript.   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 804: 1-15, (2021).",
+    "num_resources": 3,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Wildfire and Public Drinking Water Datasets",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "3bf56ee91875ee99ae4ee896cef18d050fe74c9e"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522864"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-06-24"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2021.149890",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/CDC_CONC_BURN_HAA5_sw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/CDC_CONC_BURN_As_gw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/CDC_CONC_BURN_TTHM_sw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/CDC_CONC_BURN_NO3_sw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/CDC_CONC_BURN_NO3_gw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/Metadata_Pennino_Wildfire_DrinkingWater_2020.xlsx",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_CDC_HAA5.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_CDC_As_gw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_CDC_NO3_gw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_CDC_NO3_SW.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_CDC_TTHM.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_SDWIS_As_gw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_SDWIS_HAA5.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_SDWIS_NO3_GW.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_SDWIS_NO3_SW.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_SDWIS_TTHM.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/noburn_cats_SDWIS_VOCs.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/CDC_raw_data_concentration_all_Arsenic.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/SDWIS_VIOL_BURN_As_gw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/SDWIS_VIOL_BURN_HAA5_sw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/SDWIS_VIOL_BURN_NO3_gw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/SDWIS_VIOL_BURN_NO3_sw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/SDWIS_VIOL_BURN_TTHM_sw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/SDWIS_VIOL_BURN_VOC_sw.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/CDC_raw_data_concentration_all_TTHM.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/SDWIS_raw_data_violations_MCL_ALL_Contaminants_Single_ActiveInactive_2019Q1.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/CDC_raw_data_concentration_all_HAA5.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/SDWIS_raw_data_violations_MCL_ALL_Contaminants_Average_ActiveInactive_2019Q1.csv"
+            ]
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1522864/documents/Data_Dictionary_Pennino_Wildfire_DrinkingWater_2020.xlsx"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "5212e453-6a48-45a5-9ea3-873259612007"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-02-18T04:38:11.453316",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "b0070f32-790f-4d4c-9c81-158bb83258eb",
+            "last_modified": null,
+            "metadata_modified": "2023-02-18T04:38:11.425827",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://ofmpub.epa.gov/apex/sfdw/f?p=108:1:0::NO::P1_REPORT:WS",
+            "package_id": "53b3f09f-814a-47a8-9731-35b333a9254b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://ofmpub.epa.gov/apex/sfdw/f?p=108:1:0::NO::P1_REPORT:WS",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-02-18T04:38:11.453322",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "06567fc8-6d21-40fd-a1b0-0cf324b14d3a",
+            "last_modified": null,
+            "metadata_modified": "2023-02-18T04:38:11.426014",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.mtbs.gov/",
+            "package_id": "53b3f09f-814a-47a8-9731-35b333a9254b",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "url": "https://www.mtbs.gov/",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-02-18T04:38:11.453325",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "9de36431-ebf7-44b6-bdd6-8bf718df3a29",
+            "last_modified": null,
+            "metadata_modified": "2023-02-18T04:38:11.426168",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.cdc.gov/nceh/tracking/",
+            "package_id": "53b3f09f-814a-47a8-9731-35b333a9254b",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.cdc.gov/nceh/tracking/",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "arsenic",
+            "id": "8d4273a7-b2fc-45f8-85dc-23eda4ab84a3",
+            "name": "arsenic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "disinfection-byproducts",
+            "id": "4b6a64a5-051f-4ad8-aac3-c3063ed9c2d0",
+            "name": "disinfection-byproducts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrate",
+            "id": "3d1da94c-4b81-4e6c-b490-f088946d90ea",
+            "name": "nitrate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wildfires",
+            "id": "e2b6a2be-d65d-4e7f-b40b-509d1811e19e",
+            "name": "wildfires",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 84,
+        "recent": 1
+    }
+}

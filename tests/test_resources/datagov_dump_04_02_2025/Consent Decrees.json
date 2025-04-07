@@ -1,0 +1,387 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "db0c9516-1c5f-4bb1-ac21-a15ea210a1a2",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Moshay Simpson, U.S. EPA Office of Enforcement and Compliance Assurance (OECA)",
+    "maintainer_email": "simpson.moshay@epa.gov",
+    "metadata_created": "2020-12-04T18:21:18.384833",
+    "metadata_modified": "2020-12-04T18:21:18.384847",
+    "name": "consent-decrees",
+    "notes": "EPAs Office of Enforcement and Compliance Assurance (OECA)  cases and settlements webpage contains links to selected settlements resolving civil enforcement cases and, in some cases, complaints filed initiating civil judicial and administrative enforcement actions.  Typically, the links are to settlements about which we have issued a press release.  This is not a complete repository of all enforcement actions taken by or on behalf of EPA.  Rather, it represents a subset of enforcement cases, taken civil judicially or administratively, which may be of national interest.  Most of the settlements are civil judicial consent decrees resolving alleged violations of environmental laws (e.g., the Clean Air Act, the Clean Water Act).  In some instances, the website includes significant enforcement actions resolved by the Environmental Appeals Board (EAB). In addition, please note that the cases and settlements webpage does not include:Most administrative enforcement actions; Most civil judicial cases resolving liability under CERCLA; Criminal enforcement matters.",
+    "num_resources": 1,
+    "num_tags": 31,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Consent Decrees",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "08ce26ad-8ea9-4d1f-bedb-22d7678bcda5"
+        },
+        {
+            "key": "issued",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OECA Non-Geo Records"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://edg.epa.gov/metadata/rest/document?id=%7B4EDAD0CE-D8CB-4C47-B264-8326B468CEC3%7D",
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B4EDAD0CE-D8CB-4C47-B264-8326B468CEC3%7D"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4eca6e6c-243f-49b7-8ded-57d7a59a7e06"
+        },
+        {
+            "key": "source_hash",
+            "value": "6b51daed53808fb9e124d6ed4c028e0e97cf8d63"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Enforcement and Compliance Assurance (OECA)"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/PUBLIC/OECA/metadata/OECA.json"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "irregular"
+        },
+        {
+            "key": "spatial",
+            "value": "-180.0,18.0,-66.0,72.0"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "4EDAD0CE-D8CB-4C47-B264-8326B468CEC3"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-04T18:21:18.396742",
+            "description": "",
+            "format": "CSV",
+            "hash": "",
+            "id": "d5f1753c-f237-41f9-b060-4ae925759d6f",
+            "last_modified": null,
+            "metadata_modified": "2020-12-04T18:21:18.396742",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Comma Separated Values File",
+            "no_real_name": true,
+            "package_id": "db0c9516-1c5f-4bb1-ac21-a15ea210a1a2",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://cfpub.epa.gov/enforcement/cases/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 35,
+                "recent": 9
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "and-liability-act",
+            "id": "8f2623fb-ff5d-45fa-b3f3-4f2df76801f0",
+            "name": "and-liability-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "and-rodenticide-act",
+            "id": "53babdf2-3e5e-4b05-a309-f48f71afe2de",
+            "name": "and-rodenticide-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "caa",
+            "id": "44eea503-2738-4969-9dbd-7f0913f7bc01",
+            "name": "caa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cases",
+            "id": "93557493-c9f7-4018-b730-c5bf8501ff33",
+            "name": "cases",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cercla",
+            "id": "0ef6e46c-1968-4bdb-a4e5-75ee2ada9bcf",
+            "name": "cercla",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "clean-air-act",
+            "id": "23fd3bca-b8b8-4146-8cb6-cd8ff50382e0",
+            "name": "clean-air-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "clean-water-act",
+            "id": "46adde13-744b-4962-97bf-548782fa5623",
+            "name": "clean-water-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "compensation",
+            "id": "89967019-7041-472b-83a2-a84e1ed40768",
+            "name": "compensation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "comprehensive-environmental-response",
+            "id": "03578ad7-6be2-48eb-9816-4ec07de638e8",
+            "name": "comprehensive-environmental-response",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "consent-decrees",
+            "id": "8579e5bf-4092-4073-9f43-f93ac877236d",
+            "name": "consent-decrees",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cwa",
+            "id": "645a4e28-5331-45cc-a19c-8ec2576f0473",
+            "name": "cwa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "federal-insecticide",
+            "id": "1bbc9a43-dfa1-488a-9da8-22a1eaeac07f",
+            "name": "federal-insecticide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fifra",
+            "id": "217721a0-143a-4a9e-956f-e374b53c2d1c",
+            "name": "fifra",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fungicide",
+            "id": "2fe4665c-3734-428f-b2c4-7255c0356d25",
+            "name": "fungicide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oeca",
+            "id": "7f36a0ba-94d3-4afa-a75b-98ac2a2651fd",
+            "name": "oeca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "office-of-enforcement-and-compliance-assurance",
+            "id": "e4e62fe3-1b1e-443c-b2a3-536b25f09a34",
+            "name": "office-of-enforcement-and-compliance-assurance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "policy-documents",
+            "id": "cb1ea0c7-5502-4ce9-b580-3ed877464edf",
+            "name": "policy-documents",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "press-releases",
+            "id": "a96050f6-4d5e-4531-8e68-3b94028a0413",
+            "name": "press-releases",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rcra",
+            "id": "ccee049f-f901-4659-ae87-d679aa844572",
+            "name": "rcra",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regulations",
+            "id": "cc6313da-0c6c-462e-99b1-09cb8a8b83bc",
+            "name": "regulations",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "resource-conservation-and-recovery-act",
+            "id": "56518fd4-f834-4540-b688-2deba456907d",
+            "name": "resource-conservation-and-recovery-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "safe-water-drinking-act",
+            "id": "ac597aa5-1d51-43ac-bb69-5fc187c6eb1d",
+            "name": "safe-water-drinking-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "settlement-information-sheets",
+            "id": "8f2afb0e-2979-4c3e-bc44-73c38e320de7",
+            "name": "settlement-information-sheets",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "settlements",
+            "id": "f173d4fb-2f36-49fd-be94-38bc822b699d",
+            "name": "settlements",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "statutes",
+            "id": "eb82d3f9-c73e-42fa-9f22-31d99555e1f2",
+            "name": "statutes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "superfund",
+            "id": "b62aad6d-f035-4d3f-a623-912e9b3eb871",
+            "name": "superfund",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "swda",
+            "id": "e8a02d7b-7ced-4318-8ee2-f8f377804bda",
+            "name": "swda",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxic-substance-control-act",
+            "id": "94931358-4cf2-46bb-95d9-57ceae54a19a",
+            "name": "toxic-substance-control-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tsca",
+            "id": "0a881ac0-3281-419a-89a3-f2c21c342f4a",
+            "name": "tsca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1116,
+        "recent": 8
+    }
+}

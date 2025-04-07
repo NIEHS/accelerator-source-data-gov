@@ -1,0 +1,364 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "a33d117a-0913-498d-9efb-6f4d0088eb52",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:30:37.478327",
+    "metadata_modified": "2025-02-25T05:30:37.478332",
+    "name": "epa-region-6-reap-sustainability-geodatabase13",
+    "notes": "The Regional Ecological Assessment Protocol (REAP) is a screening level assessment tool created as a way to identify priority ecological resources within the five EPA Region 6 states (Arkansas, Louisiana, New Mexico, Oklahoma, and Texas). The REAP divides eighteen individual measures into three main sub-layers: diversity, rarity, and sustainability. This geodatabase contains the 2 grids (sustain and sustainrank) representing the sustainability layer which describes the state of the environment in terms of stability (sustainble areas are those that can maintain themselves into the future without human management). There are eleven measures that make up the sustainability layer: contiguous land cover, regularity of ecosystem boundary, appropriateness of land cover, waterway obstruction, road density, airport noise, Superfund sites, Resource Conservation and Recovery Act (RCRA) sites, water quality, air quality, and urban/agriculture disturbance. Each cell in the final sustain grid has a score of between 1 and 100 based on the average of the eleven measures. Cells with higher scores represent areas that are more sustainable. Cells with lower scores represent areas that are the least sustainable. In the sustainrank grid, the cells are placed into the following 5 groups based on the score: 1 (top 1% of scores), 10 (top 10% of scores), 25 (top 25% of scores), 50 (top 50% of scores), and 100 (all the rest of the scores). See the metadata for each individual layer for more detailed information.",
+    "num_resources": 3,
+    "num_tags": 17,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EPA Region 6 REAP Sustainability Geodatabase",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "9686F0DC-570F-4455-B6B0-D2F393BB6159"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "4269"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2011-06-28\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2021-05-12"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "kirkland.robert@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "notPlanned"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2005-03-01T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2011-06-28T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"US EPA, Region 6\", \"roles\": [\"resourceProvider\", \"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-89"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "37"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "25"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-109"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-109.0, 25.0], [-89.0, 25.0], [-89.0, 37.0], [-109.0, 37.0], [-109.0, 25.0]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-109.0, 25.0], [-89.0, 25.0], [-89.0, 37.0], [-109.0, 37.0], [-109.0, 25.0]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2c107b6c-906f-4eb0-89a4-4ae5625c3ec4"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:37.480726",
+            "description": "r6reap_sustainability.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5f2c088a-669a-4f53-a3d6-d8e168c2e64b",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:37.458966",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Zip File",
+            "no_real_name": true,
+            "package_id": "a33d117a-0913-498d-9efb-6f4d0088eb52",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://edg.epa.gov/data/PUBLIC/R6/REAP/r6reap_sustainability.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:37.480729",
+            "description": "r6reap_sustainability.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "64caecb5-7920-4346-8b7d-06bfc674157b",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:37.459072",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Zip File",
+            "no_real_name": true,
+            "package_id": "a33d117a-0913-498d-9efb-6f4d0088eb52",
+            "position": 1,
+            "resource_locator_function": "offlineAccess",
+            "resource_locator_protocol": "file",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://edg.epa.gov/data/PUBLIC/R6/REAP/r6reap_sustainability.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:37.480730",
+            "description": "r6reap_sustainability.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1a760622-87bb-4043-90b6-c8630cbfba35",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:37.459159",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Zip File",
+            "no_real_name": true,
+            "package_id": "a33d117a-0913-498d-9efb-6f4d0088eb52",
+            "position": 2,
+            "resource_locator_function": "offlineAccess",
+            "resource_locator_protocol": "file",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://edg.epa.gov/data/PUBLIC/R6/REAP/r6reap_sustainability.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:070",
+            "id": "4fe5b651-5874-49b4-bf6c-912a7ffbecbd",
+            "name": "020:070",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arkansas",
+            "id": "caffc820-98d1-44a6-bc7a-701da018ff7a",
+            "name": "arkansas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biology",
+            "id": "cf9163b6-d5e3-407d-bee3-1117ca29b756",
+            "name": "biology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "conservation",
+            "id": "6cd69121-a855-4647-bb10-13528995f29b",
+            "name": "conservation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecology",
+            "id": "f1bf9844-1fe9-4726-b4d6-4b1031328d1a",
+            "name": "ecology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem",
+            "id": "76ce6029-c904-4ad7-a8dd-531c90a09522",
+            "name": "ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "impact",
+            "id": "fa3a6e79-299b-44e3-bb38-df453f7cb7df",
+            "name": "impact",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "indicator",
+            "id": "fecbb921-c364-48ed-9436-69d5b3a57dfb",
+            "name": "indicator",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land",
+            "id": "899e1294-851a-4804-95fa-e0c5a45f19fc",
+            "name": "land",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "louisiana",
+            "id": "305ec236-ebfd-4b12-a6ab-56f1135f1234",
+            "name": "louisiana",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "management",
+            "id": "136bd9fa-8661-4e11-904b-b4f71cef0184",
+            "name": "management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "modeling",
+            "id": "6dab039d-306b-4964-a66a-39a76a295408",
+            "name": "modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "natural resources",
+            "id": "199ef54a-58f4-48ff-8edd-ffc0a762fa08",
+            "name": "natural resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new mexico",
+            "id": "e79c2ba6-bd42-4b31-8289-93fcc1554d07",
+            "name": "new mexico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oklahoma",
+            "id": "bbf16c39-b456-45e5-81bc-980ae4a42275",
+            "name": "oklahoma",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "texas",
+            "id": "41f19b7c-6fe6-4041-9229-fcba0278a6c9",
+            "name": "texas",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

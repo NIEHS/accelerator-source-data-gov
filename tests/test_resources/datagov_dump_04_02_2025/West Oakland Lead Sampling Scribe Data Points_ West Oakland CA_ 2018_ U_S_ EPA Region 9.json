@@ -1,0 +1,360 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "33f208a3-9c10-49e4-aeee-1e60aec33f37",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:11:27.366053",
+    "metadata_modified": "2025-02-25T05:11:27.366058",
+    "name": "west-oakland-lead-sampling-scribe-data-points-west-oakland-ca-2018-u-s-epa-region-913",
+    "notes": "This feature class contains 436 points depicting lead sampling locations across West Oakland, California taken during the 2018 Urban Metals Study.\nThe U.S. Environmental Protection Agency (EPA) and the California Department of Toxic Substances Control (DTSC) have partnered on a project in West Oakland to study lead in soil. Lead is a heavy metal that is often found in urban soil. It usually comes from sources such as chipped paint on pre-1978 housing, historic pollution from leaded gas, or lead recycling (smelting). Children exposed to lead can have health problems, including impaired brain and physical development. In June 2018, EPA and DTSC took soil samples in city-owned property along streets, not private property, at nearly 200 randomly selected locations across West Oakland. This area was selected because of its mix of possible sources of lead, including industry, older homes that may be painted with leaded paint and nearby freeways.",
+    "num_resources": 5,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "West Oakland Lead Sampling (Scribe) Data Points, West Oakland CA, 2018, U.S. EPA Region 9",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "AA3B092F-98D8-40BC-9237-7070E29CFFE7"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"creation\", \"value\": \"2018-06-29\"}, {\"type\": \"publication\", \"value\": \"2019-09-30\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2022-08-19"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "henley.cheryl@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "notPlanned"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "underDevelopment"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2017-02-25T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2017-12-31T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 9\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-122.270441"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "37.826347"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "37.802476"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-122.303139"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.303139, 37.802476], [-122.270441, 37.802476], [-122.270441, 37.826347], [-122.303139, 37.826347], [-122.303139, 37.802476]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.303139, 37.802476], [-122.270441, 37.802476], [-122.270441, 37.826347], [-122.303139, 37.826347], [-122.303139, 37.802476]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "417e098a-88c8-43b5-853d-48d7ac580083"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:11:27.372714",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "78994a6c-c7e7-4aea-a581-c31f7bd279e3",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:11:27.354424",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Public Web Map",
+            "package_id": "33f208a3-9c10-49e4-aeee-1e60aec33f37",
+            "position": 0,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://epa.maps.arcgis.com/home/item.html?id=6ae0247753e742f09fff8829402fcdb8",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:11:27.372717",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "b538ebf1-1c98-4733-b8ca-a024d5138dc9",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:11:27.354531",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "U.S. EPA West Oakland Urban Metals Study Website",
+            "package_id": "33f208a3-9c10-49e4-aeee-1e60aec33f37",
+            "position": 1,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://response.epa.gov/site/site_profile.aspx?site_id=12690",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:11:27.372719",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "c016683a-f082-42f0-b9b4-9df6c56dd15d",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:11:27.354615",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Link to full metadata in EDG",
+            "package_id": "33f208a3-9c10-49e4-aeee-1e60aec33f37",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://edg.epa.gov/metadata/rest/document?id=%7BAA3B092F-98D8-40BC-9237-7070E29CFFE7%7D",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:11:27.372720",
+            "description": "SFD1903597_WestOaklandUrbanMetalsStudy.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e111dc80-191b-4d45-b49c-fc79b823c8d5",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:11:27.354711",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Link to data download in EDG",
+            "package_id": "33f208a3-9c10-49e4-aeee-1e60aec33f37",
+            "position": 3,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://edg.epa.gov/data/PUBLIC/R9/SFD1903597_WestOaklandUrbanMetalsStudy.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:11:27.372722",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "6fe23970-ba21-45dc-a818-c9c5bd8b8a1f",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:11:27.354793",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "33f208a3-9c10-49e4-aeee-1e60aec33f37",
+            "position": 4,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "website",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 9,
+                "recent": 2
+            },
+            "url": "http://www.epa.gov/region09/",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:106",
+            "id": "69242009-f29a-4602-9474-c1ebdf1d847b",
+            "name": "020:106",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biology",
+            "id": "cf9163b6-d5e3-407d-bee3-1117ca29b756",
+            "name": "biology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "california",
+            "id": "364760b8-6576-42af-b0c5-278dec4415e7",
+            "name": "california",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oakland",
+            "id": "7fb39c32-b52a-4a10-adae-f7b280d19fac",
+            "name": "oakland",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "region 9",
+            "id": "c751d3f1-ded3-4405-b004-f148cc800d53",
+            "name": "region 9",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "scribe",
+            "id": "fbfe24cf-d11a-46c8-b29e-151b6f466128",
+            "name": "scribe",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sites",
+            "id": "dc7cc095-eb1c-40f0-afb5-f9968a1d82ee",
+            "name": "sites",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "urban metals study",
+            "id": "9f5b53be-b814-486a-b2ae-57a022699aee",
+            "name": "urban metals study",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 2
+    }
+}

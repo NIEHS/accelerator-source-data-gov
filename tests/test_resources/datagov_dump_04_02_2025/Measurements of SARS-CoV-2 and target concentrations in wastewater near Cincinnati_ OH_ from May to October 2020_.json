@@ -1,0 +1,212 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "dd9b5aac-e486-49c7-b9c3-28ed4367f4a5",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Maitreyi Nagarkar",
+    "maintainer_email": "nagarkar.maitreyi@epa.gov",
+    "metadata_created": "2023-05-04T22:58:49.877670",
+    "metadata_modified": "2023-05-04T22:58:49.877675",
+    "name": "measurements-of-sars-cov-2-and-target-concentrations-in-wastewater-near-cincinnati-oh-from",
+    "notes": "This dataset contains the raw droplet counts resulting from of ddPCR or RT-ddPCR of nucleic acid extracts from wastewater. The wastewater was collected from three different sewersheds in Southwest Ohio (Mill Creek WWTP, Taylor Creek WWTP, and a sub-sewershed, Lick Run). ddPCR counts (positive droplets and total droplets) are provided for the following targets: N1 and N2 (SARS-CoV-2 nucleocapsid genes), crAssphage, PMMoV, HF183 (all fecal indicators), and OC43 (an RNA spike-in from a cultured coronavirus). Other metadata (pH, flow, temperature, TSS, CBOD5) are provided where available. \n\nThis dataset is associated with the following publication:\nNagarkar, M., S. Keely, M. Jahne, E. Wheaton, C. Hart, B. Smith, J. Garland, E. Varughese, A. Braam, B. Wiechman, B. Morris, and N. Brinkman. SARS-CoV-2 Monitoring at three sewersheds of different scales and complexity demonstrates distinctive relationships between wastewater measurements and COVID-19 case data.   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 816: 151534, (2022).",
+    "num_resources": 1,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Measurements of SARS-CoV-2 and target concentrations in wastewater near Cincinnati, OH, from May to October 2020.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "eb08f674a61b730185b4e699b704f8114d2bc2d4"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522921"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-07-21"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2021.151534",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8590472"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "16433067-e010-48b5-af33-cee21d36022f"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-04T22:58:49.895985",
+            "description": "SupplementaryTable3_072121.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "602cca10-09af-408e-9259-e84cd5c9676b",
+            "last_modified": null,
+            "metadata_modified": "2023-05-04T22:58:49.858146",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "SupplementaryTable3_072121.xlsx",
+            "package_id": "dd9b5aac-e486-49c7-b9c3-28ed4367f4a5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522921/SupplementaryTable3_072121.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "centralized-wastewater-treatment-system",
+            "id": "79392d17-b64e-4d39-9fe7-f7f526287bfa",
+            "name": "centralized-wastewater-treatment-system",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "coronavirus-disease-2019",
+            "id": "d178958d-d2e7-4850-93f4-ae19f945cb28",
+            "name": "coronavirus-disease-2019",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "covid-19-surveillance",
+            "id": "0b3f70b1-1d46-448a-b269-438ee1030739",
+            "name": "covid-19-surveillance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "crassphage",
+            "id": "44dfe186-fd47-41f7-860d-f8bedc671b61",
+            "name": "crassphage",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ddpcr",
+            "id": "5fc2e645-649f-4005-9764-89e7e9a69c65",
+            "name": "ddpcr",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hf183",
+            "id": "1a8cbf20-1990-44e4-8a21-0997a0dadc38",
+            "name": "hf183",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ohio",
+            "id": "00c7081e-4155-4a54-9432-0905da42e744",
+            "name": "ohio",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pmmov",
+            "id": "38a1dcca-1c9e-4c45-9cd6-41dfd0337e8a",
+            "name": "pmmov",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sewershed",
+            "id": "fed76cc3-3511-4c16-afa4-4200188f913a",
+            "name": "sewershed",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 35,
+        "recent": 1
+    }
+}

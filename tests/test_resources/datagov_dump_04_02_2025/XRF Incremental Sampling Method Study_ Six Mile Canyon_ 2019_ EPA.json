@@ -1,0 +1,251 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "fca934ae-22aa-4d31-879e-c28e3503fd41",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:51:40.816866",
+    "metadata_modified": "2025-02-25T05:51:40.816872",
+    "name": "xrf-incremental-sampling-method-study-six-mile-canyon-2019-epa12",
+    "notes": "The current conceptual site model (CSM) includes data gaps related to the extent of mercury contamination throughout the site, as well as the presence of other metal contaminants in soil. This study focuses on three areas in OU01: the Six Mile Canyon Area in Dayton, NV, the California Pan Mill Area in Virginia City, NV, and the Sacramento Mill Area just north of Virginia City, NV.  Surface and near surface soils with COC concentration greater than the project action limits present a potential risk for direct contact and soil migration. Data gaps exist in the understanding the sources, extent, and migration pathways of contaminants at this area and the applicability of the Incremental Sampling (IS) and (X-ray Fluorescence (XRF) approach to comply with the LTSRP. The project will address these data gaps through incremental sampling and real time XRF.\n\nData was compiled and evaluated for the IS Study where field sample collection techniques were evaluated as part of this study using XRF. Sample processing included seiving, to compare ISM with the current LTSRP method based on four five-point composite samples per residential parcel. The goal to is to validate the CSM and improve the screening of vast areas of mercury-contaminated soils while continuing to evaluate the performance of X-ray fluorescence (XRF) instrumentation for the simultaneous analysis of mercury (Hg), lead (Pb) and arsenic (As) in soil affected by the mining operations associated with the Comstock Lode. however sample processing will be. The most effective processing and analytical techniques will be selected for use in a follow-up study which will evaluate field sample collection. It is anticipated that the most effective and efficient sampling and analysis techniques will be incorporated into future investigations for the Carson River area.\n\nGeneral Comments: The location coordinates represent the center point of the Decision Unit (DU) as calculated by GIS. For DUs that cross roads or driveways (SMCD2 and SMCSCR-South) the midpoint may plot in the middle of the road. The center point for SMCCBS was selected manually due to the unusual shape of the DU. The calculated GIS center point falls outside of the DU.  DU columns provided on each tab for easy sorting and QC check. It is not a critical data point since the DU name is embedded in the Sample ID. For Source Units (SU) samples, the DU column is N/A if the SU was located outside of a DU, this column is filled out if the SU was located inside of a DU. Date represents sample collection date.\n  \nTab-Specific Comments: XRF field results did not use unique Lab ID sample #s so left that column blank. Did not establish specific XRF reporting limits for this project. Manually added a \u201cU\u201d for the XRF ND samples to match the lab formats. Region 9 lab results for the XRF comparison samples: Left all the ICP metals in the database. R9 lab DMA data only reported Pb, As, Se, and Hg per the team decision. SPLP Extraction #2 results for the samples selected for leaching analysis - removed the rows that identify the extraction procedure and contained no lab data. SPLP Extraction #3 results for the samples selected for leaching analysis - removed the rows that identify the extraction procedure and contained no lab data. Notes column indicates this is DI water extraction.",
+    "num_resources": 0,
+    "num_tags": 13,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "XRF Incremental Sampling Method Study, Six Mile Canyon, 2019, EPA",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "0F3FA73D-380A-4A8C-A670-7BF0F754A357"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "4326"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2019-07-30\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2020-08-11"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "watson.sarah@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": ""
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2019-07-10T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2019-07-30T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"Superfund and Emergency Management Division U.S. EPA Region 9\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"EPA\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-119.554299"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "39.326195"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "39.303506"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-119.64402"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.64402, 39.303506], [-119.554299, 39.303506], [-119.554299, 39.326195], [-119.64402, 39.326195], [-119.64402, 39.303506]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.64402, 39.303506], [-119.554299, 39.303506], [-119.554299, 39.326195], [-119.64402, 39.326195], [-119.64402, 39.303506]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b7a114c2-3f91-4021-a63c-589a1d31a76e"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:109",
+            "id": "f8234244-c5e2-4e6f-a81a-bb21ebffc1cc",
+            "name": "020:109",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "california pan mill",
+            "id": "60257402-3784-4ef5-99f7-dfa723bb78b9",
+            "name": "california pan mill",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "incremental sampling method (ism) study",
+            "id": "49f6d8d2-7c97-4225-a25d-15f0052bf3aa",
+            "name": "incremental sampling method (ism) study",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mercury reference cups",
+            "id": "f2231b6c-fa5f-4712-85a4-154fac507d57",
+            "name": "mercury reference cups",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mill sites",
+            "id": "d0245835-a826-47db-841d-785a1b6f366b",
+            "name": "mill sites",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nevada",
+            "id": "2830ad14-05eb-44b7-8533-96336d133990",
+            "name": "nevada",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sacramento mill",
+            "id": "e7c13cb5-762a-4d6e-975e-5df50f6e50e6",
+            "name": "sacramento mill",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sixmile canyon fan",
+            "id": "a310a186-d6e2-44a1-926a-d7b1ef5212e6",
+            "name": "sixmile canyon fan",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tailings piles",
+            "id": "97abb523-7af9-4d80-a074-96dce635323d",
+            "name": "tailings piles",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "x-ray fluorescence (xrf)",
+            "id": "2d79f796-a813-444e-8912-d943fbe19ca9",
+            "name": "x-ray fluorescence (xrf)",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 1
+    }
+}

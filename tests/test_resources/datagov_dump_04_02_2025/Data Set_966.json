@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "4905a0af-7eac-4af9-86c8-4ba06ec65556",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Todd Luxton",
+    "maintainer_email": "luxton.todd@epa.gov",
+    "metadata_created": "2020-11-12T13:45:12.881082",
+    "metadata_modified": "2020-11-12T13:45:12.881089",
+    "name": "data-set",
+    "notes": "The dataset  contains data on the dynamic light scattering measurements that were conducted and reported in the manuscript.  The average size of the silver nanoparticles used is presented along with a time series of measurements measuring how the measured hydrodynamic diameter changed in the presence of Ampicillin over a 12 hour time period. \n\nThis dataset is associated with the following publication:\nSurwade, P., C. Ghildyal, C. Weikel, T. Luxton, D. Peloquin, F. Xin, and V. Shah. Augmented antibacterial activity of ampicillin with silver nanoparticles against methicillin-resistant Staphylococcus aureus (MRSA).   The Journal of Antibiotics. Springer Nature Group, New York, NY,  72(2): 50-53, (2019).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data Set",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1038/s41429-018-0111-6"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "02573058-c567-429b-9862-2a3d39f1f3f0"
+        },
+        {
+            "key": "source_hash",
+            "value": "27900dab9c7dd5720356aca5af08214eb2f22770"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-03-12"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503460"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:12.885363",
+            "description": "Science%20Hub%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0ae9ed02-beb8-45b0-8742-b361387ab615",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:12.885363",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Science Hub Data.xlsx",
+            "package_id": "4905a0af-7eac-4af9-86c8-4ba06ec65556",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503460/Science%20Hub%20Data.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "antibacterial",
+            "id": "ff64789a-41ca-41a5-bc20-642a6210cd8e",
+            "name": "antibacterial",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "antibiotics",
+            "id": "a26aff42-9127-4ffd-b57e-4e894bfb7f50",
+            "name": "antibiotics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mrsa",
+            "id": "529a2085-5658-4f8b-91d6-e97e38e8f5da",
+            "name": "mrsa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nanoparticle",
+            "id": "0a5bfb46-42cf-4fd7-9a87-ded08b0522d1",
+            "name": "nanoparticle",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "silver",
+            "id": "d55cc33e-da86-49c9-ba80-30c622e68a84",
+            "name": "silver",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 156,
+        "recent": 3
+    }
+}

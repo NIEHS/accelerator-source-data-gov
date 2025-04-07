@@ -1,0 +1,308 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "a0793b3d-1590-472d-95fa-67ad38f959ca",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Kirk Scheckel",
+    "maintainer_email": "scheckel.kirk@epa.gov",
+    "metadata_created": "2020-11-12T13:44:00.215609",
+    "metadata_modified": "2020-11-12T13:44:00.215619",
+    "name": "table-formatted-data-for-figures-1-2-3-4-5-and-6-regarding-point-of-zero-charge",
+    "notes": "This study utilized the Pb- and As-contaminated soils to determine the combined effect of pH with respect to PZC and different rates of P-application on pyromorphite formation, and Pb and arsenic (As) bioaccessibility as impacted by speciation changes. Solution chemistry analysis along with synchrotron-based Pb- and As-speciation, and bioaccessibility treatment effect ratios (TERs) were conducted. \n\nThis dataset is associated with the following publication:\nKarna, R., M. Noerpel, T. Luxton, and K. Scheckel. Point of Zero Charge: Role in Pyromorphite Formation and Bioaccessibility of Lead and Arsenic in Phosphate-Amended Soils.   Soil Systems. MDPI AG, Basel,  SWITZERLAND, 2(2): 22, (2018).",
+    "num_resources": 6,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Table formatted data for Figures 1, 2, 3, 4, 5, and 6 regarding point of zero charge",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/soilsystems2020022"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8280ac30-47b8-4442-bb30-5d34fe663846"
+        },
+        {
+            "key": "source_hash",
+            "value": "f63b14bf3210e1b355a66cf1ede60b935b1f2019"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-03-28"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1435031"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:00.241906",
+            "description": "Table%20for%20Fig.%201a%2C1b%2C1c%2C1d.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3acf4c4b-0cc9-4c32-9912-af940140775e",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:00.241906",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Table for Fig. 1a,1b,1c,1d.xlsx",
+            "package_id": "a0793b3d-1590-472d-95fa-67ad38f959ca",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1435031/Table%20for%20Fig.%201a%2C1b%2C1c%2C1d.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:00.241913",
+            "description": "Table%20for%20Fig.%205a%2C5b%2C5c%2C5d.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "296ec054-04eb-4af4-b42a-746fb8da59f0",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:00.241913",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Table for Fig. 5a,5b,5c,5d.xlsx",
+            "package_id": "a0793b3d-1590-472d-95fa-67ad38f959ca",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1435031/Table%20for%20Fig.%205a%2C5b%2C5c%2C5d.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:00.241916",
+            "description": "Table%20for%20Fig.3.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "4cb5bb5e-a24d-4e39-acd7-9da6b40c274c",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:00.241916",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Table for Fig.3.xlsx",
+            "package_id": "a0793b3d-1590-472d-95fa-67ad38f959ca",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1435031/Table%20for%20Fig.3.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:00.241919",
+            "description": "Table%20for%20Fig.%202a%2C2b%2C2c%2C2d.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d7737d8a-d2b2-4f2b-b07a-aa0278ce4d1b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:00.241919",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Table for Fig. 2a,2b,2c,2d.xlsx",
+            "package_id": "a0793b3d-1590-472d-95fa-67ad38f959ca",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1435031/Table%20for%20Fig.%202a%2C2b%2C2c%2C2d.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:00.241921",
+            "description": "Table%20for%20Fig.%206a%2C6b%2C6c%2C6d.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5f3779c2-c9cb-44bf-a490-9ec336235b49",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:00.241921",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Table for Fig. 6a,6b,6c,6d.xlsx",
+            "package_id": "a0793b3d-1590-472d-95fa-67ad38f959ca",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1435031/Table%20for%20Fig.%206a%2C6b%2C6c%2C6d.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:00.241924",
+            "description": "Table%20for%20Fig.4.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3547c933-ed36-4a08-a7d5-49eddaa126bd",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:00.241924",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Table for Fig.4.xlsx",
+            "package_id": "a0793b3d-1590-472d-95fa-67ad38f959ca",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1435031/Table%20for%20Fig.4.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "arsenic",
+            "id": "8d4273a7-b2fc-45f8-85dc-23eda4ab84a3",
+            "name": "arsenic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-situ-amendments",
+            "id": "995d8094-12a5-4005-b01c-ff10d02b87d0",
+            "name": "in-situ-amendments",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lead",
+            "id": "3208a57e-f3bb-4d6c-9a9a-b0101de6d5e0",
+            "name": "lead",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "metal-bioavailability",
+            "id": "5d2475f1-55d1-4451-8eb6-20650befc4c1",
+            "name": "metal-bioavailability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "synchrotron-speciation",
+            "id": "ea7afa94-4a84-4b8c-a6e2-f498f9e64bfa",
+            "name": "synchrotron-speciation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 93,
+        "recent": 1
+    }
+}

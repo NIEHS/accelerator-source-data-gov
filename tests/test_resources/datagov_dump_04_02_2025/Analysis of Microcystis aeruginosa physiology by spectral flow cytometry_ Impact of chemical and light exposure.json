@@ -1,0 +1,171 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "2ea61234-16f5-4801-861e-c27fac60b071",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Robert Zucker",
+    "maintainer_email": "zucker.robert@epa.gov",
+    "metadata_created": "2023-11-26T02:01:19.305753",
+    "metadata_modified": "2023-11-26T02:01:19.305763",
+    "name": "analysis-of-microcystis-aeruginosa-physiology-by-spectral-flow-cytometry-impact-of-chemica",
+    "notes": "Analysis of Microcystis aeruginosa physiology by spectral flow cytometry: Impact of chemical and light exposure. new technique to observe photosynthesis to monitor the health or cyanobacteria and their reaction to hydrogen peroxide. This dataset is not publicly accessible because: The public would require specialized software in order to view and interpret files. It can be accessed through the following means: Email zucker.robert@epa.gov. Format: The data in the paper is acquired in proprietary format from the manufacturer of the equipment. This data presented in the paper can be read only by using the software from the manufacturer which is quite costly and not feasible to purchase unless the  scientist owns the equipment. \n\nThis dataset is associated with the following publication:\nBrentjens, E., E. Beall, and R. Zucker. Analysis of Microcystis aeruginosa physiology by spectral flow cytometry: Impact of chemical and light exposure.   PLOS Water. Public Library of Science, San Francisco, CA, USA, 2(10): e0000177, (2023).",
+    "num_resources": 0,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Analysis of Microcystis aeruginosa physiology by spectral flow cytometry: Impact of chemical and light exposure",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "ceac672c45aa5bca005334ef034ac722e3c6b96fe2e5249fd9b15f592bbed395"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527900"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-08-29"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1371/journal.pwat.0000177"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "48b1ce4b-8ac4-4323-b8ef-1443f3903d9c"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "autofluoresence",
+            "id": "773e1379-4365-4cf4-8ff6-d50c430dc1be",
+            "name": "autofluoresence",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cyanobacteria",
+            "id": "3d71ac68-2cac-4908-9198-3030ae6a8fe2",
+            "name": "cyanobacteria",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "flow-cytometry",
+            "id": "8f6c17c1-db00-40b1-981e-73e2253355b3",
+            "name": "flow-cytometry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fluorescence",
+            "id": "15e53119-6eb6-41ee-a472-2bf3cdc62efb",
+            "name": "fluorescence",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrogen-peroxide",
+            "id": "71937f2e-1850-4f15-bb7c-4cbf2b5f06bd",
+            "name": "hydrogen-peroxide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "light-scatter",
+            "id": "7fb267d9-1c2e-4666-b64e-6e6ff39c3671",
+            "name": "light-scatter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microbial-photosynthesis",
+            "id": "a836c7ca-e440-4217-9b9f-c6174639b838",
+            "name": "microbial-photosynthesis",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 14,
+        "recent": 2
+    }
+}

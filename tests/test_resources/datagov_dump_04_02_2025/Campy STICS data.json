@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "79261331-d1a6-4a1f-b73d-ae551aca5d3a",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jingrang Lu",
+    "maintainer_email": "lu.jingrang@epa.gov",
+    "metadata_created": "2020-11-12T13:47:23.407381",
+    "metadata_modified": "2020-11-12T13:47:23.407392",
+    "name": "campy-stics-data",
+    "notes": "Campy STICS data. \n\nThis dataset is associated with the following publication:\nLye, D., I. Struewing, T. Gruber, K. Oshima, E. Villegas, and J. Lu. A Gallus gallus Model for Determining Infectivity of Zoonotic Campylobacter.   Frontiers in Microbiology. Frontiers, Lausanne,  SWITZERLAND, 10: 2292, (2019).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Campy STICS data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3389/fmicb.2019.02292"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c052566f-b197-4a9f-b94a-a13ca75e257e"
+        },
+        {
+            "key": "source_hash",
+            "value": "cd5782b2e51828fd1893b69f53b2c93db6318b48"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-03-06"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503643"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:23.411821",
+            "description": "Campy%20STICS%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ad08b6f2-cd3b-45c0-9ede-0c42d4710193",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:23.411821",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Campy STICS data.xlsx",
+            "package_id": "79261331-d1a6-4a1f-b73d-ae551aca5d3a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503643/Campy%20STICS%20data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "avian",
+            "id": "6e4b0772-b9dd-4d0a-8da1-591b2d063e61",
+            "name": "avian",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "campylobacter",
+            "id": "43708833-78a8-4dd6-bf8b-cea5ef333a0c",
+            "name": "campylobacter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chick-model",
+            "id": "722da594-4112-4a11-b48d-89b06c026013",
+            "name": "chick-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "colonization",
+            "id": "87213884-16cb-48d5-a969-112a686a36bd",
+            "name": "colonization",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "gull",
+            "id": "f84748c5-5fe4-4055-891c-950e7c3b9cce",
+            "name": "gull",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "infectivity",
+            "id": "ac4e8702-a5b3-4535-8462-6026c8d53696",
+            "name": "infectivity",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 219,
+        "recent": 3
+    }
+}

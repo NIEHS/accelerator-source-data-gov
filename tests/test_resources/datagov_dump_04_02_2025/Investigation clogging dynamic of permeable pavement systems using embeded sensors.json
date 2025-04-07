@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "092ba48c-96a3-47dd-83b6-e3bd31758c4b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Borst",
+    "maintainer_email": "borst.mike@epa.gov",
+    "metadata_created": "2020-11-12T13:40:58.057162",
+    "metadata_modified": "2020-11-12T13:40:58.057173",
+    "name": "investigation-clogging-dynamic-of-permeable-pavement-systems-using-embeded-sensors",
+    "notes": "Permeable pavement is a stormwater control measure commonly selected in both new and retrofit applications. However, there is limited information about the clogging mechanism of these systems that effects the infiltration. A permeable pavement site located at the Seitz Elementary School, on Fort Riley, Kansas was selected for this study. An 80-space parking lot was built behind the school as part of an EPA collaboration with the U.S. Army. The parking lot design includes a permeable interlocking concrete pavement section along the downgradient edge. This study monitored the clogging progress of the pavement section using twelve water content reflectometers and three buried tipping bucket rain gauges. This clogging dynamic investigations was divided into three stages namely pre-clogged, transitional, and clogged. Recorded initial relative water content of all three stages were significantly and negatively correlated to antecedent dry weather periods with stronger correlations during clogged conditions. The peak relative water content correlation with peak rainfall 10-min intensity was significant for the water content reflectometers located on the western edge away from the eastern edge; this correlation was strongest during transition stage. Once clogged, rainfall measurements no longer correlated with the buried tipping bucket rain gauges. Both water content reflectometers and buried tipping bucket rain gauges showed the progress of surface clogging. For every 6mm of rain clogging advanced 1 mm across the surface. The results generally support the hypothesis that the clogging progresses from the upgradient to the downgradient edge. The magnitude of the contributing drainage area and rainfall characteristics are effective factors on rate and progression of clogging. \n\nThis dataset is associated with the following publication:\nRazzaghmanesh, M., and M. Borst. Investigation clogging dynamic of permeable pavement systems using embedded sensors.   JOURNAL OF HYDROLOGY. Elsevier Science Ltd, New York, NY, USA, 557: 887-896, (2018).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Investigation clogging dynamic of permeable pavement systems using embeded sensors",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jhydrol.2018.01.012"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "139be38b-2bae-4d16-a0ef-67ddea26a095"
+        },
+        {
+            "key": "source_hash",
+            "value": "0b587ab5eb45509c6db1206a8d25e9f2c3f1b3fa"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-07-13"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1372833"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:40:58.063069",
+            "description": "Clogging%20dynamic%20Science%20hub%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0e08af26-4fe1-49be-8bf4-d6a43621106a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:40:58.063069",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Clogging dynamic Science hub data.xlsx",
+            "package_id": "092ba48c-96a3-47dd-83b6-e3bd31758c4b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1372833/Clogging%20dynamic%20Science%20hub%20data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "clogging",
+            "id": "e6d90471-f094-4c71-b624-06b191549b99",
+            "name": "clogging",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "green-infrastructure",
+            "id": "5b6d5012-95dd-4a9e-93b0-945ce771e70c",
+            "name": "green-infrastructure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "permeable-pavement",
+            "id": "ecc70e6d-c1e1-4c2f-8f01-39865bf5fe83",
+            "name": "permeable-pavement",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tipping-bucket-rain-gauge",
+            "id": "9d9a4606-22e8-4970-a29a-2f53d0868247",
+            "name": "tipping-bucket-rain-gauge",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-content-reflectometer",
+            "id": "48eb9864-c6ec-44db-ac3a-ef89c9b2c0c0",
+            "name": "water-content-reflectometer",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 74,
+        "recent": 1
+    }
+}

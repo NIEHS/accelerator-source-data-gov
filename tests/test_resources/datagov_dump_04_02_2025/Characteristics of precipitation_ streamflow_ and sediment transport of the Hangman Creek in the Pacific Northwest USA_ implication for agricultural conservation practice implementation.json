@@ -1,0 +1,472 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Yongping Yuan",
+    "maintainer_email": "yuan.yongping@epa.gov",
+    "metadata_created": "2025-02-02T00:25:06.293850",
+    "metadata_modified": "2025-02-02T00:25:06.293856",
+    "name": "characteristics-of-precipitation-streamflow-and-sediment-transport-of-the-hangman-creek-in",
+    "notes": "Data collected from various sources as summarized in Table 2 in the paper. Portions of this dataset are inaccessible because: Excel sheets used to produce tables and figures presented in the paper. They can be accessed through the following means: see above links for the data. Format: Excel sheets used to produce tables and figures presented in the paper. \n\nThis dataset is associated with the following publication:\nYuan, Y., and S. Kanyuk. Characteristics of Precipitation, Streamflow, and Sediment Transport of the Hangman Creek in the Pacific Northwest, USA: Implication for Agricultural Conservation Practice Implementation.   Hydrology. MDPI, Basel,  SWITZERLAND,  3, (2024).",
+    "num_resources": 12,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Characteristics of precipitation, streamflow, and sediment transport of the Hangman Creek in the Pacific Northwest USA: implication for agricultural conservation practice implementation",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "c4cbde416681e6a435fc0c6275399317a925f1d0d0707d6aa1dab791ed11561c"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531817"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-10-31"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/hydrology12010003"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c3df8f4b-3663-493b-8912-7a874996cd6d"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310904",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "00965f98-3b4b-43a6-897c-541b8d2fc18b",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.276129",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.nrcs.usda.gov/resources/data-and-reports/gridded-soil-survey-geographic-gssurgo-database",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.nrcs.usda.gov/resources/data-and-reports/gridded-soil-survey-geographic-gssurgo-database",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310908",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "25d3c277-7881-4987-9be8-b22f48411150",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.276290",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.mrlc.gov/data?f%5B0%5D=year%3A2021",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.mrlc.gov/data?f%5B0%5D=year%3A2021",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310911",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "849672f2-238d-41f2-8f8d-bc998ea744fc",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.276411",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 26,
+                "recent": 8
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310912",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "46eec71b-2721-42f3-8d00-371f0053b4a2",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.276539",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.weather.gov/wrh/climate?wfo=otx",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.weather.gov/wrh/climate?wfo=otx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310914",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "0487c2ba-c453-45aa-87e8-c2511ad76455",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.276659",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.weather.gov/wrh/climate?wfo=otx",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.weather.gov/wrh/climate?wfo=otx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310915",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "d292c4ec-6451-48c9-ad6b-4816b851ff32",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.276775",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 26,
+                "recent": 8
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310917",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "da5bd883-6994-4b10-ab94-fb0a19ef1428",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.276890",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.weather.gov/wrh/climate?wfo=otx",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.weather.gov/wrh/climate?wfo=otx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310919",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "9cbeac1b-04da-4b3c-8535-7fce323c143c",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.277014",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.usgs.gov/national-hydrography/access-national-hydrography-products",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.usgs.gov/national-hydrography/access-national-hydrography-products",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310921",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "d2266fbd-1261-4aa9-adc6-c135fe9c5196",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.277143",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://waterdata.usgs.gov/nwis/inventory?site_no=12424000&agency_cd=USGS",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://waterdata.usgs.gov/nwis/inventory?site_no=12424000&agency_cd=USGS",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310922",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "8e51105e-ce36-4dd2-a473-b6ff759018b6",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.277262",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://waterdata.usgs.gov/nwis/inventory?site_no=12424000&agency_cd=USGS",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://waterdata.usgs.gov/nwis/inventory?site_no=12424000&agency_cd=USGS",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310924",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "081b0a5d-9f5f-4aa2-ba2e-02f9d1d469f8",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.277377",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://waterdata.usgs.gov/nwis/in",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 10,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://waterdata.usgs.gov/nwis/in",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-02T00:25:06.310926",
+            "description": "Dataset_HCW_ORD_063935.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c210d8d3-e212-440f-8963-e30241f074b5",
+            "last_modified": null,
+            "metadata_modified": "2025-02-02T00:25:06.277494",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "Dataset_HCW_ORD_063935.zip",
+            "package_id": "5af16001-e84e-4160-bdd4-b85254dffb93",
+            "position": 11,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531817/Dataset_HCW_ORD_063935.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "agricultural-conservation-practices",
+            "id": "699f5bc2-2bb8-42d5-a653-78049eaace77",
+            "name": "agricultural-conservation-practices",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "flow-duration-curve",
+            "id": "f66b69cf-7bde-46af-8a36-65ccba3d8f4f",
+            "name": "flow-duration-curve",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "high-flow-season",
+            "id": "eba8c695-53ce-4d0f-83f5-6bc7e1d64e37",
+            "name": "high-flow-season",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "precipitation",
+            "id": "b7a5df38-d31a-4f4e-9d1b-425b3a625d99",
+            "name": "precipitation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sediment-transport",
+            "id": "d10c6a78-b1ad-47ea-985b-4c967da04f3a",
+            "name": "sediment-transport",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "streamflow",
+            "id": "e435ff96-5a97-4dc5-a3bf-7e54461ce425",
+            "name": "streamflow",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "streamflow-precipitation-ratio",
+            "id": "5d7eb3bf-8820-4348-be37-ac05100fa141",
+            "name": "streamflow-precipitation-ratio",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 2
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "576841ef-f18a-4ad9-b6fc-bc0588cb8834",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Eric Weber",
+    "maintainer_email": "weber.eric@epa.gov",
+    "metadata_created": "2021-03-13T02:32:44.172025",
+    "metadata_modified": "2021-03-13T02:32:44.172034",
+    "name": "quantitative-structure-activity-relationships-qsars-and-machine-learning-models-for-abioti",
+    "notes": "Due to the increasing diversity of organic contaminants discharged into anoxic water environments, reactivity prediction is necessary for chemical persistence evaluation for water treatment and risk assessment purposes. Almost all quantitative structure activity relationships (QSARs) that describe rates of contaminant transformation apply only to narrowly-defined, relatively homogenous families of reactants (e.g., dechlorination of alkyl halides). In this work, we develop predictive models for abiotic reduction of 60 organic compounds with diverse reducible functional groups, including nitroaromatic compounds (NACs), aliphatic nitro-compounds (ANCs), aromatic N-oxides (ANOs), isoxazoles (ISXs), polyhalogenated alkanes (PHAs), sulfoxides and sulfones (SOs), and others. Rate constants for their reduction were measured using a model reductant system, Fe(II)-tiron. Qualitatively, the rates followed the order NACs > ANOs \uf0bb ISXs \uf0bb PHAs > ANCs > SOs. To develop QSARs, both conventional chemical descriptor-based and machine learning (ML)-based approaches were investigated. Conventional univariate QSARs based on a molecular descriptor ELUMO (energy of the lowest-unoccupied molecular orbital) gave good correlations within classes. Multivariate QSARs combining ELUMO with Abraham descriptors for physico-chemical properties gave slightly improved correlations within classes for NCs and NACs, but little improvement in correlation within other classes or among classes. The ML model obtained covers reduction rates for all classes of compounds and all of the conditions studied with the prediction accuracy similar to those of the conventional QSARs for individual classes (r2 = 0.41-0.98 for univariate QSARs, 0.71-0.94 for multivariate QSARs, and 0.83 for the ML model). Both approaches required a scheme for a priori classification of the compounds for model training. This work offers two alternative modelling approaches to comprehensive abiotic reactivity prediction for persistence evaluation of organic compounds in anoxic water environments. \n\nThis dataset is associated with the following publication:\nGao, Y., S. Zhong, T. Torralba-Sanchez, P. Tratnyek, E. Weber, Y. Chen, and H. Zhang. Quantitative structure activity relationships (QSARs) and machine learning models for abiotic reduction of organic compounds by an aqueous Fe(II) complex.   WATER RESEARCH. Elsevier Science Ltd, New York, NY, USA, 192: 116843, (2021).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Quantitative structure activity relationships (QSARs) and machine learning models for abiotic reduction of organic compounds by an aqueous Fe(II) complex",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.watres.2021.116843"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "de2fc008-50dd-4407-ad0a-005875501b5d"
+        },
+        {
+            "key": "source_hash",
+            "value": "df33dc2c1a03c1c01c1898a75f1248fb21cbd134"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2021-01-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520719"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-13T02:32:44.186975",
+            "description": "Gao_et_al_ReductionRateConstants.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ada410ff-488a-41f7-8472-94d459c1f165",
+            "last_modified": null,
+            "metadata_modified": "2021-03-13T02:32:44.186975",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Gao_et_al_ReductionRateConstants.xlsx",
+            "package_id": "576841ef-f18a-4ad9-b6fc-bc0588cb8834",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520719/Gao_et_al_ReductionRateConstants.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "abiotic-reduction",
+            "id": "6d1224b1-aa08-4d9b-b79a-9363a8c846d7",
+            "name": "abiotic-reduction",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chemical-transformation-simulator",
+            "id": "3f1f137b-014f-42b2-9415-3a8a77f1bace",
+            "name": "chemical-transformation-simulator",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "machine-learning",
+            "id": "35c350f1-0603-408b-9c87-a11c53197622",
+            "name": "machine-learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "qsars",
+            "id": "10cf590f-b9c0-4044-88d1-0137b7ec2fb6",
+            "name": "qsars",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 69,
+        "recent": 1
+    }
+}

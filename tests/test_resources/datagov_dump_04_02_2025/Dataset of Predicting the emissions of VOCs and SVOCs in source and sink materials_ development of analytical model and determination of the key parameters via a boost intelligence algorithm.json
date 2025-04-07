@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "dfc9cf8d-9095-46ff-94b8-fcd140720765",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Xiaoyu Liu",
+    "maintainer_email": "liu.xiaoyu@epa.gov",
+    "metadata_created": "2022-02-12T07:49:06.220143",
+    "metadata_modified": "2022-02-12T07:49:06.220156",
+    "name": "dataset-of-predicting-the-emissions-of-vocs-and-svocs-in-source-and-sink-materials-develop",
+    "notes": "The data presented in this data file is a product of a journal publication. The dataset contains OPFRs gas-phase and surface-phase concentrations in microchambers and small chambers. \n\nThis dataset is associated with the following publication:\nZhang, X., B. Xu, Y. Wang, Z. He, H. Wang, T. Yang, Y. Tan, J. Xiong, and X. Liu. Predicting the emissions of VOCs/SVOCs in source and sink materials: Development of analytical model and determination of the key parameters.   ENVIRONMENT INTERNATIONAL. Elsevier B.V., Amsterdam,  NETHERLANDS, 160: NA, (2022).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset of Predicting the emissions of VOCs and SVOCs in source and sink materials: development of analytical model and determination of the key parameters via a boost intelligence algorithm",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520462"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2020-11-03"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.envint.2021.107064"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "46003a4d8c97d8392319862001dd4ecd8a3dee77"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f536cc27-0f41-47e6-84c8-ab2bbb4613bf"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-02-12T07:49:06.348238",
+            "description": "XiaoyuLiu_A-bk43_Data%20Tables%26Dictionary.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "401ffa22-9c9d-48f0-a3de-2314fdaca39c",
+            "last_modified": null,
+            "metadata_modified": "2022-02-12T07:49:06.348238",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "XiaoyuLiu_A-bk43_Data Tables&Dictionary.xlsx",
+            "package_id": "dfc9cf8d-9095-46ff-94b8-fcd140720765",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520462/XiaoyuLiu_A-bk43_Data%20Tables%26Dictionary.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "boost-intelligence-algorithm",
+            "id": "90154906-cbcf-44f3-a29d-2322f0b5832b",
+            "name": "boost-intelligence-algorithm",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emissions",
+            "id": "09baf6a3-d24a-4265-8b80-2ada905665dd",
+            "name": "emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "initial-emittable-concentration",
+            "id": "21f41189-3b85-4651-bcec-c03f279cd913",
+            "name": "initial-emittable-concentration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "material-air-partition-coefficient",
+            "id": "1e40fbff-0ccd-4444-82a0-cb643e3bb7be",
+            "name": "material-air-partition-coefficient",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "material-diffusion-coefficient",
+            "id": "0cdd271f-6755-47b4-b6f6-4239639febb0",
+            "name": "material-diffusion-coefficient",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "semi-volatile-organic-compounds",
+            "id": "9b7552d2-7df5-470a-81c5-0686dc6a422b",
+            "name": "semi-volatile-organic-compounds",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "volatile-organic-compounds",
+            "id": "b482b64f-2709-412d-94cc-970f4ef36f74",
+            "name": "volatile-organic-compounds",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 103,
+        "recent": 6
+    }
+}

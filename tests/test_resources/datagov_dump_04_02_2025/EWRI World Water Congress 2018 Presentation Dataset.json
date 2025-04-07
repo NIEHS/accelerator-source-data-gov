@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "f1bbbb4e-f8de-4535-b574-39b9868a4f24",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Craig Patterson",
+    "maintainer_email": "patterson.craig@epa.gov",
+    "metadata_created": "2020-11-12T13:43:10.996919",
+    "metadata_modified": "2020-11-12T13:43:10.996926",
+    "name": "ewri-world-water-congress-2018-presentation-dataset",
+    "notes": "Data and Tables and Figures in EWRI 2018 presentation. \n\nThis dataset is associated with the following publication:\nBlaisi, N., J. Roessler, W. Cheng, T. Townsend, and S. Al-Abed. Evaluation of the impact of lime softening waste disposal in natural environments.  R. Cossu  WASTE MANAGEMENT. Elsevier Science Ltd, New York, NY, USA, 43: 524-532, (2015).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EWRI World Water Congress 2018 Presentation Dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.wasman.2015.06.015"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "847073f8-7642-4147-9382-8ed8dc8094a8"
+        },
+        {
+            "key": "source_hash",
+            "value": "b84d75e58f33a6e9ba01e3f66ddc5e77b16f9e51"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-07-11"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502476"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:11.032911",
+            "description": "EWRI2018PresentationDataset.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2820c08b-f159-420b-a00e-27c4d22a7173",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:11.032911",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "EWRI2018PresentationDataset.xlsx",
+            "package_id": "f1bbbb4e-f8de-4535-b574-39b9868a4f24",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502476/EWRI2018PresentationDataset.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environmental-impact-assessment",
+            "id": "7ba3fc57-b3d5-4b88-8a22-3bcf5e9bde47",
+            "name": "environmental-impact-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "flue-gas-desulfurization",
+            "id": "469d9633-98e3-4563-b7cb-6e666a1c3d29",
+            "name": "flue-gas-desulfurization",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-assessment",
+            "id": "5f206d22-5675-4b27-aa71-99155591d1d5",
+            "name": "life-cycle-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lime-sludge",
+            "id": "85da6908-d80d-49b0-828f-cfcc7727cdd0",
+            "name": "lime-sludge",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "limestone",
+            "id": "f6243294-6453-4f7e-bd11-97515008d68c",
+            "name": "limestone",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mercury-re-emission",
+            "id": "dcc17fef-5ef7-4325-a527-a98a7fc58a7c",
+            "name": "mercury-re-emission",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 103,
+        "recent": 2
+    }
+}

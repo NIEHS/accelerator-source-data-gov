@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b7e9d4ef-8896-45cf-99b9-d92e595063c8",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Kirk Scheckel",
+    "maintainer_email": "scheckel.kirk@epa.gov",
+    "metadata_created": "2020-11-12T13:45:08.801252",
+    "metadata_modified": "2020-11-12T13:45:08.801262",
+    "name": "arsenic-speciation-results-c2d35",
+    "notes": "The dataset is a table that shows soil samples with corresponding total arsenic concentrations, arsenic bioavailability values, and linear combination fitting results of synchrotron speciation results. \n\nThis dataset is associated with the following publication:\nStevens, B.N., A.R. Betts, B.W. Miller, K.G. Scheckel, R.H. Anderson, K.D. Bradham, S.W. Casteel, D.J. Thomas, and N.T. Basta. Arsenic Speciation of Contaminated Soils/Solid Wastes and Relative Oral Bioavailability in Swine and Mice.   Soil Systems. MDPI AG, Basel,  SWITZERLAND, 2(2): 27, (2018).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Arsenic speciation results",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/soilsystems2020027"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c19fe5af-b5fe-4c67-aa45-6d8dddd134b3"
+        },
+        {
+            "key": "source_hash",
+            "value": "6040429db06f1aa4cb7a267a9be99ce0824efc34"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-03-07"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1435027"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:08.828421",
+            "description": "Table%202%20for%20SciHub.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "eedfb9b7-31f5-4a02-b96e-ac741c8a8c78",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:08.828421",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Table 2 for SciHub.docx",
+            "package_id": "b7e9d4ef-8896-45cf-99b9-d92e595063c8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1435027/Table%202%20for%20SciHub.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "arsenic",
+            "id": "8d4273a7-b2fc-45f8-85dc-23eda4ab84a3",
+            "name": "arsenic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exafs",
+            "id": "43fcdc36-068b-4c2a-af13-7af393456e72",
+            "name": "exafs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "metal-bioavailability",
+            "id": "5d2475f1-55d1-4451-8eb6-20650befc4c1",
+            "name": "metal-bioavailability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "synchrotron-speciation",
+            "id": "ea7afa94-4a84-4b8c-a6e2-f498f9e64bfa",
+            "name": "synchrotron-speciation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "xanes",
+            "id": "dda22dc5-fd9b-47e5-a8bc-51ee4f9da89d",
+            "name": "xanes",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 33,
+        "recent": 1
+    }
+}

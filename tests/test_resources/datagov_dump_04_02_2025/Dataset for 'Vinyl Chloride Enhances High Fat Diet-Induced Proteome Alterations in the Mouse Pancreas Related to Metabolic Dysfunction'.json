@@ -1,0 +1,184 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "1a22e159-f343-481c-af21-a1f84d244e19",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Yue Ge",
+    "maintainer_email": "ge.yue@epa.gov",
+    "metadata_created": "2023-06-25T07:59:38.729272",
+    "metadata_modified": "2023-06-25T07:59:38.729277",
+    "name": "dataset-for-vinyl-chloride-enhances-high-fat-diet-induced-proteome-alterations-in-the-mous",
+    "notes": "Dataset for 'Vinyl Chloride Enhances High Fat Diet-Induced Proteome Alterations in the Mouse Pancreas Related to Metabolic Dysfunction' Yue Ge et. al. Toxicological Sciences, Volume 193, Issue 1, May 2023, Pages 103\u2013114, https://doi.org/10.1093/toxsci/kfad024   PMC10176240",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset for 'Vinyl Chloride Enhances High Fat Diet-Induced Proteome Alterations in the Mouse Pancreas Related to Metabolic Dysfunction'",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "5de2b1a61492b414443f35f2adc904ac7903905c"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529109"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-10-12"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "85c30598-558e-4db4-b700-6075bbd059a4"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-06-25T07:59:38.744482",
+            "description": "Normalized_Mouse%20Ctokine%20Array%20Data_Means_4mice%20for%20each%20group.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "5e38f076-098c-4a41-a75b-ec4124e6472a",
+            "last_modified": null,
+            "metadata_modified": "2023-06-25T07:59:38.710876",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Normalized_Mouse Ctokine Array Data_Means_4mice for each group.docx",
+            "package_id": "1a22e159-f343-481c-af21-a1f84d244e19",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529109/Normalized_Mouse%20Ctokine%20Array%20Data_Means_4mice%20for%20each%20group.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "high-fat-diet",
+            "id": "c3f68e8e-6bcd-4f02-97d8-a8ba9d0bec3a",
+            "name": "high-fat-diet",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "metabolic-dysfunction",
+            "id": "e468f5e6-c778-4f92-bdcd-dea4c008fd48",
+            "name": "metabolic-dysfunction",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mouse",
+            "id": "9d7e3d46-f73a-4e48-9404-89410a807860",
+            "name": "mouse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pancreas",
+            "id": "1a9454f7-d6cb-4ab9-a522-860368bbb870",
+            "name": "pancreas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "proteome",
+            "id": "cfc958b9-616a-4330-979d-97df16a3f924",
+            "name": "proteome",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vinyl-chloride",
+            "id": "9a2889ab-612f-4448-9821-60bcff06d801",
+            "name": "vinyl-chloride",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 11,
+        "recent": 1
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "2bde8b3c-1add-4a45-a28c-d9c96c98702b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Lewandowski",
+    "maintainer_email": "lewandowski.michael@epa.gov",
+    "metadata_created": "2020-11-12T13:41:04.621412",
+    "metadata_modified": "2020-11-12T13:41:04.621421",
+    "name": "mutagenic-atmospheres-resulting-from-the-photooxidation-of-aromatic-hydrocarbon-and-nox-mi",
+    "notes": "Although many volatile organic compounds (VOCs) are regulated to limit air pollution and the consequent health effects, the photooxidation products generally are not. Thus, we examined the mutagenicity in Salmonella TA100 of photochemical atmospheres generated in a steady-state atmospheric simulation chamber by irradiating mixtures of single aromatic VOCs, NOx, and ammonium sulfate seed aerosol in air. The 10 VOCs examined were benzene; toluene; ethylbenzene; o-, m-, and p-xylene; 1,2,4- and 1,3,5-trimethylbenzene; m-cresol; and naphthalene. Salmonella were exposed at the air-agar interface to the generated atmospheres for 1, 2, 4, 8, or 16 h. Dark-control exposures produced non-mutagenic atmospheres, illustrating that the gas-phase precursor VOCs were not mutagenic at the concentrations tested. Under irradiation, all but m-cresol and naphthalene produced mutagenic atmospheres, with potencies ranging from 2.0 (p-xylene) to 10.4 (ethylbenzene) revertants m3 mgC-1 h-1. The mutagenicity was due exclusively to direct-acting late-generation products of the photooxidation reactions. Gas-phase chemical analysis showed that a number of oxidized organic chemical species enhanced during the irradiated exposure experiments correlated (r \u2265 0.81) with the mutagenic potencies of the atmospheres. Molecular formulas assigned to these species indicated that they likely contained peroxy acid, aldehyde, alcohol, and other functionalities. \n\nThis dataset is associated with the following publication:\nRiedel, T., D. DeMarini, S. Warren, E. Corse, J. Offenberg, T. Kleindienst, M. Lewandowski, and J. Zavala. Mutagenic atmospheres resulting from the photooxidation of aromatic hydrocarbon and NOx mixtures.   ATMOSPHERIC ENVIRONMENT. Elsevier Science Ltd, New York, NY, USA, 178: 164-172, (2018).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Mutagenic atmospheres resulting from the photooxidation of aromatic hydrocarbon and NOx mixtures",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.atmosenv.2018.01.052"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "60dbf83b-ade7-4e1b-af7b-cbdca74edfcd"
+        },
+        {
+            "key": "source_hash",
+            "value": "72126d7ee8f49acbb1102449a9e5c277ad03f33e"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-01-24"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1417737"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:04.646893",
+            "description": "Riedel%20mutagenicity%20Figures.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "534e01f6-de5f-4e93-a712-a51cb0919356",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:04.646893",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Riedel mutagenicity Figures.xlsx",
+            "package_id": "2bde8b3c-1add-4a45-a28c-d9c96c98702b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1417737/Riedel%20mutagenicity%20Figures.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-toxics",
+            "id": "1d6ca33d-baab-48d8-ab8b-588fbfb7a171",
+            "name": "air-toxics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aromatic-compounds",
+            "id": "8cbb9b9e-1861-43b5-9c14-bfceb11bc958",
+            "name": "aromatic-compounds",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mutagenicity",
+            "id": "47c56f7b-b3eb-4877-8e9d-117144d116b3",
+            "name": "mutagenicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "salmonella-ta100",
+            "id": "182823eb-f1c0-41b7-af87-3fad4c3eae3d",
+            "name": "salmonella-ta100",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "secondary-organic-aerosol",
+            "id": "57fe6170-81a0-4fb9-9310-7e9fe78f8f27",
+            "name": "secondary-organic-aerosol",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 99,
+        "recent": 1
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "cd0f6369-4f65-4fed-bd49-b0e723f5515a",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "David Olszyk",
+    "maintainer_email": "olszyk.david@epa.gov",
+    "metadata_created": "2024-10-14T05:54:14.443303",
+    "metadata_modified": "2024-10-14T05:54:14.443310",
+    "name": "herbicide-drift-and-native-plant-reproduction",
+    "notes": "The main date set indicates the flowering response of native plant species treated with herbicides dicamba and glyphosate in field plots.  It includes the notes taken in the field, conversion of notes to a quantitative measure of flowering, and comments for 9 species at two farms on 13 observation times, for 8 replicate plots per species, farm and observation time.  The data sets also include information concerning QA for herbicide treatments and repeated measures of flowering. \n\nThis dataset is associated with the following publication:\nOlszyk, D., T. Pfleeger, T. Shiroyama, M. Blakeley-Smith, E. Lee, M. Nash, and M. Plocher. Simulated Herbicide Drift Alters Native Plant Flowering Phenology.   Ecotoxicology. Springer, New York, NY, USA,  024-02795-3, (2024).",
+    "num_resources": 3,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Herbicide Drift and Native Plant Reproduction",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "70d958072d00f5ec83be95750587043f1d5df0cb687285b1a67f98eb2a5290f9"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527980"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-09-13"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s10646-024-02795-3"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "45e4cde6-075a-4a6e-bccf-c17cbeb86306"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-14T05:54:14.458644",
+            "description": "POGR%20Flower%20Count%20QA%20080818%20reevaluated%20091322.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d8c70d39-4dce-4cb6-96b8-f0ac7b6aaccf",
+            "last_modified": null,
+            "metadata_modified": "2024-10-14T05:54:14.424937",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "POGR Flower Count QA 080818 reevaluated 091322.xlsx",
+            "package_id": "cd0f6369-4f65-4fed-bd49-b0e723f5515a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527980/POGR%20Flower%20Count%20QA%20080818%20reevaluated%20091322.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-14T05:54:14.458652",
+            "description": "Chemical%20Analysis%20Summary%20for%202011%20091322.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "20a75a47-7aee-4d25-aab8-628ef01d1603",
+            "last_modified": null,
+            "metadata_modified": "2024-10-14T05:54:14.425290",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Chemical Analysis Summary for 2011 091322.xlsx",
+            "package_id": "cd0f6369-4f65-4fed-bd49-b0e723f5515a",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527980/Chemical%20Analysis%20Summary%20for%202011%20091322.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-14T05:54:14.458655",
+            "description": "All%20Species%202011%20Flowering%20for%20SH%2008%2007%2024.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5e0d6b8b-70d5-4a7c-805d-2b84173b955a",
+            "last_modified": null,
+            "metadata_modified": "2024-10-14T05:54:14.425496",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "All Species 2011 Flowering for SH 08 07 24.xlsx",
+            "package_id": "cd0f6369-4f65-4fed-bd49-b0e723f5515a",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527980/All%20Species%202011%20Flowering%20for%20SH%2008%2007%2024.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "dicamba",
+            "id": "51105f81-c72d-4c32-bac6-8300d4ca1a5f",
+            "name": "dicamba",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecotoxicology",
+            "id": "0994d8ba-74d1-41d8-ae22-4717e1c8e1b1",
+            "name": "ecotoxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "glyphosate",
+            "id": "2c8544e1-1041-4fca-a7e8-c18f68db8b64",
+            "name": "glyphosate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "herbicide",
+            "id": "1a59155c-e4e7-40ad-839b-c0b83c30ff62",
+            "name": "herbicide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "non-target-plants",
+            "id": "1486813d-1006-4588-87b7-8ab27a2d039d",
+            "name": "non-target-plants",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 10,
+        "recent": 3
+    }
+}

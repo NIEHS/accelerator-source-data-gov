@@ -1,0 +1,225 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "31310afd-4755-44f9-9ac4-b2e0d0de355b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Maribel Bruno",
+    "maintainer_email": "bruno.maribel@epa.gov",
+    "metadata_created": "2020-11-12T13:43:52.504918",
+    "metadata_modified": "2020-11-12T13:43:52.504925",
+    "name": "multiplex-elisa-mtf-1-and-western-blot-raw-data",
+    "notes": "Multiplex ELisa data, MTF-1 and western blot. \n\nThis dataset is associated with the following publication:\nBruno, M., J. Ross, and Y. Ge. Proteomic Responses of BEAS-2B Cells to Nontoxic and Toxic Chromium: Protein Indicators of Cytotoxicity Conversion.   TOXICOLOGY LETTERS. Elsevier Science Ltd, New York, NY, USA, 264: 59-70, (2016).",
+    "num_resources": 1,
+    "num_tags": 11,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Multiplex ELISA MTF-1 and western blot raw data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.toxlet.2016.08.025"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0f4a0751-5115-48aa-90e5-80d582b6dd60"
+        },
+        {
+            "key": "source_hash",
+            "value": "e478f31c6de6b3dc6d49c93c0e08ae63359853c8"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-10-24"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503118"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:52.544910",
+            "description": "Raw%20data%20for%20sciencehub%20Chr%20paper%20October%2024%202018.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b1ba8d00-51e9-483f-9c3e-10935cba99f6",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:52.544910",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Raw data for sciencehub Chr paper October 24 2018.xlsx",
+            "package_id": "31310afd-4755-44f9-9ac4-b2e0d0de355b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503118/Raw%20data%20for%20sciencehub%20Chr%20paper%20October%2024%202018.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "2d-gel-electrophoresis",
+            "id": "6595d613-3a23-4aa9-a90b-842e9fc2ff47",
+            "name": "2d-gel-electrophoresis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "apoptosis",
+            "id": "0a30fd8e-7483-4db0-bfd4-f0804c4334a4",
+            "name": "apoptosis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cell-growth",
+            "id": "d8d69011-13a3-4fce-a767-2f1b992cb1bc",
+            "name": "cell-growth",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chromium",
+            "id": "7b1ca241-5838-4e14-9c11-49876f6f0ff9",
+            "name": "chromium",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "elisa",
+            "id": "8e26c959-fd5a-4a04-9758-a6bd7ffef3ab",
+            "name": "elisa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inflammatory-cytokines",
+            "id": "9d341ab0-dc93-4792-b8c0-38968878b602",
+            "name": "inflammatory-cytokines",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "map-kinase",
+            "id": "31dfe9a9-620f-415b-9835-6f584a13d0b8",
+            "name": "map-kinase",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "metal-mixtures",
+            "id": "8f6d5d1c-2533-484f-9e78-2729a5f86f90",
+            "name": "metal-mixtures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mtf-1-akt",
+            "id": "1dd4249f-ff9a-4b92-80d3-5b6fbc5a0051",
+            "name": "mtf-1-akt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "proteomics",
+            "id": "4c02d036-cbcf-4fa5-9edf-7a73459d4be1",
+            "name": "proteomics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "signaling-proteins",
+            "id": "77f04cee-b06c-485f-9df8-768960a26429",
+            "name": "signaling-proteins",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 3
+    }
+}

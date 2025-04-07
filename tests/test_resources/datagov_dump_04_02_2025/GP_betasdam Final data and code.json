@@ -1,0 +1,233 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "29ddd758-4942-4c42-9c6d-e5bb2aef4189",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Ken Fritz",
+    "maintainer_email": "fritz.ken@epa.gov",
+    "metadata_created": "2022-10-08T07:18:06.745281",
+    "metadata_modified": "2022-10-08T07:18:06.745290",
+    "name": "gp-betasdam-final-data-and-code",
+    "notes": "GP_betasdam Final data and code. \n\nThis dataset is associated with the following publication:\nEddy, M., S. Gross, K. Fritz, B. Topping, T. Nadeau, R. Edgerton, and J. Kelso. Data Supplement to Development and Evaluation of the Beta Streamflow Duration Assessment Method (SDAM) for the Great Plains (GP). U.S. Environmental Protection Agency, Washington, DC, USA, 2022.",
+    "num_resources": 1,
+    "num_tags": 11,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "GP_betasdam Final data and code",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "eb81b72acdeb1724cd5285a821bdb52b0985848d"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527943"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-08-22"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://www.epa.gov/system/files/documents/2022-09/devel-eval-of-the-beta-sdam-for-the-gp.pdf"
+            ]
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1527943/documents/gp_data_dictionary.xlsx"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "9f138141-987d-4ea1-809a-b4ff4fc79c73"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-10-08T07:18:06.803627",
+            "description": "GP_betasdam%20Final%20data%20and%20code.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "491350f8-4d51-4226-afcc-9ba7756e6d4d",
+            "last_modified": null,
+            "metadata_modified": "2022-10-08T07:18:06.720934",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "GP_betasdam Final data and code.zip",
+            "package_id": "29ddd758-4942-4c42-9c6d-e5bb2aef4189",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527943/GP_betasdam%20Final%20data%20and%20code.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "classification",
+            "id": "c377de5e-9f38-4d61-af66-6de787ed4412",
+            "name": "classification",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drying",
+            "id": "23c2ed0e-94ec-426c-937f-ae00006f51cd",
+            "name": "drying",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ephemeral",
+            "id": "86d0558f-e228-4094-80e3-f114896af10d",
+            "name": "ephemeral",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrology",
+            "id": "b2933476-3a0d-4a09-86ac-c3235f87b4da",
+            "name": "hydrology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "indicators",
+            "id": "3617aaf6-e098-4a3b-b30f-d6da94007da3",
+            "name": "indicators",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "intermittency",
+            "id": "85eba560-5580-435a-a9a7-5696d1aa8aa8",
+            "name": "intermittency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "intermittent",
+            "id": "a06e0f1d-66c4-45bd-a371-b9e28e534253",
+            "name": "intermittent",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "perennial",
+            "id": "6d2498d6-1919-4e2e-ae24-299b44577f6c",
+            "name": "perennial",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "permanence",
+            "id": "e553c844-afa1-4b38-a0b4-86e71b1e5bf4",
+            "name": "permanence",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rapid-assessment",
+            "id": "9f843bae-cba4-4494-b1e6-66cea027d455",
+            "name": "rapid-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "temporary",
+            "id": "6ab395d9-b16f-4603-ace8-e180c2848b4f",
+            "name": "temporary",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 61,
+        "recent": 2
+    }
+}

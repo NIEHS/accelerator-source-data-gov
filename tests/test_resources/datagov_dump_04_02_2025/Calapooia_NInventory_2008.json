@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "f86c9ef0-6bcc-4159-ae5a-fbab63a94fc3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jiajia Lin",
+    "maintainer_email": "lin.jiajia@epa.gov",
+    "metadata_created": "2020-11-12T13:44:34.349471",
+    "metadata_modified": "2020-11-12T13:44:34.349482",
+    "name": "calapooia-ninventory-2008",
+    "notes": "The dataset contains calculated results of annual and seasonal input of nitrogen from seven major sources in the Calapooia River Watershed and its subwatersheds. It also contains annual and seasonal export of nitrogen from crop harvest and stream export. \n\nThis dataset is associated with the following publication:\nLin, J., J. Compton, S. Leibowitz, G. Mueller-Warrant, W. Matthews, S. Schoenholz, D. Evans, and R. Coulombe. Seasonality of nitrogen balances in a Mediterranean climate watershed, Oregon, US.   BIOGEOCHEMISTRY. Springer, New York, NY, USA, 142(2): 247-264, (2019).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Calapooia_NInventory_2008",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s10533-018-0532-0"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "14742169-f10d-449b-8667-e8c84b0b3751"
+        },
+        {
+            "key": "source_hash",
+            "value": "4b5bdf913db546f9dd7fa3667719483b3f1a8f14"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-05-22"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1500883"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:34.355466",
+            "description": "Calapooia_NInventory_2008.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "767ae923-84a5-4e9e-ae89-01ac5d16727a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:34.355466",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Calapooia_NInventory_2008.xlsx",
+            "package_id": "f86c9ef0-6bcc-4159-ae5a-fbab63a94fc3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500883/Calapooia_NInventory_2008.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "agriculture",
+            "id": "5d759d19-2821-4f8a-9f1b-9c0d1da3291e",
+            "name": "agriculture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "gis",
+            "id": "051036d1-5fe4-4af7-844b-7eabfcea6ad5",
+            "name": "gis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "grass-seed-crops",
+            "id": "ef0ac1d2-2958-45d2-a2c9-599cbb265ffc",
+            "name": "grass-seed-crops",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen",
+            "id": "547959b4-f904-484c-9a1e-0f6ab529e4b2",
+            "name": "nitrogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nutrient-use-efficiency",
+            "id": "0b8af62e-933b-449d-93e3-ca94b7e9a541",
+            "name": "nutrient-use-efficiency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "seasonal-analysis",
+            "id": "65f6801e-cc68-47db-8c52-5a19f9d7f8f5",
+            "name": "seasonal-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 126,
+        "recent": 1
+    }
+}

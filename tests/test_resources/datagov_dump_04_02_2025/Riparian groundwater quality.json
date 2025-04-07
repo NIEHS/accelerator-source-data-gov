@@ -1,0 +1,150 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "2bc5ee45-11bc-42d0-a070-9c8ff7c067be",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Paul Mayer",
+    "maintainer_email": "mayer.paul@epa.gov",
+    "metadata_created": "2022-10-20T08:41:39.175124",
+    "metadata_modified": "2022-10-20T08:41:39.175133",
+    "name": "riparian-groundwater-quality",
+    "notes": "Surface water and groundwater chemistry collected at 5 urban stream study sites. This dataset is not publicly accessible because: Checking with University of Maryland for data availability. It can be accessed through the following means: Checking with University of Maryland for data availability. Format: Checking with University of Maryland for data availability. \n\nThis dataset is associated with the following publication:\nWood, K., S. Kaushal, P. Vidon, P. Mayer, and J. Galella. Tree Trade-Offs in Stream Restoration: Impacts on Riparian Groundwater Quality.   Urban Ecosystems. Springer Science+Business Media B.V, Dordrecht,  NETHERLANDS, 25: 773-795, (2022).",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Riparian groundwater quality",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "8f2cdd17130d3712f07c73eac173b030171c0ecd"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520710"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-04-06"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s11252-021-01182-8"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4a7f1336-0456-47c5-992b-75c1747f1e82"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "groundwater",
+            "id": "692bc2bf-4d42-4222-9794-b6196f106f94",
+            "name": "groundwater",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "plant-nutrients",
+            "id": "43f52099-d9c9-4f4b-bcba-da893a94b208",
+            "name": "plant-nutrients",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "riparian-buffer",
+            "id": "6467a00a-2877-4e34-91b7-8c68dd5dc1e2",
+            "name": "riparian-buffer",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 65,
+        "recent": 1
+    }
+}

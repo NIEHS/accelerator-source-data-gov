@@ -1,0 +1,204 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "bd2523fe-5335-418b-bf2f-f8f1f8466cdc",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Rohit Mathur",
+    "maintainer_email": "mathur.rohit@epa.gov",
+    "metadata_created": "2020-11-12T13:36:07.196179",
+    "metadata_modified": "2020-11-12T13:36:07.196190",
+    "name": "xing-et-al-jgr2015",
+    "notes": "The data sets are outputs from the WRF-CMAQ modeling system. Typically these files contain a number of meteorological and atmospheric pollutant concentrations on a model grid which is either 2- or 3-dimensional and also in some instances vary with time. \n\nThis dataset is associated with the following publication:\nXing, J., R. Mathur , J. Pleim , C. Hogrefe , C. Gan, D. Wong , C. Wei, and J. Wang. Air pollution and climate response to aerosol direct radiative effects: A modeling study of decadal trends across the northern hemisphere.   JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES. American Geophysical Union, Washington, DC, USA, 120(33): 12221-12236, (2015).",
+    "num_resources": 1,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Xing_et_al_JGR2015",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "http://onlinelibrary.wiley.com/doi/10.1002/2015JD023933/full"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "bbc33092-a7fd-453f-8b16-ffe8bd9ace65"
+        },
+        {
+            "key": "source_hash",
+            "value": "9ee3a8c7f4cad2054fb27c0b7dcb4f55c32e90e8"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-08-17"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-pc8q-201"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:36:07.205116",
+            "description": "Xing_JGR_data_document_updated.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "9203d020-c700-4f6b-8a88-9a30a5c39950",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:36:07.205116",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Xing_JGR_data_document_updated.docx",
+            "package_id": "bd2523fe-5335-418b-bf2f-f8f1f8466cdc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/201/Xing_JGR_data_document_updated.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aerosol-direct-radiatiative-effects",
+            "id": "e2050dc2-032c-41a5-b0d2-7f8c77e2e4ac",
+            "name": "aerosol-direct-radiatiative-effects",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aerosol-direct-radiative-effect",
+            "id": "fc48019a-18fd-424d-aae1-04be77ce397a",
+            "name": "aerosol-direct-radiative-effect",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aod",
+            "id": "4af2d074-bfd4-4a9d-9981-df83d3b59415",
+            "name": "aod",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "feedback",
+            "id": "2c4c2421-9f75-46c4-b355-b3c8f28714dd",
+            "name": "feedback",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hemispheric-cmaq",
+            "id": "405531fe-a9dc-4bf0-a282-54aeeb17483a",
+            "name": "hemispheric-cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "northern-hemisphere",
+            "id": "b229cf2b-d339-4ff0-8b7c-1af71fed93f1",
+            "name": "northern-hemisphere",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "trend",
+            "id": "f11de50f-6ac9-49e7-a323-f95b0f935f43",
+            "name": "trend",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wrf-cmaq",
+            "id": "be41e75b-ef8a-4094-ad14-aedc2a3c8907",
+            "name": "wrf-cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 132,
+        "recent": 1
+    }
+}

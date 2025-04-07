@@ -1,0 +1,280 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "2903feee-a0ac-493d-a870-bec752648865",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Sylvia Lee",
+    "maintainer_email": "lee.sylvia@epa.gov",
+    "metadata_created": "2020-11-12T13:44:54.831787",
+    "metadata_modified": "2020-11-12T13:44:54.831798",
+    "name": "supplementary-material-for-lee-et-al-2019-taxonomic-harmonization-may-reveal-a-stronger-as",
+    "notes": "Diatom data have been collected in large-scale biological assessments in the United States, such as the U.S. Environmental Protection Agency\u2019s National Rivers and Streams Assessment (NRSA). However, the effectiveness of diatoms as indicators may suffer if inconsistent taxon identifications across different analysts obscure the relationships between assemblage composition and environmental variables. To reduce these inconsistencies, we harmonized the 2008\u20132009 NRSA data from nine analysts by updating names to current synonyms and by statistically identifying taxa with high analyst signal (taxa with more variation in relative abundance explained by the analyst factor, relative to environmental variables). We then screened a subset of samples with QA/QC data and combined taxa with mismatching identifications by the primary and secondary analysts. When these combined \u201cslash groups\u201d did not reduce analyst signal, we elevated taxa to the genus level or omitted taxa in difficult species complexes. We examined the variation explained by analyst in the original and revised datasets. Further, we examined how revising the datasets to reduce analyst signal can reduce inconsistency, thereby uncovering the variation in assemblage composition explained by total phosphorus (TP), an environmental variable of high priority for water managers. To produce a revised dataset with the greatest taxonomic consistency, we ultimately made 124 slash groups, omitted 7 taxa in the small naviculoid (e.g., Sellaphora atomoides) species complex, and elevated Nitzschia, Diploneis, and Tryblionella taxa to the genus level. Relative to the original dataset, the revised dataset had more overlap among samples grouped by analyst in ordination space, less variation explained by the analyst factor, and more than double the variation in assemblage composition explained by TP. Elevating all taxa to the genus level did not eliminate analyst signal completely, and analyst remained the most important predictor for the genera Sellaphora, Mayamaea, and Psammodictyon, indicating that these taxa present the greatest obstacle to consistent identification in this dataset. Although our process did not completely remove analyst signal, this work provides a method to minimize analyst signal and improve detection of diatom association with TP in large datasets involving multiple analysts. Examination of variation in assemblage data explained by analyst and taxonomic harmonization may be necessary steps for improving data quality and the utility of diatoms as indicators of environmental variables. \n\nThis dataset is associated with the following publication:\nLee, S., I. Bishop, S. Spaulding, R. Mitchell, and L. Yuan. Taxonomic harmonization may reveal a stronger association between diatom assemblages and total phosphorus in large datasets..   ECOLOGICAL INDICATORS. Elsevier Science Ltd, New York, NY, USA, 102: 166-174, (2019).",
+    "num_resources": 4,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Supplementary material for Lee et al. 2019 Taxonomic harmonization may reveal a stronger association between diatom assemblages and total phosphorus in large datasets",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.ecolind.2019.01.061",
+                "https://pasteur.epa.gov/uploads/10.23719/1503373/documents/R%20code%20and%20functions.zip"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a51fec72-e877-4d4a-ab52-6cfecf4daf09"
+        },
+        {
+            "key": "source_hash",
+            "value": "bf66106930ebc167b3f50dc902318580723dd92d"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-01-24"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503373"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:54.882943",
+            "description": "Appendix%20B.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "8554ddfe-c092-4eb8-8a30-2ac989facaa0",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:54.882943",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Appendix B.zip",
+            "package_id": "2903feee-a0ac-493d-a870-bec752648865",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503373/Appendix%20B.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:54.882953",
+            "description": "Data_Dictionaries_TO25_TD01.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5aafb13e-a07b-47fa-b529-d35b7160c333",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:54.882953",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Data_Dictionaries_TO25_TD01.xlsx",
+            "package_id": "2903feee-a0ac-493d-a870-bec752648865",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503373/Data_Dictionaries_TO25_TD01.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:54.882959",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "058b7c2f-cf82-4d04-b255-7f348860f75e",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:54.882959",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sciencedirect.com/science/article/pii/S1470160X19300822#s0095",
+            "package_id": "2903feee-a0ac-493d-a870-bec752648865",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.sciencedirect.com/science/article/pii/S1470160X19300822#s0095",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:54.882964",
+            "description": "README_v4_508.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "c6f8d009-9244-45e3-b0b8-23664b54137b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:54.882964",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "README_v4_508.docx",
+            "package_id": "2903feee-a0ac-493d-a870-bec752648865",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503373/README_v4_508.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "diatoms",
+            "id": "6593229d-3dca-46ff-8ac6-f0455ec3a733",
+            "name": "diatoms",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "national-rivers-and-streams-assessment",
+            "id": "c96201c6-70aa-4ef3-9207-26432dfacebe",
+            "name": "national-rivers-and-streams-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nrsa",
+            "id": "ae5235a1-27aa-4cab-aa37-6d9dff26de47",
+            "name": "nrsa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nutrients",
+            "id": "7b22a832-3d85-4237-b697-ecd346e37a1e",
+            "name": "nutrients",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "phosphorus",
+            "id": "919d36d2-b516-4c7e-b418-304d9e85f796",
+            "name": "phosphorus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rivers-and-streams",
+            "id": "62d33bfd-ea89-43c6-b91f-f387d71acf77",
+            "name": "rivers-and-streams",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "taxonomic-harmonization",
+            "id": "4731d4b6-6ad6-4da6-bcb3-ac8ab1f828cd",
+            "name": "taxonomic-harmonization",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "total-phosphorus",
+            "id": "3c80b8dd-ee16-4032-be47-798edd9c5850",
+            "name": "total-phosphorus",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 130,
+        "recent": 1
+    }
+}

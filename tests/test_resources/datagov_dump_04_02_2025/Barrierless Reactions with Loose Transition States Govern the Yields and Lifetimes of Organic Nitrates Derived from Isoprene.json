@@ -1,0 +1,233 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "65b557d9-4105-4149-a1ed-3a28faaf1f2b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Ivan Piletic",
+    "maintainer_email": "piletic.ivan@epa.gov",
+    "metadata_created": "2020-11-12T13:40:26.414214",
+    "metadata_modified": "2020-11-12T13:40:26.414225",
+    "name": "barrierless-reactions-with-loose-transition-states-govern-the-yields-and-lifetimes-of-orga",
+    "notes": "The attached extensive computational chemistry dataset was succinctly presented by Piletic et al. (Journal of Physical Chemistry A, 2017, DOI: 10.1021/acs.jpca.7b08229) and involves detailed electronic structure (density functional theory - DFT) and kinetic calculation (master equation formalism) outputs for the reactions of isoprene peroxy radical isomers with NOx.  The first three tabs describe the potential energy surfaces (PESs) of the beta and delta hydroxy-peroxy isoprene isomers reacting with NO to produce NO2, HONO and organic nitrates.  Microcanonical rate constants and organic nitrate yield data are presented in the fourth and fifth tabs.  The PESs for the reactions of the E and Z delta hydroxy-peroxy isoprene isomers is given in the sixth tab while the seventh tab shows the PES data for the reaction of the hydroxyl radical with several organic nitrates. \n\nThis dataset is associated with the following publication:\nPiletic, I., E. Edney, and L. Bartolotti. Barrierless Reactions with Loose Transition States Govern the Yields and Lifetimes of Organic Nitrates Derived from Isoprene.   JOURNAL OF PHYSICAL CHEMISTRY A. American Chemical Society, Washington, DC, USA, 121(43): 8306-8321, (2017).",
+    "num_resources": 1,
+    "num_tags": 11,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Barrierless Reactions with Loose Transition States Govern the Yields and Lifetimes of Organic Nitrates Derived from Isoprene",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.jpca.7b08229"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8563e0ec-26d9-4f73-b789-19b398f54773"
+        },
+        {
+            "key": "source_hash",
+            "value": "5dbbcb51a0cb1ad00d88f55b710ecb71becabf7c"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-06-16"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1400392"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1400392/documents/COMPCHEMDataDictionary.docx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:40:26.421602",
+            "description": "IsopreneOrganicNitrateManuscript_JPCA_2017_ScienceHub_Dataset.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "588e4427-0997-47b2-bdef-476669ae5027",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:40:26.421602",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "IsopreneOrganicNitrateManuscript_JPCA_2017_ScienceHub_Dataset.xlsx",
+            "package_id": "65b557d9-4105-4149-a1ed-3a28faaf1f2b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1400392/IsopreneOrganicNitrateManuscript_JPCA_2017_ScienceHub_Dataset.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "atmospheric-chemistry",
+            "id": "3eb3c84c-1b9d-4924-9f13-f356f324a843",
+            "name": "atmospheric-chemistry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chemical-mechanisms",
+            "id": "0ca9ec02-2bbf-435e-abe0-7f436880b0aa",
+            "name": "chemical-mechanisms",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cmaq",
+            "id": "8ec5fd16-3c5f-4bef-9a2f-20f6146da03c",
+            "name": "cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "computational-chemistry",
+            "id": "a29b15c5-0406-4fad-8e6f-118fd0e2361b",
+            "name": "computational-chemistry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hono",
+            "id": "57c6feeb-527c-4d6a-a995-5857c0c92b4b",
+            "name": "hono",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "isoprene",
+            "id": "3e6cfb79-ee9d-48d7-962f-df3dc37026c7",
+            "name": "isoprene",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nox",
+            "id": "908ecfa4-6371-4ca2-bf96-3c67891c7801",
+            "name": "nox",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "organic-nitrate",
+            "id": "8c93241a-5e1b-49d6-8edd-0a76db3519ae",
+            "name": "organic-nitrate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone-concentrations",
+            "id": "0554b306-c1b0-454f-903b-d208fd0ed008",
+            "name": "ozone-concentrations",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm2-5",
+            "id": "a1b6b16a-9f6b-4198-aff5-013a1484c09a",
+            "name": "pm2-5",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 147,
+        "recent": 1
+    }
+}

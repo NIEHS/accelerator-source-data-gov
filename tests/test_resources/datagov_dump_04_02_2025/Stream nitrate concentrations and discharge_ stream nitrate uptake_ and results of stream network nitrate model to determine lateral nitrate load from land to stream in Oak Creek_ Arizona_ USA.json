@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "f3edf4b5-ae7e-41be-981a-3fde65bb3a60",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Amalia Handler",
+    "maintainer_email": "handler.amalia@epa.gov",
+    "metadata_created": "2024-12-22T17:09:30.682503",
+    "metadata_modified": "2024-12-22T17:09:30.682512",
+    "name": "stream-nitrate-concentrations-and-discharge-stream-nitrate-uptake-and-results-of-stream-ne",
+    "notes": "Data package associated with Handler et al. (2024) \"Nitrate loads from land to stream are balanced by in-stream nitrate uptake across season in a dryland stream\". The study describes the nitrate dynamics in Oak Creek watershed. Data include measurements from four seasonal synoptic sampling campaigns, nine seasonal stream nitrate uptake experiments on the main stem and tributaries, and the results of a network model that estimates the lateral load of nitrate from surrounding landscape to the stream network as well as network-level stream nitrate uptake and retention. \n\nThis dataset is associated with the following publication:\nHandler, A., A. Helton, and N. Grimm. Nitrate loads from land to stream are balanced by in-stream nitrate uptake across seasons in a dryland stream network..   Journal of Geophysical Research: Biogeosciences. American Geophysical Union, Washington, DC, USA, 129(11): e2024JG008117, (2024).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Stream nitrate concentrations and discharge, stream nitrate uptake, and results of stream network nitrate model to determine lateral nitrate load from land to stream in Oak Creek, Arizona, USA",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "5fc74581fecbc9560776ce9161a28b88424723050f50bd2a5ea59db4e5561517"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531891"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-10-25"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1029/2024jg008117"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "174d936e-3b7c-4852-8a5f-92991af07516"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-12-22T17:09:30.705328",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "4645fbf6-f024-4bd2-b922-4fa5b35006d0",
+            "last_modified": null,
+            "metadata_modified": "2024-12-22T17:09:30.662420",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.6073/pasta/68273eab165af073371b126d6d8c05f8",
+            "package_id": "f3edf4b5-ae7e-41be-981a-3fde65bb3a60",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://doi.org/10.6073/pasta/68273eab165af073371b126d6d8c05f8",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "land-cover",
+            "id": "b942a45b-2e3a-4667-aa3b-e6020a1d7b11",
+            "name": "land-cover",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "modeling",
+            "id": "6dab039d-306b-4964-a66a-39a76a295408",
+            "name": "modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrate",
+            "id": "3d1da94c-4b81-4e6c-b490-f088946d90ea",
+            "name": "nitrate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "streams",
+            "id": "171a1d64-ed75-4caf-801f-2b41da2e1704",
+            "name": "streams",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 9,
+        "recent": 3
+    }
+}

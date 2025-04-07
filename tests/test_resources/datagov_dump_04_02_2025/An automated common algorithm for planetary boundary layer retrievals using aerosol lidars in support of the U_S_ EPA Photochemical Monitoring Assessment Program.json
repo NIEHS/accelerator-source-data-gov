@@ -1,0 +1,187 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "2a33daf0-2b2a-4dc9-a922-bf198693ecd5",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "James Szykman",
+    "maintainer_email": "szykman.jim@epa.gov",
+    "metadata_created": "2020-11-12T13:50:42.563737",
+    "metadata_modified": "2020-11-12T13:50:42.563749",
+    "name": "an-automated-common-algorithm-for-planetary-boundary-layer-retrievals-using-aerosol-lidars",
+    "notes": "Ceilometers are devices for measuring and recording the height of clouds using laser based LiDAR technologies. They also can measure the height of planetary boundary layer (PBL), which is the lowest layer in the atmosphere directly influenced by the Earth\u2019s surface. This dataset consists of retrievals from an automated planetary boundary layer (PBL) algorithm. This algorithm is proposed as a common cross-platform method for use with commercially available ceilometers. For additional assistance in access and interpreting the data please contact the listed authors. \n\nThis dataset is associated with the following publication:\nSzykman, J., D. Williams, V. Caicedo, R. Delgado, T. Knepp , K. Cavender, and B. Lefer. An automated common algorithm for planetary boundary layer retrievals using aerosol lidars in support of the U.S. EPA Photochemical Monitoring Assessment Program.   Journal of Atmospheric and Oceanic Technology. American Meteorological Society, Boston, MA, USA,  1-51, (2020).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "An automated common algorithm for planetary boundary layer retrievals using aerosol lidars in support of the U.S. EPA Photochemical Monitoring Assessment Program",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1175/jtech-d-20-0050.1"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "059599c1-ab9a-4cad-a3c4-d9cca80232f2"
+        },
+        {
+            "key": "source_hash",
+            "value": "3850a986855ef2913ea08525a1e4d75c415fbc5c"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-12-15"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518722"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://alg.umbc.edu/wp-content/uploads/ACES/Processed/README.pdf"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:42.588607",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "76c4c210-b9a8-4a8b-b984-464055103a4a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:42.588607",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://alg.umbc.edu/ACES/",
+            "package_id": "2a33daf0-2b2a-4dc9-a922-bf198693ecd5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://alg.umbc.edu/ACES/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "ensemble-kalman-filter",
+            "id": "edc65539-662c-46c3-9513-0ab8ad812280",
+            "name": "ensemble-kalman-filter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "geos-chem",
+            "id": "49fdd5c7-7e6e-4b39-8d3c-856ec3d864c8",
+            "name": "geos-chem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm2-5-forecast",
+            "id": "b982421b-0f5b-4ed2-9539-e120532db160",
+            "name": "pm2-5-forecast",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wrf-chem",
+            "id": "d4f6f643-e3ef-4199-8d6e-7e500fc52fa5",
+            "name": "wrf-chem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wrf-cmaq",
+            "id": "be41e75b-ef8a-4094-ad14-aedc2a3c8907",
+            "name": "wrf-cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 61,
+        "recent": 2
+    }
+}

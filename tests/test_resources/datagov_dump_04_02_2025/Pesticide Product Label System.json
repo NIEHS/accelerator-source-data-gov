@@ -1,0 +1,198 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "24808ace-7245-4557-9dbf-1e84c4b247aa",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mark Heflin, U.S. EPA Office of Chemical Safety and Pollution Prevention (OCSPP) - Office of Pesticide Programs (OPP)",
+    "maintainer_email": "heflin.mark@epa.gov",
+    "metadata_created": "2020-12-04T18:21:23.028888",
+    "metadata_modified": "2020-12-04T18:21:23.028900",
+    "name": "pesticide-product-label-system",
+    "notes": "The Pesticide Product Label System (PPLS) provides a collection of pesticide product labels (Adobe PDF format) that have been approved by EPA under Section 3 of the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA). New labels were added to PPLS on November 21, 2014. Pesticide product labels provide critical information about how to safely handle and use registered pesticide products. An approved pesticide product label represents the full content of EPAs registration decision regarding that product. Pesticide labels contain detailed information on the use, storage, and handling of a product. This information will be found on EPA stamped-approved labels and, in some cases, in subsequent related correspondence, which is also included in PPLS. You may need to review several PDF files for a single product to determine the complete current terms of registration.",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Pesticide Product Label System",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "c24020a2-4da0-4c8c-b558-629c65c5c356"
+        },
+        {
+            "key": "issued",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OCSPP-OPP Non-Geo Records"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BF4E8281C-2AD5-4817-BBE5-6EBA55C8DF18%7D",
+                "https://edg.epa.gov/metadata/rest/document?id=%7BF4E8281C-2AD5-4817-BBE5-6EBA55C8DF18%7D"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "7cdb0097-a6e5-4b3c-b80a-23be9564eb3e"
+        },
+        {
+            "key": "source_hash",
+            "value": "c42f1650d844fd9958c5bc187dcf52b95f6fc6f5"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Chemical Safety and Pollution Prevention (OCSPP) - Office of Pesticide Programs (OPP)"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/PUBLIC/OCSPP/OPP/metadata/OCSPP-OPP.json"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "irregular"
+        },
+        {
+            "key": "spatial",
+            "value": "-180.0,18.0,-66.0,72.0"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "F4E8281C-2AD5-4817-BBE5-6EBA55C8DF18"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-04T18:21:23.037155",
+            "description": "",
+            "format": "CSV",
+            "hash": "",
+            "id": "eebd2210-fa4f-4c10-90a3-f33127f63c8f",
+            "last_modified": null,
+            "metadata_modified": "2020-12-04T18:21:23.037155",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Comma Separated Values File",
+            "no_real_name": true,
+            "package_id": "24808ace-7245-4557-9dbf-1e84c4b247aa",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=PPLS:1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 24,
+                "recent": 5
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pesticide",
+            "id": "e9a47af2-ff1a-44e4-ba16-2569ea2bc07a",
+            "name": "pesticide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "product-label",
+            "id": "1fae535e-062a-4594-be9b-b5911f1ecb8a",
+            "name": "product-label",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 780,
+        "recent": 13
+    }
+}

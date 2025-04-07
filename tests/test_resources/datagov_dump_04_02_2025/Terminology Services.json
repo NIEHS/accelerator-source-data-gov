@@ -1,0 +1,312 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "55c85770-6e28-420c-8898-6799595b92f9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Angelina Hurst, U.S. EPA Office of Mission Support (OMS)",
+    "maintainer_email": "hurst.angelina@epa.gov",
+    "metadata_created": "2020-12-03T02:11:37.353340",
+    "metadata_modified": "2024-03-16T16:18:10.971349",
+    "name": "terminology-services",
+    "notes": "Terminology Services provides tools and services that enable vocabulary development, maintenance and provisioning for the enterprise.",
+    "num_resources": 2,
+    "num_tags": 16,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Terminology Services",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "0dde10650068f23373f5703dddd2ee6cfbc6c8d18954d8a9d3c8a82404cd52fe"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "F180B542-3D54-4CBA-BD71-47EC423ECE65"
+        },
+        {
+            "key": "issued",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "landingPage",
+            "value": "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BF180B542-3D54-4CBA-BD71-47EC423ECE65%7D"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Mission Support (OMS)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BF180B542-3D54-4CBA-BD71-47EC423ECE65%7D",
+                "https://edg.epa.gov/metadata/rest/document?id=%7BF180B542-3D54-4CBA-BD71-47EC423ECE65%7D"
+            ]
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/public/OEI/metadata/OEI-OIC.json"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "old-spatial",
+            "value": "-180.0,18.0,-66.0,72.0"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a942f6c9-5132-4074-afc7-29b6e564e4ba"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "c9917860-d5d5-4b23-acc3-45c74ce30142"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OEI-OIC Non-Geo Records"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-180.0, 72.0], [-66.0, 72.0], [-66.0, 18.0], [-180.0, 18.0]]]}"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-03T02:11:37.372579",
+            "description": "search.do",
+            "format": "BIN",
+            "hash": "",
+            "id": "2855cefa-1bb5-4b34-a586-c6a4c3eeed43",
+            "last_modified": null,
+            "metadata_modified": "2024-03-16T16:18:10.980180",
+            "mimetype": "application/octet-stream",
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "55c85770-6e28-420c-8898-6799595b92f9",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://iaspub.epa.gov/sor_internet/registry/termreg/searchandretrieve/termsandacronyms/search.do",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-03T02:11:37.372581",
+            "description": "",
+            "format": "BIN",
+            "hash": "",
+            "id": "ddf38633-dcff-4c22-8f68-77fe78bc5391",
+            "last_modified": null,
+            "metadata_modified": "2024-03-16T16:18:10.980238",
+            "mimetype": "application/octet-stream",
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "55c85770-6e28-420c-8898-6799595b92f9",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://iaspub.epa.gov/sor_internet/registry/termreg/home/whatisterminology/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "etss",
+            "id": "54e3b22c-c011-4fd4-b0a0-d088a8a454b2",
+            "name": "etss",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "glossary",
+            "id": "32692218-b115-40fa-b088-e7b2da06b4f9",
+            "name": "glossary",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ontology",
+            "id": "e72f9ac0-1f55-47d8-acb3-55a186f0936c",
+            "name": "ontology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "registry",
+            "id": "c7a83eb5-4674-4470-b4a3-f084cdddc3e3",
+            "name": "registry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sample",
+            "id": "41116319-9500-406a-898d-26165fe62495",
+            "name": "sample",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "semantic-web",
+            "id": "0bdf3922-2775-428b-b065-1c75d640b225",
+            "name": "semantic-web",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "taxonomy",
+            "id": "9572e630-2d70-4953-ae79-a10a8e81a144",
+            "name": "taxonomy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "term",
+            "id": "e4f62520-5f22-4c9d-9c00-30028061ff0c",
+            "name": "term",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "terminology",
+            "id": "42fc0312-ac7e-42bc-adf7-69d93d02946e",
+            "name": "terminology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "terminology-services",
+            "id": "ff32c103-2f8a-4934-a2fb-985aeb249dc3",
+            "name": "terminology-services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thesaurus",
+            "id": "15b1bfcd-27db-4a3e-8ef9-50f3c94469f2",
+            "name": "thesaurus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "trs",
+            "id": "3647a024-df52-4f91-bd5c-36b3667c1375",
+            "name": "trs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ts",
+            "id": "e9ab9096-d757-449b-a869-2716e34e4873",
+            "name": "ts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vocabulary",
+            "id": "395279c3-36f3-495f-9d03-38f56b87b02e",
+            "name": "vocabulary",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 306,
+        "recent": 6
+    }
+}

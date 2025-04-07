@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "9df45dc4-9f9d-4a17-a1b2-b0621e8f5be4",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Amara Holder",
+    "maintainer_email": "holder.amara@epa.gov",
+    "metadata_created": "2020-11-12T13:42:10.038980",
+    "metadata_modified": "2020-11-12T13:42:10.038989",
+    "name": "data-set-for-light-absorption-of-secondary-organic-aerosol-composition-and-contribution-of",
+    "notes": "This is the data used to generate the figures published in the journal article titled, \"Light Absorption of Secondary Organic Aerosol: Composition and Contribution of Nitro-aromatic Compounds\". \n\nThis dataset is associated with the following publication:\nXie, M., X. Chen, M. Hays, M. Lewandowski, J. Offenberg, T. Kleindienst, and A. Holder. Light absorption of secondary organic aerosol: Composition and contribution of nitro-aromatic compounds.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 51(20): 11607-11616, (2017).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data set for Light Absorption of Secondary Organic Aerosol: Composition and Contribution of Nitro-aromatic Compounds",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.7b03263"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2ef08f54-1a8d-4549-8407-bed8a54e439f"
+        },
+        {
+            "key": "source_hash",
+            "value": "91c24dabf9011eb20e50b4e6925cf740502730ff"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-09-28"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1407634"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:42:10.070118",
+            "description": "Environmental%20Science%20and%20Technology%202017%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5b808ba2-9c01-496b-bd80-70b96f82f774",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:42:10.070118",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Environmental Science and Technology 2017 Data.xlsx",
+            "package_id": "9df45dc4-9f9d-4a17-a1b2-b0621e8f5be4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407634/Environmental%20Science%20and%20Technology%202017%20Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aerosol-optical-properties",
+            "id": "7db3863e-fcf4-47eb-8392-34a5d7c823d1",
+            "name": "aerosol-optical-properties",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "black-carbon",
+            "id": "2e3fe484-103a-49a7-8fea-eb68c420aac5",
+            "name": "black-carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "brown-carbon",
+            "id": "04a5442c-dceb-4771-ac70-07a94b356248",
+            "name": "brown-carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "combustion-emissions",
+            "id": "b103f278-8e05-4e8d-ac35-3164c917f8aa",
+            "name": "combustion-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fine-particulate-matter",
+            "id": "8fe071ca-778a-4b81-9083-9b63c6116cd0",
+            "name": "fine-particulate-matter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitro-aromatic-compounds",
+            "id": "1330458c-0cf6-4485-83ae-8b68be1d22d7",
+            "name": "nitro-aromatic-compounds",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "secondary-organic-aerosol",
+            "id": "57fe6170-81a0-4fb9-9310-7e9fe78f8f27",
+            "name": "secondary-organic-aerosol",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 88,
+        "recent": 1
+    }
+}

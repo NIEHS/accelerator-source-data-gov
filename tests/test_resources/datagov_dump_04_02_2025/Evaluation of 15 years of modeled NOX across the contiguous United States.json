@@ -1,0 +1,199 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "3f18107a-9ebc-4b97-ab06-5ae47a230952",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Keith Appel",
+    "maintainer_email": "appel.wyat@epa.gov",
+    "metadata_created": "2021-03-25T17:33:57.207014",
+    "metadata_modified": "2021-03-25T17:33:57.207023",
+    "name": "evaluation-of-15-years-of-modeled-nox-across-the-contiguous-united-states",
+    "notes": "These files contain observed and CMAQ estimated gas species data that were used in the analysis documented in the manuscript \u201cEvaluation of 15 years of modeled NOX across the contiguous United States\u201d. The files are packages as a set of .csv, .zip and .tar.gz files that correspond to different plots and analyses in the paper.  Metadata about each file is available in the Data Dictionary.  The data are available on Zenodo: https://doi.org/10.5281/zenodo.4589604",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Evaluation of 15 years of modeled NOX across the contiguous United States",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/pdf"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c0d5abcb-cfed-49dd-9012-84e94d2fdfc3"
+        },
+        {
+            "key": "source_hash",
+            "value": "c4858ea69eefe435acfaaf71b088662777381d70"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2021-03-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520141"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1520141/documents/ToroEtAl_2021_Elementa_Data_Dictionary.pdf"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-25T17:33:57.286382",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "78cebcbe-1bbe-44ae-a778-76f7b9f71d49",
+            "last_modified": null,
+            "metadata_modified": "2021-03-25T17:33:57.286382",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.5281/zenodo.4589604",
+            "package_id": "3f18107a-9ebc-4b97-ab06-5ae47a230952",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://doi.org/10.5281/zenodo.4589604",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality-modeling",
+            "id": "f85560c5-8fc8-430c-892d-b5ea1d766fb1",
+            "name": "air-quality-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cmaq",
+            "id": "8ec5fd16-3c5f-4bef-9a2f-20f6146da03c",
+            "name": "cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mobile-emissions",
+            "id": "0197a21b-2366-4625-a7f4-b12dd251460d",
+            "name": "mobile-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "model-evaluation",
+            "id": "702484e0-11ec-4bee-a0e6-3a3b89b1ddeb",
+            "name": "model-evaluation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nox",
+            "id": "908ecfa4-6371-4ca2-bf96-3c67891c7801",
+            "name": "nox",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "noy",
+            "id": "3b67cc61-da5f-4508-bfdc-0951cbca7efa",
+            "name": "noy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "o3",
+            "id": "8de05765-d14f-42a6-972b-cf85cc183f23",
+            "name": "o3",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 95,
+        "recent": 1
+    }
+}

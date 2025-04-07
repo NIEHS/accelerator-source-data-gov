@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "0b12c012-d217-4bf9-a136-a72fa2f31d57",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Joseph Flotemersch",
+    "maintainer_email": "flotemersch.joseph@epa.gov",
+    "metadata_created": "2022-05-13T00:38:19.842144",
+    "metadata_modified": "2022-05-13T00:38:19.842158",
+    "name": "national-rivers-and-streams-data-set",
+    "notes": "EPA data is publicly available via the EPA/NARS/NRSA website. (https://www.epa.gov/national-aquatic-resource-surveys/nrsa). The non-EPA data benthic macroinvertebrate data used belonged to the New Mexico Environment Department (NMED) and is described in the QAPP. The non-EPA fish data belonged to the NMED, the Museum of Southwestern Biology, the U.S. Fish and Wildlife Service. All this data was analyzed by Tetra Tech Inc. by contarct of EPA Region 6. Portions of this dataset are inaccessible because: Data belongs to the New Mexico Environment Department (NMED) and the  Museum of Southwestern Biology, the US Fish and Wildlife Service. They can be accessed through the following means: The data that support the findings of this study are available from the corresponding author upon reasonable request.\r\n\r\nCorrespondence:\r\nRobert M. Hughes, Department of Fisheries, Wildlife, & Conservation Sciences, Amnis Opes Institute; Oregon State University, Corvallis, OR, USA.\r\nEmail: hughes.bob@amnisopes.com. Format: The non-EPA data benthic macroinvertebrate data used belonged to the New Mexico Environment Department (NMED) and is described in the QAPP. The non-EPA fish data belonged to the NMED, the Museum of Southwestern Biology, the U.S. Fish and Wildlife Service. \n\nThis dataset is associated with the following publication:\nHughes, R.M., M. Zeigler, S. Stringer, G. Linam, J. Flotemersch, B. Jessup, S. Joseph, G. Jacobi, L. Guevara, R. Cook, P. Bradley, and K. Barrios. Biological assessment of western USA sandy bottom rivers based on modeling historical and current fish and macroinvertebrate data.   River Research and Applications. John Wiley & Sons Incorporated, New York, NY, USA, 38(4): 639-656, (2022).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "National Rivers and Streams Data Set",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524639"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2021-07-02"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/rra.3929"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "87e0fbd4bd1301ca15009af2353c9e1edeb09bfe"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8bd81d2b-61fa-4143-8ce1-3c0c8076ebbd"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-05-13T00:38:19.916483",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "35fea137-849e-435f-baaf-d652328bc6ed",
+            "last_modified": null,
+            "metadata_modified": "2022-05-13T00:38:19.916483",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.epa.gov/national-aquatic-resource-surveys/nrsa",
+            "package_id": "0b12c012-d217-4bf9-a136-a72fa2f31d57",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.epa.gov/national-aquatic-resource-surveys/nrsa",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bioassessment",
+            "id": "8e7d06a4-81c2-4e5b-b62d-dea2749854a9",
+            "name": "bioassessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biological-condition-gradient",
+            "id": "28f11118-6892-41d3-ba5a-3a916af2f164",
+            "name": "biological-condition-gradient",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "flow-regime-alteration",
+            "id": "d7ec3f0a-3523-4507-bc59-f5c0b7c271c2",
+            "name": "flow-regime-alteration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rio-grande",
+            "id": "ec6c81a1-373b-451b-96f9-56e3f10d9126",
+            "name": "rio-grande",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 71,
+        "recent": 1
+    }
+}

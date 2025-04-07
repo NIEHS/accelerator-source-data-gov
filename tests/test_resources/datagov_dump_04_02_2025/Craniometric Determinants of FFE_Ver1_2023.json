@@ -1,0 +1,177 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "42502cf4-5efa-49ec-9a15-d0fcbfd9f1b1",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jacob Griffin",
+    "maintainer_email": "griffin.jacob@epa.gov",
+    "metadata_created": "2024-09-20T06:54:00.498879",
+    "metadata_modified": "2024-09-20T06:54:00.498885",
+    "name": "craniometric-determinants-of-ffe-ver1-2023",
+    "notes": "This data was collected and used to generate the tables and figures for the associated research product. This dataset includes the craniometrics measurements and fitted filtration efficiencies for all 100 subjects. Fitted filtration efficiencies are reported as overall means and standard deviations for each of the nine mask testing conditions outlined in the associated publication. \n\nThis dataset is associated with the following publication:\nGriffin, J., E. Mcinroe, E. Pennington, W. Steinhardt, H. Chen, S. Prince, and J. Samet. Craniometric Determinants of the Fitted Filtration Efficiency of Disposable Masks.   Frontiers in Public Health. Frontiers, Lausanne,  SWITZERLAND, 12: 1444411, (2024).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Craniometric Determinants of FFE_Ver1_2023",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "a1b08c5883b8fe02d53f3fe94bdfb97b86ff566e55cfb66340abdbed6368a48a"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531708"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-08-30"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3389/fpubh.2024.1444411",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11368739"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "e55afe8d-3927-4551-bf95-3299686bbb7d"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-09-20T06:54:00.514721",
+            "description": "science_hub_total_table_Craniometrics.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "91bdab50-a5a8-4d4b-8e9b-644a95caf53d",
+            "last_modified": null,
+            "metadata_modified": "2024-09-20T06:54:00.486999",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "science_hub_total_table_Craniometrics.xlsx",
+            "package_id": "42502cf4-5efa-49ec-9a15-d0fcbfd9f1b1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531708/science_hub_total_table_Craniometrics.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality-emergencies",
+            "id": "b26eaa08-173d-4408-908d-ce2cf6bafdd8",
+            "name": "air-quality-emergencies",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "craniofacial-morphology",
+            "id": "a2758f81-54e8-4dab-8d0f-905f70cb2ebe",
+            "name": "craniofacial-morphology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "disposable-respiratory-protection",
+            "id": "7e473b56-d106-471b-896d-5d609789d9be",
+            "name": "disposable-respiratory-protection",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fitted-filtration-efficiency",
+            "id": "fd8434d2-2ac1-49d7-bd1b-41266924639a",
+            "name": "fitted-filtration-efficiency",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 6,
+        "recent": 1
+    }
+}

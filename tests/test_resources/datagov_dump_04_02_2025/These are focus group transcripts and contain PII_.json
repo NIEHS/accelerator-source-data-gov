@@ -1,0 +1,157 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "d4dba683-7dcd-4897-8ace-9082113e82ad",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mary Hano",
+    "maintainer_email": "hano.mary@epa.gov",
+    "metadata_created": "2020-11-12T13:49:31.463721",
+    "metadata_modified": "2020-11-12T13:49:31.463732",
+    "name": "these-are-focus-group-transcripts-and-contain-pii",
+    "notes": "Data consist of transcripts from facilitated focus group discussions and contain PII. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: It can be accessed by authorized persons by reaching out to contact point. Format: These are focus group discussion transcripts. Data contain PII. \n\nThis dataset is associated with the following publication:\nHano, M., C. Baghdikian, S. Prince, E. Lazzarino, B. Hubbell, E. Sams, S. Stone, A. Davis, and W. Cascio. Illuminating Stakeholder Perspectives at the Intersection of Air Quality Health Risk Communication and Cardiac Rehabilitation.   International Journal of Environmental Research and Public Health. Molecular Diversity Preservation International, Basel,  SWITZERLAND, 16(19): 3603, (2019).",
+    "num_resources": 0,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "These are focus group transcripts and contain PII.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/ijerph16193603"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "3f3e851b-e8f1-44fd-a43e-da874031432c"
+        },
+        {
+            "key": "source_hash",
+            "value": "77bc422811288cfe9d0b8527e7802dd85f61e966"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-08-31"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504197"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-pollution",
+            "id": "479f3b60-b95d-4708-9034-c531c6695587",
+            "name": "air-pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cardiac-rehabilitation",
+            "id": "ed00f500-f30a-4ae7-9a82-bbd5b5214fd6",
+            "name": "cardiac-rehabilitation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "health-behaviors",
+            "id": "e1fe470a-40d9-47d5-8a0b-6d24058e3279",
+            "name": "health-behaviors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "health-risk-messaging",
+            "id": "ae8e52d5-c9c7-4e0b-ba08-faabd8eb96bf",
+            "name": "health-risk-messaging",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 248,
+        "recent": 1
+    }
+}

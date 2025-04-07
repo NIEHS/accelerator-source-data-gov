@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c4e7cc51-4d78-42d5-8b9e-ac7291e2102e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Barbara Abbott",
+    "maintainer_email": "abbott.barbara@epa.gov",
+    "metadata_created": "2020-11-12T13:42:41.214264",
+    "metadata_modified": "2020-11-12T13:42:41.214275",
+    "name": "data-for-a-ppar-alpha-dependence-of-developmental-effects-of-pfna-in-mouse",
+    "notes": "Perfluorononanoic acid (PFNA) is one of the perfluoroalkyl acids found in the environment and in tissues of humans and wildlife. Prenatal exposure to PFNA negatively impacts survival and development of mice and activates the mouse and human peroxisome proliferator-activated receptor-alpha (PPAR\u03b1). In the current study, we used PPAR\u03b1 knockout (KO) and 129S1/SvlmJ wild-type (WT) mice to investigate the role of PPAR\u03b1 in mediating PFNA-induced in vivo effects. Pregnant KO and WT mice were dosed orally with water (vehicle control: 10 ml/kg), 0.83, 1.1, 1.5, or 2mg/kg PFNA on gestational days (GDs) 1\u221218 (day of sperm plug = GD 0). Maternal weight gain, implantation, litter size, and pup weight at birth were unaffected in either strain. PFNA exposure reduced the number of live pups at birth and survival of offspring to weaning in the 1.1 and 2 mg/kg groups in WT. Eye opening was delayed (mean delay 2.1 days) and pup weight at weaning was reduced inWT pups at 2mg/kg. These developmental endpoints were not affected in the KO. Relative liver weight was increased in a dose-dependent manner in dams and pups of theWT strain at all dose levels but only slightly increased in the highest dose group in the KO strain. In summary, PFNA altered liver weight of dams and pups, pup survival, body weight, and development in the WT, while only inducing a slight increase in relative liver weight of dams and pups at 2mg/kg in KO mice. These results suggest that PPAR\u03b1 is an essential mediator of PFNA-induced developmental toxicity in the mouse. \n\nThis dataset is associated with the following publication:\nAbbott, B., C. Wolf, J. Schmid, C. Lau, and R. Zehr. Developmental Effects of Perfluorononanoic Acid in the Mouse Are Dependent on Peroxisome Proliferator-Activated Receptor-alpha..   PPAR research. Hindawi Publishing Corporation, New York, NY, USA,  1-11, (2010).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data for a PPAR-alpha dependence of developmental effects of PFNA in mouse.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1155/2010/282896"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1f1dc367-d849-42d3-b927-fd2e4c2c43cc"
+        },
+        {
+            "key": "source_hash",
+            "value": "fd4b793b1988a9b6078b9fc78786d6cfdc1659af"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2010-03-17"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1435034"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:42:41.219817",
+            "description": "Wolf%20et%20al%202010%20SciHub%20Data%20Set.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "4cf3aa0b-062f-4de1-9089-03d2d42d8b3f",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:42:41.219817",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Wolf et al 2010 SciHub Data Set.xlsx",
+            "package_id": "c4e7cc51-4d78-42d5-8b9e-ac7291e2102e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1435034/Wolf%20et%20al%202010%20SciHub%20Data%20Set.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "developmental-toxicity",
+            "id": "0362d961-01ed-449d-9a02-e522bf1bab4b",
+            "name": "developmental-toxicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "perfluoroalkyl-acids",
+            "id": "dc0a5e7d-693a-4fa9-ae54-2614b3a970f8",
+            "name": "perfluoroalkyl-acids",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfaa",
+            "id": "30af9da6-d741-4a99-ac09-18dc1bbcf28f",
+            "name": "pfaa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfna",
+            "id": "879cb036-5505-4629-af9a-d946fa51b06d",
+            "name": "pfna",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ppar-alpha",
+            "id": "0716c824-266b-43dd-8b81-2d24f2625c8b",
+            "name": "ppar-alpha",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 78,
+        "recent": 1
+    }
+}

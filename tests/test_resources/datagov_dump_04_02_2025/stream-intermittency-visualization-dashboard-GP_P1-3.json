@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "39a180d0-6d84-485c-a022-d5f0f5b71e6e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Ken Fritz",
+    "maintainer_email": "fritz.ken@epa.gov",
+    "metadata_created": "2023-03-19T14:41:37.797184",
+    "metadata_modified": "2023-03-19T14:41:37.797190",
+    "name": "stream-intermittency-visualization-dashboard-gp-p1-3",
+    "notes": "continuous streamflow duration, water temperature, and precipitation data collected for the development of the beta streamflow duration assessment method for the Great Plains. \n\nThis dataset is associated with the following publication:\nKelso, J., W. Saulnier, K. Fritz, T. Nadeau, and B. Topping. The stream intermittency visualization dashboard: A web application for high-frequency logger data and daily flow observations.   Hydrological Processes. John Wiley & Sons, Ltd., Indianapolis, IN, USA, 37(2): e14809, (2023).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "stream-intermittency-visualization-dashboard-GP_P1-3",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "47e6767949effac3bb9ba8de690f60996c34eb97"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528498"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-03-22"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/hyp.14809"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c49f62e2-d39a-46c9-b1f7-391a88f0feb3"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-03-19T14:41:37.824403",
+            "description": "FINAL%20Data%20Viz%20Video%20fin.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "6b30342e-6fca-46b0-82b8-24fda9ec4295",
+            "last_modified": null,
+            "metadata_modified": "2023-03-19T14:41:37.783023",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "FINAL Data Viz Video fin.zip",
+            "package_id": "39a180d0-6d84-485c-a022-d5f0f5b71e6e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528498/FINAL%20Data%20Viz%20Video%20fin.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "flow-duration",
+            "id": "f1069b1d-352c-489b-b2c1-063ae2b0311a",
+            "name": "flow-duration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "great-plains",
+            "id": "27f75bc4-d883-45aa-94a8-8f915af20e5d",
+            "name": "great-plains",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "precipitation",
+            "id": "b7a5df38-d31a-4f4e-9d1b-425b3a625d99",
+            "name": "precipitation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-temperature",
+            "id": "0e51a100-c6f5-4cd1-8efe-70330b154964",
+            "name": "water-temperature",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 33,
+        "recent": 1
+    }
+}

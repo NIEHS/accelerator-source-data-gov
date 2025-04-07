@@ -1,0 +1,164 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "1e93a1d9-0b57-4458-af3c-415114c6e2ce",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Danelle Lobdell",
+    "maintainer_email": "lobdell.danelle@epa.gov",
+    "metadata_created": "2020-11-12T13:45:33.116988",
+    "metadata_modified": "2020-11-12T13:45:33.116998",
+    "name": "associations-between-environmental-quality-and-adult-asthma-prevalence-in-medical-claims-d",
+    "notes": "The MarketScan health claims database is a compilation of nearly 110 million patient records with information from more than 100 private insurance carriers and large self-insuring companies. Public forms\nof insurance (i.e., Medicare and Medicaid) are not included, nor are small (< 100 employees) or medium (< 1000 employees) self-insuring companies. For this cross-sectional study, approved claims for the years\n2003\u20132013, which includes 17.5\u201345.2 million persons annually, are linked across years and geocoded at the county level. The dataset includes both inpatient and outpatient claims, medical procedures and\nprescription medications. In addition to diagnostic and pharmacy claims, records include patient's age (in years), county of residence, and sex. This dataset defines the population in which we are estimating\nassociations, specifically, U.S. adults aged 18\u201365 with private health insurance, primarily from large employers (those with>1000 employees). We excluded the relatively few (n=6735) individuals over\n65 years of age because Medicare is the primary insurance of U.S. adults over 65.\n\nThe EQI was constructed for 2000-2005 for all US counties and is composed of five domains (air, water, built, land, and sociodemographic), each composed of variables to represent the environmental quality of that domain. Domain-specific EQIs were developed using principal components analysis (PCA) to reduce these variables within each domain while the overall EQI was constructed from a second PCA from these individual domains (L. C. Messer et al., 2014). To account for differences in environment across rural and urban counties, the overall and domain-specific EQIs were stratified by rural urban continuum codes (RUCCs) (U.S. Department of Agriculture, 2015). This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Human health data are not available publicly. EQI data are available at: https://edg.epa.gov/data/Public/ORD/NHEERL/EQI. Format: Data are stored as csv files. \n\nThis dataset is associated with the following publication:\nGray, C., D. Lobdell, K. Rappazzo, Y. Jian, J. Jagai, L. Messer, A. Patel, S. Deflorio-Barker, C. Lyttle, J. Solway, and A. Rzhetsky. Associations between environmental quality and adult asthma prevalence in medical claims data.   ENVIRONMENTAL RESEARCH. Elsevier B.V., Amsterdam,  NETHERLANDS, 166: 529-536, (2018).",
+    "num_resources": 0,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Associations between environmental quality and adult asthma prevalence in medical claims data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.envres.2018.06.020"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6c07462e-c63d-4118-b9c8-226571a5f4bd"
+        },
+        {
+            "key": "source_hash",
+            "value": "ae7373eb74cebb03ee27e77eeb2da33cf2bb17f4"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2013-07-22"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503872"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "built-environment",
+            "id": "66e7d342-c772-41cc-aaf3-288b5055070a",
+            "name": "built-environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-quality",
+            "id": "80e6c743-36bc-4642-9f9a-fb0fc22805f2",
+            "name": "environmental-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land-quality",
+            "id": "a4e61d2e-ffcf-410c-92b1-59ea13fc8796",
+            "name": "land-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sociodemographic-quality",
+            "id": "b12f841e-fdcd-4e81-98a7-833bbfbd5289",
+            "name": "sociodemographic-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 304,
+        "recent": 8
+    }
+}

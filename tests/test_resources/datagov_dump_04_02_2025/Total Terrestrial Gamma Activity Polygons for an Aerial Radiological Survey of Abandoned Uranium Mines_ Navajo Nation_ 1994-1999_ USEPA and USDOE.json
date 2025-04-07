@@ -1,0 +1,279 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "1e9223ab-4ab7-4d4c-a490-49a1bc9901fd",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:30:19.680993",
+    "metadata_modified": "2025-02-25T05:30:19.681000",
+    "name": "total-terrestrial-gamma-activity-polygons-for-an-aerial-radiological-survey-of-abandoned-uraniu13",
+    "notes": "This polygon shapefile presents ranges of ground surface exposure rate from total terrestrial gamma activity, and calculated from aerial gross count data (all gamma events in the range of 38-3026 keV). Forty one (41) aerial radiological surveys of potential uranium mining areas (1,144 square miles) were conducted within the Navajo Nation during the period from October 1994 through October 1999. The US Environmental Protection Agency (USEPA) Region 9 funded the surveys and the US Department of Energy (USDOE) Remote Sensing Laboratory (RSL) in Las Vegas, Nevada conducted the aerial surveys. The aerial survey data were used to characterize the overall radioactivity (ground surface exposure rate) and excess Bismuth 214 levels within the surveyed areas.",
+    "num_resources": 2,
+    "num_tags": 10,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Total Terrestrial Gamma Activity Polygons for an Aerial Radiological Survey of Abandoned Uranium Mines, Navajo Nation, 1994-1999, USEPA and USDOE",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "7B0FC4CE4C-FE9C-4375-B273-F51F0819776C"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2022-02-10"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "henley.cheryl@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "notPlanned"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"Ground surface exposure rate measures total gamma radiation activity without considering constituent isotopic sources. 1144 square miles of the more than 25,000 square mile Navajo Nation were surveyed. This area does not include all areas that may have had uranium mining. Specifically, these surveys do not include the Grants Uranium District that is partially on the Eastern Agency of the Navajo Nation. Use of this data generally requires computer workstations with ESRI's Arc/Info (8.x or above), ArcGIS (8.x or above), or ArcView (3.x), or some other GIS or CAD software that is capable of reading or converting this dataset. The data are provided \\\"as-is,\\\" without warranty of any kind, either express or implied. These data have been compiled as part of a desktop project to collect existing spatial data to support the study of Navajo abandoned uranium mines. No field verifications were undertaken as part of this desktop study.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 9\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-108.972101"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "37.160006"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "35.007696"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-111.780543"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.780543, 35.007696], [-108.972101, 35.007696], [-108.972101, 37.160006], [-111.780543, 37.160006], [-111.780543, 35.007696]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.780543, 35.007696], [-108.972101, 35.007696], [-108.972101, 37.160006], [-111.780543, 37.160006], [-111.780543, 35.007696]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "99f531f8-1d20-4b1c-90b5-30531406d2db"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:19.686677",
+            "description": "",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "7367a36b-0ece-4d16-ae36-e72f96c05aa1",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:19.662259",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Esri REST API Endpoint",
+            "no_real_name": true,
+            "package_id": "1e9223ab-4ab7-4d4c-a490-49a1bc9901fd",
+            "position": 0,
+            "resource_locator_function": "",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://gispub5.epa.gov/arcgis/rest/services/Region9/R9NNAUMRadiation/MapServer",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:19.686682",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "8e97cd01-dab6-4612-8769-4d734f39dc92",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:19.662375",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "1e9223ab-4ab7-4d4c-a490-49a1bc9901fd",
+            "position": 1,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "website",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "http://www.epa.gov/region09/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aerial gross counts polygons",
+            "id": "446c037a-4972-4021-8c9a-d349b4d4f780",
+            "name": "aerial gross counts polygons",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aerial radiological surveys",
+            "id": "997f98f7-97a4-472b-9150-5862370f0fff",
+            "name": "aerial radiological surveys",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arizona",
+            "id": "505b3704-0140-4a4b-b0ca-1d68829851c9",
+            "name": "arizona",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "gamma radiation",
+            "id": "bff3e757-0246-4d48-af8d-7d0c8381f033",
+            "name": "gamma radiation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ground surface exposure rate",
+            "id": "3f883587-ca3f-4ee9-b016-9ceff4654ee2",
+            "name": "ground surface exposure rate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "navajo nation",
+            "id": "3e06b3c6-e74c-4708-99d0-ce1db83739ba",
+            "name": "navajo nation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new mexico",
+            "id": "e79c2ba6-bd42-4b31-8289-93fcc1554d07",
+            "name": "new mexico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "total terrestrial gamma activity",
+            "id": "fb038edb-f0a8-4efd-bbc9-8a713fe9713e",
+            "name": "total terrestrial gamma activity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "utah",
+            "id": "51a1d813-a630-4490-9ce5-015334c39826",
+            "name": "utah",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

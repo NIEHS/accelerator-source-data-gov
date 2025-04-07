@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "6ed68542-ea0b-4fd8-abd1-5fa5d1fc07f7",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jon Corton",
+    "maintainer_email": "corton.chris@epa.gov",
+    "metadata_created": "2021-11-19T06:47:38.055000",
+    "metadata_modified": "2021-11-19T06:47:38.055008",
+    "name": "dataset-for-ord-038667-a-gene-expression-biomarker-predicts-heat-shock-factor-1-hsf1-activ",
+    "notes": "Gene Expression Omnibus and ArrayExpress identification numbers of studies used in the analysis. \n\nThis dataset is associated with the following publication:\nCervantes, P., and C. Corton. A Gene Expression Biomarker Predicts Heat Shock Factor 1 Activation in a Gene Expression Compendium.   CHEMICAL RESEARCH IN TOXICOLOGY. American Chemical Society, Washington, DC, USA, 34(7): 1721-1737, (2021).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset for ORD-038667: A Gene Expression Biomarker Predicts Heat Shock Factor 1 (HSF1) Activation in a Gene Expression Compendium",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520609"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2020-09-01"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.chemrestox.0c00510"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "df077271c7819ada0111389f80531815e88a1b65"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "43076966-85ce-416f-8fea-4a5ec95356a3"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-11-19T06:47:38.143018",
+            "description": "Data%20submission%20for%20A-cfz7.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3b52133c-9de5-42c6-bce6-9b7f59cf0a83",
+            "last_modified": null,
+            "metadata_modified": "2021-11-19T06:47:38.143018",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Data submission for A-cfz7.xlsx",
+            "package_id": "6ed68542-ea0b-4fd8-abd1-5fa5d1fc07f7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520609/Data%20submission%20for%20A-cfz7.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "biomarker",
+            "id": "d0896bd1-278b-4b4c-b91e-747634fec659",
+            "name": "biomarker",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "heat-shock-factor-1",
+            "id": "a0bd010c-f8f5-4918-95ad-be09b4e416b9",
+            "name": "heat-shock-factor-1",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "httr",
+            "id": "fc7c6e1c-0370-43bc-87ca-a503882f0887",
+            "name": "httr",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "transcript-profiling",
+            "id": "1bcb2f9d-8f44-4c64-b30b-07e8ca50f7a8",
+            "name": "transcript-profiling",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 32,
+        "recent": 1
+    }
+}

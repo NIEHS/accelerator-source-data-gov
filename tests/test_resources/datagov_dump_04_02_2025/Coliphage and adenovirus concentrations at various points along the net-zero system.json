@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "9cd56df4-6126-4586-bb65-004ffee7658a",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Nichole Brinkman",
+    "maintainer_email": "brinkman.nichole@epa.gov",
+    "metadata_created": "2020-11-12T13:39:19.370532",
+    "metadata_modified": "2020-11-12T13:39:19.370539",
+    "name": "coliphage-and-adenovirus-concentrations-at-various-points-along-the-net-zero-system",
+    "notes": "Coliphage and adenovirus concentrations per liter. \n\nThis dataset is associated with the following publication:\nGassie, L., J. Englehardt, J. Wang, N. Brinkman, J. Garland, P. Gardinali, and T. Guo. Mineralizing urban net-zero water treatment: Phase II field results and design recommendations.   WATER RESEARCH. Elsevier Science Ltd, New York, NY, USA, 105: 496-506, (2016).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Coliphage and adenovirus concentrations at various points along the net-zero system",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.watres.2016.09.005"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "5a9b0a16-9387-4304-b683-77d485e4a783"
+        },
+        {
+            "key": "source_hash",
+            "value": "8a357a7806b7ad80b6e8ed3af42e4c914d6b01e8"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2015-11-20"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1376692"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:39:19.375309",
+            "description": "BrinkmanNichole_A-80gm_dataset.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b7625b3d-9ec2-405a-83cc-6f0d5fce6e0e",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:39:19.375309",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "BrinkmanNichole_A-80gm_dataset.xlsx",
+            "package_id": "9cd56df4-6126-4586-bb65-004ffee7658a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1376692/BrinkmanNichole_A-80gm_dataset.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "adenovirus",
+            "id": "2eb067ed-2258-4533-9499-9fd8f8d4e8d8",
+            "name": "adenovirus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "advanced-oxidation",
+            "id": "77ba5fb4-184c-474b-9065-df9b54e825f5",
+            "name": "advanced-oxidation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "coliphage",
+            "id": "fab57169-3f69-4412-a053-e0e683ae6316",
+            "name": "coliphage",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "net-zero",
+            "id": "63d511aa-0f7d-48d4-98a6-e0444986b780",
+            "name": "net-zero",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "potable-water-reuse",
+            "id": "f73528c3-4fd8-47d0-ab42-1326f7a6881a",
+            "name": "potable-water-reuse",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 31,
+        "recent": 1
+    }
+}

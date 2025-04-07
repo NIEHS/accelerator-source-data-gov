@@ -1,0 +1,345 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b8ad8563-08ec-4c6f-bb3c-fc8213035e5d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Dion Saxton, U.S. EPA Office of Chemical Safety and Pollution Prevention (OCSPP) - Office of Pollution Prevention and Toxics (OPPT)",
+    "maintainer_email": "saxton.dion@epa.gov",
+    "metadata_created": "2020-12-03T23:08:54.812757",
+    "metadata_modified": "2020-12-03T23:08:54.812768",
+    "name": "design-for-the-environment-products-online-search",
+    "notes": "This dataset contains a list of products that carry the Design for the Environment (DfE) label. This mark enables consumers to quickly identify and choose products that can help protect the environment and are safer for families. When you see the DfE logo on a product it means that the DfE scientific review team has screened each ingredient for potential human health and environmental effects and that-based on currently available information,  EPA predictive models,  and expert judgment-the product contains only those ingredients that pose the least concern among chemicals in their class. Product manufacturers who become DfE partners,  and earn the right to display the DfE logo on recognized products,  have invested heavily in research,  development and reformulation to ensure that their ingredients and finished product line up on the green end of the health and environmental spectrum while maintaining or improving product performance. EPA's Design for the Environment Program (DfE) has allowed use of their logo on over 2500 products. These products are formulated from the safest possible ingredients and have reduced the use of \"chemicals of concern\" by hundreds of millions of pounds.",
+    "num_resources": 1,
+    "num_tags": 25,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Design for the Environment Products (Online Search)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "1644889a-423f-4e22-8d10-6c6c4414efb4"
+        },
+        {
+            "key": "issued",
+            "value": "1997-01-01"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OCSPP-OPPT Non-Geo Records"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BD060AB34-66E2-4BDF-8BC6-6415F55498EF%7D",
+                "https://edg.epa.gov/metadata/rest/document?id=%7BD060AB34-66E2-4BDF-8BC6-6415F55498EF%7D"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8c022203-eede-4ce6-b69a-0beef596bcff"
+        },
+        {
+            "key": "source_hash",
+            "value": "8f6d689df34e05b3ef0d1b716f13275598d975e8"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Chemical Safety and Pollution Prevention (OCSPP) - Office of Pollution Prevention and Toxics (OPPT)"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/PUBLIC/OCSPP/OPPT/metadata/OCSPP-OPPT.json"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "irregular"
+        },
+        {
+            "key": "spatial",
+            "value": "-180.0,18.0,-66.0,72.0"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "D060AB34-66E2-4BDF-8BC6-6415F55498EF"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-03T23:08:54.961971",
+            "description": "",
+            "format": "CSV",
+            "hash": "",
+            "id": "ef13fcec-3761-4707-8d91-35f7d1a9c266",
+            "last_modified": null,
+            "metadata_modified": "2020-12-03T23:08:54.961971",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Comma Separated Values File",
+            "no_real_name": true,
+            "package_id": "b8ad8563-08ec-4c6f-bb3c-fc8213035e5d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/saferchoice/design-environment-programs-initiatives-and-projects",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 77,
+                "recent": 9
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "chemical-safety",
+            "id": "93b28ceb-a931-4b3d-a0fd-29b0f26f0a4a",
+            "name": "chemical-safety",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleaning-products",
+            "id": "dfaf5d1e-af66-4b93-9bea-a739ae0b32c7",
+            "name": "cleaning-products",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "design",
+            "id": "394ff465-9b63-4430-b908-6e203530a28f",
+            "name": "design",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "design-for-environment",
+            "id": "82deaee6-ef4f-4284-9bc4-0739871a642a",
+            "name": "design-for-environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "design-for-the-environment",
+            "id": "810aced1-217b-4c73-bee7-bd5fbfecee55",
+            "name": "design-for-the-environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dfe",
+            "id": "6cd63bb1-4e77-4902-891d-bed95e60cb1b",
+            "name": "dfe",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-considerations",
+            "id": "8ed3df0f-3d1e-4bb3-958f-d7a90b433014",
+            "name": "environmental-considerations",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-impacts",
+            "id": "b40bfe59-8e18-4333-ae16-7fff162b0fb7",
+            "name": "environmental-impacts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "green-chemistry",
+            "id": "2e2489e0-98b9-4272-b38f-c8af150b79a3",
+            "name": "green-chemistry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "household-chemicals",
+            "id": "03a7ba4c-6246-469e-ae2f-829b34df0228",
+            "name": "household-chemicals",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "household-products",
+            "id": "02d098b1-4fbb-4b4f-8a35-60cbf51de37e",
+            "name": "household-products",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "industry",
+            "id": "a33b4605-4e1b-4dd9-b299-43fd51ac6f5d",
+            "name": "industry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "list",
+            "id": "60c9601a-479b-48f1-8dab-79e29b00e746",
+            "name": "list",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "office-of-pollution-prevention-and-toxics",
+            "id": "4cc2f6c1-1d0d-41d3-bfa9-e0a52379f69e",
+            "name": "office-of-pollution-prevention-and-toxics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oppt",
+            "id": "b401c6cb-840a-460f-a4bd-81906e6a0010",
+            "name": "oppt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pollution-prevention",
+            "id": "77df42d4-9c92-471a-8ff1-bee6011e26cc",
+            "name": "pollution-prevention",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "products",
+            "id": "62fe4a35-df16-4fbf-b76d-baab8d1cc09d",
+            "name": "products",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "redesign",
+            "id": "78fff793-50a7-48bd-8d78-748ee2bce0a4",
+            "name": "redesign",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "safe-chemical-alternatives",
+            "id": "702a3c3d-1abf-40e8-bd09-31dbeea5f88f",
+            "name": "safe-chemical-alternatives",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "safer-product-labeling-program",
+            "id": "5b811732-476e-4822-ad53-053539c73b2b",
+            "name": "safer-product-labeling-program",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxic-substances-control-act",
+            "id": "d7321f57-2e8b-4a19-b434-c15e9150be18",
+            "name": "toxic-substances-control-act",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tsca",
+            "id": "0a881ac0-3281-419a-89a3-f2c21c342f4a",
+            "name": "tsca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "voluntary-partnerships",
+            "id": "59550329-3180-4375-a101-3fc00262d788",
+            "name": "voluntary-partnerships",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 554,
+        "recent": 4
+    }
+}

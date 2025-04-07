@@ -1,0 +1,192 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c61d9224-325d-4e73-8a01-8b84ae7a7e96",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Endalkac Sahle-Demessie",
+    "maintainer_email": "sahle-demessie.endalkachew@epa.gov",
+    "metadata_created": "2020-11-12T13:48:22.396646",
+    "metadata_modified": "2020-11-12T13:48:22.396656",
+    "name": "characterization-of-colloidal-size-copper-based-pesticides",
+    "notes": "Data set provides the characterization of colloidal and nano-size copper pesticides, including properties related to their environmental fate, transport, sorption and degradation parameters. The study will inform whether nanoformulations can be evaluated within the current pesticide regulatory framework. \n\nThis dataset is associated with the following publication:\nTegenaw, A., G.A. Sorial, E. Sahle-Demessie, and C. Han. Characterization of colloid-size copper-based pesticide and its potential ecological implications..   ENVIRONMENTAL POLLUTION. Elsevier Science Ltd, New York, NY, USA, 253: 278-287, (2019).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Characterization of Colloidal-size Copper based pesticides",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/pdf"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.envpol.2019.07.036",
+                "https://pasteur.epa.gov/uploads/10.23719/1506122/documents/Ayu_Cu-NPs_Supplemental%20Data_PPR3_Research.docx"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "47b006f3-cd30-4b3d-b899-45e04172750b"
+        },
+        {
+            "key": "source_hash",
+            "value": "841bf25d9b553807f60b32064d19c418aa5bb430"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-12-02"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1506122"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1506122/documents/Data%20Dictionary_Copper_Nanopesticide.pdf"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:22.401860",
+            "description": "Ayu_Cu-NPs_Supplemental%20Data_PPR3_Research.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "07e60a3a-5522-49b3-b88e-8e245b37e9aa",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:22.401860",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Ayu_Cu-NPs_Supplemental Data_PPR3_Research.docx",
+            "package_id": "c61d9224-325d-4e73-8a01-8b84ae7a7e96",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1506122/Ayu_Cu-NPs_Supplemental%20Data_PPR3_Research.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "agriculture",
+            "id": "5d759d19-2821-4f8a-9f1b-9c0d1da3291e",
+            "name": "agriculture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bioavailability",
+            "id": "636e89af-12d2-477b-b87e-717167755036",
+            "name": "bioavailability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "colloidal-stability",
+            "id": "9e907081-c39b-4a5b-9b97-ce1d5d87f390",
+            "name": "colloidal-stability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cu2o-pesticide",
+            "id": "a8a31b13-fecb-490a-8641-3c553df96173",
+            "name": "cu2o-pesticide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exposure-pathways",
+            "id": "83fc7ceb-94d4-4500-bb66-6e68621a579c",
+            "name": "exposure-pathways",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 53,
+        "recent": 1
+    }
+}

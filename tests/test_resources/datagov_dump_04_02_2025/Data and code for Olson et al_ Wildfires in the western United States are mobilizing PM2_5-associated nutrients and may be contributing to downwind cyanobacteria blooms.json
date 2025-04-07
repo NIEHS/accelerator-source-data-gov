@@ -1,0 +1,215 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "6f94ef88-859e-4b84-af08-17ce632fc218",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Nicole Olson",
+    "maintainer_email": "olson.nicole@epa.gov",
+    "metadata_created": "2023-09-30T16:49:53.090714",
+    "metadata_modified": "2023-09-30T16:49:53.090731",
+    "name": "data-and-code-for-olson-et-al-wildfires-in-the-western-united-states-are-mobilizing-pm2-5-",
+    "notes": "Data and code for Olson et al. Wildfires in the western United States are mobilizing PM2.5-associated nutrients and may be contributing to downwind cyanobacteria blooms. \n\nThis dataset is associated with the following publication:\nOlson, N., K. Boaggio, R. Rice, K. Foley, and S. Leduc. Wildfires in the western United States are mobilizing PM2.5-associated nutrients and may be contributing to downwind cyanobacteria blooms.   Environmental Science: Processes & Impacts. Royal Society of Chemistry, Cambridge,  UK, 25: 1049-1066, (2023).",
+    "num_resources": 2,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data and code for Olson et al. Wildfires in the western United States are mobilizing PM2.5-associated nutrients and may be contributing to downwind cyanobacteria blooms",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "84cf1d1d09f5fd2bbc701aac77bd94918eff96f96640a1f1a29a09f80c0ea56e"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529004"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-04-24"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1039/d3em00042g"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c1d5bd94-d9ea-4cb4-b973-82013c750755"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-30T16:49:53.094855",
+            "description": "Description%20of%20data%20and%20files%20for%20Olson%20et%20al.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "4900ef29-0661-47ed-bbb7-8809e37bf31c",
+            "last_modified": null,
+            "metadata_modified": "2023-09-30T16:49:53.079601",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Description of data and files for Olson et al.docx",
+            "package_id": "6f94ef88-859e-4b84-af08-17ce632fc218",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529004/Description%20of%20data%20and%20files%20for%20Olson%20et%20al.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-09-30T16:49:53.094858",
+            "description": "Code%20files%20for%20Olson%20et%20al.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3e06db95-60c0-492b-a5d7-de7e3ded4175",
+            "last_modified": null,
+            "metadata_modified": "2023-09-30T16:49:53.079764",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "Code files for Olson et al.zip",
+            "package_id": "6f94ef88-859e-4b84-af08-17ce632fc218",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529004/Code%20files%20for%20Olson%20et%20al.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cyanobacteria",
+            "id": "3d71ac68-2cac-4908-9198-3030ae6a8fe2",
+            "name": "cyanobacteria",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fire",
+            "id": "c47f9fba-5338-4f01-a8f6-f396ffd50880",
+            "name": "fire",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 1
+    }
+}

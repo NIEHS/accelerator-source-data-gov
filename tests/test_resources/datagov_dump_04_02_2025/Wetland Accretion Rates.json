@@ -1,0 +1,229 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "09302b0c-99e2-451b-a006-87d421f5291a",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Cheryl Brown",
+    "maintainer_email": "brown.cheryl@epa.gov",
+    "metadata_created": "2025-03-28T20:14:55.669619",
+    "metadata_modified": "2025-03-28T20:14:55.669626",
+    "name": "wetland-accretion-rates-8b5fa",
+    "notes": "National Aquatic Resource Surveys wetland data and accretion rates and carbon stocks in Oregon tidal marshes. \n\nThis dataset is associated with the following publication:\nJanousek, C., J. Krause, J. Drexler, K. Buffington, K. Poppe, E. Peck, F. Adame, E. Watson, J. Holmquist, S. Bridgham, S. Jones, M. Ward, C. Brown, L. Schile-Beers, M. Costa, H. Diefenderfer, A. Borde, L. Sheehan, J. Rybczyk, C. Prentice, A. Gray, A. Hinojosa-Corona, A.C. Ruiz-Fernandez, J.A. Sanchez-Cabeza, K. Kohfeld, P. Ezcurra, J. Ochoa-Gomez, K. Thorne, M. Pellatt, A. Ricart, A. Nahlik, L. Brophy, R. Ambrose, M. Lutz, C. Cornu, S. Crooks, L. Windham-Myers, M. Hessing-Lewis, F. Short, S. Chastain, T. Williams, T. Douglas, E. Fard, L. Brown, and M. Goman. Blue Carbon Stocks Along the Pacific Coast of North America Are Mainly Driven by Local Rather Than Regional Factors.   Global Biogeochemical Cycles. American Geophysical Union, Washington, DC, USA, 39(3): e2024GB008239, (2025).",
+    "num_resources": 2,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Wetland accretion rates",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "9cc8323fd51d3a8e1f50db4e1461694d2198b04bec6dd69a9a17ef30e00f7a3e"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1532035"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2025-02-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1029/2024gb008239"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4fc35b70-a019-4f27-b31a-ad65f80b1245"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-28T20:14:55.690343",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "708d6e19-1671-4b85-90e1-3d8153875944",
+            "last_modified": null,
+            "metadata_modified": "2025-03-28T20:14:55.647684",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys",
+            "package_id": "09302b0c-99e2-451b-a006-87d421f5291a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            },
+            "url": "https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-28T20:14:55.690349",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "677ca0c0-5ccd-492c-8f5f-d995e375e6bb",
+            "last_modified": null,
+            "metadata_modified": "2025-03-28T20:14:55.647836",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.25573/serc.25024448",
+            "package_id": "09302b0c-99e2-451b-a006-87d421f5291a",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://doi.org/10.25573/serc.25024448",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "blue-carbon",
+            "id": "c6cda5ab-b6b2-48e1-868f-316fecabe757",
+            "name": "blue-carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "carbon",
+            "id": "ec545a1d-203a-4dcf-a2b3-0b0592f49598",
+            "name": "carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mangrove",
+            "id": "a89871e0-6420-4b33-87e4-68189cc47508",
+            "name": "mangrove",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "marsh",
+            "id": "469e086b-b598-41be-96af-00b494c833f2",
+            "name": "marsh",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "seagrass",
+            "id": "cb0ff180-772d-4263-8da2-6054ec47a654",
+            "name": "seagrass",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tidal-swamp",
+            "id": "daf02e4b-abe5-4400-8a2e-dcd6c04e3d4b",
+            "name": "tidal-swamp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetlands",
+            "id": "9cdeb6f3-52c8-4dfa-8b62-8e5ba8d7cc56",
+            "name": "wetlands",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 6,
+        "recent": 6
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "dd803bc3-4831-43d1-866c-0b3108f22884",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Wesley Ingwersen",
+    "maintainer_email": "ingwersen.wesley@epa.gov",
+    "metadata_created": "2021-06-12T00:12:32.723453",
+    "metadata_modified": "2023-07-25T06:48:55.934374",
+    "name": "national-commercial-hazardous-waste-totals-by-industry-2017",
+    "notes": "This dataset contains 2017 national Commercial RCRA-defined Hazardous Waste by North American Industry Classification System (NAICS) 2012 6-digit codes. This dataset was created in FLOWSA, a publicly available python package that generates standardized environmental flows by industry. \n\nThis dataset is associated with the following publication:\nIngwersen, W.W., M. Li, B. Young, J. Vendries, and C. Birney. USEEIO v2.0, The US Environmentally-Extended InputOutput Model v2.0.   Scientific Data. Springer Nature Group, New York, NY,   194, (2022).",
+    "num_resources": 2,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "National Commercial Hazardous Waste Totals by Industry 2017",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "83ba473bf5ee484214ed3f9273ca02013aa2180d"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1521328"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-03-25"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1038/s41597-022-01293-7"
+            ]
+        },
+        {
+            "key": "describedBy",
+            "value": "https://github.com/USEPA/flowsa/blob/54f9368942eb9234806aaacc0ae105bb477dcbb8/format%20specs/FlowBySector.md"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "92a8437b-92ed-40b2-8261-8dba6902f69a"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:48:55.969633",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "9d78954e-4e2a-40f6-a407-bf18e5e5eaa2",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:48:55.947459",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/CRHW_national_2017_v0.1_864d573.parquet",
+            "package_id": "dd803bc3-4831-43d1-866c-0b3108f22884",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/CRHW_national_2017_v0.1_864d573.parquet",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-12T00:12:32.782482",
+            "description": "CRHW_national_2017_v0.1_864d573.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "43521978-210b-4c31-8878-8f10d1a8fdc6",
+            "last_modified": null,
+            "metadata_modified": "2021-06-12T00:12:32.782482",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "CRHW_national_2017_v0.1_864d573.csv",
+            "package_id": "dd803bc3-4831-43d1-866c-0b3108f22884",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521328/CRHW_national_2017_v0.1_864d573.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "input-output-data",
+            "id": "c81db1b1-a86e-432d-8fb1-71c87d052790",
+            "name": "input-output-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-assessment",
+            "id": "5f206d22-5675-4b27-aa71-99155591d1d5",
+            "name": "life-cycle-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-inventory-data",
+            "id": "9379a1c4-6da5-456a-a992-f09eb8a52def",
+            "name": "life-cycle-inventory-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rcra",
+            "id": "2c85c0ff-d8d6-40c3-9f2f-a47e05928728",
+            "name": "rcra",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sustainability",
+            "id": "a1f8f71a-0bf8-4572-98f9-2cd9a7ea9cd7",
+            "name": "sustainability",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 147,
+        "recent": 2
+    }
+}

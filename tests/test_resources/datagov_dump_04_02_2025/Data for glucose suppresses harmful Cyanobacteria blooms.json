@@ -1,0 +1,172 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "14d06f3f-528c-48e6-8074-dc8ddc968b8e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Stephen Vesper",
+    "maintainer_email": "vesper.stephen@epa.gov",
+    "metadata_created": "2022-11-25T14:53:50.193354",
+    "metadata_modified": "2022-11-25T14:53:50.193360",
+    "name": "data-for-glucose-suppresses-harmful-cyanobacteria-blooms",
+    "notes": "Data includes quantification of microcystin by ELISA and quantification of gene copy number for Microcystis aeruginosa.  In addition the genomic sequences associated with glucose addition to lake water are shown. This dataset is not publicly accessible because: public link too long. It can be accessed through the following means: https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fsra%2FPRJNA786865&amp;data=04%7C01%7CLinz.David%40epa.gov%7Cf41cc9e7fe7449eb4b1308d9bbc99a0f%7C88b378b367484867acf976aacbeca6a7%7C0%7C0%7C637747296829394696%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=F%2FUVwqnPj4pzWRiccZKHXh2jcxZ9bWxx1MD1Ux%2B1TBM%3D&amp;reserved=0. Format: https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fsra%2FPRJNA786865&amp;data=04%7C01%7CLinz.David%40epa.gov%7Cf41cc9e7fe7449eb4b1308d9bbc99a0f%7C88b378b367484867acf976aacbeca6a7%7C0%7C0%7C637747296829394696%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=F%2FUVwqnPj4pzWRiccZKHXh2jcxZ9bWxx1MD1Ux%2B1TBM%3D&amp;reserved=0. \n\nThis dataset is associated with the following publication:\nVesper, S., N. Sienkiewicz, I. Struewing, D. Linz, and J. Lu. Prophylactic Addition of Glucose Suppresses Cyanobacterial Abundance in Lake Water.   Life. MDPI AG, Basel,  SWITZERLAND, 12(3): 385, (2022).",
+    "num_resources": 0,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data for glucose suppresses harmful Cyanobacteria blooms",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "8602a6ea06d133b410b7685e694ca95a4d3c0f1b"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524690"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-12-31"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/life12030385",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8949225"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d9df0b6a-7368-4337-b2db-a66c51b707ef"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cyanobacteria",
+            "id": "3d71ac68-2cac-4908-9198-3030ae6a8fe2",
+            "name": "cyanobacteria",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "genomic",
+            "id": "661aee4c-f128-4d81-b04e-cf71360f43d6",
+            "name": "genomic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "glucose",
+            "id": "f3a1add6-4431-4084-b6bf-1b24ee9959f5",
+            "name": "glucose",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microcystin",
+            "id": "0338536c-e92a-4633-9b22-63c5f1c32d44",
+            "name": "microcystin",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microcystis-aeruginosa",
+            "id": "a2046126-039b-452e-b4d3-ed68272e0b23",
+            "name": "microcystis-aeruginosa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "prophylactic",
+            "id": "a4a39241-5a1f-46b2-81e7-9f9889a6e21e",
+            "name": "prophylactic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "proteobacteria",
+            "id": "f34e3cc9-3d34-44a4-8379-538adf0bd86c",
+            "name": "proteobacteria",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 176,
+        "recent": 1
+    }
+}

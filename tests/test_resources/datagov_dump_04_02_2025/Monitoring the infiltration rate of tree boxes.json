@@ -1,0 +1,162 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "48b88b2f-96ca-4fcd-8811-3dc5156e0b38",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Borst",
+    "maintainer_email": "borst.mike@epa.gov",
+    "metadata_created": "2021-01-05T22:16:33.514852",
+    "metadata_modified": "2021-01-05T22:16:33.514865",
+    "name": "monitoring-the-infiltration-rate-of-tree-boxes",
+    "notes": "Tree boxes primarily reduce runoff volume through infiltration. The current study determines infiltration rates in six tree boxes and analyzes the effects of season, age of the tree box, and depth on infiltration.  Our study site is in Louisville, KY, where Louisville and Jefferson County Metropolitan Sewer District (MSD) teamed with U.S. EPA\u2019s Office of Research and Development, URS Corporation, and the Center for Infrastructure Research at the University of Louisville (U of L) to monitor the performance of six tree boxes and other stormwater control measures (SCMs) and to evaluate the effectiveness of groups of controls.  Each tree box is 1.5 m wide, 1.5 m long, and 1.8 m deep.  Street and parking lot runoff enters each tree box though a curb cut. Time domain reflectometers (TDRs) were embedded in the tree box media to continuously monitor volumetric soil moisture content and other parameters. TDRs were installed at 0.30 m (designated as TDR2), 0.60 m (designated as TDR3), and 1.50 m (designated as TDR4) below the soil surface of the tree box media. The moisture content recorded by the TDRs was used to calculate infiltration rates through the media using the Green-Ampt equation. Infiltration rates through the 0.30 m soil section between TDR2 and TDR3 (termed as upper section), through the 0.90 m soil section between TDR3 and TDR4 (termed as bottom section), and the infiltration rate through 1.20 m soil section between TDR2 and TDR4 (termed as combined section) were calculated. For each rain event, two infiltration rates were calculated.  The first determined the initial infiltration rate based on infiltrating water and the second calculated the saturated infiltration rate based on draining water. Initial and saturated infiltration rates varied among all six tree boxes. For four of the six tree boxes, the initial infiltration rate did not vary with depth. However, the saturated infiltration rate varied with depth for five of the six tree boxes.  Overall, the saturated infiltration rate of the combined section is 1.7 times larger than the upper section. Studies from other researchers reported 8 and 100 times variation of surface infiltration rate within 2 m and 5 m spatial distance respectively, 1.7 times variation between upper and combined sections should be considered a non-meaningful difference. In the second year, the initial infiltration rate and saturated infiltration rate decreased by 20% and 38% respectively, from the first year. The infiltration rate varies with seasons. In the growing season, it is 80% larger than in the non-growing season. The smallest infiltration rates were observed during winter and largest infiltration rates were observed in summer. This paper highlights the continuous two years\u2019 soil moisture monitoring results used to characterize the seasonal, age and depth effect on infiltration rate of six tree boxes. \n\nThis dataset is associated with the following publication:\nAhmed, F., and M. Borst. Monitoring the infiltration rate of tree boxes.   WATER ENVIRONMENT RESEARCH. Water Environment Federation, Alexandria, VA, USA, 91(12): 1638-1649, (2019).",
+    "num_resources": 1,
+    "num_tags": 2,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Monitoring the infiltration rate of tree boxes",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/wer.1165"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "e505d158-ecbd-4f0b-be47-35cb8420f3f6"
+        },
+        {
+            "key": "source_hash",
+            "value": "6be9cc76025adfa1ec6e91b237c5e520da223241"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-06-14"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1397233"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-05T22:16:33.523418",
+            "description": "Data%20for%20Science%20Hub.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9184aa5e-d5a3-4665-939f-d12a3eb574c3",
+            "last_modified": null,
+            "metadata_modified": "2021-01-05T22:16:33.523418",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Data for Science Hub.xlsx",
+            "package_id": "48b88b2f-96ca-4fcd-8811-3dc5156e0b38",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1397233/Data%20for%20Science%20Hub.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "soil-moisture",
+            "id": "af8fe156-cd03-4691-af59-b463323ca063",
+            "name": "soil-moisture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetting-front",
+            "id": "f8dca6ca-5805-4cdf-b44d-557fc25c3a90",
+            "name": "wetting-front",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 178,
+        "recent": 1
+    }
+}

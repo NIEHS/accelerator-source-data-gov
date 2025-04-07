@@ -1,0 +1,177 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "fdcf2270-3c0c-49ac-9e90-8c7278a079f7",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Alan Williams",
+    "maintainer_email": "williams.alan@epa.gov",
+    "metadata_created": "2022-09-25T05:18:48.558293",
+    "metadata_modified": "2022-09-25T05:18:48.558302",
+    "name": "virginia-site-a-database-xlsx",
+    "notes": "The dataset is comprised of: 1)VOC concentrations of soil gas and indoor air samples collected over the site; 2) the pressure readings used to monitor the pressure differential between subslab and indoor air.",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Virginia Site A Database.xlsx",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "60b48e633143219693e2035f927cd6859a9da01b"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527770"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-07-12"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "869c4a94-f7fa-43bc-8939-3ace77c5c021"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-09-25T05:18:48.609576",
+            "description": "Virginia%20Site%20A%20Database.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "cf4fb28d-f20e-426f-a275-995bcbdd9827",
+            "last_modified": null,
+            "metadata_modified": "2022-09-25T05:18:48.535428",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Virginia Site A Database.xlsx",
+            "package_id": "fdcf2270-3c0c-49ac-9e90-8c7278a079f7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527770/Virginia%20Site%20A%20Database.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "passive-sampling",
+            "id": "cd4381dd-7974-4b35-9d67-1941dbba0ecf",
+            "name": "passive-sampling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "probe-construction",
+            "id": "43695c65-4530-4924-a97e-cc6da9cc50b5",
+            "name": "probe-construction",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "subslab-soil-gas",
+            "id": "8e28f163-6280-4ccd-97d4-518cd2612978",
+            "name": "subslab-soil-gas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vapor-intrusion",
+            "id": "57a9c66f-7008-4cc5-9536-71822c42f2e7",
+            "name": "vapor-intrusion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "volatile-organic-compounds",
+            "id": "b482b64f-2709-412d-94cc-970f4ef36f74",
+            "name": "volatile-organic-compounds",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 31,
+        "recent": 1
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "0eb13b70-0586-4111-9e68-7f0f48274cf0",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Urmila Kodavanti",
+    "maintainer_email": "kodavanti.urmila@epa.gov",
+    "metadata_created": "2022-01-24T23:24:26.155962",
+    "metadata_modified": "2022-01-24T23:24:26.155969",
+    "name": "the-dynamicity-of-acute-ozone-induced-systemic-leukocyte-trafficking-and-adrenal-derived-s",
+    "notes": "Ozone exposure induces neuroendocrine stress response, which causes lymphopenia. We hypothesized that ozone-induced increases in stress hormones will temporally follow changes in circulating granulocytes, monocytes and lymphocyte subpopulations. The goal of this study was to chronicle the changes in circulating stress hormones, cytokines, and leukocyte trafficking during 4-hour exposure to ozone. Male Wistar Kyoto rats were exposed to air or ozone (0.4 or 0.8 ppm) for 0.5, 1, 2, or 4 hours. After each time point, we assessed, circulating stress hormones and cytokines, lung gene expression, and live and apoptotic granulocytes, monocytes (classical and non-classical), and lymphocytes (B, Th and Tc) in blood, thymus and spleen using flow cytometry. \n\nThis dataset is associated with the following publication:\nHenriquez, A., W. Williams, S. Snow, M.C. Schladweiler, C. Fisher, M. Hargrove, D. Alewel, C. Colonna, S. Gavett, C. Miller, and U. Kodavanti. The Dynamicity of Acute Ozone-Induced Systemic Leukocyte Trafficking and Adrenal-Derived Stress Hormones.   TOXICOLOGY. Elsevier Science Ltd, New York, NY, USA, 458(152823): 1, (2021).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "The Dynamicity of Acute Ozone-Induced Systemic Leukocyte Trafficking and Adrenal-Derived Stress Hormones",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1521261"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2021-04-02"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.tox.2021.152823"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "cf003c29416706cd1d62433393d883b024223d57"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "cce4253f-f93c-444c-b06d-0a170acb8feb"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-01-24T23:24:26.244490",
+            "description": "Henriquez%20Flow%20Paper%202021%20Science%20Hub%20%2004-04-2021AHC.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8e573920-e9bb-4751-9c50-f09f51b77771",
+            "last_modified": null,
+            "metadata_modified": "2022-01-24T23:24:26.244490",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Henriquez Flow Paper 2021 Science Hub  04-04-2021AHC.xlsx",
+            "package_id": "0eb13b70-0586-4111-9e68-7f0f48274cf0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521261/Henriquez%20Flow%20Paper%202021%20Science%20Hub%20%2004-04-2021AHC.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "circulating-lymphocytes",
+            "id": "92d62e82-70d5-49a1-a286-d2e6e1634387",
+            "name": "circulating-lymphocytes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "classical-monocytes",
+            "id": "b20c4d3c-634c-4725-88d8-c80d1fed9a34",
+            "name": "classical-monocytes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "immune-response",
+            "id": "9ce9c153-8da8-473a-9714-c4f82ce4d25c",
+            "name": "immune-response",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inhaled-pollutants",
+            "id": "408eecf7-33af-49a4-b292-3d536847aa0c",
+            "name": "inhaled-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lung",
+            "id": "a13a9384-ac8c-4aa6-ac93-f50ee30b4666",
+            "name": "lung",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "neuroendocrine",
+            "id": "c5b461a8-d594-41bd-a6a5-fa5fc482e8e4",
+            "name": "neuroendocrine",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stress-hormones",
+            "id": "c5f55763-1497-4476-9b62-03dbc5f6a032",
+            "name": "stress-hormones",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 32,
+        "recent": 1
+    }
+}

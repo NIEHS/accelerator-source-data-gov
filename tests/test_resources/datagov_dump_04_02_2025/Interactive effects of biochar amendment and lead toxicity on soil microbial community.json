@@ -1,0 +1,260 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "bf9f5a3e-9c1e-4085-928f-bb238c6bd9cd",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Yongshan Wan",
+    "maintainer_email": "wan.yongshan@epa.gov",
+    "metadata_created": "2023-03-26T21:45:30.267811",
+    "metadata_modified": "2023-03-26T21:45:30.267816",
+    "name": "interactive-effects-of-biochar-amendment-and-lead-toxicity-on-soil-microbial-community",
+    "notes": "Supplementary material for manuscript.\nGenBank Accession numbers to DNA sequences obtained and used.\nTaxonomy of OTUs - large txt file tab delimited\nNumber of sequences per OTU per Sample - large txt file tab delimited. \n\nThis dataset is associated with the following publication:\nWan, Y., R. Devereux, S. George, J. Chen, B. Gao, M. Noerpel, and K. Scheckel. Interactive effects of biochar amendment and lead toxicity on soil microbial community.   JOURNAL OF HAZARDOUS MATERIALS. Elsevier Science Ltd, New York, NY, USA, 425: 127921, (2022).",
+    "num_resources": 4,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Interactive effects of biochar amendment and lead toxicity on soil microbial community",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "8becb792056e6647ffdee2259eb55e213259c402"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522941"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-08-05"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jhazmat.2021.127921",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9815664"
+            ]
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1522941/documents/Biochar%20Pb%20Soil%20Data%20Dictionary.xlsx"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0233911a-3fc0-4c85-88fe-6bc0ed7df5c6"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-03-26T21:45:30.295131",
+            "description": "Seqs%20per%20OTU%20per%20Sample.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "7d478a45-21e2-4d67-9de4-de90d8c77f00",
+            "last_modified": null,
+            "metadata_modified": "2023-03-26T21:45:30.254447",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "Seqs per OTU per Sample.txt",
+            "package_id": "bf9f5a3e-9c1e-4085-928f-bb238c6bd9cd",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522941/Seqs%20per%20OTU%20per%20Sample.txt",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-03-26T21:45:30.295135",
+            "description": "OTU%20taxonomy.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "895d1005-3b7a-4ca1-bc36-2a3a4ab635c4",
+            "last_modified": null,
+            "metadata_modified": "2023-03-26T21:45:30.254626",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "OTU taxonomy.txt",
+            "package_id": "bf9f5a3e-9c1e-4085-928f-bb238c6bd9cd",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522941/OTU%20taxonomy.txt",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-03-26T21:45:30.295137",
+            "description": "GenBank%20Accession%20Numbers%20for%20Samples.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "bd9c066c-addb-4856-9d69-6ffd2de39a18",
+            "last_modified": null,
+            "metadata_modified": "2023-03-26T21:45:30.254778",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "GenBank Accession Numbers for Samples.xlsx",
+            "package_id": "bf9f5a3e-9c1e-4085-928f-bb238c6bd9cd",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522941/GenBank%20Accession%20Numbers%20for%20Samples.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-03-26T21:45:30.295138",
+            "description": "biocahr_lead_supplementary_material%20-%20Copy.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "7ad7ca3e-6ac0-4c74-88e3-38e58d48e135",
+            "last_modified": null,
+            "metadata_modified": "2023-03-26T21:45:30.254927",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "biocahr_lead_supplementary_material - Copy.docx",
+            "package_id": "bf9f5a3e-9c1e-4085-928f-bb238c6bd9cd",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522941/biocahr_lead_supplementary_material%20-%20Copy.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "16s-rrna-amplicon-sequencing",
+            "id": "4e1c0a48-e93b-405d-be4e-3f722fcedcaf",
+            "name": "16s-rrna-amplicon-sequencing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biochar-bc",
+            "id": "1e1a0f01-eeaf-410d-9b84-50a4dd5999d7",
+            "name": "biochar-bc",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lead-bioavailability",
+            "id": "c9de05ac-f401-4d33-af1f-358dda8a0794",
+            "name": "lead-bioavailability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microbial-analysis",
+            "id": "b50d5a87-3ddd-48f4-92d1-3f13f1cd2342",
+            "name": "microbial-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 41,
+        "recent": 2
+    }
+}

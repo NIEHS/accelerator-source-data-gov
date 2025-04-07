@@ -1,0 +1,151 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "b1d882e9-3936-4dbd-9a6d-2acb4cf76451",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Cavin Ward-Caviness",
+    "maintainer_email": "ward-caviness.cavin@epa.gov",
+    "metadata_created": "2024-11-15T10:56:13.060737",
+    "metadata_modified": "2024-11-15T10:56:13.060745",
+    "name": "short-term-pm2-5-exposure-and-early-readmission-risk-in-heart-failure-patients",
+    "notes": "In this manuscript EPA researchers used high resolution (1x1 km) modeled air quality data from a model built by Harvard collaborators to estimate the association between short-term exposure to air pollution and the occurrence of 30-day readmissions in a heart failure population. The heart failure population was taken from patients presenting to a University of North Carolina Healthcare System (UNCHCS) affiliated hospital or clinic that reported electronic health records to the Carolina Data Warehouse for Health (CDW-H). A description of the variables used in this analysis are available in the data dictionary (L:/PRIV/EPHD_CRB/Cavin/CARES/Data Dictonaries/HF short term PM25 and readmissions data dictionary.xlsx) associated with this manuscript. Analysis code is available in L:/PRIV/EPHD_CRB/Cavin/CARES/Project Analytic Code/Lauren Wyatt/DailyPM_HF_readmission. This dataset is not publicly accessible because: Dataset is PII in the form of electronic health records. It can be accessed through the following means: Data can be accessed with an approved IRB. Format: In this manuscript EPA researchers used high resolution (1x1 km) modeled air quality data from a model built by Harvard collaborators to estimate the association between short-term exposure to air pollution and the occurrence of 30-day readmissions in a heart failure population. The heart failure population was taken from patients presenting to a University of North Carolina Healthcare System (UNCHCS) affiliated hospital or clinic that reported electronic health records to the Carolina Data Warehouse for Health (CDW-H). A description of the variables used in this analysis are available in the data dictionary (L:/PRIV/EPHD_CRB/Cavin/CARES/Data Dictonaries/HF short term PM25 and readmissions data dictionary.xlsx) associated with this manuscript. Analysis code is available in L:/PRIV/EPHD_CRB/Cavin/CARES/Project Analytic Code/Lauren Wyatt/DailyPM_HF_readmission. \n\nThis dataset is associated with the following publication:\nWyatt, L., A. Weaver, J. Moyer, J. Schwartz, Q. Di, D. Diazsanchez, W. Cascio, and C. Ward-Caviness. Short-term PM2.5 exposure and early-readmission risk: A retrospective cohort study in North Carolina Heart Failure Patients.   American Heart Journal. Mosby Year Book Incorporated, Orlando, FL, USA, 248: 130-138, (2022).",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Short-term PM2.5 exposure and early-readmission risk in Heart Failure Patients",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "b1a179cba7dce06d7600e214b9d31612336b327bd8d7ba1915813f90f3a41f61"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524767"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-02-02"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.ahj.2022.02.015",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9064928"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "81f95bef-0c05-403f-9b61-ca1bdc8ca28b"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "electronic-health-records",
+            "id": "d9690632-ecf3-48ef-a6cd-a39cd20d28b4",
+            "name": "electronic-health-records",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "heart-failure",
+            "id": "14b1ad70-d4b3-4819-b8e6-ce30065d6cc8",
+            "name": "heart-failure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm2-5",
+            "id": "a1b6b16a-9f6b-4198-aff5-013a1484c09a",
+            "name": "pm2-5",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "readmissions",
+            "id": "739633d2-1111-462e-8e3f-21ea783ecba8",
+            "name": "readmissions",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 43,
+        "recent": 2
+    }
+}

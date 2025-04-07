@@ -1,0 +1,405 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "9705d6ba-dac1-4c89-8530-6c97bdaa9cc0",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-24T05:15:39.540203",
+    "metadata_modified": "2025-02-24T05:15:39.540209",
+    "name": "enviroatlas-salt-lake-city-ut-meter-scale-urban-land-cover-mulc-data-20145",
+    "notes": "These Salt Lake City, Utah MULC data were created using 2014, leaf-on United States Department of Agriculture (USDA) National Agriculture Imagery Program (NAIP) 1-meter resolution ortho imagery and LiDAR data collected in 2006-2007, 2011, and 2013-2014. This rule-based classification used object-based image analysis (OBIA) methods and was performed using eCognition Developer 9.3 (Trimble) with pre and post processing performed in ArcMap Desktop version 10.5.1 (ESRI) and ENVI LiDAR version 5.3 (Harris Geospatial Solutions). The area was selected based on the US Census Bureau's 2010 Urban Area for Salt Lake City with a 1 km buffer added. This dataset has an overall user's accuracy of 78.6% and an overall fuzzy user's accuracy of 82.5%. Seven land cover classes were mapped: Water, Impervious Surfaces, Soil/Barren, Tree/Forest, Shrubs, Grass/Herbaceous Non-Woody Vegetation, and Wetlands (Woody and Emergent). An analysis of 600 photo-interpreted land cover reference points yielded an overall user's accuracy of 78.7% (MAX) and an overall fuzzy user's accuracy of 82.5% (RIGHT) (see confusion matrices below). This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
+    "num_resources": 4,
+    "num_tags": 20,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EnviroAtlas -- Salt Lake City, UT -- Meter-Scale Urban Land Cover (MULC) Data (2014)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "{f4db962b-0c81-42bc-b934-446fed441201}"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2018-09-07\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng; USA"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2019-10-21"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "EnviroAtlas@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "licence_url",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas\", \"roles\": [\"pointOfContact\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-111.509055"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "40.978978"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "40.379029"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-112.303320"
+        },
+        {
+            "key": "lineage",
+            "value": "This lineage was generated by the FGDC CSDGM to 19139 transformation"
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-112.30332, 40.379029], [-111.509055, 40.379029], [-111.509055, 40.978978], [-112.30332, 40.978978], [-112.30332, 40.379029]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-112.30332, 40.379029], [-111.509055, 40.379029], [-111.509055, 40.978978], [-112.30332, 40.978978], [-112.30332, 40.379029]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "ca1c03f9-6f1a-4564-8f83-e7557ff0dc7a"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-24T05:15:39.544067",
+            "description": "The URL providing direct access to the downloadable dataset. ",
+            "format": "",
+            "hash": "",
+            "id": "3f1d014d-309d-49c3-853e-4ffe7bf399e0",
+            "last_modified": null,
+            "metadata_modified": "2025-02-24T05:15:39.506636",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Download",
+            "package_id": "9705d6ba-dac1-4c89-8530-6c97bdaa9cc0",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "download",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/Communities/SaltLakeCityUT",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-24T05:15:39.544071",
+            "description": "The endpoint of a web service to access the dataset (REST endpoint, WMS GetCapabilities URL, or a SOAP WSDL endpoint).",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "149b9778-89de-4784-9ac4-d41486f9cc6d",
+            "last_modified": null,
+            "metadata_modified": "2025-02-24T05:15:39.506816",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "API",
+            "package_id": "9705d6ba-dac1-4c89-8530-6c97bdaa9cc0",
+            "position": 1,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "ESRI:ArcGIS",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/Landcover_AllCommunities/ImageServer",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-24T05:15:39.544073",
+            "description": "URL for accessing related documents such as data dictionary, technical information about a dataset, developer documentation, etc. ",
+            "format": "",
+            "hash": "",
+            "id": "45f960a0-4d62-4677-9757-caff0002b9f0",
+            "last_modified": null,
+            "metadata_modified": "2025-02-24T05:15:39.506938",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Documentation",
+            "package_id": "9705d6ba-dac1-4c89-8530-6c97bdaa9cc0",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-24T05:15:39.544074",
+            "description": "Alternative landing page used to redirect user to a contextual, Agency-hosted \"homepage\" for the Dataset or API",
+            "format": "",
+            "hash": "",
+            "id": "1ddd4583-3be7-4daa-9f33-c2708ebae369",
+            "last_modified": null,
+            "metadata_modified": "2025-02-24T05:15:39.507097",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Home Page",
+            "package_id": "9705d6ba-dac1-4c89-8530-6c97bdaa9cc0",
+            "position": 3,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/enviroatlas",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 12,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "agriculture",
+            "id": "5d759d19-2821-4f8a-9f1b-9c0d1da3291e",
+            "name": "agriculture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biophysical",
+            "id": "6965a204-b6be-473a-930a-2c6b07e2b0db",
+            "name": "biophysical",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "communities",
+            "id": "5c23cc33-06db-472c-b8f2-308d0b3631ca",
+            "name": "communities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecology",
+            "id": "f1bf9844-1fe9-4726-b4d6-4b1031328d1a",
+            "name": "ecology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem",
+            "id": "76ce6029-c904-4ad7-a8dd-531c90a09522",
+            "name": "ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem services",
+            "id": "44fb7141-4528-4814-a750-bd293bddb4a4",
+            "name": "ecosystem services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "enviroatlas",
+            "id": "07950295-6219-4233-a952-2fc3763c2891",
+            "name": "enviroatlas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental atlas",
+            "id": "c6e53900-d97f-4008-adc0-d0872c80066b",
+            "name": "environmental atlas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "green space",
+            "id": "1336cdba-648d-4cb6-ae4a-7b2eef15fd17",
+            "name": "green space",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "health",
+            "id": "3b24c0fa-1ddf-4dc3-965f-93a79d68ab18",
+            "name": "health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "impact",
+            "id": "fa3a6e79-299b-44e3-bb38-df453f7cb7df",
+            "name": "impact",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land",
+            "id": "899e1294-851a-4804-95fa-e0c5a45f19fc",
+            "name": "land",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land cover",
+            "id": "1a02a1e7-20f1-4cfd-a811-0aa5d61aa755",
+            "name": "land cover",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "salt lake city",
+            "id": "19233449-d16d-412b-bce8-7fc661866ad7",
+            "name": "salt lake city",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "surface water",
+            "id": "b2299263-5de0-400f-8567-2386aa5f897f",
+            "name": "surface water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ut",
+            "id": "699cdea9-928f-4d60-be5a-8fe52881db0a",
+            "name": "ut",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "utah",
+            "id": "51a1d813-a630-4490-9ce5-015334c39826",
+            "name": "utah",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water",
+            "id": "143854aa-c603-4193-9c89-232e63461fa4",
+            "name": "water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetlands",
+            "id": "9cdeb6f3-52c8-4dfa-8b62-8e5ba8d7cc56",
+            "name": "wetlands",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 0,
+        "recent": 0
+    }
+}

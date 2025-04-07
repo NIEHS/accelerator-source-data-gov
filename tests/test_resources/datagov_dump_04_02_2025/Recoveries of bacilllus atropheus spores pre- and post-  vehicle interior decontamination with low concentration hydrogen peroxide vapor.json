@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "d4b075d7-ae89-46a1-9164-cb9433218204",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Lukas Oudejans",
+    "maintainer_email": "oudejans.lukas@epa.gov",
+    "metadata_created": "2023-04-15T19:43:14.632354",
+    "metadata_modified": "2023-04-15T19:43:14.632359",
+    "name": "recoveries-of-bacilllus-atropheus-spores-pre-and-post-vehicle-interior-decontamination-wit",
+    "notes": "This dataset contains information on the experimental test conditions during the low concentration hydrogen peroxide vapor decontamination tests. For each test (five tests total), it shows the number of recovered B. atropheus spores before and after the decontamination at ten interior vehicle locations. The log10 values of the recovered number of spores (before and after decontamination) are reported in the journal article. The table includes the calculated efficacy (in expressed as log reduction) as the difference in log10 values of recovered spores before and after decontamination. \n\nThis dataset is associated with the following publication:\nOudejans, L., W. Richter, M. Sunderman, W. Calfee, L. Mickelsen, K. Hofacre, P. Keyes, and S. Lee. Passenger vehicle interior decontamination by low concentration hydrogen peroxide vapor following a wide area biological contamination incident.   JOURNAL OF APPLIED MICROBIOLOGY. Blackwell Publishing, Malden, MA, USA, 134(3): lxad039, (2023).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Recoveries of bacilllus atropheus spores pre- and post-  vehicle interior decontamination with low concentration hydrogen peroxide vapor",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "f7b5a8f3afaa07d8923d077fffdadf006ec8a4a5"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1519082"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2020-07-23"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:060"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/jambio/lxad039"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "942bafa5-da74-4097-b651-5cc4f878f68e"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-04-15T19:43:14.670411",
+            "description": "Oudejans%20Recoveries%20and%20efficacies%2020200710.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "8e9cbd2e-a72d-41c5-aa94-2f471fb982f0",
+            "last_modified": null,
+            "metadata_modified": "2023-04-15T19:43:14.616736",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "Oudejans Recoveries and efficacies 20200710.pdf",
+            "package_id": "d4b075d7-ae89-46a1-9164-cb9433218204",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1519082/Oudejans%20Recoveries%20and%20efficacies%2020200710.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bacillus-anthracis",
+            "id": "78834053-4500-4f69-9d46-c0cccf3953ee",
+            "name": "bacillus-anthracis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bacterial-spores",
+            "id": "4b465dc1-df12-4a85-bb84-db112c8c5df5",
+            "name": "bacterial-spores",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "decontamination",
+            "id": "279ec329-82ea-41f1-baf2-d4da0d50ceb7",
+            "name": "decontamination",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrogen-peroxide",
+            "id": "71937f2e-1850-4f15-bb7c-4cbf2b5f06bd",
+            "name": "hydrogen-peroxide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrogen-peroxide-vapor",
+            "id": "481c7500-83ec-4b1f-b695-e0807974d4ed",
+            "name": "hydrogen-peroxide-vapor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inactivation",
+            "id": "46ba2bb0-a91a-4cce-8976-bbd9e313a9b4",
+            "name": "inactivation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vehicle-interior",
+            "id": "8934615a-6734-46b5-b371-99ef75122b6a",
+            "name": "vehicle-interior",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 24,
+        "recent": 1
+    }
+}

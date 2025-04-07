@@ -1,0 +1,184 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "ecef90d8-c7b2-4cf4-b9ab-184ed1e345f7",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mallikarjuna Nadagouda",
+    "maintainer_email": "nadagouda.mallikarjuna@epa.gov",
+    "metadata_created": "2020-11-12T13:49:07.713875",
+    "metadata_modified": "2020-11-12T13:49:07.713886",
+    "name": "membrane-processes-for-the-separation-of-potential-emerging-pollutants",
+    "notes": "Membrane Processes for the Separation of Potential Emerging Pollutants -Review Article. \n\nThis dataset is associated with the following publication:\nP. Dharupaneedia, S., N. Sanna Kotrappanavar, M. Nadagouda, K.R. Reddy, S.S.  Shukla, and T. Aminabhavi. Membrane-based Separation of Potential Emerging Pollutants.   SEPARATION AND PURIFICATION TECHNOLOGY. Elsevier Science Ltd, New York, NY, USA, 210: 850-866, (2019).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Membrane Processes for the Separation of Potential Emerging Pollutants",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.seppur.2018.09.003"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d0ece7dc-825d-4bf5-99fe-bcead3d65de3"
+        },
+        {
+            "key": "source_hash",
+            "value": "614de6de9f501438a6f4e1f9b69e54047455613a"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-04-20"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1433379"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1433379/documents/TMA-revised-JEM-2.docx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:49:07.753871",
+            "description": "TMA-revised-JEM-2.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "60284f43-feac-4669-aad2-44b5464d359a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:49:07.753871",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "TMA-revised-JEM-2.docx",
+            "package_id": "ecef90d8-c7b2-4cf4-b9ab-184ed1e345f7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1433379/TMA-revised-JEM-2.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "membrane",
+            "id": "41863fd3-d878-44bc-ba3a-9d5a379f3807",
+            "name": "membrane",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pollutants",
+            "id": "29c8d37a-d66a-486c-a04f-0a402560153b",
+            "name": "pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "separation",
+            "id": "85e3392f-70bb-4d23-a9fb-b97f4255ca60",
+            "name": "separation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waste-water-treatment",
+            "id": "7d69e3ec-a3db-4220-a7a5-51d4f1f176d4",
+            "name": "waste-water-treatment",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 69,
+        "recent": 1
+    }
+}

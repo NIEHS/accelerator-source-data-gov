@@ -1,0 +1,484 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "3fd39526-0f6d-4930-a3d6-cceb5b5d5765",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:17:06.852509",
+    "metadata_modified": "2025-02-25T05:17:06.852515",
+    "name": "u-s-mexico-border-program-project-points-2020-u-s-mexico-border-u-s-environmental-protection-ag17",
+    "notes": "This point layer represents 112 projects funded through the U.S.-Mexico Border Program (2013-2020) in both Region 9 and Region 6 of the U.S. EPA to include U.S. Federally recognized Tribal communities and states of Texas, New Mexico, Chihuahua, Nuevo Leon, Tamaulipas, Coahuila, California, Baja California, Sonora, and Arizona within 62 miles of the U.S.-Mexico Border. The projects stem from the Border 2020 framework that had five goals to reduce air pollution, improve access to clean water, promote materials and waste management, improve emergency preparedness, and enhance environmental stewardship, and fundamental strategies that includes children's health and environmental education and outreach. Individual projects are displayed according to the primary program goal. Projects will be updated once final projects are completed. \n\nEach project contains:\n- Project Name\n- Goal\n- Project Status\n- Sponsor\n- Project Location or Sponsor Organization Location\n- Project Description\n- Funding Year\n- Awarded Amount (US$)\n- EPA Region\n- Regional workgroup\n- Latitude\n- Longitude\n\nPoints of projects are the locations of the project sponsor or a key location of the project. Be aware that some projects may have taken place in more than one location not noted on the map. For details on location read the project description and location in the attribute table. Note some points on the map have more than one project listed on the point. \n\nFor more information about Border 2020 and/or current U.S.-Mexico Border program visit this website: https://www.epa.gov/usmexicoborder\n\nThe layer is used in the U.S.-Mexico Border 2020 Program Projects Funded Map and Application. \n\nFull metadata can be found here: https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BED729AA4-C42B-453D-A518-F539A3BBDD92%7D \n\nThe complete metadata in Spanish can be found: https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B49E7B80E-EF32-421E-8675-C60FF9338BD3%7D\n\nU.S. EPA Region 9 Technology and Data Solutions Center Project: \n\nTIP-21-04393",
+    "num_resources": 5,
+    "num_tags": 28,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "U.S.-Mexico Border Program Project Points, 2020, U.S.-Mexico Border, U.S. Environmental Protection Agency",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "ED729AA4-C42B-453D-A518-F539A3BBDD92"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "4326"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2021-06-30\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2022-10-26"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "helgesen.jessica@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"For Public Use; Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. EPA U.S. - Mexico Border Program\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-97.5"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "33.41682"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "25.86667"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-117.253969"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.253969, 25.86667], [-97.5, 25.86667], [-97.5, 33.41682], [-117.253969, 33.41682], [-117.253969, 25.86667]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.253969, 25.86667], [-97.5, 25.86667], [-97.5, 33.41682], [-117.253969, 33.41682], [-117.253969, 25.86667]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8861c8fb-0733-45d2-a0b9-982b0f699cbe"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:17:06.859627",
+            "description": "Website for program",
+            "format": "",
+            "hash": "",
+            "id": "a15f779b-320f-4cd5-a51b-dad16fb05eaf",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:17:06.815397",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "U.S. - Mexico Border Website for EPA",
+            "package_id": "3fd39526-0f6d-4930-a3d6-cceb5b5d5765",
+            "position": 0,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "WWW:LINK",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/usmexicoborder",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:17:06.859631",
+            "description": "ArcGIS Online Item for the hosted feature layer",
+            "format": "",
+            "hash": "",
+            "id": "5b5a1ada-4864-43c8-ad44-69a4e1a51a51",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:17:06.815597",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "U.S. - Mexico Border 2020 Projects ArcGIS Online Item",
+            "package_id": "3fd39526-0f6d-4930-a3d6-cceb5b5d5765",
+            "position": 1,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "ESRI:ArcGIS",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://epa.maps.arcgis.com/home/item.html?id=083b53dbc47d47d78c1d7abd58dbfb70",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:17:06.859633",
+            "description": "ArcGIS Online Application",
+            "format": "",
+            "hash": "",
+            "id": "b8f4d046-43d2-4567-8b56-76e86da00845",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:17:06.815761",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "U.S. - Mexico Border 2020 Program Funded Projects Application",
+            "package_id": "3fd39526-0f6d-4930-a3d6-cceb5b5d5765",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "download",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://experience.arcgis.com/experience/13a16bbcca0148bf9cd6d2ba68c23e9e",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:17:06.859634",
+            "description": "Zipped file geodatabase",
+            "format": "ZIP",
+            "hash": "",
+            "id": "deb49173-d39a-4cc9-8275-8750b6b56e44",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:17:06.815914",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Download of Border Project data",
+            "package_id": "3fd39526-0f6d-4930-a3d6-cceb5b5d5765",
+            "position": 3,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "file",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://edg.epa.gov/data/PUBLIC/R9/TIP2204505_USMexicoBorderProgram.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:17:06.859635",
+            "description": "Website for metadata details",
+            "format": "",
+            "hash": "",
+            "id": "76fbcbda-cc01-49ae-b037-235d667a8b44",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:17:06.816057",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Details of Border Project data",
+            "package_id": "3fd39526-0f6d-4930-a3d6-cceb5b5d5765",
+            "position": 4,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "WWW:LINK",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BED729AA4-C42B-453D-A518-F539A3BBDD92%7D",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:119",
+            "id": "a2f0d7f3-f8d9-4955-8201-4a1dd92021ee",
+            "name": "020:119",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air",
+            "id": "0c285224-7a71-45b4-804a-ae078ca6f436",
+            "name": "air",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arizona",
+            "id": "505b3704-0140-4a4b-b0ca-1d68829851c9",
+            "name": "arizona",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "california",
+            "id": "364760b8-6576-42af-b0c5-278dec4415e7",
+            "name": "california",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate",
+            "id": "31cb02ba-74a7-4dc6-9565-4f58c3c0a20d",
+            "name": "climate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "compliance",
+            "id": "640a04f0-a875-48d9-817a-cd288e94cc0c",
+            "name": "compliance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "disaster",
+            "id": "5195b337-0788-45e3-9e9e-b61a84b3425f",
+            "name": "disaster",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking water",
+            "id": "cf264a55-2d50-4fb2-ba58-ba6ef9df39b9",
+            "name": "drinking water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emergency",
+            "id": "0d580027-e0a5-4cd5-9465-7b517eb42900",
+            "name": "emergency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "estuary",
+            "id": "45c59167-199e-499d-b352-16e4c2ea9f5e",
+            "name": "estuary",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hazards",
+            "id": "e353b54d-727c-4c4f-ac4b-1c6e16722135",
+            "name": "hazards",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "health",
+            "id": "3b24c0fa-1ddf-4dc3-965f-93a79d68ab18",
+            "name": "health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "indoor air",
+            "id": "9b5dfafb-bc5a-43f0-8a8a-09fad327f7ab",
+            "name": "indoor air",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land",
+            "id": "899e1294-851a-4804-95fa-e0c5a45f19fc",
+            "name": "land",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mexico",
+            "id": "229c9fd2-440e-45a2-a5ec-44c1cb16aa4d",
+            "name": "mexico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new mexico",
+            "id": "e79c2ba6-bd42-4b31-8289-93fcc1554d07",
+            "name": "new mexico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pesticides",
+            "id": "323d9b30-fa85-4ada-8b8b-2374a8275a6f",
+            "name": "pesticides",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "response",
+            "id": "73093f11-d34c-4f55-b7a0-255fedf7c615",
+            "name": "response",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "spills",
+            "id": "a7e3fd66-5a8e-4316-aadd-5e1f43b39095",
+            "name": "spills",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "surface water",
+            "id": "b2299263-5de0-400f-8567-2386aa5f897f",
+            "name": "surface water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "texas",
+            "id": "41f19b7c-6fe6-4041-9229-fcba0278a6c9",
+            "name": "texas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "transportation",
+            "id": "9de63758-c817-4198-8946-25300ec44352",
+            "name": "transportation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waste",
+            "id": "c8c45fd7-e96a-4e36-9d54-71543519256b",
+            "name": "waste",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water",
+            "id": "143854aa-c603-4193-9c89-232e63461fa4",
+            "name": "water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 3
+    }
+}

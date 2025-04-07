@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "d82451fd-8bdc-4c11-a5e6-0a90ca758fc6",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Hornung",
+    "maintainer_email": "hornung.michael@epa.gov",
+    "metadata_created": "2021-04-12T19:02:12.937283",
+    "metadata_modified": "2021-04-12T19:02:12.937293",
+    "name": "xenpous-leavis-deiodinase-type-3-enzyme-activity-characterization-and-chemical-screening-d",
+    "notes": "Data set includes optimized assay parameters and kinetic characterization for xenopus laevis deiodinase type 3 enzyme, and inhibition activity of 352 ToxCast chemicals against this enzyme. \n\nThis dataset is associated with the following publication:\nMayasich, S., J. Korte, J. Denny, P. Hartig, J. Olker, P. Degoey, J. O'Flanagan, S. Degitz, and M. Hornung. Xenopus laevis and human type 3 iodothyronine deiodinase enzyme cross-species sensitivity to inhibition by ToxCast chemicals.   TOXICOLOGICAL SCIENCES. Society of Toxicology, RESTON, VA,  73: 105141, (2021).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Xenpous leavis deiodinase type 3 enzyme activity characterization and chemical screening data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.tiv.2021.105141"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "e5df36cb-9342-49d0-8ee3-8d0c436e49c2"
+        },
+        {
+            "key": "source_hash",
+            "value": "a0917201da2fb1d9b9c1093b081bf1acb4534314"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-06-19"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504033"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-04-12T19:02:12.998315",
+            "description": "200714_Mayasich_et_al_Xldio3%20screening%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "66da9f5f-aee3-4a66-89f6-62258175db6d",
+            "last_modified": null,
+            "metadata_modified": "2021-04-12T19:02:12.998315",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "200714_Mayasich_et_al_Xldio3 screening data.xlsx",
+            "package_id": "d82451fd-8bdc-4c11-a5e6-0a90ca758fc6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504033/200714_Mayasich_et_al_Xldio3%20screening%20data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "deiodinase",
+            "id": "194150fa-9f30-49fd-84d0-317022c82d4d",
+            "name": "deiodinase",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "enzyme-activity",
+            "id": "fbf8b445-4b0d-4d96-b381-6f5e483aa626",
+            "name": "enzyme-activity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thyroid",
+            "id": "e502671c-50a1-40b6-b0d3-c221317d0768",
+            "name": "thyroid",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "xenopus",
+            "id": "70d81a22-9a4b-4530-a4df-ca000b1f575b",
+            "name": "xenopus",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 78,
+        "recent": 1
+    }
+}

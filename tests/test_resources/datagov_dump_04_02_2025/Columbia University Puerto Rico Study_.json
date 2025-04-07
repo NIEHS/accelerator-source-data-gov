@@ -1,0 +1,143 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b761fa84-617f-4a87-827b-0c415c999b8f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Stephen Vesper",
+    "maintainer_email": "vesper.stephen@epa.gov",
+    "metadata_created": "2020-11-12T13:36:38.122206",
+    "metadata_modified": "2020-11-12T13:36:38.122216",
+    "name": "columbia-university-puerto-rico-study",
+    "notes": "Lifetime childhood asthma prevalence (LCAP) percentages in Puerto Rico Health\nRegions (HR) are substantially higher in northeastern vs. southwestern HR. Higher\naverage relative humidity in the northeast might promote mold and mite exposures\nand possibly asthma prevalence. To test this hypothesis, mold contamination, Environmental\nRelative Moldiness Index (ERMI) values were measured in floor dust\n(n = 26) and dust mite allergen concentrations in bed dust (n = 14). For this analysis,\nthe eight HR were divided into those with LCAP > 30% (n = 3) and < 30% (n = 5).\nThe average ERMI value was significantly greater (Wilcoxon Rank Sum, p < 0.001)\nin high than in low LCAP HR (14.5 vs. 9.3). The dust mite antigens Der p 1, Der f\n1, and Blo t 5 were detected in 90% of bed samples, but the concentrations were\nnot significantly different in high vs. low LCAP HR. Mold exposures might partially\nexplain the differences in LCAP HR in Puerto Rico. This dataset is not publicly accessible because: This was a study conducted by Columbia University researchers. It can be accessed through the following means: Contact:\r\nMatthew S. Perzanowski, Ph.D. \r\nAssociate Professor \r\nDepartment of Environmental Health Sciences \r\nMailman School of Public Health \r\nColumbia University \r\n(212) 305-3465. Format: This study was conducted by Columbia University.  There is no dataset format. \n\nThis dataset is associated with the following publication:\nVesper , S., H. Choi, M. Perzanowski, L. Acosta, A. Divjan, B. Bolanos-Rosero, F. Rivera-Mariani, and G. Chew. Mold populations and dust mite allergen concentrations in house dust samples from across Puerto Rico.   INTERNATIONAL JOURNAL OF ENVIRONMENTAL HEALTH RESEARCH. Carfax Publishing Limited, Basingstoke,  UK, 26(2): 198-207, (2016).",
+    "num_resources": 0,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Columbia University Puerto Rico Study.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1080/09603123.2015.1089531"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "bc178181-6d7c-4df2-91f5-895ab530e10e"
+        },
+        {
+            "key": "source_hash",
+            "value": "ca9ce7af971235115703e930e24674a336b1cf4e"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-08-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-cc2r-155"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "dust-mites",
+            "id": "62408c2f-af8a-46df-b501-f33b0853aebc",
+            "name": "dust-mites",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ermi",
+            "id": "4410b367-1d86-4dd4-b7c7-3204d35aeac2",
+            "name": "ermi",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mold",
+            "id": "0e9044c8-5352-4fea-8940-0a7d0e61571a",
+            "name": "mold",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 86,
+        "recent": 2
+    }
+}

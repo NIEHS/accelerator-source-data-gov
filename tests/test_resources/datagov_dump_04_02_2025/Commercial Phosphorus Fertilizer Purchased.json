@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "43c9c425-1dc3-48e0-a256-547915b35014",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mario Sengco, U.S. EPA Office of Water (OW) - Office of Science and Technology (OST)",
+    "maintainer_email": "sengco.mario@epa.gov",
+    "metadata_created": "2020-11-29T22:10:44.043752",
+    "metadata_modified": "2024-03-16T16:16:33.081493",
+    "name": "commercial-phosporus-fertilizer-purchased",
+    "notes": "Amounts of fertilizer P2O5 purchased by states in individual years 2003, 2005, 2007, 2009 and 2011, and the % change in average amounts purchased per year from 2002-2006 to 2007-2011. Fertilizer information is reported by state fertilizer control offices and excludes livestock manure, liming materials, peat, potting soils, soil amendments, soil additives, and soil conditioners.",
+    "num_resources": 0,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Commercial Phosphorus Fertilizer Purchased",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "41fd9e2b9ff39c6e09084993c40c2adc943cc5777e3972263efb6c4d7fee5132"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "irregular"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "{46B3DC8A-2ABA-47A3-96B5-1567C2496214}"
+        },
+        {
+            "key": "issued",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2002-10-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Water (OW) - Office of Science and Technology (OST)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://www.epa.gov/nutrientpollution/commercial-fertilizer-purchased",
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B46B3DC8A-2ABA-47A3-96B5-1567C2496214%7D",
+                "https://edg.epa.gov/metadata/rest/document?id=%7B46B3DC8A-2ABA-47A3-96B5-1567C2496214%7D"
+            ]
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/public/OW/metadata/OW.json"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "old-spatial",
+            "value": "-180.0,18.0,-66.0,72.0"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "32e62ec5-46b9-4d60-9d66-f57246a5f8e0"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "8ed177f0-2564-4659-9197-8b64a5f0db3d"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OW Non-Geo Records"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-180.0, 72.0], [-66.0, 72.0], [-66.0, 18.0], [-180.0, 18.0]]]}"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "commercial-purchases",
+            "id": "1df50348-3ce8-4fee-a324-02df4b5409e3",
+            "name": "commercial-purchases",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fertilzer",
+            "id": "31be6f03-1fc8-4fc8-bca8-fde97d52ab2a",
+            "name": "fertilzer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inlandwaters",
+            "id": "7aa0b8df-7ae4-49c3-8f96-a495e7babad5",
+            "name": "inlandwaters",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "phosporus",
+            "id": "b5656b94-de22-476f-b163-dde4301d4947",
+            "name": "phosporus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 71,
+        "recent": 1
+    }
+}

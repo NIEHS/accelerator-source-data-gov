@@ -1,0 +1,162 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "97b64d11-2ab1-43de-9e22-a7e849b5f54e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Anne Weaver",
+    "maintainer_email": "weaver.anne@epa.gov",
+    "metadata_created": "2022-01-24T23:24:22.570600",
+    "metadata_modified": "2022-01-24T23:24:22.570607",
+    "name": "air-pollution-and-health-in-the-jackson-heart-study-a-cohort-of-african-americans-in-jacks",
+    "notes": "Data include individual-level health data, including results from cardiovascular tests and medical history. This is linked to air quality data at participants' residence. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Data may be requested through the Jackson Heart Study. Format: Data include individual-level health data, including results from cardiovascular tests and medical history. This is linked to air quality data at participants' residence. Since these data contain PII, they cannot be released to ScienceHub. \n\nThis dataset is associated with the following publications:\nWeaver, A., A. Bidulescu, G. Wellenius, D. Hickson, M. Sims, A. Vaidyanathan, W. Wu, A. Correa, and Y. Wang. Associations between Air Pollution Indicators and Prevalent and Incident Diabetes among African American Participants in the Jackson Heart Study.   Environmental Epidemiology. Wolters Kluwer, Alphen aan den Rijn,  NETHERLANDS, 5(3): e140, (2021).\nWeaver, A., Y. Wang, G. Wellenius, A. Bidulescu, M. Sims, A. Vaidyanathan, D. Hickson, D. Shimbo, M. Abdalla, K. Diaz, and S. Seals. Long-Term Air Pollution and Blood Pressure in an African American Cohort: The Jackson Heart Study.   American Journal of Preventive Medicine. Elsevier B.V., Amsterdam,  NETHERLANDS, 60(3): 397-405, (2021).",
+    "num_resources": 0,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Air Pollution and Health in the Jackson Heart Study: a Cohort of African Americans in Jackson, Mississippi",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504594"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2019-10-01"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1097/ee9.0000000000000140",
+                "https://doi.org/10.1016/j.amepre.2020.10.023"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "source_hash",
+            "value": "7bd19b2acd8f86461355e798527fd14c85019bad"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "43a3362c-6f47-446c-9d0e-3dcaa2a1b143"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "african-american",
+            "id": "b58e7a7e-13d7-48dd-b48c-aac8bb356bff",
+            "name": "african-american",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-pollution",
+            "id": "479f3b60-b95d-4708-9034-c531c6695587",
+            "name": "air-pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cardiovascular-disease",
+            "id": "101c34fb-4efc-47f9-a3c2-eef0def12a0f",
+            "name": "cardiovascular-disease",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "diabetes",
+            "id": "73fbc4de-d4e0-4bf6-85a0-4c11dccb8a0a",
+            "name": "diabetes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hypertension",
+            "id": "ae1e3757-14d6-4961-8a44-48110ed02c66",
+            "name": "hypertension",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 236,
+        "recent": 4
+    }
+}

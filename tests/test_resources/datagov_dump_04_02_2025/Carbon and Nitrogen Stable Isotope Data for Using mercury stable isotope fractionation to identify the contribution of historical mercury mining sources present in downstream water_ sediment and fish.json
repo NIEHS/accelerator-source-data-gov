@@ -1,0 +1,184 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "7e849983-9c41-4241-b4bb-d3b15a88bb9e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Todd Luxton",
+    "maintainer_email": "luxton.todd@epa.gov",
+    "metadata_created": "2023-07-02T08:45:17.203295",
+    "metadata_modified": "2023-07-02T08:45:17.203305",
+    "name": "carbon-and-nitrogen-stable-isotope-data-for-using-mercury-stable-isotope-fractionation-to-",
+    "notes": "The data set contains the stable carbon and sulfur isotope ratios for fish tissue used in the manuscript.  The data is included in the file was used in Figures 3 and 6 of the manuscript and Figures S4 and S5 in the Supporting Documents. \n\nThis dataset is associated with the following publication:\nEckley, C.S., C. Eagles-Smith, T.P. Luxton, J. Hoffman, and S. Janssen. Using mercury stable isotope fractionation to identify the contribution of historical mercury mining sources present in downstream water, sediment and fish.   Frontiers in Environmental Chemistry. Frontiers, Lausanne,  SWITZERLAND, 4: 1096199, (2023).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Carbon and Nitrogen Stable Isotope Data for Using mercury stable isotope fractionation to identify the contribution of historical mercury mining sources present in downstream water, sediment and fish",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "228a6af3a6246325bf757943e78c2b8bdbeb6919"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529162"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-12-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3389/fenvc.2023.1096199",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10269370"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "08eef1c6-b6a8-43a8-bdc1-7f48a015a4b3"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-02T08:45:17.265774",
+            "description": "ScienceHub_Eckley%20et%20al_FrontEnvChem_2023.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "76679af7-134f-4002-b759-60cdd415ef6b",
+            "last_modified": null,
+            "metadata_modified": "2023-07-02T08:45:17.185709",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ScienceHub_Eckley et al_FrontEnvChem_2023.xlsx",
+            "package_id": "7e849983-9c41-4241-b4bb-d3b15a88bb9e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529162/ScienceHub_Eckley%20et%20al_FrontEnvChem_2023.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "mercury",
+            "id": "546092a9-55ca-4b1e-8c3c-1b0bbda807ef",
+            "name": "mercury",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "methylmercury",
+            "id": "b90dbbb1-b05b-4dc9-8ec3-6f945f06fb45",
+            "name": "methylmercury",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mining",
+            "id": "99cae653-3f05-42d4-9ec2-1a495008f7d7",
+            "name": "mining",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "source-attribution",
+            "id": "6824aa7d-f5fc-41a0-a82e-a81b446db2fe",
+            "name": "source-attribution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stable-isotopes",
+            "id": "aff07958-dd02-45b8-9531-d917678c05c7",
+            "name": "stable-isotopes",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 1
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "76295ca9-bb8b-42ba-806b-a18b38054ce2",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Wesley Ingwersen",
+    "maintainer_email": "ingwersen.wesley@epa.gov",
+    "metadata_created": "2024-07-10T18:42:30.962315",
+    "metadata_modified": "2024-07-10T18:42:30.962320",
+    "name": "supply-chain-greenhouse-gas-emission-factors-v1-3-by-naics-6",
+    "notes": "The datasets comprise greenhouse gas (GHG) emission factors (Factors) for 1,016 U.S. commodities as defined by the 2017 version of the North American Industry Classification System (NAICS). The Factors are based on GHG data for 2022. Factors are given for all NAICS-defined commodities at the 6-digit level except for electricity, government, and households. Each record consists of three factor types as in the previous releases: Supply Chain Emissions without Margins (SEF), Margins of Supply Chain Emissions (MEF), and Supply Chain Emissions with Margins (SEF+MEF). One set of Factors provides kg carbon dioxide equivalents (CO2e) per 2022 U.S. dollar (USD) for all GHGs combined using 100-yr global warming potentials from IPCC 5th report (AR5) to calculate the equivalents. In this dataset there is one SEF, MEF and SEF+MEF per commodity. The other dataset of Factors provides kg of each unique GHG emitted per 2022 dollar per commodity without the CO2e calculation. The dollar in the denominator of all factors uses purchaser prices. See the supporting file 'Aboutv1.3SupplyChainGHGEmissionFactors.docx' for complete documentation of this dataset. ",
+    "num_resources": 2,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Supply Chain Greenhouse Gas Emission Factors v1.3 by NAICS-6",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "66077c48aa2734d75449c3254e6695d0a09a1dbd0f56a9a5351d5dd3ce534510"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531143"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-07-05"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://pasteur.epa.gov/uploads/10.23719/1531143/documents/RelativeChangefromv1.2tov1.3.0inSEFsinCO2e.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1531143/documents/RelativeChangefromv1.2tov1.3.0inSEFsbyGHG.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1531143/documents/Aboutv1.3SupplyChainGHGEmissionFactors.docx"
+            ]
+        },
+        {
+            "key": "describedBy",
+            "value": "https://github.com/USEPA/supply-chain-factors/blob/5df4328f9b06e69f7b6d21af0baf391de669974e/format-specs/README.md"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "997a99dc-a443-442a-a59d-474166ce2240"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-07-10T18:42:30.980902",
+            "description": "SupplyChainGHGEmissionFactors_v1.3.0_NAICS_CO2e_USD2022.csv",
+            "format": "CSV",
+            "hash": "",
+            "id": "19c7c85f-d3de-4a9b-9559-f8ac44f3a168",
+            "last_modified": null,
+            "metadata_modified": "2024-07-10T18:42:30.950494",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "SupplyChainGHGEmissionFactors_v1.3.0_NAICS_CO2e_USD2022.csv",
+            "package_id": "76295ca9-bb8b-42ba-806b-a18b38054ce2",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2535,
+                "recent": 122
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531143/SupplyChainGHGEmissionFactors_v1.3.0_NAICS_CO2e_USD2022.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-07-10T18:42:30.980906",
+            "description": "SupplyChainGHGEmissionFactors_v1.3.0_NAICS_byGHG_USD2022.csv",
+            "format": "CSV",
+            "hash": "",
+            "id": "aaf240c3-b948-40e6-9fe8-8f2aff51c53c",
+            "last_modified": null,
+            "metadata_modified": "2024-07-10T18:42:30.950636",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "SupplyChainGHGEmissionFactors_v1.3.0_NAICS_byGHG_USD2022.csv",
+            "package_id": "76295ca9-bb8b-42ba-806b-a18b38054ce2",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 566,
+                "recent": 30
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531143/SupplyChainGHGEmissionFactors_v1.3.0_NAICS_byGHG_USD2022.csv",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ghg-reporting",
+            "id": "c950ed62-7a46-4f42-ac39-f6a6f934e28f",
+            "name": "ghg-reporting",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "industry-ghgs",
+            "id": "27733952-8610-44d2-b769-89f0d9aced11",
+            "name": "industry-ghgs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "scope-3",
+            "id": "877eefac-432f-4788-b4b8-c00c7d208694",
+            "name": "scope-3",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "useeio",
+            "id": "a5a67ec6-413c-44a7-82ac-832717c61113",
+            "name": "useeio",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 27821,
+        "recent": 1175
+    }
+}

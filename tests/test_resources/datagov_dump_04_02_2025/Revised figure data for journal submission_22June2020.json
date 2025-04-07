@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "29c9b437-191f-44d4-984e-7be55a953ee1",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Lindsay Stanek",
+    "maintainer_email": "stanek.lindsay@epa.gov",
+    "metadata_created": "2020-11-12T13:50:23.687078",
+    "metadata_modified": "2020-11-12T13:50:23.687088",
+    "name": "revised-figure-data-for-journal-submission-22june2020",
+    "notes": "Underlying modeling outputs used to generate Figures in the manuscript and supplemental figures. \n\nThis dataset is associated with the following publication:\nStanek, L., J. Xue, C. Lay, E. Helm, T. Speth, D. Lytle, M. Schock, and V. Zartarian. Modeled Impacts of Drinking Water Lead Reduction Scenarios on Children\u2019s Exposures and Blood Lead Levels.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 54(15): 9474-9482, (2020).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Revised figure data for journal submission_22June2020",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.0c00479"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "aa19a485-751c-45be-b899-c011d1ff3301"
+        },
+        {
+            "key": "source_hash",
+            "value": "d2a417bfc265bd74992b263f9bab70329e005391"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-06-22"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518916"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:23.706100",
+            "description": "figures%201-5%20data%20and%20charts_ES%26T%20revisions_round2.xls",
+            "format": "XLS",
+            "hash": "",
+            "id": "5a244bc7-8a1c-481e-9114-43a27ecb1f8b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:23.706100",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "figures 1-5 data and charts_ES&T revisions_round2.xls",
+            "package_id": "29c9b437-191f-44d4-984e-7be55a953ee1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518916/figures%201-5%20data%20and%20charts_ES%26T%20revisions_round2.xls",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exposure",
+            "id": "8049ad10-3bf6-4846-b6f7-ad415afd0ae7",
+            "name": "exposure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lead",
+            "id": "3208a57e-f3bb-4d6c-9a9a-b0101de6d5e0",
+            "name": "lead",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "multimedia-modeling",
+            "id": "8229e628-9648-4d4a-8e8a-23aeb041730a",
+            "name": "multimedia-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 88,
+        "recent": 2
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "8dc33c17-7c5b-4141-8f6e-23cd2ab64099",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Wesley Ingwersen",
+    "maintainer_email": "ingwersen.wesley@epa.gov",
+    "metadata_created": "2024-01-05T08:30:24.415146",
+    "metadata_modified": "2024-01-05T08:30:24.415152",
+    "name": "2012-2020-greenhouse-gas-national-and-state-level-emission-totals-by-industry",
+    "notes": "These data represent annual greenhouse gas (GHG) emission totals by industry sectors and households for the total U.S. and by state, for years 2012 to 2020. Industry sectors are defined by North American Industry Classification System (NAICS) 2012 codes, with additional codes added for households and government.\nEmissions of 16 different GHGs, which are the same GHGs as reported in the U.S. GHG Inventory, are included. \nValues are given in total kilograms emitted for the given year, sector and location.\n\nData are provided in two alternative formats, as Excel files and as Apache parquet files.\nThe Excel files include:\n1) GHGs by 114 aggregate level sectors by state and year,\n2) GHGs by 114 aggregate level sectors by year for the U.S., and\n3) GHGs by 540 detailed sectors by year for the U.S. \nThe Excel files use a simplified version (not all fields included) of the Flow-by-Sector format (see link to format specification below). \nThe parquet files align with the Excel files except are also separated by year, and provide the complete flow by sector format, where files with \"state_m1\" correspond to the aggregate level state datasets, files with \"national_m1\" correspond to the aggregate level national dataset, and files with \"national_m2\" correspond to the aggregate level state datasets, \nStandard metadata files in JSON format, and log and validation files in text format (with .log extension) are provided for each parquet file. \n\nThe data are a product of updated sector attribution models that improve upon the National Greenhouse Gas Industry Attribution Model.  \n The models used to generate the national aggregate and the state datasets are sector attribution models coded in the FLOWSA v2.0.0 tool (https://github.com/USEPA/flowsa/tree/v2.0.0). The national detailed datasets are developed with FLOWSA v2.0.1 (https://github.com/USEPA/flowsa/tree/v2.0.1).",
+    "num_resources": 3,
+    "num_tags": 13,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "2012-2020 Greenhouse Gas National- and State-Level Emission Totals by Industry",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "a83bfba03822178139223dae377d181662196c8756f7cd82fb452cbd85438caf"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529805"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-12-11"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://github.com/USEPA/flowsa/blob/v2.0.1/format%20specs/FlowBySector.md",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2012_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2012_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2012_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2012_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2013_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2013_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2013_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2013_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2014_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2014_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2014_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2014_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2015_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2015_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2015_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2015_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2016_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2016_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2016_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2016_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2017_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2017_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2017_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2017_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2018_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2018_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2018_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2018_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2012_m2_v2.0.1_1d3a514.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2012_m2_v2.0.1_1d3a514.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2012_m2_v2.0.1_1d3a514_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2012_m2_v2.0.1_1d3a514_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2013_m2_v2.0.1_1d3a514.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2013_m2_v2.0.1_1d3a514.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2013_m2_v2.0.1_1d3a514_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2013_m2_v2.0.1_1d3a514_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2014_m2_v2.0.1_1d3a514.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2014_m2_v2.0.1_1d3a514.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2014_m2_v2.0.1_1d3a514_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2014_m2_v2.0.1_1d3a514_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2015_m2_v2.0.1_1d3a514.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2015_m2_v2.0.1_1d3a514.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2015_m2_v2.0.1_1d3a514_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2015_m2_v2.0.1_1d3a514_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2016_m2_v2.0.1_1d3a514.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2016_m2_v2.0.1_1d3a514.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2016_m2_v2.0.1_1d3a514_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2016_m2_v2.0.1_1d3a514_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2017_m2_v2.0.1_1d3a514.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2017_m2_v2.0.1_1d3a514.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2017_m2_v2.0.1_1d3a514_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2017_m2_v2.0.1_1d3a514_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2018_m2_v2.0.1_1d3a514.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2018_m2_v2.0.1_1d3a514.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2018_m2_v2.0.1_1d3a514_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2018_m2_v2.0.1_1d3a514_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2019_m2_v2.0.1_1d3a514.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2019_m2_v2.0.1_1d3a514.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2019_m2_v2.0.1_1d3a514_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2019_m2_v2.0.1_1d3a514_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2020_m2_v2.0.1_1d3a514.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2020_m2_v2.0.1_1d3a514.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2020_m2_v2.0.1_1d3a514_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2020_m2_v2.0.1_1d3a514_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2019_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2019_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2019_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2019_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2020_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2020_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2020_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_national_2020_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2012_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2012_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2012_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2012_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2013_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2013_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2013_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2013_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2014_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2014_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2014_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2014_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2015_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2015_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2015_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2015_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2016_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2016_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2016_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2016_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2017_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2017_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2017_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2017_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2018_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2018_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2018_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2018_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2019_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2019_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2019_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2019_m1_v2.0.0_a8c5929_validation.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2020_m1_v2.0.0_a8c5929.log",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2020_m1_v2.0.0_a8c5929.parquet",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2020_m1_v2.0.0_a8c5929_metadata.json",
+                "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/GHG_state_2020_m1_v2.0.0_a8c5929_validation.log"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "bb761f31-8ee1-4de0-adce-3926cec88dba"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-01-05T08:30:24.432366",
+            "description": "GHGs_by_Sector_and_State_2012-2020.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2413708c-b8e3-4709-b96d-db4b4fbbe045",
+            "last_modified": null,
+            "metadata_modified": "2024-01-05T08:30:24.382394",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "GHGs_by_Sector_and_State_2012-2020.xlsx",
+            "package_id": "8dc33c17-7c5b-4141-8f6e-23cd2ab64099",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 30,
+                "recent": 4
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529805/GHGs_by_Sector_and_State_2012-2020.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-01-05T08:30:24.432370",
+            "description": "GHGs_by_Detailed_Sector_US_2012-2020.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9e6fb07a-bf1e-4f07-aa65-2d98d2d0677e",
+            "last_modified": null,
+            "metadata_modified": "2024-01-05T08:30:24.382685",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "GHGs_by_Detailed_Sector_US_2012-2020.xlsx",
+            "package_id": "8dc33c17-7c5b-4141-8f6e-23cd2ab64099",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 11,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529805/GHGs_by_Detailed_Sector_US_2012-2020.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-01-05T08:30:24.432372",
+            "description": "GHGs_by_Aggregate_Sector_US_2012-2020.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "76f8c894-91b6-469a-96eb-47ab7935b7a7",
+            "last_modified": null,
+            "metadata_modified": "2024-01-05T08:30:24.382959",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "GHGs_by_Aggregate_Sector_US_2012-2020.xlsx",
+            "package_id": "8dc33c17-7c5b-4141-8f6e-23cd2ab64099",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529805/GHGs_by_Aggregate_Sector_US_2012-2020.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cfcs",
+            "id": "5e6c5272-fcfb-4956-84c0-b8637cb9b3a0",
+            "name": "cfcs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "co2-emissions",
+            "id": "00fb5d53-e003-424b-bb66-53e5f1ba17bb",
+            "name": "co2-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-economic-accounts",
+            "id": "b250550b-c4be-4ee2-bb34-969bd00f01fd",
+            "name": "environmental-economic-accounts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "flowsa",
+            "id": "199b49fe-bb4e-4710-9912-6846dba4ec9f",
+            "name": "flowsa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ghgs",
+            "id": "64567d51-5ed4-48e6-8f44-4ed754b00539",
+            "name": "ghgs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "greenhouse-gas-emissions",
+            "id": "cd8a1f0a-6537-4981-85b6-b0b4ebcbd636",
+            "name": "greenhouse-gas-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hfcs",
+            "id": "ae891fc2-7d77-4f77-898c-7e96e748a683",
+            "name": "hfcs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "methane-emission",
+            "id": "977b0d02-3f8a-4db2-b166-9b291c9c0225",
+            "name": "methane-emission",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "naics",
+            "id": "743d4172-c4ca-4db6-ae13-7c107f6cf47a",
+            "name": "naics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "national-emissions",
+            "id": "c1d66cd0-b7f4-452f-a260-5be656d268e0",
+            "name": "national-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "national-totals-by-industry",
+            "id": "12c39456-3819-495e-8907-3b67437b898b",
+            "name": "national-totals-by-industry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrous-oxide-n2o",
+            "id": "e0f88342-7a2d-4f96-b380-448d71812c35",
+            "name": "nitrous-oxide-n2o",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sector-attribution-model",
+            "id": "f8e6403f-ea92-4835-bedf-8b9bafb95f6c",
+            "name": "sector-attribution-model",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 900,
+        "recent": 26
+    }
+}

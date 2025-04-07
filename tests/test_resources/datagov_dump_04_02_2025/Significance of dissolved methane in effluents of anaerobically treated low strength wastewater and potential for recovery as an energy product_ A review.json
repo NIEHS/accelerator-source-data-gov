@@ -1,0 +1,187 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "190abbf3-ecd6-4f18-9738-477ce75d724d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jay Garland",
+    "maintainer_email": "garland.jay@epa.gov",
+    "metadata_created": "2020-11-12T13:38:06.556386",
+    "metadata_modified": "2021-05-02T09:00:39.238579",
+    "name": "significance-of-dissolved-methane-in-effluents-of-anaerobically-treated-low-strength-waste",
+    "notes": "The data set includes estimations of energy required for processes related to the operation of Anaerobic Membrane Bioreactors. \n\nThis dataset is associated with the following publication:\nCrone, B., J. Garland, G. Sorial, and L. Vane. Significance of dissolved methane in effluents of anaerobically treated low strength wastewater and potential for recovery as an energy product: A review.   WATER RESEARCH. Elsevier Science Ltd, New York, NY, USA, 104: 520-531, (2016).",
+    "num_resources": 2,
+    "num_tags": 2,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Significance of dissolved methane in effluents of anaerobically treated low strength wastewater and potential for recovery as an energy product: A review",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.watres.2016.08.019"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a7c71f60-d146-45dc-a105-f6cee35a09a1"
+        },
+        {
+            "key": "source_hash",
+            "value": "4a53d4e632503fbddd8f62a67eaff7be0bb6cc6f"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-09-19"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-hx3w-371"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:06.572262",
+            "description": "Science%20Hub%20Data%20Submission.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8b20706e-4765-4729-8c27-57a492fef5d3",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:06.572262",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Science Hub Data Submission.xlsx",
+            "package_id": "190abbf3-ecd6-4f18-9738-477ce75d724d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/371/Science%20Hub%20Data%20Submission.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-05-02T09:00:42.261069",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "22e7594e-1b6c-4675-97ee-9fc10c3e0b61",
+            "last_modified": null,
+            "metadata_modified": "2021-05-02T09:00:42.261069",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sciencedirect.com/science/article/pii/S0043135416306194",
+            "package_id": "190abbf3-ecd6-4f18-9738-477ce75d724d",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0043135416306194",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "anaerobic-treatment",
+            "id": "a7338089-ff2e-4888-ae41-2137e5bd527a",
+            "name": "anaerobic-treatment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy-and-water",
+            "id": "a602a345-c83a-4a2d-b7a6-d46054f08393",
+            "name": "energy-and-water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 43,
+        "recent": 1
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "eead090c-5fe1-4b00-bd2d-f4ace2c93e86",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Valerie Zartarian Morrison",
+    "maintainer_email": "zartarian.valerie@epa.gov",
+    "metadata_created": "2024-07-07T13:31:25.164422",
+    "metadata_modified": "2024-07-07T13:31:25.164428",
+    "name": "sheds-pb-2017-code-with-sensitivity-analyses",
+    "notes": "Output files for SHEDS-Pb 2022 analysis (2017 SHEDS-IEUBK scenario files and files for the updated sensitivity analyses). \n\nThis dataset is associated with the following publication:\nZartarian, V., J. Xue, E. Gibb-Snyder, J. Frank, R. Tornero-Velez, and L. Stanek. Children's lead exposure in the U.S.: Application of a national-scale, probabilistic aggregate model with a focus on residential soil and dust lead (Pb) scenarios.   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 905: 167132, (2023).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "SHEDS-Pb, 2017 Code with Sensitivity Analyses",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "da0d5452c382742ac95f28b6fe26cfc5a2df5936089793ac84e876746c0f1c05"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529100"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-03-20"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2023.167132"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "62323631-f348-44ff-ae75-e4ee7161ced6"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-07-07T13:31:25.170286",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "17b529b4-df62-4e8e-bc60-656bd3422296",
+            "last_modified": null,
+            "metadata_modified": "2024-07-07T13:31:25.153367",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://gaftp.epa.gov/CPHEA/SHEDS%20Pb/",
+            "package_id": "eead090c-5fe1-4b00-bd2d-f4ace2c93e86",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://gaftp.epa.gov/CPHEA/SHEDS%20Pb/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "childrens-environmental-health",
+            "id": "1d44d7c5-55ce-47ff-a1d3-b3d9d3fd2327",
+            "name": "childrens-environmental-health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dust",
+            "id": "f89e2d69-66f5-4151-840f-bcc83a551fc7",
+            "name": "dust",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-justice",
+            "id": "7b8a573d-1190-4ab3-b9fc-45635e0bd505",
+            "name": "environmental-justice",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lead",
+            "id": "3208a57e-f3bb-4d6c-9a9a-b0101de6d5e0",
+            "name": "lead",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "modeling",
+            "id": "6dab039d-306b-4964-a66a-39a76a295408",
+            "name": "modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soil",
+            "id": "0ff9ac30-4136-4d29-9d25-741217bfa174",
+            "name": "soil",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    }
+}

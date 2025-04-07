@@ -1,0 +1,164 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "396b834b-6f0f-433e-9b65-bc605842f91d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Meridith Fry",
+    "maintainer_email": "fry.meridith@epa.gov",
+    "metadata_created": "2024-02-18T18:29:45.618211",
+    "metadata_modified": "2024-02-18T18:29:45.618218",
+    "name": "building-resilience-to-extreme-weather-events-in-phoenix-considering-contaminated-sites-an",
+    "notes": "The dataset includes tables of the 58 indicator datasets (dataset descriptions, data formats, links to publicly available data sources for producing GIS data layers). \n\nThis dataset is associated with the following publications:\nSinha, P., M. Fry, S. Julius, R. Truesdale, J. Cajka, M. Eddy, P. Doraiswamy, R. Albright, J. Riemenschneider, M. Potzler, B. Lim, J. Richkus, and M. O'Neal. Building Resilience to Extreme Weather Events in Phoenix: Considering Contaminated Sites and Under-resourced Communities.   Climate Risk Management. Elsevier B.V., Amsterdam,  NETHERLANDS, 43: 100586, (2024).\nSinha, P., R. Truesdale, M. Fry, and S. Julius. Handbook on Indicators of Community Vulnerability to Extreme Events: Considering Sites and Waste Management Facilities. U.S. Environmental Protection Agency, Washington, DC, USA, 2023.\nSinha, P., S. Julius, M. Fry, R. Truesdale, J. Cajka, M. Eddy , P. Doraiswamya, and D. Womacka. Assessing community vulnerability to extreme events in the presence of contaminated sites and waste management facilities: An indicator approach.   Urban Climate. Elsevier Science, New York, NY,   53(101800): 1-30, (2024).",
+    "num_resources": 1,
+    "num_tags": 2,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Building Resilience to Extreme Weather Events in Phoenix: Considering Contaminated Sites and Under-resourced Communities",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "0b8dfade3b42f5a0e6ccd98822e93de338046cd8e0dc04472e7607b24e60d643"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1530277"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-07-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.crm.2024.100586",
+                "https://www.epa.gov/research",
+                "https://doi.org/10.1016/j.uclim.2023.101800"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "88044be4-3eae-485e-b9f7-e6e54c0a3667"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-18T18:29:45.626533",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "2688fe1b-f836-4940-8dd2-1384269ebcc7",
+            "last_modified": null,
+            "metadata_modified": "2024-02-18T18:29:45.608760",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://assessments.epa.gov/risk/document/&deid=358458",
+            "package_id": "396b834b-6f0f-433e-9b65-bc605842f91d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://assessments.epa.gov/risk/document/&deid=358458",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "indicators",
+            "id": "3617aaf6-e098-4a3b-b30f-d6da94007da3",
+            "name": "indicators",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vulnerability",
+            "id": "8bb87124-91ee-4f1f-9ebd-9cc3b1bf35de",
+            "name": "vulnerability",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 17,
+        "recent": 3
+    }
+}

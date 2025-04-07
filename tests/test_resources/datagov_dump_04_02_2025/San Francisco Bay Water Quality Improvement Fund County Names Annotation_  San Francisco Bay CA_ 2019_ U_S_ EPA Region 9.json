@@ -1,0 +1,298 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "70b1e29a-4f9e-405e-af51-c5e88837bad7",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:50:10.353992",
+    "metadata_modified": "2025-02-25T05:50:10.353997",
+    "name": "san-francisco-bay-water-quality-improvement-fund-county-names-annotation-san-francisco-bay-ca-214",
+    "notes": "This layer includes 9 annotation features for the county labels for the San Francisco Bay Water Quality Improvment Fund (SFBWQIF) area of interest\n\nThese features are incorporated in the San Francisco Bay Water Quality Improvement Fund Story Map, an interactive series of maps and QlikSense graphics highlighting the competitive grant program which supports projects to protect and restore San Francisco Bay. The application can be found on the EPA GeoPlatform at: \"https://epa.maps.arcgis.com/apps/MapSeries/index.html?appid=db223d22741140b9b10baf7e91815271\" \"https://epa.maps.arcgis.com/apps/MapSeries/index.html?appid=db223d22741140b9b10baf7e91815271\"\n\nThe story map is also embedded in the following EPA web page: \"https://www2.epa.gov/sfbay-delta/sf-bay-water-quality-improvement-fund-interactive-project-map\"\nhttps://www2.epa.gov/sfbay-delta/sf-bay-water-quality-improvement-fund-interactive-project-map",
+    "num_resources": 4,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "San Francisco Bay Water Quality Improvement Fund County Names Annotation,  San Francisco Bay CA, 2019, U.S. EPA Region 9",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "389F4CAF-7034-4D54-A21A-10444A9D3DB1"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2019-08-30\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2022-03-03"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "henley.cheryl@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "notPlanned"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2016-09-30T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2019-08-30T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 9\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-121.432624"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "38.552977"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "37.0972"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-122.764357"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.764357, 37.0972], [-121.432624, 37.0972], [-121.432624, 38.552977], [-122.764357, 38.552977], [-122.764357, 37.0972]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.764357, 37.0972], [-121.432624, 37.0972], [-121.432624, 38.552977], [-122.764357, 38.552977], [-122.764357, 37.0972]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6a39423d-0690-4963-a7fd-46dd46ca325f"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:50:10.355815",
+            "description": "",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "7fc65fca-78dc-4d04-b587-4467c223187e",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:50:10.347348",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Public map service",
+            "package_id": "70b1e29a-4f9e-405e-af51-c5e88837bad7",
+            "position": 0,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://gispub.epa.gov/arcgis/rest/services/Region9/SFBWQIF_ProgramBoundaries/MapServer",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:50:10.355818",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "f0f73f73-353c-4cd4-b64a-a98ceacecdfe",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:50:10.347471",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "SFBWQIF Story Map",
+            "package_id": "70b1e29a-4f9e-405e-af51-c5e88837bad7",
+            "position": 1,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://epa.maps.arcgis.com/apps/MapSeries/index.html?appid=db223d22741140b9b10baf7e91815271",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:50:10.355820",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "8345f59a-4b52-4554-89eb-687d749dfda9",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:50:10.347558",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "SFBWQIF Website",
+            "package_id": "70b1e29a-4f9e-405e-af51-c5e88837bad7",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/sfbay-delta/san-francisco-bay-water-quality-improvement-fund",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:50:10.355821",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "0ec123b1-9914-4d3e-bcb8-652afc1c698f",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:50:10.347641",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "70b1e29a-4f9e-405e-af51-c5e88837bad7",
+            "position": 3,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "website",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "http://www.epa.gov/region09/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 9,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:120",
+            "id": "730dd178-7ad0-4a31-bbeb-312c96c90489",
+            "name": "020:120",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "california",
+            "id": "364760b8-6576-42af-b0c5-278dec4415e7",
+            "name": "california",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water",
+            "id": "143854aa-c603-4193-9c89-232e63461fa4",
+            "name": "water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 2
+    }
+}

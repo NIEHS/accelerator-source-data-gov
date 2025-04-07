@@ -1,0 +1,308 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "abe07e7c-31d8-4923-917a-82a5c5371011",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Brett Gantt",
+    "maintainer_email": "gantt.brett@epa.gov",
+    "metadata_created": "2021-07-22T23:24:02.003445",
+    "metadata_modified": "2021-07-22T23:24:02.003452",
+    "name": "data-for-incorporation-of-remote-pm2-5-concentrations-into-the-downscaler-model-for-spatia",
+    "notes": "This dataset includes PM2.5 monitoring data that was the input to the Downscaler model with and without the IMPROVE data included.  Also included are the daily output from the CMAQ model and Downscaler model with and without the IMPROVE input dataset.  For the geographic coordinates of the model output, a file containing the grid-centroid latitude and longitude is also included. Citation information for this dataset can be found in the EDG's Metadata Reference Information section and Data.gov's References section.",
+    "num_resources": 6,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data for \"Incorporation of Remote PM2.5 Concentrations into the Downscaler Model for Spatially Fused Air Quality Surfaces\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://dx.doi.org/10.3390/atmos11010103"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "06426a86-ba6f-4f6e-a590-c34714acd0c5"
+        },
+        {
+            "key": "source_hash",
+            "value": "323c83ca261b238c1d76ecee9618097f25bcc9dd"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "modified",
+            "value": "2021-06-15"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522613"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-22T23:24:02.124199",
+            "description": "2014_CMAQ.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e54a6e85-a2b2-4e03-8259-44b9c237df46",
+            "last_modified": null,
+            "metadata_modified": "2021-07-22T23:24:02.124199",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "2014_CMAQ.zip",
+            "package_id": "abe07e7c-31d8-4923-917a-82a5c5371011",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522613/2014_CMAQ.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-22T23:24:02.124210",
+            "description": "2014_DS_IMPROVE.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1afc8b30-b503-49fc-930d-79c6b7909231",
+            "last_modified": null,
+            "metadata_modified": "2021-07-22T23:24:02.124210",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "2014_DS_IMPROVE.zip",
+            "package_id": "abe07e7c-31d8-4923-917a-82a5c5371011",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522613/2014_DS_IMPROVE.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-22T23:24:02.124215",
+            "description": "2014_DS.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "22c0761e-81cc-4af5-b983-dcf0fd455fa0",
+            "last_modified": null,
+            "metadata_modified": "2021-07-22T23:24:02.124215",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "2014_DS.zip",
+            "package_id": "abe07e7c-31d8-4923-917a-82a5c5371011",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522613/2014_DS.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-22T23:24:02.124219",
+            "description": "ds.input.aqs.pm25.2014.wIMPROVE.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "252f1949-4bf6-4034-9af1-49662897c811",
+            "last_modified": null,
+            "metadata_modified": "2021-07-22T23:24:02.124219",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "ds.input.aqs.pm25.2014.wIMPROVE.csv",
+            "package_id": "abe07e7c-31d8-4923-917a-82a5c5371011",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522613/ds.input.aqs.pm25.2014.wIMPROVE.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-22T23:24:02.124224",
+            "description": "ds.input.aqs.pm25.2014.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "a2110f1b-c2d8-42ec-84cd-90011efd9a3b",
+            "last_modified": null,
+            "metadata_modified": "2021-07-22T23:24:02.124224",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "ds.input.aqs.pm25.2014.csv",
+            "package_id": "abe07e7c-31d8-4923-917a-82a5c5371011",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522613/ds.input.aqs.pm25.2014.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-22T23:24:02.124228",
+            "description": "lat_lon.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "864bb22d-65f3-4fa5-8027-c2f8069fb9ac",
+            "last_modified": null,
+            "metadata_modified": "2021-07-22T23:24:02.124228",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "lat_lon.zip",
+            "package_id": "abe07e7c-31d8-4923-917a-82a5c5371011",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522613/lat_lon.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downscaler",
+            "id": "c0a26e01-d4fe-434a-bd00-291b7481f96a",
+            "name": "downscaler",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fused-surface",
+            "id": "f73d6dd6-0f4c-4951-abf3-08dc76d4215b",
+            "name": "fused-surface",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "improve",
+            "id": "ed331847-aa1b-4f7a-9a4d-9b7297347364",
+            "name": "improve",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm2-5",
+            "id": "a1b6b16a-9f6b-4198-aff5-013a1484c09a",
+            "name": "pm2-5",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 95,
+        "recent": 1
+    }
+}

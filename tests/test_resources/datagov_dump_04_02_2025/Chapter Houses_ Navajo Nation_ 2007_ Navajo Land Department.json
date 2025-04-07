@@ -1,0 +1,257 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "b5ae7f4f-da2e-489f-ba2e-fd8a872bba88",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:34:38.052210",
+    "metadata_modified": "2025-02-25T05:34:38.052215",
+    "name": "chapter-houses-navajo-nation-2007-navajo-land-department14",
+    "notes": "This GIS dataset contains point features representing Chapter Houses in the Navajo Nation. Chapter Name is included in the Attributes. This dataset contains 111 features.",
+    "num_resources": 2,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Chapter Houses, Navajo Nation, 2007, Navajo Land Department",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "C54393A0-CC5A-417F-8D06-A324BA512685"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2017-07-05\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2021-06-23"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": ""
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "notPlanned"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2007-01-01T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2007-01-01T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"Navajo Nation Land Department\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-107.109533"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "37.214702"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "34.416228"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-111.458442"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.458442, 34.416228], [-107.109533, 34.416228], [-107.109533, 37.214702], [-111.458442, 37.214702], [-111.458442, 34.416228]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.458442, 34.416228], [-107.109533, 34.416228], [-107.109533, 37.214702], [-111.458442, 37.214702], [-111.458442, 34.416228]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "deab381c-f172-4741-af1c-995b209c6066"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:34:38.054586",
+            "description": "Web Map Application",
+            "format": "",
+            "hash": "",
+            "id": "54613741-9825-4d5d-99ec-e01103831557",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:34:38.040969",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Abandoned Uranium Mines Site Screening Map",
+            "package_id": "b5ae7f4f-da2e-489f-ba2e-fd8a872bba88",
+            "position": 0,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://geopub.epa.gov/NavajoNationAUM",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:34:38.054589",
+            "description": "RESTful Web Service",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "4137a254-3b43-4abe-b58f-d088a584e55e",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:34:38.041107",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Abandoned Uranium Mines Site Screening Map Service",
+            "package_id": "b5ae7f4f-da2e-489f-ba2e-fd8a872bba88",
+            "position": 1,
+            "resource_locator_function": "search",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            },
+            "url": "https://geodata.epa.gov/arcgis/rest/services/Region9/NavajoNationAUMSiteScreening/MapServer",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:106",
+            "id": "69242009-f29a-4602-9474-c1ebdf1d847b",
+            "name": "020:106",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "020:109",
+            "id": "f8234244-c5e2-4e6f-a81a-bb21ebffc1cc",
+            "name": "020:109",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "020:118",
+            "id": "fcb4bb00-987e-4443-8b93-8381d080ced8",
+            "name": "020:118",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arizona",
+            "id": "505b3704-0140-4a4b-b0ca-1d68829851c9",
+            "name": "arizona",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "human",
+            "id": "b134b1c5-7cd6-489b-ac82-d412c017919b",
+            "name": "human",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nevada",
+            "id": "2830ad14-05eb-44b7-8533-96336d133990",
+            "name": "nevada",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

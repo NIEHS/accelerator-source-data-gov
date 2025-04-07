@@ -1,0 +1,315 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "dfecaa84-0409-4354-8dbc-c2065e1b94fd",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Carlie LaLone",
+    "maintainer_email": "lalone.carlie@epa.gov",
+    "metadata_created": "2024-02-15T17:57:10.976459",
+    "metadata_modified": "2024-02-15T17:57:10.976466",
+    "name": "from-protein-sequence-to-structure-the-next-frontier-in-cross-species-extrapolation-for-ch",
+    "notes": "Supplemental data for \"LaLone CA, Blatz DJ, Jensen MA, Vliet SMF, Mayasich S, Mattingly KZ, Transue TR, Melendez W, Wilkinson A, Simmons CW, Ng C, Zhang C, Zhang Y. From Protein Sequence to Structure: The Next Frontier in Cross-Species Extrapolation for Chemical Safety Evaluations. Environ Toxicol Chem. 2023 Feb;42(2):463-474. doi: 10.1002/etc.5537. Epub 2023 Jan 16. PMID: 36524855.\". \n\nThis dataset is associated with the following publication:\nLalone, C., D. Blatz, M. Jensen, S. Vliet, S. Mayasich, K. Mattingly, T. Transue, W. Melendez, A. Wilkinson, C. Simmons, C. Ng, C. Zhang, and Y. Zhang. From Protein Sequence to Structure: The Next Frontier in Cross-Species Extrapolation for Chemical Safety Evaluations.   ENVIRONMENTAL TOXICOLOGY AND CHEMISTRY. Society of Environmental Toxicology and Chemistry, Pensacola, FL, USA, 42(2): 463-474, (2023).",
+    "num_resources": 6,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "From Protein Sequence to Structure: The Next Frontier in Cross-Species Extrapolation for Chemical Safety Evaluations",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "88e73d50b50751cb46005e89f0d5df150a00ee8d873751823127dda99f74b4fb"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1530080"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-12-06"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/etc.5537"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "aebbf7bf-affc-40a6-8374-f8e0822a67c0"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:57:10.985157",
+            "description": "etc5537-sup-0003-supplemental_data_s3.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b02f1c51-5f0b-4641-a34a-9a557961e049",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:57:10.962714",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "etc5537-sup-0003-supplemental_data_s3.xlsx",
+            "package_id": "dfecaa84-0409-4354-8dbc-c2065e1b94fd",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530080/etc5537-sup-0003-supplemental_data_s3.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:57:10.985163",
+            "description": "etc5537-sup-0002-supplemental_data_s2.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "973d578a-6b5c-48c1-9e18-a36cfc12d250",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:57:10.962877",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "etc5537-sup-0002-supplemental_data_s2.docx",
+            "package_id": "dfecaa84-0409-4354-8dbc-c2065e1b94fd",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530080/etc5537-sup-0002-supplemental_data_s2.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:57:10.985165",
+            "description": "etc5537-sup-0001-supplemental_data_s1.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "7be2922c-4bde-4316-a234-b1142eda89cb",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:57:10.963009",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "etc5537-sup-0001-supplemental_data_s1.xlsx",
+            "package_id": "dfecaa84-0409-4354-8dbc-c2065e1b94fd",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530080/etc5537-sup-0001-supplemental_data_s1.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:57:10.985167",
+            "description": "etc5537-sup-0006-additional_supporting_information.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "cc4e4be9-3ae3-4bb0-82d7-03fab6a53c66",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:57:10.963136",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "etc5537-sup-0006-additional_supporting_information.zip",
+            "package_id": "dfecaa84-0409-4354-8dbc-c2065e1b94fd",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530080/etc5537-sup-0006-additional_supporting_information.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:57:10.985168",
+            "description": "etc5537-sup-0005-supplemental_data_s5.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "319d905f-da10-47c5-a790-f27a6dafb815",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:57:10.963263",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "etc5537-sup-0005-supplemental_data_s5.xlsx",
+            "package_id": "dfecaa84-0409-4354-8dbc-c2065e1b94fd",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530080/etc5537-sup-0005-supplemental_data_s5.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:57:10.985170",
+            "description": "etc5537-sup-0004-supplemental_data_s4.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "30310d1d-bf82-4695-bd85-46f1a505fa1b",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:57:10.963403",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "etc5537-sup-0004-supplemental_data_s4.xlsx",
+            "package_id": "dfecaa84-0409-4354-8dbc-c2065e1b94fd",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530080/etc5537-sup-0004-supplemental_data_s4.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bioinformatics",
+            "id": "ef6665a9-ce55-40db-a310-1d38291a3726",
+            "name": "bioinformatics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "computational-toxicology",
+            "id": "facb0c32-5b33-4cae-8c6d-84464cd0e5da",
+            "name": "computational-toxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "predictive-toxicology",
+            "id": "308c7ad0-8aee-44c4-a89f-af9872631df0",
+            "name": "predictive-toxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "protein-structure",
+            "id": "502a5220-4571-4210-b885-73736fd69391",
+            "name": "protein-structure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "seqapass",
+            "id": "431fc324-584e-4782-b41b-148dbab7dbd2",
+            "name": "seqapass",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "species-extrapolation",
+            "id": "84dc7d7e-3316-4318-a307-f8a4f6098527",
+            "name": "species-extrapolation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    }
+}

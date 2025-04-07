@@ -1,0 +1,247 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "4fe89ca2-5059-416b-aac7-686a923a447f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Richard Judson",
+    "maintainer_email": "judson.richard@epa.gov",
+    "metadata_created": "2021-05-02T09:04:42.671229",
+    "metadata_modified": "2021-05-02T09:04:42.671236",
+    "name": "predictive-models-for-in-vitro-toxicokinetic-parameters-to-inform-high-throughput-risk-ass",
+    "notes": "The data used in this analysis was obtained from published literature and available through the high-throughput toxicokinetic (HTTK) R package. The dataset consists of 1486 chemicals that span a variety of use classes including pharmaceuticals, food-use chemicals, pesticides and industrial chemicals of which 1139 chemicals had experimental human in vitro fraction unbound data and 642 chemicals that had experimental human in vitro intrinsic clearance data. Structures were curated and obtained from the DSSTox database. The distribution of experimental values for fraction unbound and intrinsic clearance is shown in Supplementary Figure S1. Since the data were non-normally distributed they were appropriately transformed before any analysis was conducted. The details of the transformation and the transformed data distribution are presented in the results section and Supplementary Figures S2 and S3. A complete list of chemicals with CAS registry numbers (CASRN), DSSTox generic substance IDs (DTXSIDs), structure and experimental data for both parameters are included as supplemental data (1.ChemicalListData.csv and 1.ChemicalList-QSARready.sdf). \n\nThis dataset is associated with the following publication:\nPradeep, P., G. Patlewicz, R. Pearce, J. Wambaugh, B. Wetmore, and R. Judson. Using Chemical Structure Information to Develop Predictive Models for In Vitro Toxicokinetic Parameters to Inform High-throughput Risk-assessment.   Computational Toxicology. Elsevier B.V., Amsterdam,  NETHERLANDS, 16: 100136, (2020).",
+    "num_resources": 3,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Predictive Models for In Vitro Toxicokinetic Parameters to Inform High-throughput Risk-assessment_Prachi",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.comtox.2020.100136"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4a179cca-aece-4c9a-8778-775f85707906"
+        },
+        {
+            "key": "source_hash",
+            "value": "1c6f44a5064e669caf639bd90c6a5c2f4b517f89"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-03-21"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503529"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-05-02T09:04:42.765115",
+            "description": "index.html",
+            "format": "HTML",
+            "hash": "",
+            "id": "449f17b4-7d39-44ed-8dac-e543f470e0db",
+            "last_modified": null,
+            "metadata_modified": "2021-05-02T09:04:42.765115",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://cran.r-project.org/web/packages/httk/index.html",
+            "package_id": "4fe89ca2-5059-416b-aac7-686a923a447f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://cran.r-project.org/web/packages/httk/index.html",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-05-02T09:04:42.765122",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "13480ac7-e1de-4dd0-bfba-198853c71efb",
+            "last_modified": null,
+            "metadata_modified": "2021-05-02T09:04:42.765122",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://comptox.epa.gov/dashboard",
+            "package_id": "4fe89ca2-5059-416b-aac7-686a923a447f",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://comptox.epa.gov/dashboard",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-05-02T09:04:42.765125",
+            "description": "Supplemental.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b968dd60-eeee-47cf-83cc-171f153b8319",
+            "last_modified": null,
+            "metadata_modified": "2021-05-02T09:04:42.765125",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Supplemental.zip",
+            "package_id": "4fe89ca2-5059-416b-aac7-686a923a447f",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503529/Supplemental.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "actor",
+            "id": "cc29907c-2589-4b6f-9e45-5e5cb3faaaa9",
+            "name": "actor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-silico",
+            "id": "6e65ee85-d41d-4981-bb0f-1498f38f2b43",
+            "name": "in-silico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-vitro-toxicity-data",
+            "id": "02dd17d9-b021-4b3c-a070-0245fc531643",
+            "name": "in-vitro-toxicity-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ivive",
+            "id": "3c0b82cf-610b-4612-b4b5-3a5f5bb99c28",
+            "name": "ivive",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "predictive-models",
+            "id": "b9e8bad9-6cd9-4472-b4a7-12cece1f9571",
+            "name": "predictive-models",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "qsar",
+            "id": "74761a8a-b8e5-4c39-910b-7a7811087d67",
+            "name": "qsar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxicokinetic-tk-parameters",
+            "id": "d4d99d97-1ec0-4c05-8c29-03bd97384f54",
+            "name": "toxicokinetic-tk-parameters",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 144,
+        "recent": 1
+    }
+}

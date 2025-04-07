@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "2cf2a1c5-d4e4-4250-b84f-40bc338c4d0f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Amara Holder",
+    "maintainer_email": "holder.amara@epa.gov",
+    "metadata_created": "2022-11-06T11:52:44.659037",
+    "metadata_modified": "2022-11-06T11:52:44.659045",
+    "name": "dataset-for-development-of-volatility-distribution-for-organic-matter-in-biomass-burning-e",
+    "notes": "This dataset includes volatility information derived from various biomass burning samples. Emission factors, volatility distributions, mass fractions, and response factors are reported. A data dictionary is provided to define each variable in the dataset. \n\nThis dataset is associated with the following publication:\nSinha, A., I. George, A. Holder, W. Preston, M. Hays, and A. Grieshop. Development of Volatility Distribution for Organic Matter in Biomass Burning Emissions.   Environmental Science: Atmospheres. Royal Society of Chemistry, Cambridge,  UK,  0000, (2022).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset for Development of Volatility Distribution for Organic Matter in Biomass Burning Emissions",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "edc712baee187b3650b389ea8f922dac60a7f665"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527703"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-06-30"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1039/d2ea00080f"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d49022d6-89c5-4a6e-a1ea-8e507d935cb6"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-11-06T11:52:44.668006",
+            "description": "Biomass%20Burning%20VBS%20Data%20Tables%20and%20Dictionary%20V1.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f8333311-7ae3-47bc-b94f-d552aba0833e",
+            "last_modified": null,
+            "metadata_modified": "2022-11-06T11:52:44.643863",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Biomass Burning VBS Data Tables and Dictionary V1.xlsx",
+            "package_id": "2cf2a1c5-d4e4-4250-b84f-40bc338c4d0f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527703/Biomass%20Burning%20VBS%20Data%20Tables%20and%20Dictionary%20V1.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "emissions",
+            "id": "09baf6a3-d24a-4265-8b80-2ada905665dd",
+            "name": "emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "volatility-distribution",
+            "id": "15ac29bd-caa3-4c22-911d-c1a711393e95",
+            "name": "volatility-distribution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wildland-fire",
+            "id": "5d54ac9c-1ca4-4d6d-9390-89e346dbf25a",
+            "name": "wildland-fire",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "woodstoves",
+            "id": "7bb8090c-aa4a-4dc0-a9f7-e5f25d717d7a",
+            "name": "woodstoves",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 107,
+        "recent": 1
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "34627184-1ccc-422f-952d-4cdaa13fb8d8",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jacqueline Brooks",
+    "maintainer_email": "brooks.reneej@epa.gov",
+    "metadata_created": "2021-03-15T17:53:57.185355",
+    "metadata_modified": "2021-03-15T17:53:57.185363",
+    "name": "stream-water-isotope-data-from-the-snoqualmie-river-basin-2017-2018-and-related-watershed-",
+    "notes": "Water stable isotope data (both hydrogen and oxygen isotopes of H2O) from the Snoqualmie River Basin from 2017-2018.  This data was paired with USGS gauge data so includes watershed characteristics at the gaging stations near where water isotopes were collected.  Water isotopes were collected throughout the basin to cover the range of elevation and stream sizes.  Water isotopes were collected 5 times at all locations, and approximately twice monthly at the main stem of the Snoqualmie and larger tributaries. \n\nThis dataset is associated with the following publication:\nMcGill, L., J.R. Brooks, and A. Steel. Spatial and temporal dynamics of water sources in a mountain river basin inferred through \u03b42H and \u03b418O of water.   Hydrological Processes. John Wiley & Sons, Ltd., Indianapolis, IN, USA, 35(3): e14063, (2021).",
+    "num_resources": 2,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Stream water isotope data from the Snoqualmie River Basin 2017-2018, and related watershed information",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/hyp.14063"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "ae0a9732-4bd8-4cea-81a7-2eaa9433143f"
+        },
+        {
+            "key": "source_hash",
+            "value": "34e9b8c489335a59cc0ef2e0aa94ed601dc7e462"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-10-20"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520140"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-15T17:53:57.276429",
+            "description": "EPA_Snoqualmie_isotope_data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d81829c8-6e67-4c05-a83e-fe1317be422b",
+            "last_modified": null,
+            "metadata_modified": "2021-03-15T17:53:57.276429",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "EPA_Snoqualmie_isotope_data.xlsx",
+            "package_id": "34627184-1ccc-422f-952d-4cdaa13fb8d8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520140/EPA_Snoqualmie_isotope_data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-15T17:53:57.276436",
+            "description": "EPA_Snoqualmie_geology_data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "80a998b6-0c49-4d9c-b9d4-c033e948de22",
+            "last_modified": null,
+            "metadata_modified": "2021-03-15T17:53:57.276436",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "EPA_Snoqualmie_geology_data.xlsx",
+            "package_id": "34627184-1ccc-422f-952d-4cdaa13fb8d8",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520140/EPA_Snoqualmie_geology_data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "geology",
+            "id": "62ff98da-9af5-46b1-8f44-9a6d524cc2de",
+            "name": "geology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "river-flow",
+            "id": "6419701f-bf83-4f9e-a517-7f290cc7a009",
+            "name": "river-flow",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stable-isotopes",
+            "id": "aff07958-dd02-45b8-9531-d917678c05c7",
+            "name": "stable-isotopes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-resources",
+            "id": "152dfe91-e999-4c24-946d-8fda9b40e7f6",
+            "name": "water-resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-supply",
+            "id": "d1df4061-9bde-4702-b962-9b60aba9bbfe",
+            "name": "water-supply",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 35,
+        "recent": 1
+    }
+}

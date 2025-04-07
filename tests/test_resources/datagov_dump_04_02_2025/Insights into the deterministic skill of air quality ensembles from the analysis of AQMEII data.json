@@ -1,0 +1,150 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "7640b99e-14d8-49c4-97a8-8013bdec7f87",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Christian Hogrefe",
+    "maintainer_email": "hogrefe.christian@epa.gov",
+    "metadata_created": "2020-11-12T13:38:05.451158",
+    "metadata_modified": "2020-11-12T13:38:05.451168",
+    "name": "insights-into-the-deterministic-skill-of-air-quality-ensembles-from-the-analysis-of-aqmeii",
+    "notes": "This dataset documents the source of the data analyzed in the manuscript \" Insights into the deterministic skill of air quality ensembles from the analysis of AQMEII data\" led by Dr. Ioannis Kioutsioukis of the European Commission's Joint Research Center. All of the data were contributed by non-EPA research groups from Europe. This dataset is not publicly accessible because: None of the data analyzed in this manuscript was contributed by EPA. It can be accessed through the following means: The datasets used for analysis by the external author of this manuscript were provided by researchers from more than ten non-EPA research groups from Europe participating in the first and second phase of the Air Quality Model Evaluation International Initiative (AQMEII). All data used in the manuscript are stored on the web-based password-protected ENSEMBLE platform hosted by the European Commission\u2019s Joint Research Centre at http://ensemble3.jrc.it/. Interested researchers can request access to the AQMEII dataset hosted on the ENSEMBLE platform by contacting Dr. Stefano Galmarini (stefano.galmarini@jrc.ec.europa.eu). Format: N/A. \n\nThis dataset is associated with the following publication:\nKioutsioukis, I., U. Im, E. Solazzo, R. Bianconi, A. Badia, A. Balzarini, R. Baro, R. Bellasio, D. Brunner, C. Chemel, G. Curci, H. Denier va der Gon, J. Flemming, R. Forkel, L. Giordano, P. Jimenez-Guerrero, M. Hirtl, O. Jorba, A. Manders-Groot, L. Neal, J. Perez, G. Pirovano, R. San Jose, N. Savage, W. Schroder, R. Sokhi, D. Syrakov, P. Tuccella, J. Werhahn, R. Wolke, C. Hogrefe, and S. Galmarini. Insights into the deterministic skill of air quality ensembles from the analysis of AQMEII data.   Atmospheric Chemistry and Physics. Copernicus Publications, Katlenburg-Lindau,  GERMANY, 16(24): 15629-15652, (2016).",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Insights into the deterministic skill of air quality ensembles from the analysis of AQMEII data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.5194/acp-16-15629-2016"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "7a2cdef2-4f67-46e9-b184-bafb82e75472"
+        },
+        {
+            "key": "source_hash",
+            "value": "83b5ba379cb66a9f21b395cb1ed9234f077a8ced"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-3n5x-494"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality-forecasting",
+            "id": "9f42914d-6908-48bf-ab16-fe9dd37a4c14",
+            "name": "air-quality-forecasting",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aqmeii",
+            "id": "39657891-e657-41ca-a1d4-f687c43fe56a",
+            "name": "aqmeii",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ensemble-modeling-ensemble-averaging",
+            "id": "4dd251cb-29c0-41ef-be8c-46d676abb84e",
+            "name": "ensemble-modeling-ensemble-averaging",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "model-intercomparison",
+            "id": "9d14469f-da83-4036-8e3a-ac09fd39653e",
+            "name": "model-intercomparison",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 53,
+        "recent": 1
+    }
+}

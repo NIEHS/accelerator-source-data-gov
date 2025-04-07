@@ -1,0 +1,304 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "8cac095c-5f5a-4575-878a-cc7af1f0029c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mace Barron",
+    "maintainer_email": "barron.mace@epa.gov",
+    "metadata_created": "2020-11-12T13:41:04.439875",
+    "metadata_modified": "2020-11-12T13:41:04.439886",
+    "name": "data-for-aromatase-3d-qsar-modeling",
+    "notes": "computational chemistry data (very complex; need to be an expert to understand and use. \n\nThis dataset is associated with the following publication:\nLee, S., and M. Barron. 3D-QSAR Study of Steroidal and Azaheterocyclic Human Aromatase Inhibitors using Quantitative Profile of Protein-Ligand Interactions.   Journal of Cheminformatics. Springer, New York, NY, USA, 10(2): 1-13, (2018).",
+    "num_resources": 5,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "data for aromatase 3D qsar modeling",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1186/s13321-017-0253-8"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a1977eed-92e8-4a34-9026-5f6c60c35d00"
+        },
+        {
+            "key": "source_hash",
+            "value": "486b4290d18ada2dd8c180a5e453cbc97b478ad6"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-09-22"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1394789"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:04.445915",
+            "description": "data%20for%20Figures%202%203%206%207%20Aromatase_steroid_result.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "954d91c2-a929-4a5d-a382-ac0a31caabc7",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:04.445915",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "data for Figures 2 3 6 7 Aromatase_steroid_result.xlsx",
+            "package_id": "8cac095c-5f5a-4575-878a-cc7af1f0029c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1394789/data%20for%20Figures%202%203%206%207%20Aromatase_steroid_result.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:04.445925",
+            "description": "data%20for%20Figures%202%203%206%207%20Aromatase_steroidAza_result.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "cb73d2c9-8b38-44e6-bb36-eae45d06b7b2",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:04.445925",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "data for Figures 2 3 6 7 Aromatase_steroidAza_result.xlsx",
+            "package_id": "8cac095c-5f5a-4575-878a-cc7af1f0029c",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1394789/data%20for%20Figures%202%203%206%207%20Aromatase_steroidAza_result.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:04.445931",
+            "description": "data%20for%20Fig%203%20Coordination%20Descriptors.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "dfc8ed11-6043-4c2d-a800-5fcdc492bde3",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:04.445931",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "data for Fig 3 Coordination Descriptors.xlsx",
+            "package_id": "8cac095c-5f5a-4575-878a-cc7af1f0029c",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1394789/data%20for%20Fig%203%20Coordination%20Descriptors.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:04.445935",
+            "description": "supplemental%20material%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0645252f-93dd-46c9-9351-d17777b71322",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:04.445935",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "supplemental material data.xlsx",
+            "package_id": "8cac095c-5f5a-4575-878a-cc7af1f0029c",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1394789/supplemental%20material%20data.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:04.445940",
+            "description": "Table%202%20and%203%20data%20Machine%20Learning%20Result.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "34807fd3-f0b2-403b-8f40-e49106178c2c",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:04.445940",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Table 2 and 3 data Machine Learning Result.xlsx",
+            "package_id": "8cac095c-5f5a-4575-878a-cc7af1f0029c",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1394789/Table%202%20and%203%20data%20Machine%20Learning%20Result.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "3d-qsar",
+            "id": "a9fd015c-06b8-4d6f-bd55-15ac9ad6cebe",
+            "name": "3d-qsar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "adverse-outcome-pathway",
+            "id": "6c32dde5-d17f-444d-b996-e48a9d05ca8b",
+            "name": "adverse-outcome-pathway",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aromatase-inhibitor",
+            "id": "e1810980-6e91-4248-ae62-ed3fbfd43d1a",
+            "name": "aromatase-inhibitor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "azaheterocycle",
+            "id": "7e2136ce-fbe2-4ea1-ab84-2b299bab16a6",
+            "name": "azaheterocycle",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dual-descriptor",
+            "id": "52d8acdf-a751-4ea9-b9b3-3320471be0e0",
+            "name": "dual-descriptor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrophobic-contact",
+            "id": "e2f0db1e-0abd-4486-9f71-8b13509dbfb0",
+            "name": "hydrophobic-contact",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-heme-iron-coordination",
+            "id": "6378a0cf-2717-4283-b28d-d7e1d12d5e20",
+            "name": "nitrogen-heme-iron-coordination",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "steroid",
+            "id": "4bb81572-10e9-44c4-b1c6-8e499c072367",
+            "name": "steroid",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 176,
+        "recent": 1
+    }
+}

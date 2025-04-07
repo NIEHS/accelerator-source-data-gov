@@ -1,0 +1,215 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "9bca1804-9f4e-49b3-af7b-d6d19fd448c8",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Seth Newton",
+    "maintainer_email": "newton.seth@epa.gov",
+    "metadata_created": "2020-11-12T13:49:48.472321",
+    "metadata_modified": "2020-11-12T13:49:48.472327",
+    "name": "examining-nta-performance-and-potential-using-fortified-and-reference-house-dust-as-part-o",
+    "notes": "The current study focuses on the analysis of SRM 2585 extracts that were distributed as part of ENTACT. It further introduces a separate recovery experiment, using SRM 2585, designed to shed light on factors that affect analyte loss during extraction, cleanup, instrumental analysis, and data processing. Many compounds have been measured and reported in SRM 2585 to date; cross-referencing these compounds against those detected via NTA provides a unique means with which to critically evaluate NTA performance in a real-world context. The recovery experiment described herein further informs factors (e.g., matrix, extraction procedures) that influence compound identification using NTA. Finally, by analyzing the same mixture of compounds at different concentrations and in the presence and absence of dust matrix, the performance of NTA is evaluated here from a quantitative perspective, rather than a typical qualitative perspective. \n\nThis dataset is associated with the following publication:\nNewton, S., J. Sobus, E. Ulrich, R. Singh, A. Chao, J. McCord, S. Laughlin-Toth, and M. Strynar. Examining NTA Performance and Potential Using Fortified and Reference House Dust as Part of EPA's Non-Targeted Analysis Collaborative Trial (ENTACT).   Analytical and Bioanalytical Chemistry. Springer, New York, NY, USA, 412: 4221\u20134233, (2020).",
+    "num_resources": 2,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Examining NTA Performance and Potential Using Fortified and Reference House Dust as Part of EPA's Non-Targeted Analysis Collaborative Trial (ENTACT)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s00216-020-02658-w"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "22caf50b-a1d5-43d4-89a4-8e20587088d0"
+        },
+        {
+            "key": "source_hash",
+            "value": "eec6a402d52ffd6fef6836a805d81a51570f9310"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-03-06"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518759"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:49:48.477554",
+            "description": "ENTACT%20Env%20Paper%20SI%20figures%20SCIENCEHUB%20200622.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "65aac877-bb44-4057-83eb-8d58ed3ac736",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:49:48.477554",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "ENTACT Env Paper SI figures SCIENCEHUB 200622.docx",
+            "package_id": "9bca1804-9f4e-49b3-af7b-d6d19fd448c8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518759/ENTACT%20Env%20Paper%20SI%20figures%20SCIENCEHUB%20200622.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:49:48.477560",
+            "description": "ENTACT%20Env%20SI%20Tables%20SCIENCEHUB%20200622.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "570c4ae0-8c8a-4407-a115-040cedf81ef9",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:49:48.477560",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ENTACT Env SI Tables SCIENCEHUB 200622.xlsx",
+            "package_id": "9bca1804-9f4e-49b3-af7b-d6d19fd448c8",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518759/ENTACT%20Env%20SI%20Tables%20SCIENCEHUB%20200622.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "dust",
+            "id": "f89e2d69-66f5-4151-840f-bcc83a551fc7",
+            "name": "dust",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "epas-non-targeted-analysis-collaborative-trial-entact",
+            "id": "f9fd7444-56bf-4ff6-91c7-be6c79ed6157",
+            "name": "epas-non-targeted-analysis-collaborative-trial-entact",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exposomics",
+            "id": "5c001c0f-56da-4647-a0b0-3b8c96b0bee7",
+            "name": "exposomics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "high-resolution-mass-spectrometry",
+            "id": "084335aa-86e7-4859-9b6d-ebe28d107f8f",
+            "name": "high-resolution-mass-spectrometry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "non-targeded-analysis",
+            "id": "b6d8dc5c-fe93-48fc-ba10-d4bfcf468007",
+            "name": "non-targeded-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "suspect-screening",
+            "id": "4b87cb36-2362-4cac-82b6-2cc4da11716c",
+            "name": "suspect-screening",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 93,
+        "recent": 2
+    }
+}

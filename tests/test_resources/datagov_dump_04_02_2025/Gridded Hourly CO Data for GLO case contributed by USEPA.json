@@ -1,0 +1,184 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "5d573eac-f743-4784-8b1e-c1b7bb54a754",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Christian Hogrefe",
+    "maintainer_email": "hogrefe.christian@epa.gov",
+    "metadata_created": "2020-11-12T13:42:16.467639",
+    "metadata_modified": "2020-11-12T13:42:16.467646",
+    "name": "gridded-hourly-co-data-for-glo-case-contributed-by-usepa",
+    "notes": "This dataset contains data contributed by EPA/ORD/NERL/CED researchers to the manuscript \" Assessment and economic valuation of air pollution impacts on human health over Europe and the United States as calculated by a multi-model ensemble in the framework of AQMEII3\" led by Dr. Ulas Im of Aarhus University in Denmark. \n\nThis dataset is associated with the following publication:\nIm, U., J. Brandt, C. Geels, K. Hansen, J. Christensen, M. Andersen, E. Solazzo, I. Kioutsioukis, U. Alyuz, A. Balzarini, R. Baro, R. Bellasio, R. Bianconi, J. Bieser, A. Colette, G. Curci, A. Farrow, J. Flemming, A. Fraser, P. Jimenez-Guerrero, N. Kitwiroon, C. Liang, U. Nopmongcol, G. Pirovano, L. Pozzoli, M. Prank, R. Rose, R. Sokhi, P. Tuccella, A. Unal, M. Garcia Vivanco, J. West, G. Yarwood, C. Hogrefe, and S. Galmarini. Assessment and economic valuation of air pollution impacts on human health over Europe and the United States as calculated by a multi-model ensemble in the framework of AQMEII3.   Atmospheric Chemistry and Physics. Copernicus Publications, Katlenburg-Lindau,  GERMANY, 18: 5967-5989, (2018).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Gridded Hourly CO Data for GLO case contributed by USEPA",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/zip"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.5194/acp-18-5967-2018"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0c0c94c8-fef9-4d38-9d06-cf95210e6110"
+        },
+        {
+            "key": "source_hash",
+            "value": "62dab70d5439eb3b7311fafaef17bac2a279f832"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-09-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1378459"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1378459/documents/HogrefeChristian_A-02v7_DataDescription_ImEtAl.zip"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:42:16.471873",
+            "description": "ImEtAl_Gridded_Data_CO_GLO.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "eef271e5-a69e-4925-85e7-da5f2a812bdb",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:42:16.471873",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "ImEtAl_Gridded_Data_CO_GLO.zip",
+            "package_id": "5d573eac-f743-4784-8b1e-c1b7bb54a754",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1378459/ImEtAl_Gridded_Data_CO_GLO.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality-health-impacts",
+            "id": "f125fdb1-514a-4fd5-989c-108b47a8c93d",
+            "name": "air-quality-health-impacts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "economic-valuation-of-health-impacts",
+            "id": "927a32fb-392d-4202-a108-73c2cc991238",
+            "name": "economic-valuation-of-health-impacts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ensemble-modeling",
+            "id": "9cc0a91c-64f7-45be-b0b8-c8727556b1fd",
+            "name": "ensemble-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "model-evaluation",
+            "id": "702484e0-11ec-4bee-a0e6-3a3b89b1ddeb",
+            "name": "model-evaluation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 69,
+        "recent": 1
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "08eb264e-bff6-4f55-9573-293c7afc09e3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "David Somerville",
+    "maintainer_email": "somerville.eric@epa.gov",
+    "metadata_created": "2022-05-22T01:22:09.581566",
+    "metadata_modified": "2022-05-22T01:22:09.581611",
+    "name": "biological-watershed-land-use-physiochemical-data-from-streams-sampled-in-the-georgia-coas",
+    "notes": "Benthic macroinvertebrates sampled from 76 small streams in the Georgia Coastal Plain.  Additional data includes in-situ physiochemcial water quality data, physical stream habitat data and land use data in the watershed draining to the sample stream reach, as well as in the immediate riparian zone adjacent to all stream reaches upstream of the sample reach.  These data were used to develop a biological condition index for evaluating stream restoration projects in this region. Citation information for this dataset can be found in the EDG's Metadata Reference Information section and Data.gov's References section.",
+    "num_resources": 2,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Biological, watershed land use & physiochemical data from streams sampled in the Georgia Coastal Plain",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1526438"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2022-05-18"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://dx.doi.org/10.1007/s10661-022-09987-6"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "808b166f7451283a422a7570d655943b33e18870"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "17cd3557-57ec-40e5-91e2-eff2ebe26e4d"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-05-22T01:22:09.596763",
+            "description": "LUPhysChem%20data_GA%20%28CP-HStR%29.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8db45807-0005-4d57-ba8b-f359c3c5dbe3",
+            "last_modified": null,
+            "metadata_modified": "2022-05-22T01:22:09.596763",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "LUPhysChem data_GA (CP-HStR).xlsx",
+            "package_id": "08eb264e-bff6-4f55-9573-293c7afc09e3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526438/LUPhysChem%20data_GA%20%28CP-HStR%29.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-05-22T01:22:09.596770",
+            "description": "Biological%20data_GA%20%28CP-HStR%29.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "a431a7bf-9dea-4f70-8885-4c7160df983f",
+            "last_modified": null,
+            "metadata_modified": "2022-05-22T01:22:09.596770",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Biological data_GA (CP-HStR).xlsx",
+            "package_id": "08eb264e-bff6-4f55-9573-293c7afc09e3",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526438/Biological%20data_GA%20%28CP-HStR%29.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "coastal-plain",
+            "id": "389f551f-682a-4676-a25e-431378ba9cda",
+            "name": "coastal-plain",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "headwater-streams",
+            "id": "822a5465-dc15-4887-b5fb-d77e666e78af",
+            "name": "headwater-streams",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "macroinvertebrate-index",
+            "id": "b74d447c-7142-4fb1-8172-76a9ada04b7b",
+            "name": "macroinvertebrate-index",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stream-mitigation",
+            "id": "d0505420-19cd-465c-a054-6c2a02d9caeb",
+            "name": "stream-mitigation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "success-criteria",
+            "id": "76bcdb13-0c1b-4884-b7c4-e5043247bd22",
+            "name": "success-criteria",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 32,
+        "recent": 1
+    }
+}

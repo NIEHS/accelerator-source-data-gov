@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "a3d9ac60-2e97-4546-87db-b1bd8cd7f6c2",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Marc Mills",
+    "maintainer_email": "mills.marc@epa.gov",
+    "metadata_created": "2024-09-14T06:42:07.543372",
+    "metadata_modified": "2024-09-14T06:42:07.543381",
+    "name": "data-entry-for-pcb-concentrations-in-riparian-spiders-tetragnathidae-consistently-reflect-",
+    "notes": "Five years of data over a seven-year investigation at a PCB contaminated-sediment site to investigate if concentrations in spiders were consistently correlated with concentrations in sediment, water, and aquatic macroinvertebrates. \n\nThis dataset is associated with the following publication:\nOtter, R.R., M.A. Mills, K.M. Fritz, J.M. Lazorchak, D.P. White, G.B. Beaubien, and D.M. Walters. PCB concentrations in riparian spiders (Tetragnathidae) consistently reflect concentrations in water and aquatic macroinvertebrates, but not sediment: Analysis of a seven-year field study.   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 912: 169230, (2024).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data entry for PCB concentrations in riparian spiders (Tetragnathidae) consistently reflect concentrations in water and aquatic macroinvertebrates, but not sediment: Analysis of a seven-year field study",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "99ef7cd2dcc9f471f5a4928da2930d6f298d809fa264eb97f7d6faf4bd68e40a"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531025"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-02-20"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2023.169230"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "e080c280-be6d-4141-a53c-895ae960bc4f"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-09-14T06:42:07.558449",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "4ce5a2f1-5672-4412-b4b8-c5695debe28f",
+            "last_modified": null,
+            "metadata_modified": "2024-09-14T06:42:07.519101",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sciencebase.gov/catalog/item/6570e8aed34e952b2273f0a0",
+            "package_id": "a3d9ac60-2e97-4546-87db-b1bd8cd7f6c2",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.sciencebase.gov/catalog/item/6570e8aed34e952b2273f0a0",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bioaccumulation",
+            "id": "8de7a116-8a5e-4bef-970d-0d84c4c35160",
+            "name": "bioaccumulation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "food-web",
+            "id": "80ce78df-df11-4ad4-92dc-16b242bb0950",
+            "name": "food-web",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "great-lakes-area-of-concern",
+            "id": "171a22bb-11a4-4c8d-9cab-2c8580186f2f",
+            "name": "great-lakes-area-of-concern",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pcbs",
+            "id": "5ae0cde9-5332-4980-94bc-ad9d3154a1bd",
+            "name": "pcbs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation-assessment",
+            "id": "3b8f7cb0-4a0a-4b4f-9542-e9b8c37524cc",
+            "name": "remediation-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remedy-effectiveness",
+            "id": "1fefdb17-4cec-4876-b8f8-204b974f6843",
+            "name": "remedy-effectiveness",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "spider",
+            "id": "0ae7cc68-2c63-461e-93a0-9f06d124c501",
+            "name": "spider",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

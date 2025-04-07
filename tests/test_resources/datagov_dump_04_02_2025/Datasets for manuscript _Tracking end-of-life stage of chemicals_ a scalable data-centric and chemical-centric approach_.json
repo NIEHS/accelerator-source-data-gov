@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "dc057ec6-48dc-446b-8166-819f8a9b6b28",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Gerardo Ruiz-Mercado",
+    "maintainer_email": "ruiz-mercado.gerardo@epa.gov",
+    "metadata_created": "2023-05-30T17:56:03.758218",
+    "metadata_modified": "2023-05-30T17:56:03.758224",
+    "name": "datasets-for-manuscript-tracking-end-of-life-stage-of-chemicals-a-scalable-data-centric-an",
+    "notes": "As described in the README.md file, the GitHub repository PRTR_transfers are Python scripts written to run a data-centric and chemical-centric framework for tracking EoL chemical flow transfers, identifying potential EoL exposure scenarios, and performing Chemical Flow Analysis (CFA). Also, the created Extract, Transform, and Load (ETL) pipeline leverages publicly-accessible Pollutant Release and Transfer Register (PRTR) systems belonging to Organization for Economic Cooperation and Development (OECD) member countries. The Life Cycle Inventory (LCI) data obtained by the ETL is stored in a Structured Query Language (SQL) database called PRTR_transfers that could be connected to Machine Learning Operations (MLOps) in production environments, making the framework scalable for real-world applications. The data ingestion pipeline can supply data at an annual rate, ensuring labeled data can be ingested into data-driven models if retraining is needed, especially to face problems like data and concept drift that could drastically affect the performance of data-driven models.\nAlso, it describes the Python libraries required for running the code, how to use it, the obtained outputs files after running the Python script, and how to obtain all manuscript figures (file Manuscript Figures-EDA.ipynb) and results. \n\nThis dataset is associated with the following publication:\nHernandez-Betancur, J.D., G.J. Ruiz-Mercado, and M. Mart\u00edn. Tracking end-of-life stage of chemicals: A scalable data-centric and chemical-centric approach.   Resources, Conservation and Recycling. Elsevier Science BV, Amsterdam,  NETHERLANDS, 196: 107031, (2023).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Datasets for manuscript \"Tracking end-of-life stage of chemicals: a scalable data-centric and chemical-centric approach\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "229a98cecaddb0b35db5f2c1aae78d5d9038affa"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527757"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-05-27"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.resconrec.2023.107031"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "cb1acf0f-acf9-492b-b6d4-fb6129b8c5f7"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-30T17:56:03.770755",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "f8a6de47-853b-4726-8981-24d70f9e49bc",
+            "last_modified": null,
+            "metadata_modified": "2023-05-30T17:56:03.739764",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://github.com/USEPA/PRTR_transfers",
+            "package_id": "dc057ec6-48dc-446b-8166-819f8a9b6b28",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://github.com/USEPA/PRTR_transfers",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "chemical-centric",
+            "id": "8c717ef9-d03e-4621-845d-2f7c703dd0ca",
+            "name": "chemical-centric",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "end-of-life",
+            "id": "243938ff-28f4-474c-893c-9acb2b1cc365",
+            "name": "end-of-life",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-releases",
+            "id": "c83754ab-9118-4336-8f74-7bd90e2c4295",
+            "name": "environmental-releases",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tri-chemicals",
+            "id": "a835dfde-72da-47b2-931d-202d75956e1d",
+            "name": "tri-chemicals",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 21,
+        "recent": 1
+    }
+}

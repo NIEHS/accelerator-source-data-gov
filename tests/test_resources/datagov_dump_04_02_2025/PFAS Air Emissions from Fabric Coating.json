@@ -1,0 +1,387 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jonathan Krug",
+    "maintainer_email": "krug.jonathan@epa.gov",
+    "metadata_created": "2023-07-25T06:49:35.767203",
+    "metadata_modified": "2023-07-25T06:49:35.767208",
+    "name": "pfas-air-emissions-from-fabric-coating",
+    "notes": "PTR and CIMS measurements of gas phase air emissions from fabric coating. \n\nThis dataset is associated with the following publication:\nWickersham, L., J. Mattila, J. Krug, S. Jackson, M. Wallace, E. Shields, H. Halliday, E. Li, H. Liberatore, S.(. Farrior, W. Preston, J. Ryan, C. Lee, and W. Linak. Characterization of PFAS Air Emissions from Simulated Thermal Fabric Application Processes.   JOURNAL OF THE AIR & WASTE MANAGEMENT ASSOCIATION. Air & Waste Management Association, Pittsburgh, PA, USA,  NA, (2023).",
+    "num_resources": 10,
+    "num_tags": 2,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "PFAS Air Emissions from Fabric Coating",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "37c67ffe01764b4978b86aa1889e179b5b45b484"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527849"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-08-11"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1080/10962247.2023.2192009"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "127a36fb-200f-4038-8185-f1ce279e39c8"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776969",
+            "description": "README.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "54040c29-efa0-4ac7-8011-2addb7b91bc9",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.756981",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "README.txt",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/README.txt",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776973",
+            "description": "Figure%20S6_PTR%20FTOH.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "e1c4e6e0-4c23-4215-a3a1-72e55ebf8c13",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.757146",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure S6_PTR FTOH.xlsx",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/Figure%20S6_PTR%20FTOH.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776975",
+            "description": "Figure%20S5_PTRvCIMS.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "02419c5b-2dae-49a0-b749-a634c1ca425a",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.757281",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure S5_PTRvCIMS.xlsx",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/Figure%20S5_PTRvCIMS.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776977",
+            "description": "Figure%20S4_Water%2BTergitol.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2490c468-24d0-42eb-9c61-310d5be8e2d4",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.757428",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure S4_Water+Tergitol.xlsx",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/Figure%20S4_Water%2BTergitol.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776979",
+            "description": "Figure%20S3_PTR%20FEP%20ramp.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5d81b2b4-2849-4240-b5c1-f1de386135ec",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.757560",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure S3_PTR FEP ramp.xlsx",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/Figure%20S3_PTR%20FEP%20ramp.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776981",
+            "description": "Figure%206_CIMS%2BPTR%20FEP%20ramp.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "90c97849-dee7-4bc5-a877-604d01300dd9",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.757688",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 6_CIMS+PTR FEP ramp.xlsx",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/Figure%206_CIMS%2BPTR%20FEP%20ramp.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776983",
+            "description": "Figure%205_CIMS%20FTOH%20ramp.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "db5900cf-26cf-4d63-9cc0-e2ee1b3d5901",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.757814",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 5_CIMS FTOH ramp.xlsx",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/Figure%205_CIMS%20FTOH%20ramp.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776984",
+            "description": "Figure%204_Temp%20Ramp%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "7ef92ddc-c43a-4379-889e-1179145378e5",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.757939",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 4_Temp Ramp data.xlsx",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/Figure%204_Temp%20Ramp%20data.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776986",
+            "description": "Figure%203_CIMS%20FTOH.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "93b7c09e-5d15-49c7-8ba1-d6aec0e5d596",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.758063",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 3_CIMS FTOH.xlsx",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/Figure%203_CIMS%20FTOH.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:35.776988",
+            "description": "Figure%202_Water%2BTergitol%2BFTOH.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ade9e4e3-b90d-4984-a2cb-8d09525f117e",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:35.758189",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 2_Water+Tergitol+FTOH.xlsx",
+            "package_id": "da5af51b-d2e3-48d8-b5b5-9f9a8f02730c",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527849/Figure%202_Water%2BTergitol%2BFTOH.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-justice",
+            "id": "7b8a573d-1190-4ab3-b9fc-45635e0bd505",
+            "name": "environmental-justice",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 63,
+        "recent": 1
+    }
+}

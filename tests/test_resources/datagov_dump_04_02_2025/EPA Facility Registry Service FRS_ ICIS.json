@@ -1,0 +1,339 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "6c9033d4-519d-490d-80a1-a5e50df7e993",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:05:16.590603",
+    "metadata_modified": "2025-03-31T20:43:11.879866",
+    "name": "epa-facility-registry-service-frs-icis8",
+    "notes": "This web feature service contains location and facility identification information from EPA's Facility Registry Service (FRS) for the subset of facilities that link to the Integrated Compliance Information System (ICIS). When complete, ICIS will provide a database that will contain integrated enforcement and compliance information across most of EPA's programs. The vision for ICIS is to replace EPA's independent databases that contain enforcement data with a single repository for that information. Currently, ICIS contains all Federal Administrative and Judicial enforcement actions and a subset of the Permit Compliance System (PCS), which supports the National Pollutant Discharge Elimination System (NPDES). ICIS exchanges non-sensitive enforcement/compliance activities, non-sensitive formal enforcement actions and NPDES information with FRS. This web feature service contains the enforcement/compliance activities and formal enforcement action related facilities; the NPDES facilities are contained in the PCS_NPDES web feature service. FRS identifies and geospatially locates facilities, sites or places subject to environmental regulations or of environmental interest. Using vigorous verification and data management procedures, FRS integrates facility data from EPA's national program systems, other federal agencies, and State and tribal master facility records and provides EPA with a centrally managed, single source of comprehensive and authoritative information on facilities. This data set contains the subset of FRS integrated facilities that link to ICIS non-sensitive enforcement/compliance activities and formal enforcement actions once the ICIS data has been integrated into the FRS database. Additional information on FRS is available at the EPA website https://www.epa.gov/enviro/facility-registry-service-frs.",
+    "num_resources": 4,
+    "num_tags": 10,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EPA Facility Registry Service (FRS): ICIS",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "03D8D923-4B65-42D8-9745-E7A929E7F437"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "4269"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2020-03-13\"}, {\"type\": \"revision\", \"value\": \"\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2025-03-30"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "FRS_Support@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "weekly"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"Unless otherwise specified, all data produced by the U.S EPA is by default in the public domain and is not subject to domestic copyright protection under 17 U.S.C. \\u00a7 105. More details on the U.S. Public Domain license are available here: https://www.usa.gov/publicdomain/label/1.0/  Additionally, please be advised that although these data have been processed successfully on a computer system at the U.S. EPA, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. EPA shall not be held liable for improper or incorrect use of the data.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2020-11-17"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2020-11-17"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Environmental Information\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "174.107672"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "71.35589"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "-14.340156"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-176.646252"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.646252, -14.340156], [174.107672, -14.340156], [174.107672, 71.35589], [-176.646252, 71.35589], [-176.646252, -14.340156]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.646252, -14.340156], [174.107672, -14.340156], [174.107672, 71.35589], [-176.646252, 71.35589], [-176.646252, -14.340156]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "984b4e9d-2fe6-467a-9ef8-9f3b78ed9c7e"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:43:11.927405",
+            "description": "FRS_Interests_Download.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a36f607f-7c60-455d-8343-49038f2e2579",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:43:11.888183",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "Zipped File Geodatabase",
+            "package_id": "6c9033d4-519d-490d-80a1-a5e50df7e993",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "download",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 16,
+                "recent": 5
+            },
+            "url": "https://dmap-prod-oms-edc.s3.amazonaws.com/OMS/FRS/FRS_Interests_Download.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:43:11.927419",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "12793c67-38ce-4335-9e1a-9d17485c05af",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:43:11.888301",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "EPA Geoplatform Item page",
+            "package_id": "6c9033d4-519d-490d-80a1-a5e50df7e993",
+            "position": 1,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://epa.maps.arcgis.com/home/item.html?id=a117d02cdbfc4bcbad5abb7c9bf94982",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:43:11.927421",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "91ab74cf-eaf3-4839-a363-cda9b04558ff",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:43:11.888452",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "EDG Open Data site with Clip N Ship capability",
+            "package_id": "6c9033d4-519d-490d-80a1-a5e50df7e993",
+            "position": 2,
+            "resource_locator_function": "order",
+            "resource_locator_protocol": "order",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://edg-epa.hub.arcgis.com/datasets/epa-facility-registry-service-frs-icis",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:43:11.927422",
+            "description": "",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "d0fbbb45-c0a5-42a4-88a6-bb0fea6919a6",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:43:11.888545",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "EPA GeoPlatform Hosted Feature Service",
+            "package_id": "6c9033d4-519d-490d-80a1-a5e50df7e993",
+            "position": 3,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "ESRI:ArcGIS",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://services.arcgis.com/cJ9YHowT8TU7DUyn/arcgis/rest/services/FRS_INTERESTS_ICIS/FeatureServer",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:072",
+            "id": "ee6ec260-2686-4482-884a-e21bd34c47f0",
+            "name": "020:072",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air",
+            "id": "0c285224-7a71-45b4-804a-ae078ca6f436",
+            "name": "air",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "compliance",
+            "id": "640a04f0-a875-48d9-817a-cd288e94cc0c",
+            "name": "compliance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking water",
+            "id": "cf264a55-2d50-4fb2-ba58-ba6ef9df39b9",
+            "name": "drinking water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "facilities",
+            "id": "e84e6137-8dce-41d2-b63e-38319e3f618a",
+            "name": "facilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regulatory",
+            "id": "50c58c0b-82e9-44b9-b420-0fbbaa729533",
+            "name": "regulatory",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation",
+            "id": "d7a31147-fbf4-4cc4-9813-fcd875012e5c",
+            "name": "remediation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 2
+    }
+}

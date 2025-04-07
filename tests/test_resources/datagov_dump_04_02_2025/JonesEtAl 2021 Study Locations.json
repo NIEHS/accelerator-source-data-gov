@@ -1,0 +1,245 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "bc6857c7-97ee-4116-93e1-88b0a9507a0e",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:50:04.140361",
+    "metadata_modified": "2025-02-25T05:50:04.140368",
+    "name": "jonesetal-2021-study-locations11",
+    "notes": "This shapefile includes the areas of interest used in our analysis for the analyses published in Jones et al. 2021. Each area of interest is divided into numerous polygonal assessment units as described in the accompanying research article. Each polygon has attributes that include FID, Name, Number (used in our published map figure and tables), and shape area (in meters squared). See Credits.",
+    "num_resources": 1,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "JonesEtAl 2021 Study Locations",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "124655B0-C24B-4002-A76F-527F55556843"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "5070"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"creation\", \"value\": \"2020-01-03\"}, {\"type\": \"publication\", \"value\": \"2020-01-13\"}, {\"type\": \"revision\", \"value\": \"2020-01-13\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2025-01-28"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "Comeleo.Randy@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": ""
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "1971-01-01T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2010-12-31T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"USEPA (US EPA, CPHEA/PESD)\", \"roles\": [\"author\"]}, {\"name\": \"USEPA\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-108.801796"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "50.388893"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "30.155139"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-127.656301"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.656301, 30.155139], [-108.801796, 30.155139], [-108.801796, 50.388893], [-127.656301, 50.388893], [-127.656301, 30.155139]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.656301, 30.155139], [-108.801796, 30.155139], [-108.801796, 50.388893], [-127.656301, 50.388893], [-127.656301, 30.155139]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6bd98a4b-b9b3-4e77-8416-8f620a124407"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:50:04.143007",
+            "description": "JonesEtAl_2021_Study_Locations.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "af0c0ff6-d0f6-4288-b823-5f2005042ace",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:50:04.127005",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Zip File",
+            "no_real_name": true,
+            "package_id": "bc6857c7-97ee-4116-93e1-88b0a9507a0e",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "download",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://dmap-prod-oms-edc.s3.us-east-1.amazonaws.com/ORD/HydrologicLandscapes/JonesEtAl_2021_Study_Locations.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:094",
+            "id": "0909fd2c-199a-4f31-b6a0-8425822ea81c",
+            "name": "020:094",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate",
+            "id": "31cb02ba-74a7-4dc6-9565-4f58c3c0a20d",
+            "name": "climate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ground water",
+            "id": "2245b3ca-8f8d-4725-a13b-6135e8ab9bf3",
+            "name": "ground water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "natural resources",
+            "id": "199ef54a-58f4-48ff-8edd-ffc0a762fa08",
+            "name": "natural resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water",
+            "id": "143854aa-c603-4193-9c89-232e63461fa4",
+            "name": "water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

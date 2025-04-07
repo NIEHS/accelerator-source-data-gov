@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c9808493-07cf-4f36-a8e2-01374aee14ae",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Eben Thoma",
+    "maintainer_email": "thoma.eben@epa.gov",
+    "metadata_created": "2020-11-12T13:50:44.887784",
+    "metadata_modified": "2020-11-12T13:50:44.887795",
+    "name": "corpus-christi-passive-sampler-study-data-set",
+    "notes": "This project \u201cfenceline Passive Sampler and Sensor Studies\u201d contains information on several related field efforts that examine use of passive sorbent tubes and prototype fenceline sensor technologies near sources of volatile organic compounds, with particular emphasis on the compound benzene.  There are three primary data sets included with multiple journal articles linked to these data sets.  The data sets with metadata and data dictionaries are as follows:\r\n\r\nCorpus Christi Passive Sampler Study data set:  Two week duration time-integrated passive sampler concentration data, identity of passive samplers, sampling date and time periods for passive deployments, GPS locations of passive samplers, benzene data from automated gas chromatograph (TCEQ site), metrological data (TCEQ site).\r\n\r\nMultiregional Passive Sampler Study data set:  Two week duration time-integrated passive sampler concentration data, identity of passive samplers, sampling date and time periods for passive deployments, GPS locations of passive samplers, metrological data (local airports).\r\n\r\nPhiladelphia Sensor Studies data sets:  Baseline corrected five-minute time-resolved fenceline sensor (concetrion and wind field) data for (1) alpha version prototype system and (2) beta version prototype system, sampling time periods for utilized sensor deployments, GPS locations of all sensors,  five-minute time-resolved concentration data from co-located optical spectroscopy system (City of Philadelphia Air Measurements Services), metrological data (Philadelphia airport). \n\nThis dataset is associated with the following publication:\nBrantley, H., M. Fuentes, J. Guinness,, and E. Thoma. Spatial Quantile Regression for Data With Smooth Density Functions.   Statistica Sinica. International Chinese Statistical Association (ICSA), Statesboro, GA, USA,  1-14, (2020).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Corpus Christi Passive Sampler Study data set",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://arxiv.org/abs/1905.00048"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2e512800-341d-4f42-b971-dd56ad779c8a"
+        },
+        {
+            "key": "source_hash",
+            "value": "8cb21f01ee9fcac7dfd1075150bc0b5f084a581b"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-04-26"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1407500"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:44.894054",
+            "description": "Corpus%20Christi%20Passive%20Sampler%20Study%20Data%20Set%20and%20Ditionary.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "02233eae-d774-4a8d-9534-d2566ea13494",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:44.894054",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Corpus Christi Passive Sampler Study Data Set and Ditionary.xlsx",
+            "package_id": "c9808493-07cf-4f36-a8e2-01374aee14ae",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407500/Corpus%20Christi%20Passive%20Sampler%20Study%20Data%20Set%20and%20Ditionary.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "benzene",
+            "id": "5eb4dc53-8df1-4dd0-ae0c-10b725345b8f",
+            "name": "benzene",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fenceline-monitoring",
+            "id": "cf3adeb9-a650-4256-82a8-ddf81beb88b7",
+            "name": "fenceline-monitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "passive-samplers",
+            "id": "3be94525-229e-4993-bb12-a88b92be1f45",
+            "name": "passive-samplers",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sensors",
+            "id": "f6f13c9b-cb11-449b-8b2c-8c77de90d002",
+            "name": "sensors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "spod",
+            "id": "8ae7f76d-ce59-438e-b6b7-e2c4e3c577d2",
+            "name": "spod",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 57,
+        "recent": 2
+    }
+}

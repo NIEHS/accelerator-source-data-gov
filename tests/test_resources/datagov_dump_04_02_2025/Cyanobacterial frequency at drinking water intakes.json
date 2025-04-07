@@ -1,0 +1,168 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "4d066fb0-5f80-4881-a048-3aee34598433",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Blake Schaeffer",
+    "maintainer_email": "schaeffer.blake@epa.gov",
+    "metadata_created": "2022-01-24T23:24:24.056445",
+    "metadata_modified": "2022-01-24T23:24:24.056453",
+    "name": "cyanobacterial-frequency-at-drinking-water-intakes",
+    "notes": "This study presents the first large-scale assessment of cyanobacterial frequency and abundance at surface drinking water intakes across the United States. Public water systems serve drinking water to nearly 90% of the United States population. Cyanobacteria and their toxins may degrade the quality of finished drinking water and can lead to negative health consequences. Satellite imagery can serve as a cost-effective and consistent monitoring technique for surface cyanobacterial blooms in source waters and can provide drinking water treatment operators information for managing their systems. This study uses satellite imagery from the European Space Agency\u2019s Ocean and Land Colour Instrument (OLCI) spanning June 2016 through April 2020. At 300-m spatial resolution, OLCI imagery can be used to monitor cyanobacteria in 685 drinking water sources across 285 lakes in 44 states. First, a subset of satellite data was compared to a subset of 99 responses submitted as part of the U.S. Environmental Protection Agency\u2019s fourth Unregulated Contaminant Monitoring Rule (UCMR 4). These UCMR 4 quantitative responses included visual observations of algal bloom presence and absence near drinking water intakes from March 2018 through November 2019. Overall agreement between satellite imagery and UCMR 4 qualitative responses was high at over 94% with a Kappa coefficient of 0.70. Next, temporal frequency of cyanobacterial blooms at all resolvable drinking water sources was assessed. In 2019, bloom frequency averaged 2% and peaked at 100%, where 100% indicated a bloom was always present at the source waters when satellite imagery was available. Monthly cyanobacterial abundances were used to assess short-term trends across all resolvable drinking water sources. Generally, 2016-2020 was an insufficient time period for observing changes at these source waters; On average, a decade of data would be required for observed trends to outweigh variability in the data. However, five source waters did demonstrate a sustained short-term trend, with one increasing in cyanobacterial abundance from June 2016 to April 2020 and four decreasing. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Katherine Foreman, Office of Ground Water and Drinking Water. Format: Assessing temporal frequency of cyanobacterial blooms at drining water intakes using imagery from the Sentinel-3A satellite sensor. \n\nThis dataset is associated with the following publication:\nCoffer, M., B. Schaeffer, K. Foreman, A. Porteous, K.A. Loftin, R.P. Stumpf, P.J. Werdell, E. Urquhart, R. Albert, and J. Darling. Assessing cyanobacterial frequency and abundance at surface waters near drinking water intakes across the United States.   WATER RESEARCH. Elsevier Science Ltd, New York, NY, USA, 201: 117377, (2021).",
+    "num_resources": 0,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Cyanobacterial frequency at drinking water intakes",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520871"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2020-02-01"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.watres.2021.117377"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "source_hash",
+            "value": "ce7e50cd399fd58b79da8e69ecec6a0aa1d98402"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a6ad740f-527b-47c0-a177-35a7d7d593c3"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cyanobacteria",
+            "id": "3d71ac68-2cac-4908-9198-3030ae6a8fe2",
+            "name": "cyanobacteria",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inland-water",
+            "id": "c928564b-a399-45f9-bd86-977ca3130da3",
+            "name": "inland-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remote-sensing",
+            "id": "2669f4e1-0b6a-4258-a19b-5b977f07aab5",
+            "name": "remote-sensing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "source-water-quality",
+            "id": "97ed2dbe-6552-4eb2-aec7-9a05bdbc2c4e",
+            "name": "source-water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 83,
+        "recent": 2
+    }
+}

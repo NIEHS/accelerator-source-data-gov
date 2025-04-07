@@ -1,0 +1,429 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "James Szykman",
+    "maintainer_email": "szykman.jim@epa.gov",
+    "metadata_created": "2021-03-29T21:32:32.877843",
+    "metadata_modified": "2021-03-29T21:32:32.877851",
+    "name": "total-column-no2-from-ground-based-pandora-spectrometers-at-nine-locations-across-the-new-",
+    "notes": "Airborne and ground-based Pandora spectrometer NO2 column measurements were collected during the 2018 Long Island Sound Tropospheric Ozone Study (LISTOS) in the New York City/Long Island Sound region, which coincided with early observations from the Sentinel-5P TROPOspheric Monitoring Instrument (TROPOMI) instrument. Both airborne- and ground-based measurements are used to evaluate the TROPOMI NO2 Tropospheric Vertical Column (TrVC) product v1.2 in this region, which has high spatial and temporal heterogeneity in NO2. First, airborne and Pandora TrVCs are compared to evaluate the uncertainty of the airborne TrVC and establish the spatial representativeness of the Pandora observations. The 171 coincidences between Pandora and airborne TrVCs are found to be highly correlated (r2=\u20090.92 and slope of 1.03), with the largest individual differences being associated with high temporal and/or spatial variability. These reference measurements (Pandora and airborne) are complementary with respect to temporal coverage and spatial representativity. Pandora spectrometers can provide continuous long-term measurements but may lack areal representativity when operated in direct-sun mode. Airborne spectrometers are typically only deployed for short periods of time, but their observations are more spatially representative of the satellite measurements with the added capability of retrieving at subpixel resolutions of 250\u2009m\u2009\u00d7\u2009250\u2009m over the entire TROPOMI pixels they overfly. Thus, airborne data are more correlated with TROPOMI measurements (r2=0.96) than Pandora measurements are with TROPOMI (r2=0.84). The largest outliers between TROPOMI and the reference measurements appear to stem from too spatially coarse a priori surface reflectivity (0.5\u2218) over bright urban scenes. In this work, this results during cloud-free scenes that, at times, are affected by errors in the TROPOMI cloud pressure retrieval impacting the calculation of tropospheric air mass factors. This factor causes a high bias in TROPOMI TrVCs of 4\u2009%\u201311\u2009%. Excluding these cloud-impacted points, TROPOMI has an overall low bias of 19\u2009%\u201333\u2009% during the LISTOS timeframe of June\u2013September 2018. Part of this low bias is caused by coarse a priori profile input from the TM5-MP model; replacing these profiles with those from a 12\u2009km North American Model\u2013Community Multiscale Air Quality (NAMCMAQ) analysis results in a 12\u2009%\u201314\u2009% increase in the TrVCs. Even with this improvement, the TROPOMI-NAMCMAQ TrVCs have a 7\u2009%\u201319\u2009% low bias, indicating needed improvement in a priori assumptions in the air mass factor calculation. Future work should explore additional impacts of a priori inputs to further assess the remaining low biases in TROPOMI using these datasets. \n\nThis dataset is associated with the following publication:\nJudd, L., J. Al-Saadi, J. Szykman, L. Valin, A. Nehrir, S. Janz, M. Kowalewski, R. Swap , D. Williams, H. Eskes, J.P.  Veefkind, A. Cede, M. Mueller, M. Gebetsberger, and R.B. Pierce. Evaluating Sentinel-5P TROPOMI tropospheric NO2 column densities with airborne and Pandora spectrometers near New York City and Long Island Sound.   Atmospheric Measurement Techniques. Copernicus Publications, Katlenburg-Lindau,  GERMANY, 13(11): 6113-6140, (2020).",
+    "num_resources": 10,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Total column NO2 from ground based pandora spectrometers at nine locations across the New York City metropolitan.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.5194/amt-13-6113-2020"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0691b3f4-c569-42c5-a05e-df68b63c08d6"
+        },
+        {
+            "key": "source_hash",
+            "value": "1cfb8d6ce44733d4cdf66d4ff5a2f59b52f10231"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-11-06"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1519060"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891615",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "bf0dc5c7-1e38-44d2-9349-19831eea933d",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891615",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://s5phub.copernicus.eu/dhus/#/home",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://s5phub.copernicus.eu/dhus/#/home",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891622",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "8adea0c8-20b3-42c3-bfbe-54ff689b8899",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891622",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?NASA-AIRCRAFT=1",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?NASA-AIRCRAFT=1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891625",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "2b16c585-4f4b-4954-9f86-caa2faa4c804",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891625",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-WESTPORT=1",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-WESTPORT=1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891627",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "cde659fa-bdd0-497d-855a-79b8d8328fbc",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891627",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-RUTGERS=1",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-RUTGERS=1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891630",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "01267e4c-0f1c-4ad0-883d-c4cb6259cf49",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891630",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-BAYONNE=1",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-BAYONNE=1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891632",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "5da6bd79-1df4-4892-8622-f682158d36ed",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891632",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-BRONX-PFIZER=1",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-BRONX-PFIZER=1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891635",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "36e1050f-1446-446e-8471-d12e291c4dd1",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891635",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-QUEENS-COLLEGE=1",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-QUEENS-COLLEGE=1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891637",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "a71b3ca8-d478-4062-b43e-689339688a0b",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891637",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-NEW-HAVEN=1",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-NEW-HAVEN=1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891640",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "df9fc475-f548-46cc-be94-1a8dc2c1593d",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891640",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-NEW-HAVEN=1",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-NEW-HAVEN=1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-29T21:32:32.891642",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "eb6ffd10-af22-4b25-845c-0b0812784267",
+            "last_modified": null,
+            "metadata_modified": "2021-03-29T21:32:32.891642",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-HAMMONASSET=1",
+            "package_id": "8d6d5e1a-e2e4-4e69-9bff-b5661af9fedb",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www-air.larc.nasa.gov/cgi-bin/ArcView/listos?GROUND-HAMMONASSET=1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-emissions",
+            "id": "f6f13076-d9b7-4807-9a4a-3c96b83f190c",
+            "name": "air-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-di",
+            "id": "b7c41ad3-a745-40a1-a4cf-b9456d604c9c",
+            "name": "nitrogen-di",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pandora-spectrometer",
+            "id": "592b7c72-3130-4c7d-ae06-bb9f32c2e579",
+            "name": "pandora-spectrometer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regional-ozone-modeling",
+            "id": "1123b497-dc77-475f-bb06-f7bbfd78d85e",
+            "name": "regional-ozone-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "s5p-tropomi",
+            "id": "1e7f3b81-031a-4066-99f3-265f1db32b8f",
+            "name": "s5p-tropomi",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tropospheric-column-no2",
+            "id": "1638084d-4c82-4dbc-a989-9bb2cafee0fb",
+            "name": "tropospheric-column-no2",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 48,
+        "recent": 1
+    }
+}

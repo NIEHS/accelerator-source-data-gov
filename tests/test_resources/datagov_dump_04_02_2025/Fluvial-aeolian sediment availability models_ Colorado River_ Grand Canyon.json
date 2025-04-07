@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "ca599a2d-0e07-4aef-8085-070f6c1a6a14",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Alan Kasprak",
+    "maintainer_email": "kasprak.alan@epa.gov",
+    "metadata_created": "2024-08-25T03:39:06.305637",
+    "metadata_modified": "2024-08-25T03:39:06.305643",
+    "name": "fluvial-aeolian-sediment-availability-models-colorado-river-grand-canyon-7d37f",
+    "notes": "These data were compiled to model the area of exposed, bare sand along 168 km of the Colorado River between Glen Canyon Dam and Bright Angel Creek, Arizona. Objective(s) of our study were to develop and validate four models of exposed sand area for the study reach, respectively based on 1) single-day maxiumum river discharge, 2) multiple-day river discharge patterning, 3) field-observed wind velocities, and 4) remote-sensing measured trends in vegetation areas. These data represent biophysical patterns and processes in the study reach; included here are a) daily records of maximum discharge of the Colorado River at Lees Ferry, Arizona, b) river discharge and exposed sand area throughout the study reach, c) scaling factors for bare sand areas by year based on observed vegetation extents present in the study reach, and d) scaling factors for bare sand areas by day based on our models throughout the study reach. These data were collected along the Colorado River in Grand Canyon, extending from Glen Canyon Dam downstream to Bright Angel Creek, Arizona. Data collection spanned 2002-2022. These data were collected by the U.S. Geological Survey, Southwest Biological Science Center, Grand Canyon Monitoring and Research Center via field observation (e.g., micrometeorological stations and terrestrial lidar), and remote sensing methods (e.g., classification of aerial photographs). These data can be used to conduct bare exposed sand area modeling for the study reach presented here, and may also serve as a basis for developing models of exposed bare sand area for other river systems where similar data are available. \n\nThis dataset is associated with the following publication:\nKasprak, A., J. Sankey, and J. Caster. Landscape-Scale Modeling to Forecast Fluvial-Aeolian Sediment Connectivity in River Valleys.   GEOPHYSICAL RESEARCH LETTERS. American Geophysical Union, Washington, DC, USA, 51(16): e2024GL110106, (2024).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Fluvial-aeolian sediment availability models: Colorado River, Grand Canyon",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "dc44bc1be76a857e97c96048e5da91171d54bc66f4646a307ea0d1dbd5c6b20e"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531701"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-08-05"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1029/2024gl110106"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "fbdc872d-d4cc-4f32-88e6-e823850d327b"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-08-25T03:39:06.327901",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "89672c63-b8dc-41b1-8b32-45e2b2a2f3e6",
+            "last_modified": null,
+            "metadata_modified": "2024-08-25T03:39:06.292681",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sciencebase.gov/catalog/item/66607e2ed34e16b8573d12ac",
+            "package_id": "ca599a2d-0e07-4aef-8085-070f6c1a6a14",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.sciencebase.gov/catalog/item/66607e2ed34e16b8573d12ac",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environmental-justice",
+            "id": "7b8a573d-1190-4ab3-b9fc-45635e0bd505",
+            "name": "environmental-justice",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrology",
+            "id": "b2933476-3a0d-4a09-86ac-c3235f87b4da",
+            "name": "hydrology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "surface-water",
+            "id": "81d14904-cfd8-4a1f-b8b5-8955c0f4245f",
+            "name": "surface-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-management",
+            "id": "81805acc-5dd2-45e4-91f0-142f48afd87a",
+            "name": "water-management",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

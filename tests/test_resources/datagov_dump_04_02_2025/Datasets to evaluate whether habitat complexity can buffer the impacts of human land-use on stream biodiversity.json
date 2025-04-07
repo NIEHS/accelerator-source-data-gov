@@ -1,0 +1,212 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "bb3e070a-124e-45d5-a367-ab4b62a2f173",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Luisa Riato",
+    "maintainer_email": "riato.luisa@epa.gov",
+    "metadata_created": "2024-10-25T07:40:54.254996",
+    "metadata_modified": "2024-10-25T07:40:54.255001",
+    "name": "datasets-to-evaluate-whether-habitat-complexity-can-buffer-the-impacts-of-human-land-use-o",
+    "notes": "Testing whether high, medium or low habitat complexity can effectively buffer freshwater biodiversity against human land-use impacts using the National Rivers and Stream Assessment 2008-2009 and 2013-2014 fish and macroinvertebrate datasets. \n\nThis dataset is associated with the following publication:\nMoi, D., P. Kaufmann, L. Riato, G.Q. Romero, P. Kratina, F. Teixeira de Mello, and R.M. Hughes. Habitat Diversity Mitigates the Impacts of Human Pressure on Stream Biodiversity.   GLOBAL CHANGE BIOLOGY. Blackwell Publishing, Malden, MA, USA, 30(10): e17534, (2024).",
+    "num_resources": 2,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Datasets to evaluate whether habitat complexity can buffer the impacts of human land-use on stream biodiversity",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "844bcbb4ae9b7f3e9ad215125f7f526771cfc2da37ccecf3d87ea3573fbe171e"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529591"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-06-11"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1111/gcb.17534"
+            ]
+        },
+        {
+            "key": "describedBy",
+            "value": "https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "24bef2da-0f2f-4155-a6a7-7eb6e7c69263"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-25T07:40:54.272106",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "bc4de520-c70f-4c1f-a296-870358add896",
+            "last_modified": null,
+            "metadata_modified": "2024-10-25T07:40:54.240737",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys",
+            "package_id": "bb3e070a-124e-45d5-a367-ab4b62a2f173",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-25T07:40:54.272111",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "72b228ee-63c8-47fa-aa58-2576b1e4ba9b",
+            "last_modified": null,
+            "metadata_modified": "2024-10-25T07:40:54.240879",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset",
+            "package_id": "bb3e070a-124e-45d5-a367-ab4b62a2f173",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 23,
+                "recent": 4
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "conterminous-u-s",
+            "id": "418479b0-810c-47a2-842b-fee38166c8ca",
+            "name": "conterminous-u-s",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fish-and-insect-assemblages",
+            "id": "7fd6c37c-c2ec-4fdb-a4c5-8eb7fee4df1b",
+            "name": "fish-and-insect-assemblages",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "richness",
+            "id": "bae25cfd-4bcb-4814-8f86-6f42e972fc4d",
+            "name": "richness",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stream-management",
+            "id": "8cff7107-0512-47a3-a095-ebc400714b66",
+            "name": "stream-management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "urban-and-cropland-intensifications",
+            "id": "2d60bb3b-d278-449e-9a25-a67934529247",
+            "name": "urban-and-cropland-intensifications",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 7,
+        "recent": 1
+    }
+}

@@ -1,0 +1,707 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "665bb24d-7493-402f-82a1-da64daef96e1",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:33:12.068910",
+    "metadata_modified": "2025-04-03T21:02:21.569774",
+    "name": "epa-facility-registry-service-frs-er_tri7",
+    "notes": "This web feature service contains location and facility identification information from EPA's Facility Registry System (FRS) for the subset of facilities that link to the Toxic Release Inventory (TRI) System. TRI is a publicly available EPA database reported annually by certain covered industry groups, as well as federal facilities. It contains information about more than 650 toxic chemicals that are being used, manufactured, treated, transported, or released into the environment, and includes information about waste management and pollution prevention activities. FRS identifies and geospatially locates facilities, sites or places subject to environmental regulations or of environmental interest. Using vigorous verification and data management procedures, FRS integrates facility data from EPA's national program systems, other federal agencies, and State and tribal master facility records and provides EPA with a centrally managed, single source of comprehensive and authoritative information on facilities. This data set contains the subset of FRS integrated facilities that link to TRI facilities once the TRI data has been integrated into the FRS database. Additional information on FRS is available at the EPA website https://www.epa.gov/enviro/facility-registry-service-frs.",
+    "num_resources": 2,
+    "num_tags": 70,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EPA Facility Registry Service (FRS): ER_TRI",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "{AF7F710A-53FC-4F63-8A92-F35A6A050ED4}"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "4269"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2016-06-29\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2025-04-02"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "smith.davidg@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "monthly"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"These data should not be distributed. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"These Data Are Restricted to Internal EPA Personnel Only\", \"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2020-12-12"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2020-12-12"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Headquarters\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "144.783"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "64.997222"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "-14.2738"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-170.6855"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-170.6855, -14.2738], [144.783, -14.2738], [144.783, 64.997222], [-170.6855, 64.997222], [-170.6855, -14.2738]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-170.6855, -14.2738], [144.783, -14.2738], [144.783, 64.997222], [-170.6855, 64.997222], [-170.6855, -14.2738]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "de5535b6-0c7f-4536-b443-3314fd111106"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-04-03T21:02:21.719849",
+            "description": "",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "86962f72-248f-4d50-b33b-18813f41ca1a",
+            "last_modified": null,
+            "metadata_modified": "2025-04-03T21:02:21.588050",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Esri REST API Endpoint",
+            "no_real_name": true,
+            "package_id": "665bb24d-7493-402f-82a1-da64daef96e1",
+            "position": 0,
+            "resource_locator_function": "",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 5,
+                "recent": 1
+            },
+            "url": "https://igeo.epa.gov/arcgis/rest/services/OEI/FRS_ESF10/MapServer",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-04-03T21:02:21.719854",
+            "description": "ESF10.gdb.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "478403d5-86e1-4d9d-8721-003950902cfb",
+            "last_modified": null,
+            "metadata_modified": "2025-04-03T21:02:21.588201",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "Zip File",
+            "no_real_name": true,
+            "package_id": "665bb24d-7493-402f-82a1-da64daef96e1",
+            "position": 1,
+            "resource_locator_function": "",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 26,
+                "recent": 2
+            },
+            "url": "https://gisdev1.rtpnc.epa.gov/FRS/downloads/ESF10.gdb.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "alabama",
+            "id": "0f1013b3-b565-4a57-971a-15d1d02cb453",
+            "name": "alabama",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "alaska",
+            "id": "5aa6034d-aead-4175-a8df-15f33abffb71",
+            "name": "alaska",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "american samoa",
+            "id": "6355bd1f-be89-4899-a925-8cb7f0590df6",
+            "name": "american samoa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arizona",
+            "id": "505b3704-0140-4a4b-b0ca-1d68829851c9",
+            "name": "arizona",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arkansas",
+            "id": "caffc820-98d1-44a6-bc7a-701da018ff7a",
+            "name": "arkansas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "california",
+            "id": "364760b8-6576-42af-b0c5-278dec4415e7",
+            "name": "california",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "colorado",
+            "id": "02cae6f6-bfd0-4d5a-ac43-698a632b7012",
+            "name": "colorado",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "compliance",
+            "id": "640a04f0-a875-48d9-817a-cd288e94cc0c",
+            "name": "compliance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "connecticut",
+            "id": "b87a549e-fe7d-421f-a96a-5a0a9a2547a7",
+            "name": "connecticut",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "contaminant",
+            "id": "2437510a-6d3f-40af-89f4-e922116ab457",
+            "name": "contaminant",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "conterminous united states (conus)",
+            "id": "31898a2e-98c4-4913-94ae-ba85167a1d21",
+            "name": "conterminous united states (conus)",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "delaware",
+            "id": "1c68f29a-f1d6-4ac8-9d8a-edd75c0d65bf",
+            "name": "delaware",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "district of columbia",
+            "id": "f055b640-081c-483b-9643-675c51eaf84b",
+            "name": "district of columbia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emergency response",
+            "id": "4ca9f917-a093-4b2c-8c31-3e484e23fb84",
+            "name": "emergency response",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental management",
+            "id": "3ab53914-9e01-4bd0-ae75-e7c2fc6ae259",
+            "name": "environmental management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "esf10",
+            "id": "bff44849-0278-4a34-b020-6c80a9364129",
+            "name": "esf10",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "facilities",
+            "id": "e84e6137-8dce-41d2-b63e-38319e3f618a",
+            "name": "facilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "florida",
+            "id": "9ac17e70-a9bc-456a-b4ba-a4f23a7b4515",
+            "name": "florida",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "georgia",
+            "id": "751d0569-f06b-45a4-a19c-581f717c3876",
+            "name": "georgia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hawaii",
+            "id": "6d7213ac-9176-4c8c-b7ab-153307561d15",
+            "name": "hawaii",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "idaho",
+            "id": "709c7640-bcac-4d2b-816e-0deeada031e3",
+            "name": "idaho",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "illinois",
+            "id": "b22bba38-b111-4cec-83e1-3720eb887c59",
+            "name": "illinois",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "indiana",
+            "id": "dc758550-afd7-493b-bbcf-f6b647678ad1",
+            "name": "indiana",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "iowa",
+            "id": "43272faa-b2d3-46fd-ba7b-b3e7582062a8",
+            "name": "iowa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kansas",
+            "id": "a731b321-7e6e-4c3e-b915-550070d6be23",
+            "name": "kansas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kentucky",
+            "id": "c6015bab-7219-4a8d-986f-c957b8d0f013",
+            "name": "kentucky",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "louisiana",
+            "id": "305ec236-ebfd-4b12-a6ab-56f1135f1234",
+            "name": "louisiana",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "maine",
+            "id": "83003ab0-f0fa-4960-9be1-b98e691148c3",
+            "name": "maine",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "maryland",
+            "id": "06574e84-3757-495b-80eb-ad96d6a3999c",
+            "name": "maryland",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "massachusetts",
+            "id": "83049095-7426-42f3-b8cb-1559280b3c3c",
+            "name": "massachusetts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "michigan",
+            "id": "7e3e25fb-13c6-4b73-9faa-d3228cf62369",
+            "name": "michigan",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "minnesota",
+            "id": "025f2afd-89e5-4009-ad27-d49310b1a06f",
+            "name": "minnesota",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mississippi",
+            "id": "37adc9a7-1801-4365-916f-97cadf73a5c3",
+            "name": "mississippi",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "missouri",
+            "id": "125d9fc9-9663-4731-b769-ce68216be9b2",
+            "name": "missouri",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "montana",
+            "id": "bfc4a41a-32c3-4f6f-8102-93d5e9b970c8",
+            "name": "montana",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nebraska",
+            "id": "896efe62-1f24-4d57-aad8-29dfa5e63525",
+            "name": "nebraska",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nevada",
+            "id": "2830ad14-05eb-44b7-8533-96336d133990",
+            "name": "nevada",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new hampshire",
+            "id": "7aa744b5-8d2d-4419-a84f-c071e5f4f04a",
+            "name": "new hampshire",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new jersey",
+            "id": "620d3fad-abba-4063-988f-6cc0448cfe9f",
+            "name": "new jersey",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new mexico",
+            "id": "e79c2ba6-bd42-4b31-8289-93fcc1554d07",
+            "name": "new mexico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new york",
+            "id": "940de59b-e4bf-478d-b975-1f6fb5f998fa",
+            "name": "new york",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "north carolina",
+            "id": "96b50168-d0eb-40d9-acfd-cea55965cb93",
+            "name": "north carolina",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "north dakota",
+            "id": "a836e403-5d94-49d2-b173-dab02f668f16",
+            "name": "north dakota",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ohio",
+            "id": "00c7081e-4155-4a54-9432-0905da42e744",
+            "name": "ohio",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oklahoma",
+            "id": "bbf16c39-b456-45e5-81bc-980ae4a42275",
+            "name": "oklahoma",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oregon",
+            "id": "128ded42-1a99-48a5-8f7a-7c244eb2e0f7",
+            "name": "oregon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pennsylvania",
+            "id": "d7d26f14-e389-42ac-8fb7-cec913b033aa",
+            "name": "pennsylvania",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "puerto rico",
+            "id": "682abee0-3e87-45c5-8e27-6d447a92b426",
+            "name": "puerto rico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regulatory",
+            "id": "50c58c0b-82e9-44b9-b420-0fbbaa729533",
+            "name": "regulatory",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation",
+            "id": "d7a31147-fbf4-4cc4-9813-fcd875012e5c",
+            "name": "remediation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "resources",
+            "id": "9239206b-ad8b-4f1c-88f9-e3537846860e",
+            "name": "resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rhode island",
+            "id": "e3fbcd62-efe9-421e-923a-31213a880d9e",
+            "name": "rhode island",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sites",
+            "id": "dc7cc095-eb1c-40f0-afb5-f9968a1d82ee",
+            "name": "sites",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "south carolina",
+            "id": "95cd2a53-c794-4460-8623-ff5556af019f",
+            "name": "south carolina",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "south dakota",
+            "id": "b4e6cfd5-b0cd-4589-aa5f-f034f7d13498",
+            "name": "south dakota",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tennessee",
+            "id": "bc5ae4d2-3fef-4cf9-9e55-08819c2b91d0",
+            "name": "tennessee",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "texas",
+            "id": "41f19b7c-6fe6-4041-9229-fcba0278a6c9",
+            "name": "texas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxics",
+            "id": "eae2a732-fcb3-4723-b404-cd80f76fd540",
+            "name": "toxics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states (us) (usa)",
+            "id": "5e170cd2-a301-45c5-a8d9-5214e1d08efb",
+            "name": "united states (us) (usa)",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "utah",
+            "id": "51a1d813-a630-4490-9ce5-015334c39826",
+            "name": "utah",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vermont",
+            "id": "69e03fb4-857a-4fed-ad39-436f1005bb6a",
+            "name": "vermont",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "virgin islands",
+            "id": "8d187942-edcf-4805-b9fb-68001b69cb82",
+            "name": "virgin islands",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "virginia",
+            "id": "9eba7ccb-8234-4f34-9f78-a51ea87bf46d",
+            "name": "virginia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "washington",
+            "id": "75eae539-9b91-4cf6-b3ac-f9383fd16373",
+            "name": "washington",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "washington dc",
+            "id": "1875d308-ac89-4fce-833f-5f1bccce6632",
+            "name": "washington dc",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waste",
+            "id": "c8c45fd7-e96a-4e36-9d54-71543519256b",
+            "name": "waste",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "west virginia",
+            "id": "871dd60b-0be4-44cb-9d0f-f276ab2e31c0",
+            "name": "west virginia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wisconsin",
+            "id": "467fd4c1-1bba-45c3-b24c-dcd0869fd0dc",
+            "name": "wisconsin",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wyoming",
+            "id": "99cbf63b-3249-4862-8246-4641ce50f2b8",
+            "name": "wyoming",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 10,
+        "recent": 4
+    }
+}

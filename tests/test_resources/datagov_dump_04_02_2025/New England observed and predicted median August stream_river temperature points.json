@@ -1,0 +1,211 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c8bcb28a-e6f2-404b-9374-689539920fb0",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Naomi Detenbeck",
+    "maintainer_email": "detenbeck.naomi@epa.gov",
+    "metadata_created": "2020-11-12T13:37:21.027119",
+    "metadata_modified": "2023-01-13T08:41:22.104766",
+    "name": "new-england-observed-and-predicted-median-august-stream-river-temperature-points",
+    "notes": "The shapefile contains points with associated observed and predicted median August stream/river temperatures in New England based on a spatial statistical network model published in Detenbeck et al. (2016): Raw stream/temperature data were received from a variety of state agencies, watershed organizations, and Federal agencies (see Detenbeck et al. 2016 for complete list: Detenbeck, N. E., Morrison, A., Abele, R. W. and Kopp, D. (2016), Spatial statistical network models for stream and river temperature in New England, USA. Water Resour. Res. Accepted Author Manuscript. doi:10.1002/2015WR018349). Portions of this dataset are inaccessible because: The dataset is being made available as part of a collection of stream/river temperature model results through EPA's Estuary Data Mapper (publically available application at www.epa.gov/edm for discovering, viewing and accessing geospatial data). They can be accessed through the following means: The dataset is being made available as part of a collection of stream/river temperature model results through EPA's Estuary Data Mapper (publically available application at www.epa.gov/edm for discovering, viewing and accessing geospatial data). Format: Shapefile. \n\nThis dataset is associated with the following publication:\nDetenbeck , N., A. Morrison, R. Abele , and D. Kopp. Spatial statistical network models for stream and river temperature in New England, USA.   WATER RESOURCES RESEARCH. American Geophysical Union, Washington, DC, USA, 52: 6018\u20136040, (2016).",
+    "num_resources": 1,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "New England observed and predicted median August stream/river temperature points",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "2eb952e9ed5b740c1fc71f34c116caafc6ebc746"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "A-j9kt-122"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2015-09-10"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/2015wr018349"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "3aafe96f-cf38-466d-9cf1-b5c80301c505"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-01-13T08:41:22.141123",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "f4a1201b-d8f0-4453-9aa7-c9c5b85625e3",
+            "last_modified": null,
+            "metadata_modified": "2023-01-13T08:41:22.118307",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.epa.gov/hesc/estuary-data-mapper-edm",
+            "package_id": "c8bcb28a-e6f2-404b-9374-689539920fb0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/hesc/estuary-data-mapper-edm",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aquatic-biota",
+            "id": "07dc07a8-9fcc-42c2-abb3-c4f5d8f789a6",
+            "name": "aquatic-biota",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "green-infrastrucutre",
+            "id": "8a2ac168-2468-4125-ad60-e036c1f0fa41",
+            "name": "green-infrastrucutre",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "habitat",
+            "id": "68c4b980-0733-4b91-9f53-b766d89910cc",
+            "name": "habitat",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new-england",
+            "id": "6cd405be-c763-488d-82e5-d2da7fa30b90",
+            "name": "new-england",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rivers",
+            "id": "00355904-58bd-43b3-a69d-0456f442a91d",
+            "name": "rivers",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "spatial-statistical-network-model",
+            "id": "29aa2073-4307-4123-8a62-ee69301a9ff1",
+            "name": "spatial-statistical-network-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stormwater",
+            "id": "2091a4b4-9960-4717-a44f-f5a01e8660be",
+            "name": "stormwater",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "streams",
+            "id": "171a1d64-ed75-4caf-801f-2b41da2e1704",
+            "name": "streams",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-temperature",
+            "id": "0e51a100-c6f5-4cd1-8efe-70330b154964",
+            "name": "water-temperature",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 20,
+        "recent": 1
+    }
+}

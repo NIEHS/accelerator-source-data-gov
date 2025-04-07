@@ -1,0 +1,273 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c626a6c3-26cb-4713-b247-c33a23fa86b4",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Robert Vanderpool",
+    "maintainer_email": "vanderpool.robert@epa.gov",
+    "metadata_created": "2020-11-12T13:41:06.891177",
+    "metadata_modified": "2020-11-12T13:41:06.891187",
+    "name": "size-selective-performance-evaluation-of-candidate-aerosol-inlets-using-polydisperse-aeros",
+    "notes": "Presented are detailed techniques for the generation, collection, and analysis of polydisperse calibration aerosols for wind tunnel evaluation of size-selective aerosol samplers. \n\nThis dataset is associated with the following publication:\nDart, A., J. Krug, C. Witherspoon, J. Gilberry, Q. Malloy, S. Kaushik, and R. Vanderpool. Development of polydisperse aerosol generation and measurement procedures for wind tunnel evaluation of size-selective aerosol samplers.   AEROSOL SCIENCE AND TECHNOLOGY. Taylor & Francis, Inc., Philadelphia, PA, USA, 52(9): 957-970, (2018).",
+    "num_resources": 4,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Size-selective performance evaluation of candidate aerosol inlets using polydisperse aerosols",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1080/02786826.2018.1469728"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a634c9b0-49d1-458e-a4e0-53cd0cec97b3"
+        },
+        {
+            "key": "source_hash",
+            "value": "58cbecff62bec7fbbb827041d05e64f7648fd892"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-12-27"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1413966"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1413966/documents/Polydisperse_Aerosol_ScienceHub_Data.xlsx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:06.902294",
+            "description": "Polydisperse_Aerosol_ScienceHub_Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3e88a328-497b-4602-ae03-eef140546312",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:06.902294",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Polydisperse_Aerosol_ScienceHub_Data.xlsx",
+            "package_id": "c626a6c3-26cb-4713-b247-c33a23fa86b4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1413966/Polydisperse_Aerosol_ScienceHub_Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:06.902303",
+            "description": "S1-SOP%20for%20Generation%20of%20Polydisperse%20Aerosols.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "bc6093da-45a0-4fff-ab12-0c641d77da9e",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:06.902303",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "S1-SOP for Generation of Polydisperse Aerosols.pdf",
+            "package_id": "c626a6c3-26cb-4713-b247-c33a23fa86b4",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1413966/S1-SOP%20for%20Generation%20of%20Polydisperse%20Aerosols.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:06.902309",
+            "description": "S2-SOP%20for%20Collection%20and%20Extraction%20of%20Polydisperse%20Aerosols.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "482d014c-d6e4-43ed-995c-28e3380cab78",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:06.902309",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "S2-SOP for Collection and Extraction of Polydisperse Aerosols.pdf",
+            "package_id": "c626a6c3-26cb-4713-b247-c33a23fa86b4",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1413966/S2-SOP%20for%20Collection%20and%20Extraction%20of%20Polydisperse%20Aerosols.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:06.902314",
+            "description": "S3-SOP%20for%20Polydisperse%20Aerosol%20Size%20Distribution%20Determination.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "1fa9535a-352f-4b19-8c79-d9ec8dfa4143",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:06.902314",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "S3-SOP for Polydisperse Aerosol Size Distribution Determination.pdf",
+            "package_id": "c626a6c3-26cb-4713-b247-c33a23fa86b4",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1413966/S3-SOP%20for%20Polydisperse%20Aerosol%20Size%20Distribution%20Determination.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aerosol",
+            "id": "d5357f08-1def-40b4-906f-dc876e4db4e5",
+            "name": "aerosol",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "particulate",
+            "id": "7f04c139-cc9c-410f-aed3-ef977480b962",
+            "name": "particulate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "polydisperse",
+            "id": "a42a4374-8f2e-4dcf-be0a-3113f7d2ab9e",
+            "name": "polydisperse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "samplers",
+            "id": "b8f0ef47-f83e-467d-82a5-3de478a6e0e5",
+            "name": "samplers",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sampling",
+            "id": "56ca5050-933c-486c-bf59-95d25173827e",
+            "name": "sampling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wind-tunnel",
+            "id": "c248c8ec-54ca-4b25-a6b0-9b4a992defc1",
+            "name": "wind-tunnel",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 211,
+        "recent": 1
+    }
+}

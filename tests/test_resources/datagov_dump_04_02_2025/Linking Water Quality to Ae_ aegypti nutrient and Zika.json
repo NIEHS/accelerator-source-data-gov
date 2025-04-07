@@ -1,0 +1,291 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c9beccc4-9613-45eb-9535-ba4ca89c7e20",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Susan Yee",
+    "maintainer_email": "yee.susan@epa.gov",
+    "metadata_created": "2020-11-12T13:49:37.179184",
+    "metadata_modified": "2020-11-12T13:49:37.179191",
+    "name": "linking-water-quality-to-ae-aegypti-nutrient-and-zika",
+    "notes": "This dataset contains the nutrient analysis (carbon, nitrogen, stable isotopes) for estuary water, leaf detritus, container habitat water, larvae within containers, and adult mosquitos, as well as the results of viral analysis for adult mosquitos collected in June 2016.  Adult mosquitos were collected and analyzed in June 2017. \n\nThis dataset is associated with the following publication:\nYee, S., D. Yee, R. DeJesus-Crespo, A. Oczkowski, F. Bai, and S. Friedman. Linking Water Quality to Aedes aegypti and Zika in Flood-Prone Neighborhoods.   EcoHealth. Springer, New York, NY, USA, 16: 191-209, (2019).",
+    "num_resources": 5,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Linking Water Quality to Ae. aegypti nutrient and Zika",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "text/csv"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s10393-019-01406-6"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4726e40d-dc76-44b0-b16b-f43fb7522e78"
+        },
+        {
+            "key": "source_hash",
+            "value": "e7fad169f095bd3b4ea3f6d166af487cfd31304a"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-11-27"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1500932"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1500932/documents/DataDictionary.csv"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:49:37.198756",
+            "description": "AdultSamples2016.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "1303edbd-63cd-4b9d-b7ec-b1d982cf790f",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:49:37.198756",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "AdultSamples2016.csv",
+            "package_id": "c9beccc4-9613-45eb-9535-ba4ca89c7e20",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500932/AdultSamples2016.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:49:37.198763",
+            "description": "EstuaryWaterSamples2016.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "24badca0-6e1c-4591-a891-3b6b0e372210",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:49:37.198763",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "EstuaryWaterSamples2016.csv",
+            "package_id": "c9beccc4-9613-45eb-9535-ba4ca89c7e20",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500932/EstuaryWaterSamples2016.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:49:37.198766",
+            "description": "AdultSamples2017.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "850befba-55eb-42bf-9d68-796702ff7c0f",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:49:37.198766",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "AdultSamples2017.csv",
+            "package_id": "c9beccc4-9613-45eb-9535-ba4ca89c7e20",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500932/AdultSamples2017.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:49:37.198769",
+            "description": "LeafSamples2016.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "8d6af280-1c64-4773-a8a0-3016e83ace6b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:49:37.198769",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "LeafSamples2016.csv",
+            "package_id": "c9beccc4-9613-45eb-9535-ba4ca89c7e20",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500932/LeafSamples2016.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:49:37.198771",
+            "description": "ContainerSamples2016.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "b1e0f06f-e66f-47e5-aa90-ec116eba4473",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:49:37.198771",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "ContainerSamples2016.csv",
+            "package_id": "c9beccc4-9613-45eb-9535-ba4ca89c7e20",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500932/ContainerSamples2016.csv",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aedes-aegypti",
+            "id": "cb42a017-f6ea-400e-9c1f-aa598814ae4c",
+            "name": "aedes-aegypti",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "carbon",
+            "id": "ec545a1d-203a-4dcf-a2b3-0b0592f49598",
+            "name": "carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen",
+            "id": "547959b4-f904-484c-9a1e-0f6ab529e4b2",
+            "name": "nitrogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stable-isotopes",
+            "id": "aff07958-dd02-45b8-9531-d917678c05c7",
+            "name": "stable-isotopes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "zika",
+            "id": "23ff79ea-289a-4e3c-a393-e257fdfedc82",
+            "name": "zika",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 139,
+        "recent": 3
+    }
+}

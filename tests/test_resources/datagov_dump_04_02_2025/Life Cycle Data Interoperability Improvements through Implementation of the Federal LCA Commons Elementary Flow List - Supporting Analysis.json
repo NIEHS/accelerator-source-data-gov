@@ -1,0 +1,204 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "9a45c755-e0dd-4e31-adca-a410f746f971",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Wesley Ingwersen",
+    "maintainer_email": "ingwersen.wesley@epa.gov",
+    "metadata_created": "2022-10-03T06:39:09.466532",
+    "metadata_modified": "2022-10-03T06:39:09.466541",
+    "name": "life-cycle-data-interoperability-improvements-through-implementation-of-the-federal-lca-co",
+    "notes": "As described in the associated manuscript, two tests were run to evaluate interoperability in life cycle assessment (LCA) elementary flow (EF) lists. The first looks at various LCA sources and analyzed how interoperable the original source EF lists are by comparing unique name-to-name matches across sources. The second analysis compares sources that are mapped to the Federal Elementary Flow List (FEDEFL) as a common source list and measures the improvement in interoperability in the increase of flows that are mapped between sources. These analysis were performed in this dataset. \n\nThis dataset is associated with the following publication:\nEdelen, A.N., S. Cashman, B. Young, and W.W. Ingwersen. Life Cycle Data Interoperability Improvements through Implementation of the Federal LCA Commons Elementary Flow List.   Applied Sciences. MDPI, Basel,  SWITZERLAND, 12(19): 9687, (2022).",
+    "num_resources": 1,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Life Cycle Data Interoperability Improvements through Implementation of the Federal LCA Commons Elementary Flow List - Supporting Analysis",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "6d0a0ef60779327f744581594f331eedad10d4d0"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527971"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-09-28"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/app12199687"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "83858807-5821-4608-bc0b-0bf8194bf4a4"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-10-03T06:39:09.536582",
+            "description": "LifeCycleDataInteroperability-SupportingAnalysis.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "91fad4d0-d8d8-41b2-8e04-e627d0671b6e",
+            "last_modified": null,
+            "metadata_modified": "2022-10-03T06:39:09.439180",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "LifeCycleDataInteroperability-SupportingAnalysis.xlsx",
+            "package_id": "9a45c755-e0dd-4e31-adca-a410f746f971",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527971/LifeCycleDataInteroperability-SupportingAnalysis.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "ecoinvent",
+            "id": "38c42787-8d2a-4708-a6db-e1842453bd71",
+            "name": "ecoinvent",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "elementary-flows",
+            "id": "136b4572-2cf1-47a1-83da-bae46b4bffc4",
+            "name": "elementary-flows",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "gabi",
+            "id": "9a0d88ff-9671-4b33-80f2-c7f352e9a124",
+            "name": "gabi",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "impactworld",
+            "id": "c67e334b-a97f-4fb1-a8a5-866ccc9d9894",
+            "name": "impactworld",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "openlca",
+            "id": "04d069d6-c8bb-4e02-bf8c-4c2425d9cc85",
+            "name": "openlca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "simapro",
+            "id": "d3d82714-6cdb-4ef2-a71f-8f440715251f",
+            "name": "simapro",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "traci",
+            "id": "f5d2ccbe-6c14-4c34-8d1e-1c0e43d9387f",
+            "name": "traci",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "useeio",
+            "id": "a5a67ec6-413c-44a7-82ac-832717c61113",
+            "name": "useeio",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 82,
+        "recent": 2
+    }
+}

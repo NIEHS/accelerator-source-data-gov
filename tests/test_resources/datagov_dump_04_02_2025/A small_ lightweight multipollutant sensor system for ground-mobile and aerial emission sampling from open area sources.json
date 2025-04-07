@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "4626b844-7254-4478-aad7-f8a4b28e85ff",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Brian Gullett",
+    "maintainer_email": "gullett.brian@epa.gov",
+    "metadata_created": "2020-11-12T13:42:35.611379",
+    "metadata_modified": "2020-11-12T13:42:35.611390",
+    "name": "a-small-lightweight-multipollutant-sensor-system-for-ground-mobile-and-aerial-emission-sam",
+    "notes": "Emission data from UAV flights. \n\nThis dataset is associated with the following publication:\nZhou, X., J. Aurell, B. Mitchell, D. Tabor, and B. Gullett. A small, lightweight multipollutant sensor system for ground-mobile and aerial emission sampling from open area sources.   JOURNAL OF AIR AND WASTE MANAGEMENT. Air & Waste Management Association, Pittsburgh, PA, USA, 154: 31-41, (2017).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "A small, lightweight multipollutant sensor system for ground-mobile and aerial emission sampling from open area sources",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.atmosenv.2017.01.029"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "726c4c57-db3e-4c87-9916-63f59a134f8d"
+        },
+        {
+            "key": "source_hash",
+            "value": "c355173d3eec126bc132c7c7ff599437e0fc5e83"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-08-08"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1390075"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:42:35.638633",
+            "description": "Data%20Table%20for%20Science%20Hub%20Zhou%20paper%20Gullett.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b74c02a9-0cff-4f26-875a-019a537467ed",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:42:35.638633",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Data Table for Science Hub Zhou paper Gullett.xlsx",
+            "package_id": "4626b844-7254-4478-aad7-f8a4b28e85ff",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1390075/Data%20Table%20for%20Science%20Hub%20Zhou%20paper%20Gullett.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aerostats",
+            "id": "a6e5b4a0-d1d9-48ba-a342-84980bb76b96",
+            "name": "aerostats",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-pollution",
+            "id": "479f3b60-b95d-4708-9034-c531c6695587",
+            "name": "air-pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emissions",
+            "id": "09baf6a3-d24a-4265-8b80-2ada905665dd",
+            "name": "emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sensors",
+            "id": "f6f13c9b-cb11-449b-8b2c-8c77de90d002",
+            "name": "sensors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "unmanned-aerial-vehicle",
+            "id": "d187be88-a0b0-4b95-b2d4-e2af79516777",
+            "name": "unmanned-aerial-vehicle",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "unmanned-aerial-vehicles",
+            "id": "3617a638-7bbb-4e08-a5d2-9e6da6b40107",
+            "name": "unmanned-aerial-vehicles",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 1
+    }
+}

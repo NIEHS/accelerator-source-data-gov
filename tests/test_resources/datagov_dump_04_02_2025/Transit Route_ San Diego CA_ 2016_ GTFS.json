@@ -1,0 +1,272 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "4a9001b5-dd31-4873-8716-2b394f45e196",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:25:02.921983",
+    "metadata_modified": "2025-02-25T05:25:02.921988",
+    "name": "transit-route-san-diego-ca-2016-gtfs12",
+    "notes": "Public transit routes in San Diego County managed by the San Diego County Metropolitan Transit System (MTS) and the North County Transit District (NCTD). Bus, commuter and light rail, and trolley routes managed and developed from the General Transit Feed Specification (GTFS) data available from the transitland feed registry (formerly from GTFS Data Exchange). Routes are developed from the GTFS data available through the transitland feed registry (https://transit.land/feed-registry/), formerly from the GTFS Data Exchange. GTFS data is provided to the exchange by the transit agencies and processed by SanGIS to create a consolidated GIS layer containing routes from both systems. SanGIS uses a publicly available ESRI ArcToolbox tool to create the GIS data layer. The toolbox can be found at http://www.arcgis.com/home/item.html?id=14189102b795412a85bc5e1e09a0bafa. This data set is created using the ROUTES.txt and SHAPES.txt GTFS data files.Routes layers for MTS and NCTD are created separately and combined into a single layer using ArcGIS tools.",
+    "num_resources": 1,
+    "num_tags": 13,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Transit Route, San Diego CA, 2016, GTFS",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "46BE1DD3-EFE0-41B3-87E4-EA1B3934874B"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2016-10-03\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2021-11-04"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "webmaster@sangis.org"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "quarterly"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "onGoing"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"Data is generalized and created for use in regional projects. Please refer to SanGIS GIS data end user use agreement and disclaimer which is available at the following: http://www.sangis.org/Legal_Notice.htm.Data is as provided through the transitland feed registry. No representation is made as to the accuracy and currency of the data. Contributions to the transitland feed registry are voluntary and outside SanGIS control. GTFS specifications are not managed or maintained by SanGIS and may change over time.Data layer is created from publicly available sources and is not verified, certified or endorsed by either MTS or NCTD. SanGIS does not verify alignments or accuracy of data. SanGIS recreates the Transit_Routes layer from the publicly available data only on a quarterly (or longer) basis and data may not be current.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"SanGIS\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"San Diego County Metropolitan Transit System\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-116.18446"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "33.428501"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "32.542373"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-117.597719"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.597719, 32.542373], [-116.18446, 32.542373], [-116.18446, 33.428501], [-117.597719, 33.428501], [-117.597719, 32.542373]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.597719, 32.542373], [-116.18446, 32.542373], [-116.18446, 33.428501], [-117.597719, 33.428501], [-117.597719, 32.542373]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0815c9f5-324b-46b4-81a6-b06ea61adb49"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:25:02.930407",
+            "description": "Available for download as shapefile from http://www.sangis.org/download/index.html",
+            "format": "HTML",
+            "hash": "",
+            "id": "536ff65a-dc58-41b8-8d63-da3c705c0739",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:25:02.904218",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Page",
+            "no_real_name": true,
+            "package_id": "4a9001b5-dd31-4873-8716-2b394f45e196",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "http://www.sangis.org/download/index.html",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:072",
+            "id": "ee6ec260-2686-4482-884a-e21bd34c47f0",
+            "name": "020:072",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bus",
+            "id": "4ed89e7b-5b0b-4847-aa5a-6690bb65ea83",
+            "name": "bus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "california",
+            "id": "364760b8-6576-42af-b0c5-278dec4415e7",
+            "name": "california",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "light rail",
+            "id": "7c565228-3188-4211-8243-81e59c3abc31",
+            "name": "light rail",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mts",
+            "id": "f25f6faa-4c84-460d-8f6d-02dd0b06a0f2",
+            "name": "mts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nctd",
+            "id": "503c1d96-6a8b-45e9-8664-fb02ebd3d044",
+            "name": "nctd",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rail",
+            "id": "a0599eb4-95f4-4e2f-85fe-9bce8f901916",
+            "name": "rail",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "routes",
+            "id": "12d04581-00c1-486e-baf1-8b854ead1803",
+            "name": "routes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "san diego",
+            "id": "c0477a28-e42a-4cf0-9a5f-ca5cc05d59c6",
+            "name": "san diego",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "transit",
+            "id": "5d6c0388-b480-435e-a172-e5fdaeca0b3a",
+            "name": "transit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "transportation",
+            "id": "9de63758-c817-4198-8946-25300ec44352",
+            "name": "transportation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "trolley",
+            "id": "d5ad461d-d9c1-4f3d-ad0b-d0d4ce88e83f",
+            "name": "trolley",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 1
+    }
+}

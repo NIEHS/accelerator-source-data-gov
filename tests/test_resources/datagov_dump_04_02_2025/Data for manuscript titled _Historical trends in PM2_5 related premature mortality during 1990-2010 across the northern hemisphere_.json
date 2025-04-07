@@ -1,0 +1,233 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "10e0a275-e6bf-446c-b008-cd510c602ffa",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Rohit Mathur",
+    "maintainer_email": "mathur.rohit@epa.gov",
+    "metadata_created": "2020-11-12T13:38:31.117935",
+    "metadata_modified": "2020-11-12T13:38:31.117942",
+    "name": "data-for-manuscript-titled-historical-trends-in-pm2-5-related-premature-mortality-during-1",
+    "notes": "This manuscript has 6 figures:\r\nFigure 1 shows the modeling domain and includes a map with the different analysis sub-regions. Shapefiles to be used with ArcGIS for re-creating this figure is included. \r\n\r\nThe file named \u201cEHP_data_summary\u201d is and Excel file and includes the data used in creation of Figures 2-6.  \r\n\r\nNote that these data files are a result of extensive data processing of many terra-bytes of model output from the hemispheric WRF-CMAQ model.  The manuscript includes details on how this analysis was conducted, and other data-sets incorporated. \n\nThis dataset is associated with the following publication:\nWang, J., J. Xing , R. Mathur , J. Pleim , S. Wang, C. Hogrefe , M. Gan , D. Wong , and J. Hao. Historical Trends in PM2.5-Related Premature Mortality during 1990-2010 across the Northern Hemisphere.   ENVIRONMENTAL HEALTH PERSPECTIVES. National Institute of Environmental Health Sciences (NIEHS), Research Triangle Park, NC, USA, 125(3): 400\u2013408, (2017).",
+    "num_resources": 3,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data for manuscript titled \"Historical trends in PM2.5 related premature mortality during 1990-2010 across the northern hemisphere\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1289/ehp298"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2a8c5cfe-ce63-46d1-9015-2ad0600aa98d"
+        },
+        {
+            "key": "source_hash",
+            "value": "95bf1cd62b14f89631edccafe06ffe4d280503aa"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2015-10-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-t774-221"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:31.136817",
+            "description": "EHP_data_Readme.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "0594edf0-9d82-4797-ae12-49adbc7c9f48",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:31.136817",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "EHP_data_Readme.docx",
+            "package_id": "10e0a275-e6bf-446c-b008-cd510c602ffa",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/221/EHP_data_Readme.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:31.136825",
+            "description": "EHP_data_summary.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ee79ccc1-93d7-4deb-b2cd-689111f86df9",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:31.136825",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "EHP_data_summary.xlsx",
+            "package_id": "10e0a275-e6bf-446c-b008-cd510c602ffa",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/221/EHP_data_summary.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:31.136828",
+            "description": "EHP_figure1_shapefile_for_ArcGIS.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "07e67fdd-9010-432c-b39b-bbc4ae50fbe1",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:31.136828",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "EHP_figure1_shapefile_for_ArcGIS.zip",
+            "package_id": "10e0a275-e6bf-446c-b008-cd510c602ffa",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/221/EHP_figure1_shapefile_for_ArcGIS.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-pollution-exposure",
+            "id": "d72437c4-5d2b-4754-97d5-dfa036f10d41",
+            "name": "air-pollution-exposure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-quality-trends",
+            "id": "d108f1e8-0a36-4721-8a36-f916d19a5830",
+            "name": "air-quality-trends",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emission-mitigation-efficiency",
+            "id": "cd3b93da-909a-4e0e-b21e-61e0000d63bc",
+            "name": "emission-mitigation-efficiency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hemispheric-cmaq",
+            "id": "405531fe-a9dc-4bf0-a282-54aeeb17483a",
+            "name": "hemispheric-cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm2-5-long-term-exposure",
+            "id": "a48c273b-f4a8-4416-8036-e91e60491dfb",
+            "name": "pm2-5-long-term-exposure",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 115,
+        "recent": 2
+    }
+}

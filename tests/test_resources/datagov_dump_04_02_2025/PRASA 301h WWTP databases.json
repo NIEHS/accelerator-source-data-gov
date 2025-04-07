@@ -1,0 +1,170 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "d3814481-fc00-4ce7-8271-bc5f26803f32",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Deborah Santavy",
+    "maintainer_email": "santavy.debbie@epa.gov",
+    "metadata_created": "2024-07-07T18:40:10.163333",
+    "metadata_modified": "2024-07-07T18:40:10.163339",
+    "name": "prasa-301h-wwtp-databases",
+    "notes": "These data were used to investigate  long-term effects of advanced primary treated effluent discharge on coral reefs adjacent to Puerto Rico Aqueducts and Sewer Authority (PRASA) WWTPs outfalls on the north and northwest coasts of Puerto Rico. Our data were derived from secondary data sources of datasets for biological and water quality metrics collected from the PRASA monitoring program and to identify potential changes in coral reef condition from 1999 \u2013 2018.  our database includes 1) biological endpoints consisting of percent coverage of biological and abiotic endpoints along transects near each WWTP, 2) water quality and physical data for metrics typically associated with point source WWTP effluent (e.g., coliform bacteria, ammonia, temperature, salinity, dissolved oxygen, etc.), and 3) contaminants data representing a suite of standard chemical analytes that may arise from potential point and non-point sources (e.g., pesticides, heavy metals, herbicides, etc.). \n\nThis dataset is associated with the following publication:\nSantavy, D., C. Horstmann, E. Huertas, I. Wojtenko, and S. Raimondo. Derivation of biocriteria to protect coral reefs in Puerto Rico using a biological condition gradient framework and 301(h) water quality and coral monitoring data (PR-CRBGC), Phase 2. U.S. Environmental Protection Agency, Washington, DC, USA.",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "PRASA 301(h) WWTP databases",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "9d25b8bb7562574923f7b2f4e21e019fdea6115a86c72a69221e808fb621985f"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520432"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-04-12"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "52623ca1-1a95-432e-9a07-0a5cf88ce823"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-07-07T18:40:10.178906",
+            "description": "PRASA%20project%20data%20final.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "703618df-b0a8-40d6-8c34-ac858452438d",
+            "last_modified": null,
+            "metadata_modified": "2024-07-07T18:40:10.154811",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "PRASA project data final.xlsx",
+            "package_id": "d3814481-fc00-4ce7-8271-bc5f26803f32",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520432/PRASA%20project%20data%20final.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "coral-reef-communities",
+            "id": "e419a22c-4681-45f1-8674-7171ec7156f0",
+            "name": "coral-reef-communities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "prasa",
+            "id": "12099ab6-8f7a-414b-a0ad-7e765b40753f",
+            "name": "prasa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "puerto-rico",
+            "id": "819734f5-1a90-4839-af2b-6052c49e057e",
+            "name": "puerto-rico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wastewater-treatment-effects",
+            "id": "4f5cf906-efe3-41ae-8671-1d6a8d515b33",
+            "name": "wastewater-treatment-effects",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 47,
+        "recent": 5
+    }
+}

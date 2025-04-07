@@ -1,0 +1,150 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "cd5a6ffd-4c47-4d4a-9631-09458edc9c99",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Karen Bradham",
+    "maintainer_email": "bradham.karen@epa.gov",
+    "metadata_created": "2020-11-12T13:48:33.197049",
+    "metadata_modified": "2020-11-12T13:48:33.197060",
+    "name": "remediation-produces-long-term-changes-in-soil-lead-bioavailability-in-a-mouse-model",
+    "notes": "Remediation produces long-term changes in soil lead bioavailability in a mouse model. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: In the publication and supporting information. Format: These data were generated from US EPA Superfund site soil samples.  All of the soil samples were provided to NERL for methods development based on the agreement that the specific sample identifiers not be released.  While the City location is listed in the publication, the specific location of the site is not. There are currently on-going additional studies by USEPA and USDA that would be impacted if the site identifiers were release, which requires this information to be protected. The public can access the data, which are provided in the publication and presented in tables and figures within the publication. \n\nThis dataset is associated with the following publication:\nBradham, K., G. Diamond, C. Nelson, M. Noerpel, K. Scheckel, B. Elek, R. Chaney, Q. Ma, and D. Thomas. Long-Term in Situ Reduction in Soil Lead Bioavailability Measured in a Mouse Model.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 52(23): 13908\u201313913, (2018).",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Remediation produces long-term changes in soil lead bioavailability in a mouse model",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.8b04684"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c606dcd0-7ac5-4f54-9493-5000284a4ceb"
+        },
+        {
+            "key": "source_hash",
+            "value": "85ef9f6bce3666eee962db4913b3d93121466640"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-04-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502441"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bioavailability",
+            "id": "636e89af-12d2-477b-b87e-717167755036",
+            "name": "bioavailability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lead",
+            "id": "3208a57e-f3bb-4d6c-9a9a-b0101de6d5e0",
+            "name": "lead",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soil",
+            "id": "0ff9ac30-4136-4d29-9d25-741217bfa174",
+            "name": "soil",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soil-amendments",
+            "id": "f5a4d503-d422-4d57-8aa0-8ee0fffe9bb9",
+            "name": "soil-amendments",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 53,
+        "recent": 1
+    }
+}

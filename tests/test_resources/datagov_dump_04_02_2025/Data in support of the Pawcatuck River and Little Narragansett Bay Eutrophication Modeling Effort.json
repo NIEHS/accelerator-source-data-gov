@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "ec211eee-8b55-485a-83e8-78b1108b1fd6",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Christopher Knightes",
+    "maintainer_email": "knightes.chris@epa.gov",
+    "metadata_created": "2024-04-14T06:06:50.224906",
+    "metadata_modified": "2024-04-14T06:06:50.224914",
+    "name": "data-in-support-of-the-pawcatuck-river-and-little-narragansett-bay-eutrophication-modeling",
+    "notes": "This data repository has been created to support Cashel et al. 2024 publication titled \u201cUsing Monitoring and Mechanistic Modeling to Improve Understanding of Eutrophication in a Shallow New England Estuary\u201d. This research served to explore the applicability of observed data and a dynamic, mechanistic fate and transport water quality model to assess eutrophication and hypoxia in the Pawcatuck River Estuary (New England, USA). Associated files include outputs from the Wood-Pawcatuck Watershed HSPF model, atmospheric forcing functions, continuous and discrete observed data in the Pawcatuck River Estuary, and additional information used to support this research. Refer to Section 6 of the Supplementary Materials associated with this research paper for a description of the contents of each file. \n\nContinuous (15-min intervals) sonde data and grab samples were collected across several years with locations designed to capture longitudinal, vertical, and lateral spatial variation within the system. Observed data include: salinity (SAL, ppt), water temperature (WT, \u00b0C), depth (DEP, m), dissolved oxygen (DO, mg/L), chlorophyll a (chl a, \u03bcg/L as chl a), ammonium (NH4, \u03bcg/L as N), nitrate (NO3, \u03bcg/L as N), dissolved inorganic phosphorus (DIP, \u03bcg/L as P), total nitrogen (TN, \u03bcg/L as N), total phosphorus (TP, \u03bcg/L as P), and total suspended solids (TSS, \u03bcg/L). \n\nThis dataset is associated with the following publication:\nCashel, F.S., C.D. Knightes, C. Lupo, T. Iott, K. Streich, C.J. Conville, T.W. Bridges, and I. Dombroski. Using monitoring and mechanistic modeling to improve understanding of eutrophication in a shallow New England estuary.   JOURNAL OF ENVIRONMENTAL MANAGEMENT. Elsevier Science Ltd, New York, NY, USA, 355(March 2024): 120478, (2024).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data in support of the Pawcatuck River and Little Narragansett Bay Eutrophication Modeling Effort",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "a7ae9a2337db0516b2aaedbe0a711f5b23d06c0a7d9fe09ce60fa0493bd7c249"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529784"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-02-21"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jenvman.2024.120478"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "59626688-5d3a-4aed-b414-cd55be7356bf"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-04-14T06:06:50.237619",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "2e4461df-6c74-4d87-ab8e-39638d1bf361",
+            "last_modified": null,
+            "metadata_modified": "2024-04-14T06:06:50.211573",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://data.mendeley.com/datasets/vywyyks4r6/1",
+            "package_id": "ec211eee-8b55-485a-83e8-78b1108b1fd6",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://data.mendeley.com/datasets/vywyyks4r6/1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "eutrophication",
+            "id": "ed5c777c-3e65-49d3-b657-40e542c8fc92",
+            "name": "eutrophication",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "modeling",
+            "id": "6dab039d-306b-4964-a66a-39a76a295408",
+            "name": "modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 6,
+        "recent": 1
+    }
+}

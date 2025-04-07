@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "8c434e9d-e309-4c1b-b83f-e5054c2086f9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Christopher Mazur",
+    "maintainer_email": "mazur.chris@epa.gov",
+    "metadata_created": "2020-11-12T13:45:47.134130",
+    "metadata_modified": "2020-11-12T13:45:47.134140",
+    "name": "180626-thyroid-hormone-pfoa-pfos-manuscript-data",
+    "notes": "180626 Thyroid Hormone PFOA PFOS Manuscript Data. \n\nThis dataset is associated with the following publication:\nSelano, J., V. Richardson, J. Washington, and C. Mazur. Characterization of non-radiolabeled Thyroxine (T4) uptake in cryopreserved rat hepatocyte suspensions: Pharmacokinetic implications for PFOA and PFOS chemical exposure.   TOXICOLOGY IN VITRO. Elsevier Science Ltd, New York, NY, USA, 58: 230-238, (2019).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "180626 Thyroid Hormone PFOA PFOS Manuscript Data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.tiv.2019.03.022"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "74190517-b445-4437-a89d-964ad1e5309b"
+        },
+        {
+            "key": "source_hash",
+            "value": "bd7552983f91b113ca11ea735696b1b9ff66c9c7"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-08-28"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502614"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:47.153020",
+            "description": "CMazur.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "422febc5-92cd-4c46-ba2c-ff237ee4b66c",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:47.153020",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "CMazur.zip",
+            "package_id": "8c434e9d-e309-4c1b-b83f-e5054c2086f9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502614/CMazur.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "chemical-exposure",
+            "id": "015d919d-e839-4e73-9c89-641de048c4a8",
+            "name": "chemical-exposure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "perfluorooctane-sulfonate-pfos",
+            "id": "4ce8f660-a3fd-4000-8cc1-2b1599e27568",
+            "name": "perfluorooctane-sulfonate-pfos",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "perfluorooctanoate-pfoa",
+            "id": "f3158517-6634-4825-9031-bae643b24b1a",
+            "name": "perfluorooctanoate-pfoa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thyroxine-t4",
+            "id": "130eccc4-cd5f-436d-8fb0-6bf369f85f8e",
+            "name": "thyroxine-t4",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 110,
+        "recent": 1
+    }
+}

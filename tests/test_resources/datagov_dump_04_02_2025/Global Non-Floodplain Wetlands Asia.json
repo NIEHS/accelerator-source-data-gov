@@ -1,0 +1,279 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "7c3c6c05-880e-4bf3-9582-657a04e673a5",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:52:03.141052",
+    "metadata_modified": "2025-02-25T05:52:03.141058",
+    "name": "global-non-floodplain-wetlands-asia13",
+    "notes": "This raster GIS dataset contains 30 meter cells depicting non-floodplain wetlands in a hydrobasin. This base dataset is a combination of three globally-available datasets, creating a new dataset that is inclusive of finer-resolution data, while accounting for a wide range of wetland sizes. \nThe three source datasets are:\n 1) CW-WTD 500-m dataset resampled to 30 m. \u2013 Wetland dataset built from a composite wetland-water table depth (Tootchi 2019); \n 2) CCI (Climate Change Initiative) data resampled from 300 m to 30 m \u2013 CCI defined wetlands as \u201c\u2026mixed classes of flooded areas with tree covers, shrubs, or herbaceous covers plus inland water bodies;\u201d and\n 3) Global Surface Water (GSW)  30-m (Pekel et al. 2016) \u2013 A pixel was considered a wetland if it had at least one inundation event over a 32-year range.\n\nA 1-km buffer was applied to the HydroBASINS (Lehner and Grill 2013) coastline area and any wetland partially or completely overlain by the 1-km buffer was removed from analysis. In addition, to avoid including large lakes in  the data, we also applied a mask using HydroLAKES and removed lake systems \u226510 ha (Messager et al. 2016).\n\nThe dataset was then overlain by the GFPlain90 floodplain data (resampled to 30 meters) and wetlands overlain by the floodplain were removed.\n\n",
+    "num_resources": 1,
+    "num_tags": 14,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Global Non-Floodplain Wetlands Asia",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "F564ADDB-DCFB-4AA2-AE5C-61656592FE7F"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2022-11-08\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2024-12-06"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "lane.charles@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "notPlanned"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. EPA Office of Research and Development\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "150.921488783095"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "55.9375"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "1.16666666666669"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "57.6083333333334"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[57.6083333333334, 1.16666666666669], [150.921488783095, 1.16666666666669], [150.921488783095, 55.9375], [57.6083333333334, 55.9375], [57.6083333333334, 1.16666666666669]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[57.6083333333334, 1.16666666666669], [150.921488783095, 1.16666666666669], [150.921488783095, 55.9375], [57.6083333333334, 55.9375], [57.6083333333334, 1.16666666666669]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f3b6391b-0142-4ddd-878b-ad25ca82118d"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:52:03.143469",
+            "description": "Global_NFWs_Asia.gdb.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "bf438ab2-2a9a-48d5-87b5-41bba62d17a8",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:52:03.119862",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Zip File",
+            "no_real_name": true,
+            "package_id": "7c3c6c05-880e-4bf3-9582-657a04e673a5",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://dmap-prod-oms-edc.s3.us-east-1.amazonaws.com/ORD/Global_NonFloodplain_Wetlands/Global_NFWs/Global_NFWs_Asia.gdb.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:096",
+            "id": "f301b087-f370-4fca-944b-2c35118dbd7d",
+            "name": "020:096",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "020:121",
+            "id": "59668cf0-40e0-4769-84e2-57c4d7da688b",
+            "name": "020:121",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "asia",
+            "id": "60245090-b16f-49d9-b967-e4a72d9609d4",
+            "name": "asia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biogeochemical processing",
+            "id": "d529d975-daa9-41cd-aeef-391d3a387799",
+            "name": "biogeochemical processing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drought mitigation",
+            "id": "6b94f38c-7c6c-477b-a1b9-c658009ee318",
+            "name": "drought mitigation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "geographically isolated wetland",
+            "id": "de74b551-4d22-4317-9f26-b978e34b7443",
+            "name": "geographically isolated wetland",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "global",
+            "id": "c96a866a-5b0f-4721-92bd-ba354cf3e1d7",
+            "name": "global",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrobasin",
+            "id": "563d0749-73ce-411d-bf3d-962ddaeab210",
+            "name": "hydrobasin",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "non-floodplain",
+            "id": "27d3c277-ec9f-40af-a87f-c0ddb1f8b8a0",
+            "name": "non-floodplain",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "watershed",
+            "id": "e0f81c8b-7e21-4e48-b71b-ae5628329fec",
+            "name": "watershed",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetland habitat",
+            "id": "7ed468ee-7998-481b-a3c0-1e0aaf852a7a",
+            "name": "wetland habitat",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetland mapping",
+            "id": "293d7e2a-88bd-435f-9dcf-73434b0ab339",
+            "name": "wetland mapping",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetlands",
+            "id": "9cdeb6f3-52c8-4dfa-8b62-8e5ba8d7cc56",
+            "name": "wetlands",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 8,
+        "recent": 8
+    }
+}

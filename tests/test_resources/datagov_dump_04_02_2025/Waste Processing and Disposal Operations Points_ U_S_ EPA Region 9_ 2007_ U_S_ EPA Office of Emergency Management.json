@@ -1,0 +1,280 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "5e6e6dee-267f-40e3-8f55-59e843571932",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:08:05.576598",
+    "metadata_modified": "2025-02-25T05:08:05.576604",
+    "name": "waste-processing-and-disposal-operations-points-u-s-epa-region-9-2007-u-s-epa-office-of-emergen12",
+    "notes": "This data set is a comprehensive compilation of detailed operating statistics of waste processing and disposal operations in the United States. This data is current as of 2007.",
+    "num_resources": 1,
+    "num_tags": 13,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Waste Processing and Disposal Operations Points, U.S. EPA Region 9, 2007, U.S. EPA Office of Emergency Management",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "2FFA1AE7-A0D1-48AC-852C-46692760B013"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2007-11-05\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2023-03-15"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "krochmal.josh@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "annually"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"Data Are Restricted to Internal EPA Personnel Only\", \"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2007-11-05T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2007-11-05T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"Extract -- U.S. Environmental Protection Agency HQ Emergency Operations Center\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "0"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "42.065382"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "0"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-159.7292"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-159.7292, 0.0], [0.0, 0.0], [0.0, 42.065382], [-159.7292, 42.065382], [-159.7292, 0.0]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-159.7292, 0.0], [0.0, 0.0], [0.0, 42.065382], [-159.7292, 42.065382], [-159.7292, 0.0]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1c6d1816-5bc7-4d39-b517-0e1030fcae0a"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:08:05.588151",
+            "description": "diratlas.htm",
+            "format": "HTML",
+            "hash": "",
+            "id": "6e04b21b-fccb-4ada-9295-12e36840c161",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:08:05.556376",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Page",
+            "no_real_name": true,
+            "package_id": "5e6e6dee-267f-40e3-8f55-59e843571932",
+            "position": 0,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "http://www.wastebusinessjournal.com/diratlas.htm",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:108",
+            "id": "31eb6739-c311-4150-9039-6dc9f091059f",
+            "name": "020:108",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "american samoa",
+            "id": "6355bd1f-be89-4899-a925-8cb7f0590df6",
+            "name": "american samoa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arizona",
+            "id": "505b3704-0140-4a4b-b0ca-1d68829851c9",
+            "name": "arizona",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "california",
+            "id": "364760b8-6576-42af-b0c5-278dec4415e7",
+            "name": "california",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "facilities",
+            "id": "e84e6137-8dce-41d2-b63e-38319e3f618a",
+            "name": "facilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hawaii",
+            "id": "6d7213ac-9176-4c8c-b7ab-153307561d15",
+            "name": "hawaii",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nevada",
+            "id": "2830ad14-05eb-44b7-8533-96336d133990",
+            "name": "nevada",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "permits",
+            "id": "bf832cb6-277c-4ff4-ad3a-33517e4dfb9c",
+            "name": "permits",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "r9",
+            "id": "b1cd054e-9c87-4384-8f51-5cae9cb839e9",
+            "name": "r9",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sites",
+            "id": "dc7cc095-eb1c-40f0-afb5-f9968a1d82ee",
+            "name": "sites",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "society",
+            "id": "45c1199f-133e-43ce-b50c-ef473056b155",
+            "name": "society",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

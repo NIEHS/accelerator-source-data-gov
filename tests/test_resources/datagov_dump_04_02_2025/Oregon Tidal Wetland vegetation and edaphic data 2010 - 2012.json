@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "9ad3020f-2ad1-4f1d-8a6b-d855639dcb7d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Christina Folger",
+    "maintainer_email": "folger.christina@epa.gov",
+    "metadata_created": "2020-11-12T13:40:35.867040",
+    "metadata_modified": "2020-11-12T13:40:35.867047",
+    "name": "oregon-tidal-wetland-vegetation-and-edaphic-data-2010-2012",
+    "notes": "Data includes edaphic and vegetation field data from four Oregon tidal wetlands. National Wetlands Inventory (NWI) classification: low marsh, high marsh, and palustrine tidal marsh are included for each of the sites as a means of comparing parameters between the NWI classes and actual field data. Vegetation data include number and types of plant assemblages, non-native plant cover, and species richness. Edaphic data include pore water salinity,  sediment carbon and nitrogen content, grain size and marsh surface elevation. \n\nThis dataset is associated with the following publication:\nJanousek, C.N., and C. Folger. Does National Wetland Inventory class consistently identify vegetation and edaphic differences in Oregon tidal wetlands?.   Wetlands Ecology and Management. Springer Science and Business Media B.V;Formerly Kluwer Academic Publishers B.V.,   GERMANY, 26(3): 315-329, (2018).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Oregon Tidal Wetland vegetation and edaphic data 2010 - 2012",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s11273-017-9575-6"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "81a1fa8c-b8a5-4523-83be-a3b9aa8fdf8f"
+        },
+        {
+            "key": "source_hash",
+            "value": "ac6e2313dc34161c5cae450c92883bf960ad8321"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2011-08-31"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1405224"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:40:35.874662",
+            "description": "Folger-Janousek_A-4f4z_DataOR%20Tidal%20Marshes.xls",
+            "format": "XLS",
+            "hash": "",
+            "id": "4681b274-b13b-4d53-95cb-907eae185c04",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:40:35.874662",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Folger-Janousek_A-4f4z_DataOR Tidal Marshes.xls",
+            "package_id": "9ad3020f-2ad1-4f1d-8a6b-d855639dcb7d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1405224/Folger-Janousek_A-4f4z_DataOR%20Tidal%20Marshes.xls",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "ecosystem-indicators",
+            "id": "d5ea6f97-eb8f-45f2-875f-b20a9b6c6e8e",
+            "name": "ecosystem-indicators",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emergent-marsh",
+            "id": "cf7c0852-2073-4226-b62d-21328a45f774",
+            "name": "emergent-marsh",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "national-wetlands-inventory",
+            "id": "3616ca61-9441-4614-803d-9726af147715",
+            "name": "national-wetlands-inventory",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "plant-composition",
+            "id": "f2c11eed-104d-441e-adde-292285d593a3",
+            "name": "plant-composition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sediment-carbon",
+            "id": "17b2d3cf-9018-4a9e-b4e7-a6f331211f79",
+            "name": "sediment-carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetland-classification",
+            "id": "a9156c7d-9c0a-4e02-87d7-166d0b769517",
+            "name": "wetland-classification",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 103,
+        "recent": 1
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "3f9db3f1-4797-4725-b328-7c8c6c6213b6",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Heather Klemick",
+    "maintainer_email": "klemick.heather@epa.gov",
+    "metadata_created": "2020-11-12T13:47:25.185331",
+    "metadata_modified": "2020-11-12T13:47:25.185343",
+    "name": "north-carolina-blood-lead-and-education-data",
+    "notes": "The Children's Environmental Health Initiative (CEHI) at Rice University provided access to blood lead data from the North Carolina Childhood Lead Poisoning Prevention Program surveillance registry; data on end-of-grade standardized achievement tests in reading and mathematics from the North Carolina Education Research Data Center (NCERDC); and birth certificate data from the North Carolina Department of Health and Human Services. Test score, blood lead, and birth certificate data were linked using a common child identifier created by CEHI for matching purposes. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: The data was made available by the Children's Environmental Health Initiative (CEHI) at Rice University. Contact Claire Osgood (ceo1@rice.edu), CEHI's Data Manager, to learn how the data can be accessed. Format: The Children's Environmental Health Initiative (CEHI) at Rice University provided access to blood lead data from the North Carolina Childhood Lead Poisoning Prevention Program surveillance registry; data on end-of-grade standardized achievement tests in reading and mathematics from the North Carolina Education Research Data Center (NCERDC); and birth certificate data from the North Carolina Department of Health and Human Services. Test score, blood lead, and birth certificate data were linked using a common child identifier created by CEHI for matching purposes. Citation information for this dataset can be found in the EDG's Metadata Reference Information section and Data.gov's References section.",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "North Carolina Blood Lead and Education Data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://dx.doi.org/10.1016/j.envres.2019.108643"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "e9b163ec-96a0-49cc-9245-914f7051837e"
+        },
+        {
+            "key": "source_hash",
+            "value": "406f539488cb4d7dbd3fa8a4eb1c70cd49ac9df5"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "modified",
+            "value": "2019-07-11"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1506023"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "blood-lead",
+            "id": "d1ad4784-9502-41a6-a935-2e598eabaaec",
+            "name": "blood-lead",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cognitive-development",
+            "id": "b00abf39-e66a-42bd-8679-edd9014e72d6",
+            "name": "cognitive-development",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "education",
+            "id": "fa9eddb9-499c-48e8-a282-5f013d94de6a",
+            "name": "education",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "school-children",
+            "id": "43040500-3802-4710-a5e9-77e81ec34bf4",
+            "name": "school-children",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 126,
+        "recent": 8
+    }
+}

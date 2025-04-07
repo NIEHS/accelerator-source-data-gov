@@ -1,0 +1,256 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "740f0dc3-3881-4dd3-9df7-1640764192c3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "EPA ENERGY STAR program",
+    "maintainer_email": "certification@energystar.gov",
+    "metadata_created": "2020-11-12T14:52:24.076323",
+    "metadata_modified": "2025-03-29T15:36:19.973872",
+    "name": "energy-star-certified-furnaces",
+    "notes": "Certified models meet all ENERGY STAR requirements as listed in the Version 4.1 ENERGY STAR Program Requirements for Furnaces that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/heating_cooling/furnaces/key_product_criteria.",
+    "num_resources": 4,
+    "num_tags": 1,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "ENERGY STAR Certified Furnaces",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "fbcf06bea0802776e2e5f72eb220d6af14ecdda6ada19a52e127cbae223470ba"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://data.energystar.gov/api/views/i97v-e8au"
+        },
+        {
+            "key": "issued",
+            "value": "2021-09-09"
+        },
+        {
+            "key": "landingPage",
+            "value": "https://data.energystar.gov/d/i97v-e8au"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2025-03-29"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:033"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "theme",
+            "value": [
+                "Active Specifications"
+            ]
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://data.energystar.gov/data.json"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c5fac890-2b5a-41cd-b0ca-f2f1552148c7"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "bac1f9bf-daa1-4a30-b5ac-b04d3095c278"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EnergyStar"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T14:52:24.082734",
+            "description": "",
+            "format": "CSV",
+            "hash": "",
+            "id": "1bb9b5df-2583-4c0d-b2c8-496b07cad7aa",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T14:52:24.082734",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Comma Separated Values File",
+            "no_real_name": true,
+            "package_id": "740f0dc3-3881-4dd3-9df7-1640764192c3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://data.energystar.gov/api/views/i97v-e8au/rows.csv?accessType=DOWNLOAD",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T14:52:24.082745",
+            "describedBy": "https://data.energystar.gov/api/views/i97v-e8au/columns.rdf",
+            "describedByType": "application/rdf+xml",
+            "description": "",
+            "format": "RDF",
+            "hash": "",
+            "id": "91835c89-fe3b-4a64-89ed-968258338659",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T14:52:24.082745",
+            "mimetype": "application/rdf+xml",
+            "mimetype_inner": null,
+            "name": "RDF File",
+            "no_real_name": true,
+            "package_id": "740f0dc3-3881-4dd3-9df7-1640764192c3",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://data.energystar.gov/api/views/i97v-e8au/rows.rdf?accessType=DOWNLOAD",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T14:52:24.082751",
+            "describedBy": "https://data.energystar.gov/api/views/i97v-e8au/columns.json",
+            "describedByType": "application/json",
+            "description": "",
+            "format": "JSON",
+            "hash": "",
+            "id": "0f135886-8c75-4f6a-9ba2-6efeaf07bc57",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T14:52:24.082751",
+            "mimetype": "application/json",
+            "mimetype_inner": null,
+            "name": "JSON File",
+            "no_real_name": true,
+            "package_id": "740f0dc3-3881-4dd3-9df7-1640764192c3",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://data.energystar.gov/api/views/i97v-e8au/rows.json?accessType=DOWNLOAD",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T14:52:24.082756",
+            "describedBy": "https://data.energystar.gov/api/views/i97v-e8au/columns.xml",
+            "describedByType": "application/xml",
+            "description": "",
+            "format": "XML",
+            "hash": "",
+            "id": "85427f7d-50f1-488e-8f9e-2bd100369a18",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T14:52:24.082756",
+            "mimetype": "application/xml",
+            "mimetype_inner": null,
+            "name": "XML File",
+            "no_real_name": true,
+            "package_id": "740f0dc3-3881-4dd3-9df7-1640764192c3",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://data.energystar.gov/api/views/i97v-e8au/rows.xml?accessType=DOWNLOAD",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "furnaces",
+            "id": "6c68fe52-1ad5-4a0a-bcf2-e30cd5658665",
+            "name": "furnaces",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 145,
+        "recent": 2
+    }
+}

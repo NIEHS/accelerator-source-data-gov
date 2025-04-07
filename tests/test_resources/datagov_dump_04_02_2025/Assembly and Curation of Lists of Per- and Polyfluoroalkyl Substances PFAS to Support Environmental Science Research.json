@@ -1,0 +1,326 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "d4f06b42-b90b-464a-80c6-ed8e381d4278",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Antony Williams",
+    "maintainer_email": "williams.antony@epa.gov",
+    "metadata_created": "2022-08-14T01:18:14.375018",
+    "metadata_modified": "2022-08-14T01:18:14.375031",
+    "name": "assembly-and-curation-of-lists-of-per-and-polyfluoroalkyl-substances-pfas-to-support-envir",
+    "notes": "Datafiles in TXT file formats listing PFAS chemicals and a list of all PFAS Chemical Lists publicly available on the CompTox Chemicals Dashboard. \n\nThis dataset is associated with the following publication:\nWilliams, A., L. Gaines, C. Grulke, C. Lowe, G. Sinclair, V. Samano, I. Thillainadarajah, B. Meyer, G. Patlewicz, and A. Richard. Assembly and Curation of Lists of Per- and Polyfluoroalkyl Substances (PFAS) to Support Environmental Science Research.   Frontiers in Environmental Science. Frontiers, Lausanne,  SWITZERLAND, 10: 850019, (2022).",
+    "num_resources": 7,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Assembly and Curation of Lists of Per- and Polyfluoroalkyl Substances (PFAS) to Support Environmental Science Research",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "2f12ca80725023329ac250769dd719ffb5cd6318"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527684"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-01-10"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3389/fenvs.2022.850019"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "44dedf59-3396-4b58-b688-979f2a8df8b7"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-08-14T01:18:14.387275",
+            "description": "SI_TSCA2021.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "bd48680a-feaa-4d1c-a820-751f20dc664d",
+            "last_modified": null,
+            "metadata_modified": "2022-08-14T01:18:14.350212",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "SI_TSCA2021.txt",
+            "package_id": "d4f06b42-b90b-464a-80c6-ed8e381d4278",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527684/SI_TSCA2021.txt",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-08-14T01:18:14.387282",
+            "description": "SI_PFASSTRUCTV4.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "4b74bd13-c482-44cc-8c1a-c75ec15d4404",
+            "last_modified": null,
+            "metadata_modified": "2022-08-14T01:18:14.350511",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "SI_PFASSTRUCTV4.txt",
+            "package_id": "d4f06b42-b90b-464a-80c6-ed8e381d4278",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527684/SI_PFASSTRUCTV4.txt",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-08-14T01:18:14.387286",
+            "description": "SI_PFAS_Harvesting_1217_2021.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "b7a8bc3c-7e6a-4967-a274-203d051e6247",
+            "last_modified": null,
+            "metadata_modified": "2022-08-14T01:18:14.350735",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "SI_PFAS_Harvesting_1217_2021.docx",
+            "package_id": "d4f06b42-b90b-464a-80c6-ed8e381d4278",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527684/SI_PFAS_Harvesting_1217_2021.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-08-14T01:18:14.387290",
+            "description": "SI_Perhalocarbons.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "edd4efea-fbe7-4e53-b260-6fdf4dcfb567",
+            "last_modified": null,
+            "metadata_modified": "2022-08-14T01:18:14.350988",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "SI_Perhalocarbons.txt",
+            "package_id": "d4f06b42-b90b-464a-80c6-ed8e381d4278",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527684/SI_Perhalocarbons.txt",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-08-14T01:18:14.387294",
+            "description": "SI_OECD2021_contains_CF2.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "5ea15f02-9b6a-4201-a805-7e2649790bdc",
+            "last_modified": null,
+            "metadata_modified": "2022-08-14T01:18:14.351251",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "SI_OECD2021_contains_CF2.txt",
+            "package_id": "d4f06b42-b90b-464a-80c6-ed8e381d4278",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527684/SI_OECD2021_contains_CF2.txt",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-08-14T01:18:14.387298",
+            "description": "PFAS_List_Manuscript_SI_Files.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "38997630-ced4-4512-9ef4-012c6e5afd63",
+            "last_modified": null,
+            "metadata_modified": "2022-08-14T01:18:14.351508",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "PFAS_List_Manuscript_SI_Files.zip",
+            "package_id": "d4f06b42-b90b-464a-80c6-ed8e381d4278",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527684/PFAS_List_Manuscript_SI_Files.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-08-14T01:18:14.387302",
+            "description": "List_of_PFAS_chemical_lists_2021-12-29.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "1a14d5b4-bb9f-4adc-a3db-9153895ddc53",
+            "last_modified": null,
+            "metadata_modified": "2022-08-14T01:18:14.351722",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "List_of_PFAS_chemical_lists_2021-12-29.xlsx",
+            "package_id": "d4f06b42-b90b-464a-80c6-ed8e381d4278",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 4
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527684/List_of_PFAS_chemical_lists_2021-12-29.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "comptox-chemicals-dashboard",
+            "id": "82fb2fc4-9019-4812-8927-da6d6c064a7e",
+            "name": "comptox-chemicals-dashboard",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dsstox-database",
+            "id": "38a62ddd-927d-49ef-8898-a8e39d6c3ee1",
+            "name": "dsstox-database",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfas-chemicals",
+            "id": "67bc066e-b436-4e17-a1ca-b7f9f12c2d68",
+            "name": "pfas-chemicals",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfasstruct",
+            "id": "aaf2ad70-4dff-403f-b92c-7f0b7b36fc1c",
+            "name": "pfasstruct",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 56,
+        "recent": 2
+    }
+}

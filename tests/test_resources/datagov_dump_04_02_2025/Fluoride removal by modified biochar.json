@@ -1,0 +1,458 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b817e103-c817-43cf-ba95-dfd77a286248",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Chunming Su",
+    "maintainer_email": "su.chunming@epa.gov",
+    "metadata_created": "2021-02-10T18:51:34.748427",
+    "metadata_modified": "2021-02-10T18:51:34.748436",
+    "name": "fluoride-removal-by-modified-biochar",
+    "notes": "This data set includes physicochemical properties of douglas fir biochar (DF-BC), dairy manure biochar (DM500) and calcium modified dairy manure biochar (Ca-DM500) such as SEM images and EDS analysis of the Ca-DM500 and surface area analysis (BET) of all three biochars.  \n\nThe data set also includes:\nPhysiochemical properties and characteristics of the biochars A) DRIFTS analysis, B) Point of zero charge, C) Particle size, D) pH, and E) X-ray diffraction.\n\nBatch tests to investigate fluoride removal behavior including initial screening tests, pH effects, isotherms, kinetics co-existing ion competition and continuous flow columns. \n\nIsotherm data were modeled using Langmuir, Freundlich and Redlich-Peterson Models. Column data were modeled using the Thomas model (Thomas 1944). \n\nThis dataset is associated with the following publication:\nWallace, A.R., C. Su, Y. Choi, E. Kan, and W. Sun. Removal of Fluoride from Water Using a Calcium-Modified Dairy Manure-Derived Biochar.   JOURNAL OF ENVIRONMENTAL ENGINEERING. American Society of Civil Engineers  (ASCE), Reston, VA, USA, 146(12): 1-10, (2020).",
+    "num_resources": 12,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Fluoride removal by modified biochar",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1061/(asce)ee.1943-7870.0001812"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "42bfa6bd-6590-4b3e-8807-8ea5bb4e0b8d"
+        },
+        {
+            "key": "source_hash",
+            "value": "269316de0a4a913ec9ac73441ff7bf370b48606b"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-03-17"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518431"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816208",
+            "description": "BET%20SSA%20A%20and%20B%20DM500.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "cf24b814-2ea8-47d4-8a27-565b0dd22e1e",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816208",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "BET SSA A and B DM500.docx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/BET%20SSA%20A%20and%20B%20DM500.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816214",
+            "description": "Desorption%20Raw%20data.xls",
+            "format": "XLS",
+            "hash": "",
+            "id": "a9f30ef7-cef8-44b2-b471-e8a17eaa85a6",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816214",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Desorption Raw data.xls",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Desorption%20Raw%20data.xls",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816218",
+            "description": "Figure%201%20and%203%20Initial%20Screening%20and%20pH%20Screening.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f63cc0bb-fd0d-4abc-9692-4fc6e656fcdd",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816218",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 1 and 3 Initial Screening and pH Screening.xlsx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figure%201%20and%203%20Initial%20Screening%20and%20pH%20Screening.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816221",
+            "description": "Figure%204%20Kinetics.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "87afd1aa-475e-43f4-a26f-d4f6df8b9d77",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816221",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 4 Kinetics.xlsx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figure%204%20Kinetics.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816224",
+            "description": "Figure%202%20XRD%20raw%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "acf3217f-e726-42a6-ae6a-e5e479f51c11",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816224",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 2 XRD raw data.xlsx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figure%202%20XRD%20raw%20data.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816226",
+            "description": "Figure%205%20Competitive%20ions.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "45964d9f-42ed-4b48-9fb4-1c17178f4d79",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816226",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 5 Competitive ions.xlsx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figure%205%20Competitive%20ions.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816229",
+            "description": "Figure%206%20and%207%20Ca-DM%20Columns%20and%20Thomas%20Model.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "e864a86e-420d-4492-be26-7b5c7c896926",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816229",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 6 and 7 Ca-DM Columns and Thomas Model.xlsx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figure%206%20and%207%20Ca-DM%20Columns%20and%20Thomas%20Model.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816232",
+            "description": "Figure%206%20and%207%20Raw%20DM%20Columns%20and%20Thomas%20model.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "58635134-7d2a-49ea-87f9-da015d76638d",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816232",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 6 and 7 Raw DM Columns and Thomas model.xlsx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figure%206%20and%207%20Raw%20DM%20Columns%20and%20Thomas%20model.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816234",
+            "description": "Figure%20S1%20pH%20PZC.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f6a6a201-887b-4b23-ae08-0ab9e54b3ed5",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816234",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure S1 pH PZC.xlsx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figure%20S1%20pH%20PZC.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816237",
+            "description": "Figure%20S2%20Isotherm%20Models%20Raw%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "55f62e2e-0e5f-4e13-a5c3-4d6ddb210ea7",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816237",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure S2 Isotherm Models Raw data.xlsx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figure%20S2%20Isotherm%20Models%20Raw%20data.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816240",
+            "description": "Figure%20S3%20FTIR%20raw%20data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ef1bf071-748d-4a13-9f12-ab7b41b572c4",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816240",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure S3 FTIR raw data.xlsx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 10,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figure%20S3%20FTIR%20raw%20data.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-10T18:51:34.816242",
+            "description": "Figures%20S4%20and%20S5%20SEM-EDS.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "43dbd3ff-c2c5-4f83-a839-6298ec4e0f20",
+            "last_modified": null,
+            "metadata_modified": "2021-02-10T18:51:34.816242",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Figures S4 and S5 SEM-EDS.docx",
+            "package_id": "b817e103-c817-43cf-ba95-dfd77a286248",
+            "position": 11,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518431/Figures%20S4%20and%20S5%20SEM-EDS.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "calcium-hydroxide-coated-biochar",
+            "id": "42e3d2b6-a7e4-46dd-aa4d-ab3e3c6a3aaf",
+            "name": "calcium-hydroxide-coated-biochar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fluoride",
+            "id": "c29c8763-845b-4f9d-ad4c-fe1fa61ea8db",
+            "name": "fluoride",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regeneration-and-reuse",
+            "id": "cf198ee0-11c8-4af6-b4c1-c817ad0a5415",
+            "name": "regeneration-and-reuse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "removal-kinetics",
+            "id": "eec65797-0511-4a8b-8e88-8de5e0783412",
+            "name": "removal-kinetics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sorption-isotherm",
+            "id": "2eaf2448-4889-459b-9c95-f97ddb6c48df",
+            "name": "sorption-isotherm",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 44,
+        "recent": 5
+    }
+}

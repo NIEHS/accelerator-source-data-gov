@@ -1,0 +1,278 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "ec406ebc-7b32-499b-840a-df76847fba77",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Sangdon Lee",
+    "maintainer_email": "lee.sangdon@epa.gov",
+    "metadata_created": "2020-11-12T13:43:04.131174",
+    "metadata_modified": "2020-11-12T13:43:04.131184",
+    "name": "cesium-emissions-from-laboratory-fires",
+    "notes": "The data sets contain the raw and reduced data from the instrument measurements including continuous emission monitoring and stack sampling procedure. \n\nThis dataset is associated with the following publication:\nHao, W.M., S. Baker, E. Lincoln, S. Hudson, S. Lee, and P. Lemieux. Cesium Emissions from Laboratory Fires Article.   JOURNAL OF THE AIR & WASTE MANAGEMENT ASSOCIATION. Air & Waste Management Association, Pittsburgh, PA, USA,  49, (2018).",
+    "num_resources": 2,
+    "num_tags": 15,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Cesium Emissions from Laboratory Fires",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:060"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1080/10962247.2018.1493001"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "e375e163-833d-42be-9ce6-8cc675be7569"
+        },
+        {
+            "key": "source_hash",
+            "value": "338aa8917e70cd357fa01b3ed300c84e71fa74cb"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-06-15"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1377064"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:04.137403",
+            "description": "Cs_CEM_data_06152017.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "737a14fa-8808-4376-ac5c-3a73e6a692fb",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:04.137403",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Cs_CEM_data_06152017.xlsx",
+            "package_id": "ec406ebc-7b32-499b-840a-df76847fba77",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1377064/Cs_CEM_data_06152017.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:04.137413",
+            "description": "Missoula%20Cs%20Mass%20Calculations%20w%20ICPMS%20041717.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "67005a46-3df7-475c-9f59-553868ba7b97",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:04.137413",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Missoula Cs Mass Calculations w ICPMS 041717.xlsx",
+            "package_id": "ec406ebc-7b32-499b-840a-df76847fba77",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1377064/Missoula%20Cs%20Mass%20Calculations%20w%20ICPMS%20041717.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-emissions",
+            "id": "f6f13076-d9b7-4807-9a4a-3c96b83f190c",
+            "name": "air-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cesium-partitioning",
+            "id": "968d3f98-416d-449c-9c2c-53affb6e5c5f",
+            "name": "cesium-partitioning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "continuous-emission-monitoring",
+            "id": "61f65cd6-5604-4f26-abf5-a52855d35e47",
+            "name": "continuous-emission-monitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "forest",
+            "id": "46d69c8b-8ae7-4ed6-9b84-fd8086f87482",
+            "name": "forest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "improvised-nuclear-device",
+            "id": "10b4d4ae-decd-424b-b100-9865684625f6",
+            "name": "improvised-nuclear-device",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ind",
+            "id": "4d79a03b-d938-4d7b-92b2-c5cee9bc823b",
+            "name": "ind",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nuclear-power-plant-accident",
+            "id": "dfe2e22e-c4fa-4633-b9ee-83417bbdb203",
+            "name": "nuclear-power-plant-accident",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm10",
+            "id": "1b07427e-e9ad-4b48-91aa-8ce7818ea867",
+            "name": "pm10",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm2-5",
+            "id": "a1b6b16a-9f6b-4198-aff5-013a1484c09a",
+            "name": "pm2-5",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radiological-contamination",
+            "id": "4c7db610-23a9-4fdf-9ca7-c56132276739",
+            "name": "radiological-contamination",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radiological-dispersal-device",
+            "id": "15ea757a-379a-4150-b368-2a75fbfa8728",
+            "name": "radiological-dispersal-device",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radionuclides",
+            "id": "e95368db-94d1-4b44-b966-b9f3fca18b92",
+            "name": "radionuclides",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rdd",
+            "id": "efc9093d-ce75-48e4-af5b-54a45f298026",
+            "name": "rdd",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stack-sampling",
+            "id": "ea2ffb40-4c23-4db9-a5ec-8b4bd6dad96d",
+            "name": "stack-sampling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wildfire",
+            "id": "30e23767-24c0-4fab-b98d-ef5422ed623c",
+            "name": "wildfire",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 269,
+        "recent": 1
+    }
+}

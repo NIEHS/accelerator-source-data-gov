@@ -1,0 +1,251 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "59aedf6a-6339-487a-a9db-ab9960c3fda1",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Sangdon Lee",
+    "maintainer_email": "lee.sangdon@epa.gov",
+    "metadata_created": "2020-11-12T13:44:05.141804",
+    "metadata_modified": "2020-11-12T13:44:05.141818",
+    "name": "temperature-relative-humidity-and-fumigant-concentration-during-fumigation-of-computers-wi",
+    "notes": "These files contain time-course data for temperature, relative humidity, and fumigant concentration during the fumigation of computers with methyl bromide or methyl iodide. There is a also a file that shows the effect of fumigation on the sensitivity of the HOBO-U10 RH sensor. \n\nThis dataset is associated with the following publication:\nLee, S., S. Serre, A. Adrion, and R. Scheffrahn. Impact of Sporicidal Fumigation with Methyl Bromide or Methyl Iodide on Electronic Equipment.   JOURNAL OF ENVIRONMENTAL MANAGEMENT. Elsevier Science Ltd, New York, NY, USA, 231: 1021-1027, (2019).",
+    "num_resources": 4,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "temperature, relative humidity, and fumigant concentration during fumigation of computers with methyl bromide or methyl iodide and the effect of fumigant on humidity sensors",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:060"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jenvman.2018.10.118"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2ac35f36-888c-441f-9b15-44100e21a76b"
+        },
+        {
+            "key": "source_hash",
+            "value": "2dc453c33f4172f06fb0c4983a557468c9a7b105"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-12-14"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1413137"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:05.150703",
+            "description": "bulk_chamber_T_RH_during_fumigation.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "03c00cb7-bf06-47f0-ae57-5813dad843f8",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:05.150703",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "bulk_chamber_T_RH_during_fumigation.xlsx",
+            "package_id": "59aedf6a-6339-487a-a9db-ab9960c3fda1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1413137/bulk_chamber_T_RH_during_fumigation.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:05.150713",
+            "description": "inside_computers_T_RH_during_fumigation.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ddcadc12-8b2c-44e0-bf76-fa8d987c51ae",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:05.150713",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "inside_computers_T_RH_during_fumigation.xlsx",
+            "package_id": "59aedf6a-6339-487a-a9db-ab9960c3fda1",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1413137/inside_computers_T_RH_during_fumigation.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:05.150719",
+            "description": "effect_on_HOBO_loggers.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "4128bb85-7a90-4d09-83e7-4ffa2dc0b4bb",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:05.150719",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "effect_on_HOBO_loggers.xlsx",
+            "package_id": "59aedf6a-6339-487a-a9db-ab9960c3fda1",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1413137/effect_on_HOBO_loggers.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:05.150724",
+            "description": "2017_MB_MI_comp_spectros_readings.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "e19180f3-122d-487c-9cf9-c303354db3e4",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:05.150724",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "2017_MB_MI_comp_spectros_readings.xlsx",
+            "package_id": "59aedf6a-6339-487a-a9db-ab9960c3fda1",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1413137/2017_MB_MI_comp_spectros_readings.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "material-compatibility",
+            "id": "5bfccaa8-635f-42e1-b69c-e65be4a92ec1",
+            "name": "material-compatibility",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "methyl-bromide",
+            "id": "db9dfbc9-8493-481e-9d08-864dca07c922",
+            "name": "methyl-bromide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "methyl-iodide",
+            "id": "76623211-45d4-4a83-a81a-7de99df5aa58",
+            "name": "methyl-iodide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sporicidal-fumigation",
+            "id": "1b6ba1ac-77e5-4a02-87fb-ad3cbb05947f",
+            "name": "sporicidal-fumigation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 39,
+        "recent": 1
+    }
+}

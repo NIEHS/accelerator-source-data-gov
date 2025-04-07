@@ -1,0 +1,236 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "69c66b01-5170-41ff-a0c2-0d3e80dcf623",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Scott Leibowitz",
+    "maintainer_email": "leibowitz.scott@epa.gov",
+    "metadata_created": "2020-11-12T13:36:27.541027",
+    "metadata_modified": "2021-05-02T08:59:00.032006",
+    "name": "pnw-hydrologic-landscape-class",
+    "notes": "Work has been done to expand the hydrologic landscapes (HLs) concept and to develop an approach for using it to address streamflow vulnerability from climate change.  This work has included development of the HL classification framework and its application to Oregon, use of the HL classes to predict where a simple lumped hydrologic model accurately predicts daily streamflow, use of HL information to model the presence of cold-water patches at tributary confluences, and combining Oregon HL results with temperature and precipitation predictions to examine how HLs would vary as a result of climate change.  As a part of the current work, the HL approach has been expanded to the Pacific Northwest (Oregon, Washington, and Idaho) based on a revision of the approach that makes it more broadly applicable. This revised approach has several advantages compared with the original approach:  it is not limited to areas that have an aquifer permeability map; it uses a flexible approach to converting a nationally available geospatial dataset into assessment units; and it is more robust.  These improvements should allow the revised HL approach to be applied more often in situations requiring hydrologic classification, and allow greater confidence in results.  This effort paves the way for a climate change analysis for the Pacific Northwest that is currently underway, as well as expansion into the southwest (California, Arizona, and Nevada).  This dataset contains a high resolution version of the PNW HL maps along with shape files. \n\nThis dataset is associated with the following publication:\nLeibowitz , S., R. Comeleo , P.J. Wigington, Jr., M. Weber , E.A. Sproles, and K.A. Sawicz. Hydrologic Landscape Characterization for the Pacific Northwest, USA.   JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION. American Water Resources Association, Middleburg, VA, USA, 52(2): 473-493, (2016).",
+    "num_resources": 2,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "PNW Hydrologic Landscape Class",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1111/1752-1688.12402"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "da753e86-177b-48a2-8dbc-7db1c92581c5"
+        },
+        {
+            "key": "source_hash",
+            "value": "976bd151162810339a38d39b6991df61b0262308"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2015-07-08"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-w6mz-268"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:36:27.546907",
+            "description": "PNW_HLs_41.5x36_v2_300dpi_060415.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "2d16f3b2-72ec-4ad5-9025-800a736e95ac",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:36:27.546907",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "PNW_HLs_41.5x36_v2_300dpi_060415.pdf",
+            "package_id": "69c66b01-5170-41ff-a0c2-0d3e80dcf623",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/268/PNW_HLs_41.5x36_v2_300dpi_060415.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-05-02T08:59:02.651764",
+            "description": "pnw_hydrologic_landscape_class.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a27cd5fc-f0a8-4c7a-b631-d91aea4c2f48",
+            "last_modified": null,
+            "metadata_modified": "2021-05-02T08:59:02.651764",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://gaftp.epa.gov/EPADataCommons/ORD/HydrologicLandscapes/pnw_hydrologic_landscape_class.zip",
+            "package_id": "69c66b01-5170-41ff-a0c2-0d3e80dcf623",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://gaftp.epa.gov/EPADataCommons/ORD/HydrologicLandscapes/pnw_hydrologic_landscape_class.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "geospatial-analysis",
+            "id": "42b8dca3-1fcb-4a6d-bdba-c905c3fc5d09",
+            "name": "geospatial-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrologic-classification",
+            "id": "ea7a5a72-511a-4084-83d5-538e8483532c",
+            "name": "hydrologic-classification",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrologic-cycle",
+            "id": "21bef6c6-d76c-47f4-8c8d-a45cd239ca71",
+            "name": "hydrologic-cycle",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "national-hydrography-dataset",
+            "id": "d3d756d4-e67a-4225-b2c3-d1325208cf90",
+            "name": "national-hydrography-dataset",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nhd",
+            "id": "9593567d-d1c9-4192-9763-dbde0dda3865",
+            "name": "nhd",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pacific-northwest",
+            "id": "70697572-3eb4-4600-b7cf-9481e9eb0df8",
+            "name": "pacific-northwest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rivers-streams",
+            "id": "5b10f8aa-1b6a-40ee-8367-67653acdf86a",
+            "name": "rivers-streams",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "runoff",
+            "id": "494b0703-286e-4178-b5c3-d6fc4129564d",
+            "name": "runoff",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "watersheds",
+            "id": "b6491d59-fbbf-4e25-b71e-4534dd309464",
+            "name": "watersheds",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 349,
+        "recent": 2
+    }
+}

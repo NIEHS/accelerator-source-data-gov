@@ -1,0 +1,205 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "bff73e72-10f7-482d-9378-be7d4edd61d1",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Wesley Ingwersen",
+    "maintainer_email": "ingwersen.wesley@epa.gov",
+    "metadata_created": "2021-06-15T13:30:14.275444",
+    "metadata_modified": "2023-07-25T06:49:10.052093",
+    "name": "fedefl-inventory-methods-v1-0-0",
+    "notes": "FEDEFL Inventory Methods v1.0.0 is a life cycle inventory analysis or grouping method for flows in the Federal Elementary Flow List (FEDEFL) (EPA 2019). Like the related life cycle impact assessment (LCIA) methods, this dataset includes collections of characterization factors for a given flow (e.g., NH3 to air) for a set of categories (e.g., acidification), provided in units of group equivalence per unit mass of the flowable. But the methods are simplified in that the factors are generally 1 as they only classify flows according to categories or groupings. These methods are typically used along with life cycle inventory data to provide indicators for reporting in life cycle assessment (LCA).\n\nThe groupings provided for FEDEFL flows in this method include land use, freshwater resources, water resources, mineral resources, energy, nonrenewable energy, renewable energy, hazardous air pollutants (HAPs) and pesticides. \n\nThis dataset was created by the LCIA Formatter v1.0 (https://github.com/USEPA/LCIAformatter). The LCIA Formatter is a tool for providing standardized life cycle impact assessment and inventory methods with characterization factors transparently applied to flows from an authoritative flow list, like the FEDEFL. The LCIA Formatter used the fedelemflowlist v1.0.7 tool @ https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List, which subsets the flow list to create the various groupings with a combination of flow type and context matches, or by identifying matched flows in mapping files. Relevant mappings and explanatory notes are provided separately. \n\nThe zip file is a compressed archive of JSON files following the openLCA schema @ https://greendelta.github.io/olca-schema. Usage Notes for zip file: This file was tested to correctly import into an openLCA v1.10 database already containing flows from the FEDEFL v1.0.7. It will provide matching factors for any FEDEFL v1.0 to 1.0.7 elementary flow already present in the database that are classified in the provided groupings.  This file itself does not contain the elementary flows. The complete FEDEFL v1.0.7 flow list may be retrieved from the Federal LCA Commons elementary flow list repository @ https://www.lcacommons.gov.\n\nThe .parquet file is in the LCIA Formatter's LCIAmethod format. https://github.com/USEPA/LCIAformatter/blob/v1.0.0/format%20specs/LCIAmethod.md\nUsage notes for parquet file: The .parquet file can be read in by any Apache parquet reader. \n\nReferences\nEPA 2019. The Federal LCA Commons Elementary Flow List: Background, Approach, Description and Recommendations for Use. https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=347251. \n\nThis dataset is associated with the following publication:\nYoung, B., M. Srocka, W. Ingwersen, B. Morelli, S. Cashman, and A. Henderson. LCIA Formatter.   Journal of Open Source Software. Journal of Open Source Software,    6(66): 3392, (2021).",
+    "num_resources": 2,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "FEDEFL Inventory Methods v1.0.0",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "7601e5a77d03cb4bff4fdb0c9a2842b57d99d017"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522414"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-05-11"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.21105/joss.03392",
+                "https://pasteur.epa.gov/uploads/10.23719/1522414/documents/USDA_CUStoFEDEFLv1.0.7.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522414/documents/USGS_MCStoFEDEFLv1.0.7.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522414/documents/HAP_flows.csv",
+                "https://pasteur.epa.gov/uploads/10.23719/1522414/documents/AboutFEDEFLGroupingsforFEDEFLInventoryMethodsv1.0.0.txt"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0e931482-76bf-4f65-84b8-17844fa2ca9d"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:10.081692",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "8b500ce6-051b-4341-9da8-7cd105d60094",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:10.066226",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://dmap-data-commons-ord.s3.amazonaws.com/lciafmt/fedefl/FEDEFL_Inventory_v1.0.0_5555779.parquet",
+            "package_id": "bff73e72-10f7-482d-9378-be7d4edd61d1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://dmap-data-commons-ord.s3.amazonaws.com/lciafmt/fedefl/FEDEFL_Inventory_v1.0.0_5555779.parquet",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-15T13:30:14.304813",
+            "description": "FEDEFL_Inventory_json_v1.0.0.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c3fb784f-3b50-44f7-a359-6151a56c3b5e",
+            "last_modified": null,
+            "metadata_modified": "2021-06-15T13:30:14.304813",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "FEDEFL_Inventory_json_v1.0.0.zip",
+            "package_id": "bff73e72-10f7-482d-9378-be7d4edd61d1",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522414/FEDEFL_Inventory_json_v1.0.0.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "federal-lca-commons-data",
+            "id": "5a353c50-fe22-48c1-a1ad-0835d8ef76c5",
+            "name": "federal-lca-commons-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lca-data",
+            "id": "7b221575-df67-498e-a80b-7905bdae79a3",
+            "name": "lca-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lcia",
+            "id": "0c4ea150-5fc7-4b5d-a784-96862ff47041",
+            "name": "lcia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-inventory-grouping-methods",
+            "id": "5c6bc4f6-74c1-460b-aebd-4bc29be84a29",
+            "name": "life-cycle-inventory-grouping-methods",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 295,
+        "recent": 4
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "3ddd028a-e635-403b-a962-9266799e3fff",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "John Mearis, U.S. EPA Office of Air and Radiation (OAR) - Office of Atmospheric Programs (OAP)",
+    "maintainer_email": "Mearis.john@epa.gov",
+    "metadata_created": "2020-12-04T18:21:35.536318",
+    "metadata_modified": "2020-12-04T18:21:35.536328",
+    "name": "records-management",
+    "notes": "All Federal Agencies are required to prescribe an appropriate records maintenance program so that complete records are filed or otherwise preserved, records can be found when needed, the identification and retention of permanent records are facilitated, and permanent and temporary records are physically segregated, or for electronic records, segregable.",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Records Management",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "7e6bdd95-d59f-4965-9435-992cbbb90c83"
+        },
+        {
+            "key": "issued",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OAR-OAP Non-Geo Records"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B9B8B1629-6F62-4B5B-A6F2-1E1D4813A05D%7D",
+                "https://edg.epa.gov/metadata/rest/document?id=%7B9B8B1629-6F62-4B5B-A6F2-1E1D4813A05D%7D"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "67c16751-da25-4776-880d-8ad935d20d49"
+        },
+        {
+            "key": "source_hash",
+            "value": "4463fff8478441e5ac7bdb03439332bcb5e2047e"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Air and Radiation (OAR) - Office of Atmospheric Programs (OAP)"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.htm"
+        },
+        {
+            "key": "modified",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/Public/OAR/OAP/metadata/OAR-OAP.json"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "irregular"
+        },
+        {
+            "key": "spatial",
+            "value": "-180.0,18.0,-66.0,72.0"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "9B8B1629-6F62-4B5B-A6F2-1E1D4813A05D"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-04T18:21:35.569807",
+            "description": "",
+            "format": "CSV",
+            "hash": "",
+            "id": "2c2982a0-2fd6-4f2b-8649-75d4ce3da959",
+            "last_modified": null,
+            "metadata_modified": "2020-12-04T18:21:35.569807",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Comma Separated Values File",
+            "no_real_name": true,
+            "package_id": "3ddd028a-e635-403b-a962-9266799e3fff",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/records",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-protection-agency",
+            "id": "6879fc71-8504-4a81-a5c5-16a272bb2a46",
+            "name": "environmental-protection-agency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "epa-oar",
+            "id": "d8f43410-4193-467b-a198-fcf6b9591a85",
+            "name": "epa-oar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "office-of-radiation-and-indoor-air",
+            "id": "4a38fd3b-0298-4f57-ba13-f5392e7ba8e7",
+            "name": "office-of-radiation-and-indoor-air",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oria",
+            "id": "bd0b8a63-7640-4422-a79e-3ec80043b280",
+            "name": "oria",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "records-management",
+            "id": "c240fc38-0924-4e94-8287-24961a597101",
+            "name": "records-management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 171,
+        "recent": 1
+    }
+}

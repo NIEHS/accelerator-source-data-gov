@@ -1,0 +1,191 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "ec4f1a41-9162-40db-beeb-32f86be6b3db",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "William Fisher",
+    "maintainer_email": "fisher.william@epa.gov",
+    "metadata_created": "2022-12-01T18:49:27.315232",
+    "metadata_modified": "2022-12-01T18:49:27.315238",
+    "name": "skeletal-growth-capacity-as-a-measure-of-coral-species-and-community-resilience",
+    "notes": "These data reflect calculations for calcification and erosion rates of different stony coral species in the U.S. Virgin Islands. Field data were collected in 2007 and 2009 and calculations are dependent on demographic survey data that measure colony size and proportion of live tissue. \n\nThis dataset is associated with the following publication:\nFisher, W. Skeletal Growth Capacity as a Measure of Coral Species and Community Resilience.   ECOLOGICAL INDICATORS. Elsevier Science Ltd, New York, NY, USA, 142: 109208, (2022).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Skeletal Growth Capacity as a Measure of Coral Species and Community Resilience",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "a02d1a867c9b225cb2a7b317bf25e9a3866299b2"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1526434"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-05-16"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.ecolind.2022.109208"
+            ]
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1526434/documents/Data%20Dictionary%20Fisher.docx"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "daf63459-3f9b-4854-af57-b63e84ed6a8a"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-12-01T18:49:27.333615",
+            "description": "USVI%202007-2009%20Skeletal%20Growth%20Capacity_Science%20Hub.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "87dd3bf2-6f37-4a47-8af3-d1d024cc2151",
+            "last_modified": null,
+            "metadata_modified": "2022-12-01T18:49:27.300930",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "USVI 2007-2009 Skeletal Growth Capacity_Science Hub.xlsx",
+            "package_id": "ec4f1a41-9162-40db-beeb-32f86be6b3db",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526434/USVI%202007-2009%20Skeletal%20Growth%20Capacity_Science%20Hub.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "coral-reef-framework",
+            "id": "5c836eb9-4b2b-4199-91b9-a40d44c431df",
+            "name": "coral-reef-framework",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "coral-reef-resilience",
+            "id": "b6c81d90-37c0-41f5-bd93-d1c8314c73b7",
+            "name": "coral-reef-resilience",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stony-coral-condition",
+            "id": "8aed2236-986e-46c6-a1c4-a722c737c81f",
+            "name": "stony-coral-condition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stony-coral-erosion",
+            "id": "f0bfbfe5-f4f3-47b6-b3a4-74b112be6b3f",
+            "name": "stony-coral-erosion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stony-coral-growth",
+            "id": "25a4fb95-4e7c-45ca-8f97-c45bf0300b5e",
+            "name": "stony-coral-growth",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 5
+    }
+}

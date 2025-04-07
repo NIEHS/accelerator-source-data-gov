@@ -1,0 +1,245 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "d9b4da2c-2cfe-4a2f-833d-dfa84f055a7c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Daiwen Kang",
+    "maintainer_email": "kang.daiwen@epa.gov",
+    "metadata_created": "2020-11-12T13:45:26.689258",
+    "metadata_modified": "2020-11-12T13:45:26.689268",
+    "name": "dailyregionallnoxemissions05-2018",
+    "notes": "This dataset contains WRF/CMAQ model output in IOAPI format and Excel file to analyze the NOx emissions budget by month and region. \n\nThis dataset is associated with the following publication:\nKang, D., and K. Pickering. Lightning NOx Emissions and the Implications for Surface Air Quality over the Contiguous United States.   EM:  AIR AND WASTE MANAGEMENT ASSOCIATION'S MAGAZINE FOR ENVIRONMENTAL MANAGERS. Air & Waste Management Association, Pittsburgh, PA, USA,  1-6, (2018).",
+    "num_resources": 4,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "DailyRegionalLNOxEmissions05_2018",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "40e7d05e-2fbc-4f4d-bb11-092c76d8b004"
+        },
+        {
+            "key": "source_hash",
+            "value": "25c71f8a1373ca92a996f08792fcbfa77764aa02"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-06-29"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502460"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:26.695812",
+            "description": "DailyRegionEmisions.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "261acfd6-bf70-498e-83fc-2073efa76e93",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:26.695812",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DailyRegionEmisions.xlsx",
+            "package_id": "d9b4da2c-2cfe-4a2f-833d-dfa84f055a7c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502460/DailyRegionEmisions.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:26.695823",
+            "description": "model_output_201107.tar",
+            "format": "TAR",
+            "hash": "",
+            "id": "a3db2870-26cb-488c-bc2c-167671eb8933",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:26.695823",
+            "mimetype": "application/x-tar",
+            "mimetype_inner": null,
+            "name": "model_output_201107.tar",
+            "package_id": "d9b4da2c-2cfe-4a2f-833d-dfa84f055a7c",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502460/model_output_201107.tar",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:26.695829",
+            "description": "NLDN_Impact_20110701.tar",
+            "format": "TAR",
+            "hash": "",
+            "id": "834b2991-9d20-4415-9604-270df1140b1c",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:26.695829",
+            "mimetype": "application/x-tar",
+            "mimetype_inner": null,
+            "name": "NLDN_Impact_20110701.tar",
+            "package_id": "d9b4da2c-2cfe-4a2f-833d-dfa84f055a7c",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502460/NLDN_Impact_20110701.tar",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:26.695834",
+            "description": "DataDictionary.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "958e1618-de8b-48bf-bdff-2177ca0d9735",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:26.695834",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "DataDictionary.docx",
+            "package_id": "d9b4da2c-2cfe-4a2f-833d-dfa84f055a7c",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502460/DataDictionary.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lightning-nox-emissions",
+            "id": "18facacc-dd3b-431f-9f37-513449078b60",
+            "name": "lightning-nox-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nox-emissions",
+            "id": "5a6cbc7c-e139-49da-a8b5-ad5d86d7f428",
+            "name": "nox-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 125,
+        "recent": 1
+    }
+}

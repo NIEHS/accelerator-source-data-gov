@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "5b9c9069-7550-4426-b74c-5c671e5bd17f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jingrang Lu",
+    "maintainer_email": "lu.jingrang@epa.gov",
+    "metadata_created": "2020-11-12T13:41:40.822992",
+    "metadata_modified": "2020-11-12T13:41:40.823003",
+    "name": "phytoplankton-and-cyanobacteria",
+    "notes": "Phytoplankton and cyanobacteria. \n\nThis dataset is associated with the following publication:\nChen, K., J. Lu, and J. Allen. 12   Community structures of phytoplankton with emphasis of toxic cyanobacteria in an Ohio inland lake during bloom season.   ENVIRONMENTAL SCIENCE AND POLLUTION RESEARCH. Ecomed Verlagsgesellschaft AG, Landsberg,  GERMANY, 9(11): 1-29, (2017).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Phytoplankton and cyanobacteria",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.4236/jwarp.2017.911083"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "fee1cbfd-5abe-4f70-840f-966427939d08"
+        },
+        {
+            "key": "source_hash",
+            "value": "a03b0d8393d126a7a4f0f1a96b075694c54bd2cb"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-04-20"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1407678"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:40.841052",
+            "description": "Phytoplankton-Cyanobacteria.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "890e518c-07ce-4111-b34e-6a7fc0f0e0ef",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:40.841052",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Phytoplankton-Cyanobacteria.xlsx",
+            "package_id": "5b9c9069-7550-4426-b74c-5c671e5bd17f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407678/Phytoplankton-Cyanobacteria.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bloom",
+            "id": "d143afda-5a68-49e9-9d4c-c8acf4899756",
+            "name": "bloom",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lake",
+            "id": "ffcd7902-b5e4-4dc0-868d-43406de5b83f",
+            "name": "lake",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "phytoplankton",
+            "id": "f5c094bd-07db-45d6-8e01-11c62140505a",
+            "name": "phytoplankton",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxic-cyanobacteria",
+            "id": "6c607e8a-19af-46b9-80a2-0c3ce0d83d36",
+            "name": "toxic-cyanobacteria",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 109,
+        "recent": 1
+    }
+}

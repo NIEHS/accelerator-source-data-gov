@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "3f8ee33a-76c0-4b97-9c2e-3d3ad6edc1c8",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Katherine Ratliff",
+    "maintainer_email": "ratliff.katherine@epa.gov",
+    "metadata_created": "2022-11-06T11:52:50.032125",
+    "metadata_modified": "2022-11-06T11:52:50.032133",
+    "name": "complete-data-for-ms2-uvc-manuscript",
+    "notes": "The COVID-19 pandemic has raised interest in using devices that emit ultraviolet-C (UVC) radiation as an alternative approach to disinfecting surfaces, and an increasing number UVC devices are being marketed. Research to determine how effective these different UVC sources are against microorganisms and viruses is often conducted using different methods and laboratory conditions, which can make it difficult to compare results between studies and understand how effective UVC devices will be in real-world settings. In this research, we compare how some of these different experimental factors affect the efficacy of UVC light for disinfecting surfaces. We propose that microscopic differences between even smooth materials can potentially shield microorganisms and viruses from UVC light, making the surface an important factor in determining how effective the light can be, and that the UVC dose reported to achieve a 90% reduction cannot always be linearly extrapolated to predict the 99.9% reduction dose. Data included in this dataset are provided in support of this manuscript. \n\nThis dataset is associated with the following publication:\nRatliff, K., L. Oudejans, M. Calfee, A. Abdel-Hady, M. Monge, and L. Aslett. Evaluating the impact of ultraviolet C exposure conditions on coliphage MS2 inactivation on surfaces.   Letters in Applied Microbiology. Blackwell Publishing, Malden, MA, USA, 75(4): 933-941, (2022).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Complete Data for MS2 UVC Manuscript",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "4cd5fbb50a117fd6af593eb43a9c92f3c2722f67"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522675"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-06-28"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1111/lam.13770"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0a63a736-1c70-4687-b9ff-4fa62ae3802d"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-11-06T11:52:50.066607",
+            "description": "MS2%20UVC%20Manuscript_Complete%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8ceaa4fb-be6a-4470-846d-f64069a0088d",
+            "last_modified": null,
+            "metadata_modified": "2022-11-06T11:52:50.014429",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "MS2 UVC Manuscript_Complete Data.xlsx",
+            "package_id": "3f8ee33a-76c0-4b97-9c2e-3d3ad6edc1c8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522675/MS2%20UVC%20Manuscript_Complete%20Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "disinfection",
+            "id": "a92ed1ae-533d-493b-913b-70b9ba87a7df",
+            "name": "disinfection",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "indoor-outdoor-decontamination",
+            "id": "cc5227d9-3de6-47dc-85a7-ff02a4b3d7aa",
+            "name": "indoor-outdoor-decontamination",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ms2",
+            "id": "5e4503a6-d1bf-4e24-8251-34d0627f837a",
+            "name": "ms2",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "uvc",
+            "id": "ea168022-c175-4b78-9f2a-ed9b91739373",
+            "name": "uvc",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 77,
+        "recent": 1
+    }
+}

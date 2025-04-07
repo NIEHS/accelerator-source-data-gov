@@ -1,0 +1,409 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Sheau-Fung Thai",
+    "maintainer_email": "thai.sheau-fung@epa.gov",
+    "metadata_created": "2021-01-11T21:57:52.365134",
+    "metadata_modified": "2021-01-11T21:57:52.365141",
+    "name": "nano-cu-microrna-deg-list",
+    "notes": "data sets included in this study:\n\nDifferential Expressed gene lists for nano Cu CuCl2 treated HepG2 cells through RNA sequencing.\nDifferential Expressed microRNA lists for nano Cu and CuCl2 treated HepG2 cells through small RNA sequencing.\nSequencing data was quantified using Partek annotation and the STAR-2.5.3a aligner, aligned to human genome hg19.  Normalization and contrast were performed using DESeq2.  MicroRNA expression was quantified with mirDeep2.  Benjamini-Hochberg method for multi-testing correcton was included in DESeq2. ",
+    "num_resources": 10,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "nano Cu microRNA DEG list",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "aa4043f7-9939-4596-a85d-6cb6ad9fdc77"
+        },
+        {
+            "key": "source_hash",
+            "value": "3834e2642a13bb142f15c9dc372cad84ab3b69b9"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-03-05"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518402"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423579",
+            "description": "nano%20Cu%20miRNA%20lists.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "6a7512f0-7847-4999-88d1-fea115a83088",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423579",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "nano Cu miRNA lists.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/nano%20Cu%20miRNA%20lists.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423586",
+            "description": "CuCl2%20miRNA%20lists.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "53a6cd7b-cde3-4f13-a38e-cfadcd2e4e40",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423586",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "CuCl2 miRNA lists.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/CuCl2%20miRNA%20lists.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423589",
+            "description": "DEG-0.05-result_Cu_1_25.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "6dbcae8f-cb9d-44c3-9751-bc68ad50cce0",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423589",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-result_Cu_1_25.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/DEG-0.05-result_Cu_1_25.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423592",
+            "description": "DEG-0.05-result_Cu_2_5.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "74e228b8-00f8-4ed5-bfa0-ce667f9164c3",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423592",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-result_Cu_2_5.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/DEG-0.05-result_Cu_2_5.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423595",
+            "description": "DEG-0.05-result_Cu_5.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b9602fbf-b7eb-416d-9c27-3a16e6941cd2",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423595",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-result_Cu_5.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/DEG-0.05-result_Cu_5.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423598",
+            "description": "DEG-0.05-result_Cu_10.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "1b31b28c-9396-4cec-ac94-c186c8af42c8",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423598",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-result_Cu_10.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/DEG-0.05-result_Cu_10.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423600",
+            "description": "DEG-0.05-result_CuCl2_0_5.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "68417517-cb24-4919-a109-18f1ee308bb2",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423600",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-result_CuCl2_0_5.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/DEG-0.05-result_CuCl2_0_5.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423603",
+            "description": "DEG-0.05-result_CuCl2_0_25.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d7742795-b7a8-46e0-bf37-f50b5e33617e",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423603",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-result_CuCl2_0_25.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/DEG-0.05-result_CuCl2_0_25.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423606",
+            "description": "DEG-0.05-result_CuCl2_1.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9c2a3898-65f6-41d2-97d6-927119e35f69",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423606",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-result_CuCl2_1.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/DEG-0.05-result_CuCl2_1.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-11T21:57:52.423608",
+            "description": "DEG-0.05-result_CuCl2_3.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8f77fcd5-6394-475a-ab13-8ef46131108f",
+            "last_modified": null,
+            "metadata_modified": "2021-01-11T21:57:52.423608",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-result_CuCl2_3.xlsx",
+            "package_id": "510eb952-67e6-42e0-9363-dd910a0e34ae",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518402/DEG-0.05-result_CuCl2_3.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "hepg2-cells",
+            "id": "4871ee43-15b9-4b0a-a16d-c64b5e0726eb",
+            "name": "hepg2-cells",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microrna-expression",
+            "id": "a085f912-3288-445d-8e46-ef04f1e6c33d",
+            "name": "microrna-expression",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microrna-target-filter-analysis",
+            "id": "59fff788-6862-4edb-9586-630665029dd3",
+            "name": "microrna-target-filter-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nano-cu",
+            "id": "22d551a8-f978-4b9f-8d8f-3084481de2e3",
+            "name": "nano-cu",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "signaling-pathways",
+            "id": "040fe6c8-05db-44d5-99e1-dc3aa45ee4c2",
+            "name": "signaling-pathways",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "transcriptomics",
+            "id": "99bc3551-31fd-41b0-a88a-06f8c55e0217",
+            "name": "transcriptomics",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 23,
+        "recent": 1
+    }
+}

@@ -1,0 +1,351 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "4cc9bb32-9fc9-41b7-87da-e87b43d0f883",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "John Creed",
+    "maintainer_email": "creed.jack@epa.gov",
+    "metadata_created": "2022-04-21T01:13:22.070445",
+    "metadata_modified": "2022-04-21T01:13:22.070453",
+    "name": "paper-2-method-200-8",
+    "notes": "Data is for the Paper 2 Method 200.8 update on M2+ interference correction approaches. \n\nThis dataset is associated with the following publication:\nSmith, S., R. Martin, N. Hanks, P. Creed, K. Kovalcik, R. Wilson, K. Kubachka, J. Brisbin, J. Landero Figueroa, and J. Creed. An evaluation of M2+ interference correction approaches associated with As and Se in ICP-MS using a multi-day dataset along with ICP-MS/MS/HR-ICP-MS based analysis and hierarchical modeling as a means of assessing bias in fortified drinking waters and single component matrices.   JOURNAL OF ANALYTICAL ATOMIC SPECTROMETRY. Royal Society of Chemistry, Cambridge,  UK, 37(4): 898-909, (2022).",
+    "num_resources": 8,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Paper 2 Method 200.8",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1523150"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2021-09-27"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1039/d1ja00407g"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "f87635e5562e2c73f282616b5a47e6de89e8e3d5"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1629396b-4aa8-488c-86cd-de2dd7b13f5a"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-04-21T01:13:22.158127",
+            "description": "Supplemental%20Figure%20S3A%20and%20S3B.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3ddd3143-37c5-4b4d-9152-4affe9006434",
+            "last_modified": null,
+            "metadata_modified": "2022-04-21T01:13:22.158127",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Supplemental Figure S3A and S3B.xlsx",
+            "package_id": "4cc9bb32-9fc9-41b7-87da-e87b43d0f883",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523150/Supplemental%20Figure%20S3A%20and%20S3B.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-04-21T01:13:22.158134",
+            "description": "Supplemental%20Figure%20S1.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "615d0201-4104-4218-881d-3d6e2aa82ec3",
+            "last_modified": null,
+            "metadata_modified": "2022-04-21T01:13:22.158134",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Supplemental Figure S1.xlsx",
+            "package_id": "4cc9bb32-9fc9-41b7-87da-e87b43d0f883",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523150/Supplemental%20Figure%20S1.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-04-21T01:13:22.158138",
+            "description": "Figure%204.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3e07c44b-1655-4d70-8314-527cf394a6f7",
+            "last_modified": null,
+            "metadata_modified": "2022-04-21T01:13:22.158138",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 4.xlsx",
+            "package_id": "4cc9bb32-9fc9-41b7-87da-e87b43d0f883",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523150/Figure%204.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-04-21T01:13:22.158141",
+            "description": "Figure%203.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "05fabc19-befb-40ea-93e1-43fe5e1a6583",
+            "last_modified": null,
+            "metadata_modified": "2022-04-21T01:13:22.158141",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 3.xlsx",
+            "package_id": "4cc9bb32-9fc9-41b7-87da-e87b43d0f883",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523150/Figure%203.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-04-21T01:13:22.158143",
+            "description": "Figure%202%20A%20%26%20B.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0280b1fa-6a02-4823-aa5c-7b27bd54bce9",
+            "last_modified": null,
+            "metadata_modified": "2022-04-21T01:13:22.158143",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 2 A & B.xlsx",
+            "package_id": "4cc9bb32-9fc9-41b7-87da-e87b43d0f883",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523150/Figure%202%20A%20%26%20B.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-04-21T01:13:22.158146",
+            "description": "Figure%201%20paper%202%20Method%20200.8.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "abc25b27-708a-474f-ad7d-f2be45f7900d",
+            "last_modified": null,
+            "metadata_modified": "2022-04-21T01:13:22.158146",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 1 paper 2 Method 200.8.xlsx",
+            "package_id": "4cc9bb32-9fc9-41b7-87da-e87b43d0f883",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523150/Figure%201%20paper%202%20Method%20200.8.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-04-21T01:13:22.158148",
+            "description": "Modeling%20workflow%20supplement.html",
+            "format": "HTML",
+            "hash": "",
+            "id": "ed24fed2-c8cd-459f-b50c-4bebfb51ff16",
+            "last_modified": null,
+            "metadata_modified": "2022-04-21T01:13:22.158148",
+            "mimetype": "text/html",
+            "mimetype_inner": null,
+            "name": "Modeling workflow supplement.html",
+            "package_id": "4cc9bb32-9fc9-41b7-87da-e87b43d0f883",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523150/Modeling%20workflow%20supplement.html",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-04-21T01:13:22.158151",
+            "description": "Supplemental%20Figure%20S4.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "25ead8c7-1fc1-48f5-b438-58aa3aef322d",
+            "last_modified": null,
+            "metadata_modified": "2022-04-21T01:13:22.158151",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Supplemental Figure S4.xlsx",
+            "package_id": "4cc9bb32-9fc9-41b7-87da-e87b43d0f883",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523150/Supplemental%20Figure%20S4.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "icp-ms",
+            "id": "fc0146f1-174a-46ca-933d-4d12201835bf",
+            "name": "icp-ms",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "interference",
+            "id": "fec64af7-11d6-4751-9719-010bf5d7ee35",
+            "name": "interference",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "m2-corrections",
+            "id": "362aef09-db95-47e9-a0c0-d5de6226750d",
+            "name": "m2-corrections",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rare-earth-elements",
+            "id": "261b3299-5db6-423e-894a-5628837c3c6a",
+            "name": "rare-earth-elements",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 56,
+        "recent": 2
+    }
+}

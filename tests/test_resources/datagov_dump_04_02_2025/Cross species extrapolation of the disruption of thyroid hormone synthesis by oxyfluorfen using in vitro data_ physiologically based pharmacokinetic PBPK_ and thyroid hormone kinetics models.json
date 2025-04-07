@@ -1,0 +1,151 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "c6b9540f-6329-4d8b-805f-ab593a717f88",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Hisham El-Masri",
+    "maintainer_email": "el-masri.hisham@epa.gov",
+    "metadata_created": "2024-01-29T15:29:44.349266",
+    "metadata_modified": "2024-01-29T15:29:44.349272",
+    "name": "cross-species-extrapolation-of-the-disruption-of-thyroid-hormone-synthesis-by-oxyfluorfen-",
+    "notes": "How to access data for \"Decrane R, Stoker T, Murr A, Ford J, El-Masri H. Cross species extrapolation of the disruption of thyroid hormone synthesis by oxyfluorfen using in vitro data, physiologically based pharmacokinetic (PBPK), and thyroid hormone kinetics models. Curr Res Toxicol. 2023 Nov 23;5:100138. doi: 10.1016/j.crtox.2023.100138. PMID: 38074188; PMCID: PMC10697989.\". This dataset is not publicly accessible because: N/A. It can be accessed through the following means: Data will be made available on request from Hisham El-Masri (el-masri.hisham@epa.gov). Format: N/A. \n\nThis dataset is associated with the following publication:\nDecrane, R., T. Stoker, A. Murr, J. Ford, and H. El-Masri. Cross species extrapolation of the disruption of thyroid hormone synthesis by oxyfluorfen using in vitro data, physiologically based pharmacokinetic (PBPK), and thyroid hormone kinetics models.   Current Research in Toxicology. Elsevier B.V., Amsterdam,  NETHERLANDS, 5: 100138, (2023).",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Cross species extrapolation of the disruption of thyroid hormone synthesis by oxyfluorfen using in vitro data, physiologically based pharmacokinetic (PBPK), and thyroid hormone kinetics models",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "72e4cf62a4edb945b484905af2db0951641a7e0a751bf3f3fac5fa9a8a2ffbad"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1530082"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-11-14"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.crtox.2023.100138",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10697989"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "661ccd6a-f575-42ec-9b5d-a3e1b9265e22"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "biological-modeling",
+            "id": "516a99be-ab2d-4905-ac77-1f3041c26471",
+            "name": "biological-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oxyfluorfen",
+            "id": "971b1074-73b0-43b2-b566-ddecbb54f607",
+            "name": "oxyfluorfen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pbpk",
+            "id": "f379883d-327d-4da1-a30c-310f002ad6c3",
+            "name": "pbpk",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thyroid",
+            "id": "e502671c-50a1-40b6-b0d3-c221317d0768",
+            "name": "thyroid",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 7,
+        "recent": 1
+    }
+}

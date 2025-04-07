@@ -1,0 +1,184 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "1d4a80f7-14ae-40a7-b143-8550f43919a1",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Ahjond Garmestani",
+    "maintainer_email": "garmestani.ahjond@epa.gov",
+    "metadata_created": "2024-01-01T07:55:07.305207",
+    "metadata_modified": "2024-01-01T07:55:07.305213",
+    "name": "global-change-scenarios-in-coastal-deltas",
+    "notes": "For this study we explored future scenarios for 49 deltas, including\nthe most populated and largest coastal deltas in the world, as well as a\nrange of smaller and less populated deltas representing different climates,\nbiomes, and socio-economic development states (Fig. 2). The set\nof deltas corresponds to only a fraction of the total number of deltas\nglobally (cf. 235 large deltas of Reader et al., 2022; and the thousands of\ndeltas of Nienhuis et al., 2020), but were chosen to represent a wide\nrange of geographies and align with previous work on delta risk (Dunn\net al., 2019; Tessler et al., 2015) and the availability of limited data on\nland subsidence (Nicholls et al., 2021). For our analysis we chose a set of\n13 variables that represent various socio-economic and geophysical\npressures on deltas and are indicators of the different components of\ndelta risk as defined by Tessler et al. (2015) (Table 1). \n\nThis dataset is associated with the following publication:\nScown, M., F. Dunn, S. Dekker, D. van Vuuren, S. Karabil, E. Sutanudjaja, M. Santos, P. Minderhoud, A. Garmestani, and H. Middelkoop. Global change scenarios in coastal deltas and their sustainable development implications.   Global Environmental Change. Elsevier B.V., Amsterdam,  NETHERLANDS,  14, (2023).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Global change scenarios in coastal deltas",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "98cb965e195529dab12f7d0124999efc5e714df85a16505ccbb0aee1819a3306"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529592"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-08-15"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.gloenvcha.2023.102736",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10483986"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "774a4991-10cf-4176-8471-718a035a5ef6"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-01-01T07:55:07.313091",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "3eec90cf-8a33-42ee-a61c-29a9ce891e48",
+            "last_modified": null,
+            "metadata_modified": "2024-01-01T07:55:07.289890",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.1016/j.gloenvcha.2023.102736",
+            "package_id": "1d4a80f7-14ae-40a7-b143-8550f43919a1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://doi.org/10.1016/j.gloenvcha.2023.102736",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "coastal",
+            "id": "12841f81-fead-401a-96fe-90efc56e7a6a",
+            "name": "coastal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "deltas",
+            "id": "143aed1d-79f7-467c-a131-b227a85f5fc2",
+            "name": "deltas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "floodplains",
+            "id": "c3a3975f-095d-4029-811a-4c686d35b2e2",
+            "name": "floodplains",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "scenario",
+            "id": "25dc4a04-8f89-42e1-aa91-c734da33bbf9",
+            "name": "scenario",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 9,
+        "recent": 1
+    }
+}

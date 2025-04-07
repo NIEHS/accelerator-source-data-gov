@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "e5275701-48d8-4b46-b295-abf4b73e5489",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "John Walker",
+    "maintainer_email": "walker.johnt@epa.gov",
+    "metadata_created": "2021-10-04T12:34:43.285575",
+    "metadata_modified": "2021-10-04T12:34:43.285584",
+    "name": "acton-lake-methane-waldo-et-al-2020",
+    "notes": "This dataset summarizes methane emission rates and relationships with biophysical variables. \n\nThis dataset is associated with the following publication:\nWaldo, S., J. Beaulieu, W. Barnett, A. Balz, M. Vanni, T. Williamson, and J. Walker. Temporal trends in methane emissions from a small eutrophic reservoir: the key role of a spring burst.   Biogeosciences. Copernicus Publications, Katlenburg-Lindau,  GERMANY, 18(19): 5291-5311, (2021).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Acton Lake Methane_Waldo et al_2020",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1519031"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2020-07-04"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.5194/bg-18-5291-2021"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "008be275ce8718a4d2a92d5ed087772803b6d596"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "82adc9ce-50e5-4bdc-b852-f4fb924f1fa3"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-10-04T12:34:43.369110",
+            "description": "ActonCH4_SciHub_20200616.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "fe5c3fd8-bdf1-455a-9dde-9051c27523dc",
+            "last_modified": null,
+            "metadata_modified": "2021-10-04T12:34:43.369110",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ActonCH4_SciHub_20200616.xlsx",
+            "package_id": "e5275701-48d8-4b46-b295-abf4b73e5489",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1519031/ActonCH4_SciHub_20200616.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aquatic-biogeochemistry",
+            "id": "cfe3c866-f3b7-4a6d-9230-0e5e39b0fc50",
+            "name": "aquatic-biogeochemistry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "eddy-covariance",
+            "id": "0cc4a125-8b2d-4758-9a8f-1e2e99af1b96",
+            "name": "eddy-covariance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "greenhouse-gas-emissions",
+            "id": "cd8a1f0a-6537-4981-85b6-b0b4ebcbd636",
+            "name": "greenhouse-gas-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "methane",
+            "id": "8a86604e-586f-4609-bbb7-489e40eddd15",
+            "name": "methane",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 77,
+        "recent": 1
+    }
+}

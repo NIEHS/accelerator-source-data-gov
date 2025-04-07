@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "bd95befe-7238-4d63-981e-7d6e07412856",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Richard Haugland",
+    "maintainer_email": "haugland.rich@epa.gov",
+    "metadata_created": "2021-07-16T13:22:49.208329",
+    "metadata_modified": "2021-07-16T13:22:49.208337",
+    "name": "scihub-data-for-haugland-et-al-jmm-2020",
+    "notes": "Paired data for estimates of E. coli concentrations by culture analysis and E. coli gene copies by Draft Method C for 6965 ambient water samples from state of Michigan. \n\nThis dataset is associated with the following publication:\nHaugland, R., K. Oshima, and M. Sivaganesan. Large-scale comparison of E. coli levels determined by culture and a qPCR method (EPA Draft Method C) in Michigan towards the implementation of rapid, multi-site beach testing.   JOURNAL OF MICROBIOLOGICAL METHODS. Elsevier Science Ltd, New York, NY, USA, 184: 106186, (2021).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "SciHub Data for Haugland et al JMM 2020",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.mimet.2021.106186"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "bc0494c0-d91f-4f17-aa65-56b11d051049"
+        },
+        {
+            "key": "source_hash",
+            "value": "409fdf60232513cf67770afb3eb55296134d4d59"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-08-26"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522590"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-16T13:22:49.250876",
+            "description": "SciHub%20Data%20for%20Haugland%20et%20al%20JMM%202020.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ed779c2c-d33e-4aaa-a6c5-32ae724e1a65",
+            "last_modified": null,
+            "metadata_modified": "2021-07-16T13:22:49.250876",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "SciHub Data for Haugland et al JMM 2020.xlsx",
+            "package_id": "bd95befe-7238-4d63-981e-7d6e07412856",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522590/SciHub%20Data%20for%20Haugland%20et%20al%20JMM%202020.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "exceedances",
+            "id": "337669c6-3447-4859-8a94-d3fbccb6ca8a",
+            "name": "exceedances",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "linear-regression-models",
+            "id": "148c08c9-0b7d-4126-ab73-ee02dfb5c66b",
+            "name": "linear-regression-models",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pearson-r-square",
+            "id": "e1c4ab63-8ad4-4cec-8740-d2c089216013",
+            "name": "pearson-r-square",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality-thresholds",
+            "id": "6c078ec0-a245-4c3a-85fb-88c6d3da1b27",
+            "name": "water-quality-thresholds",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 76,
+        "recent": 2
+    }
+}

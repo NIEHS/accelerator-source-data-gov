@@ -1,0 +1,246 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "774bbd0d-1826-463b-8ef9-9ef59c932937",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Elizabeth Radke-Farabaugh",
+    "maintainer_email": "radke-farabaugh.elizabeth@epa.gov",
+    "metadata_created": "2021-08-16T16:04:48.998923",
+    "metadata_modified": "2021-08-16T16:04:48.998932",
+    "name": "meta-analysis-components-for-phthalate-exposure-and-neurodevelopment",
+    "notes": "Results of meta-analysis of studies of phthalate exposures and neurodevelopmental outcomes. Specifically, a meta-analysis was run for each phthalate (DEHP, DBP, DIBP, BBP, DEP) for Bayley Scales of Infant Development subscales (Mental Development Index [MDI] and Psychomotor Development Index [PDI]) for total (combined sexes), and stratified by sex. \n\nThis dataset is associated with the following publication:\nRadke-Farabaugh, E., J. Braun, R. Nachman, and G. Cooper. Phthalate exposure and neurodevelopment: a systematic review and meta-analysis of human epidemiological evidence.   ENVIRONMENT INTERNATIONAL. Elsevier B.V., Amsterdam,  NETHERLANDS, 137: 105408, (2020).",
+    "num_resources": 1,
+    "num_tags": 14,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Meta-analysis components for phthalate exposure and neurodevelopment",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:062"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.envint.2019.105408"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "22147810-b522-45fe-baad-1c52c142ec31"
+        },
+        {
+            "key": "source_hash",
+            "value": "cc2fdb39f898da0e365bd78c6a3e10f3bd3199ec"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-04-09"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503820"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-08-16T16:04:49.052972",
+            "description": "MA-neurodev-ScienceHub-final.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3240c6fc-a8fb-4cd4-965e-7ae599194c4f",
+            "last_modified": null,
+            "metadata_modified": "2021-08-16T16:04:49.052972",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "MA-neurodev-ScienceHub-final.xlsx",
+            "package_id": "774bbd0d-1826-463b-8ef9-9ef59c932937",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 6,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503820/MA-neurodev-ScienceHub-final.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "attention-deficit-disorder",
+            "id": "43d15195-c234-44af-91b9-6bcfe8bde1e4",
+            "name": "attention-deficit-disorder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "autism-spectrum-disorder",
+            "id": "f59d666d-d158-4a39-bc5a-e0ab30e5c099",
+            "name": "autism-spectrum-disorder",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bbp",
+            "id": "1f708d8e-c825-429a-b1cd-148ccf9d8f3f",
+            "name": "bbp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "behavior",
+            "id": "c392e9a6-c37d-4d20-8ac4-1232ac3c08ac",
+            "name": "behavior",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cognition",
+            "id": "ebe839f9-9bf3-427b-b972-cc2633b54e6f",
+            "name": "cognition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dbp",
+            "id": "0a0fed0a-d519-450d-a0c9-7a5ae574ed70",
+            "name": "dbp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dehp",
+            "id": "0f104fa5-735a-481a-ad84-edc2a3100af0",
+            "name": "dehp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dep",
+            "id": "fdd3bfa6-8e8d-4d46-b2c2-e9b1cd9e9e33",
+            "name": "dep",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dibp",
+            "id": "a72addcc-3725-46ac-a0f5-eeb72f4ccc53",
+            "name": "dibp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dinp",
+            "id": "2cff65a6-79ba-4ea5-91f6-8119cdb3fdb8",
+            "name": "dinp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "motor-effects",
+            "id": "263de688-7bea-4029-9f1b-b49fdc45b46c",
+            "name": "motor-effects",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "neurodevelopment",
+            "id": "51293849-e6f8-462b-83b2-8ac356621492",
+            "name": "neurodevelopment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "phthalates",
+            "id": "0d7e8dbf-1d6d-49bd-a780-8539223c92be",
+            "name": "phthalates",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "systematic-review",
+            "id": "b5ca1d09-167c-4ebc-a28e-59eb3ca6370b",
+            "name": "systematic-review",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 204,
+        "recent": 2
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "16fa8620-2c20-4421-bd22-ad87712731ac",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Schock",
+    "maintainer_email": "schock.michael@epa.gov",
+    "metadata_created": "2020-11-12T13:46:25.519621",
+    "metadata_modified": "2020-11-12T13:46:25.519632",
+    "name": "compilation-of-all-analytical-data-for-field-sampling",
+    "notes": "This dataset contains the data dictionary in one worksheet, describing the fields of analytical data and descriptive data relating to each of the grab samples taken for the project (second worksheet).  The data dictionary also describes caveats and limitations of the data. \n\nThis dataset is associated with the following publication:\nBosscher, V., D. Lytle, M. Schock, A. Porter, and M. Deltoral. POU Water Filters Effectively Reduce Lead in Drinking Water: A Demonstration Field Study in Flint, Michigan.   ENVIRONMENTAL HEALTH PERSPECTIVES. National Institute of Environmental Health Sciences (NIEHS), Research Triangle Park, NC, USA, 54(5): 484-493, (2019).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Compilation of all analytical data for field sampling",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1080/10934529.2019.1611141"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "ae73efa5-f956-4da1-aeaf-def2a43fffe3"
+        },
+        {
+            "key": "source_hash",
+            "value": "441e4ff3c24cf9dc2e088a2a3b6c154023e3f764"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-10-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503072"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:46:25.525988",
+            "description": "Full%20Dataset%20-%20Flint%20Filter%20Paper.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "dcd4109f-8052-4e81-86c3-55ba797aca76",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:46:25.525988",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Full Dataset - Flint Filter Paper.xlsx",
+            "package_id": "16fa8620-2c20-4421-bd22-ad87712731ac",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503072/Full%20Dataset%20-%20Flint%20Filter%20Paper.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water-treatment-unit",
+            "id": "33d08dc4-8958-4732-b0ad-ed4a8d773dbc",
+            "name": "drinking-water-treatment-unit",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "filter",
+            "id": "f1d27b43-7e4d-4dc8-b96e-0a28e2d8ce72",
+            "name": "filter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lead",
+            "id": "3208a57e-f3bb-4d6c-9a9a-b0101de6d5e0",
+            "name": "lead",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pou",
+            "id": "3e9f96d4-60fb-41ae-b828-d7f0ce7bced3",
+            "name": "pou",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 122,
+        "recent": 1
+    }
+}

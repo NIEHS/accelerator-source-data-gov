@@ -1,0 +1,177 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "01a59274-82c4-4b38-a0ae-3a8253cb0277",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Susan Cormier",
+    "maintainer_email": "cormier.susan@epa.gov",
+    "metadata_created": "2021-03-15T17:53:50.112587",
+    "metadata_modified": "2021-03-15T17:53:50.112596",
+    "name": "cormier-s-m-2017-dataset-for-a-field-based-model-of-the-relationship-between-extirpation-o",
+    "notes": "Data sets and individual XCD results used to develop the field-based benchmarks are available at the U.S. EPA Environmental Dataset Gateway (https://doi.org/10.23719/1371707) (Cormier, 2017). Data are contained in three zip files. The folder \u201cBiological.zip\u201d contains occurrences of benthic invertebrate genera in 24 state data sets.  This paper uses only the data from West Virginia ecoregions 69 and 70. The folder \u201cEnvironmental.zip\u201d contains environmental data sorted into 24 data sets. The folder \u201cmodel.zip\u201d contains the calculated XC95 values, probability of observation plots as generalized additive models, and the cumulative frequency distribution for benthic invertebrate genera from WV69 and 70 plus data sets used to develop other models not discussed in this paper. \n\nA spreadsheet for calculating XC95 values and XCD05 is described in Cormier et al. (2018c). The tools, data sets, example calculations, and example outputs are available online at https://wiley.figshare.com/ieam and https://github.com/smcormier/Biological-Extirpation-Analysis-Tools-BEAT/releases/tag/v.1.0.2. Alternatively, calculation of XC95, GAM plots, XCD05 can be calculated using batch R-code. Similarly, the R-code and data sets are available on GitHub (https://github.com/leppott/XC95).\n\n",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Cormier, S.M., 2017. Dataset for: A Field-based Model of the Relationship Between Extirpation of Salt-intolerant Benthic Invertebrates and Background Conductivity. USEPA Environmental Dataset Gateway.  https://doi.org/10.23719/1371707",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "fe961a33-74ad-4f9d-995e-3afa92f641d9"
+        },
+        {
+            "key": "source_hash",
+            "value": "c8bc901ddebcb2e241c607423bf37ba0f43c484f"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-11-20"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518682"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-15T17:53:50.122614",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "4f869578-87b7-4962-bbc0-d5260e46b49b",
+            "last_modified": null,
+            "metadata_modified": "2021-03-15T17:53:50.122614",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.23719/1371707",
+            "package_id": "01a59274-82c4-4b38-a0ae-3a8253cb0277",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://doi.org/10.23719/1371707",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environmental-benchmarks",
+            "id": "9529d8cc-3bd1-4ee5-8687-b2362b9822f0",
+            "name": "environmental-benchmarks",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "field-based",
+            "id": "8995ea58-5506-4a04-afba-d2e7d2b8ff89",
+            "name": "field-based",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "permutation",
+            "id": "569eaebd-b903-49b9-906c-0504a5ff6c02",
+            "name": "permutation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sample-size",
+            "id": "6e26cdd1-994a-47fc-8715-49df16bad2ef",
+            "name": "sample-size",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thresholds",
+            "id": "8ffc36d6-b427-4003-aaac-2ef860c9e3c4",
+            "name": "thresholds",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 37,
+        "recent": 2
+    }
+}

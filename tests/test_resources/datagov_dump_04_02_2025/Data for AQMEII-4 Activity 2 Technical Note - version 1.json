@@ -1,0 +1,136 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "4167aaeb-1e16-4641-b257-c6d1049652bc",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Donna Schwede",
+    "maintainer_email": "schwede.donna@epa.gov",
+    "metadata_created": "2023-09-17T15:16:22.026257",
+    "metadata_modified": "2023-09-17T15:16:22.026263",
+    "name": "data-for-aqmeii-4-activity-2-technical-note-version-1",
+    "notes": "The data set consists of measurements obtained during ozone flux studies. This dataset is not publicly accessible because: The data is not publicly available and is only available to activity participants via a password protected site. It can be accessed through the following means: Some data sets are available publicly as cited in the references.  Other data sets must be obtained directly from the principal investigator who conducted the experimental study. Format: The data files are in text format. \n\nThis dataset is associated with the following publication:\nClifton, O., D. Schwede, C. Hogrefe, J. Bash, S. Bland, P. Cheung, M. Coyle, L. Emberson, J. Fleming, E. Fredj, S. Galmarini, L. Ganzeveld, O. Gazetas, I. Goded, C. Holmes, L. Horv\u00e1th, V. Huijnen, Q. Li, P. Makar, I. Mammarella, G. Manca, W. Munger, J. P\u00e9rez-Camanyo, J. Pleim, L. Limei Ran, R. San Jose, S. Silva, R. Staebler, S. Sun, A. Tai, E. Tas, T. Vesala, T. Weidinger, Z. Wu, and L. Zhang. A single-point modeling approach for the intercomparison and evaluation of ozone dry deposition across chemical transport models (Activity 2 of AQMEII4).   Atmospheric Chemistry and Physics. Copernicus Publications, Katlenburg-Lindau,  GERMANY, 23(17): 9911\u20139961, (2023).",
+    "num_resources": 0,
+    "num_tags": 2,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data for AQMEII-4 Activity 2 Technical Note - version 1",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "4eb2fdc245c4ede82d77fc5fdda7a5708ea5f2a1d214bafee66a1e4aba358590"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1523122"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-09-15"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.5194/acp-23-9911-2023"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8ffdef23-5775-469e-8379-be63ba02b32b"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "atmospheric-deposition",
+            "id": "e85c2b66-44c1-4d2b-a7cc-3c1008b12165",
+            "name": "atmospheric-deposition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 9,
+        "recent": 2
+    }
+}

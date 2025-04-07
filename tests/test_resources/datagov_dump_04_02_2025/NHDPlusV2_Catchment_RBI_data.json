@@ -1,0 +1,191 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "3d1f4171-1205-4fa6-9fad-7c9ad370c910",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Justin Bousquin",
+    "maintainer_email": "bousquin.justin@epa.gov",
+    "metadata_created": "2020-11-12T13:45:35.848026",
+    "metadata_modified": "2020-11-12T13:45:35.848036",
+    "name": "nhdplusv2-catchment-rbi-data",
+    "notes": "Table of RBI metrics aggregated to each catchment. \n\nThis dataset is associated with the following publication:\nBousquin, J., and H. Kristen. A Geospatial Assessment of Flood Vulnerability Reduction by Freshwater Wetlands \u2013 A Benefit Indicators Approach.   Frontiers in Environmental Science. Frontiers, Lausanne,  SWITZERLAND, 7: 54, (2019).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "NHDPlusV2_Catchment_RBI_data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "text/plain"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3389/fenvs.2019.00054"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f031d20c-e0e0-47d0-82ad-748747437701"
+        },
+        {
+            "key": "source_hash",
+            "value": "8cb697f8f193edf0dfb1ad68b17a345113b23d7c"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-10-05"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503669"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1503669/documents/NHDPlusV2_Catchment_RBI_data_data_table.txt"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:35.867041",
+            "description": "NHDPlusV2_Catchment_RBI_data.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "dd75f838-69f4-4357-b212-bc4fb2d4a4f4",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:35.867041",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "NHDPlusV2_Catchment_RBI_data.zip",
+            "package_id": "3d1f4171-1205-4fa6-9fad-7c9ad370c910",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503669/NHDPlusV2_Catchment_RBI_data.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "benefit-indicators",
+            "id": "07908cfb-abe7-45ca-81c6-840bed51a951",
+            "name": "benefit-indicators",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "flooding",
+            "id": "6a3beb71-388e-4517-bc9e-7d0239fdfd67",
+            "name": "flooding",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "geospatial-analysis",
+            "id": "42b8dca3-1fcb-4a6d-bdba-c905c3fc5d09",
+            "name": "geospatial-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "resilience",
+            "id": "af13db60-2555-426c-b876-f0ea147c62e3",
+            "name": "resilience",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetlands",
+            "id": "9cdeb6f3-52c8-4dfa-8b62-8e5ba8d7cc56",
+            "name": "wetlands",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 252,
+        "recent": 1
+    }
+}

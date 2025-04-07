@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "41087531-d5e3-4575-9ec9-36c36347d044",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Grace Patlewicz",
+    "maintainer_email": "patlewicz.grace@epa.gov",
+    "metadata_created": "2023-01-06T23:28:20.252842",
+    "metadata_modified": "2023-01-06T23:28:20.252848",
+    "name": "development-of-a-csrml-version-of-the-analog-identification-methodology-aim-fragments-and-",
+    "notes": "Dataset for \"Development of a CSRML version of the Analog Identification Methodology (AIM) fragments and their evaluation within the Generalised Read-Across (GenRA) approach.\u201d. \n\nThis dataset is associated with the following publication:\nAdams, M., H. Hilde, D. Chang, A. Richard, A. Williams, I. Shah, and G. Patlewicz. Development of a CSRML version of the Analog identification Methodology (AIM) fragments and their evaluation within the Generalised Read-Across (GenRA) approach.   Computational Toxicology. Elsevier B.V., Amsterdam,  NETHERLANDS, 25: 100256, (2023).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Development of a CSRML version of the Analog Identification Methodology (AIM) fragments and their evaluation within the Generalised Read-Across (GenRA) approach",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "40b87e000985d0732eb12681c759f1aa6fc1bbc1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528336"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-12-02"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.comtox.2022.100256"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6c9fccff-fb90-42b5-9ac3-586aeffb6ed6"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-01-06T23:28:20.281335",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "7dd79181-aede-405b-a01a-c9cb8e963259",
+            "last_modified": null,
+            "metadata_modified": "2023-01-06T23:28:20.235711",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://clowder.edap-cluster.com/files/6397501ae4b04f6bb149ea74?dataset=61147fefe4b0856fdc65639b&space=&folder=63974ee6e4b04f6bb149ea47",
+            "package_id": "41087531-d5e3-4575-9ec9-36c36347d044",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://clowder.edap-cluster.com/files/6397501ae4b04f6bb149ea74?dataset=61147fefe4b0856fdc65639b&space=&folder=63974ee6e4b04f6bb149ea47",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "acute-toxicity-ld50",
+            "id": "00da625c-c122-43ed-9f3c-321151b6d685",
+            "name": "acute-toxicity-ld50",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aim",
+            "id": "5bed348b-9f40-46fa-81ed-b4e24fbc5a78",
+            "name": "aim",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "classyfire",
+            "id": "fe0f633f-10ad-44fb-8a8e-f5d180ad18f7",
+            "name": "classyfire",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "csrml",
+            "id": "339c9d7c-c28d-4de3-964d-09e4eeff9509",
+            "name": "csrml",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "genra",
+            "id": "c26179f4-1b8c-411a-b60e-52a37facb776",
+            "name": "genra",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxprints",
+            "id": "886c4fdf-63ed-40c4-9522-dc75ab98ea45",
+            "name": "toxprints",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 23,
+        "recent": 1
+    }
+}

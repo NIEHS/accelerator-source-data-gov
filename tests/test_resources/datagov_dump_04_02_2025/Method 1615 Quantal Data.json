@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "5569d0ce-641f-4cc5-89ea-d415818a9c97",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jennifer Cashdollar",
+    "maintainer_email": "cashdollar.jennifer@epa.gov",
+    "metadata_created": "2020-11-12T13:43:06.127038",
+    "metadata_modified": "2020-11-12T13:43:06.127048",
+    "name": "method-1615-quantal-data",
+    "notes": "Groundwater samples and reageant grade water samples. \n\nThis dataset is associated with the following publication:\nFout , S., and J. Cashdollar. EPA Method 1615. Measurement of Enterovirus and Norovirus Occurrence in Water by Culture and RT-qPCR. II. Total Culturable Virus Assay.   Journal of Visualized Experiments. JoVE, Somerville, MA, USA, 115: e52437, (2016).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Method 1615 Quantal Data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3791/52437"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "689430da-7a2d-49ad-ab2c-8088b698ace3"
+        },
+        {
+            "key": "source_hash",
+            "value": "c9f9cfbdc11fc3f6238a48891b1f2e6d69d471d0"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2014-09-17"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1407572"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:06.131703",
+            "description": "Final%20Corrected%20quantal%20data%20for%20JoVE%20II%2029Jun17.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d02607da-e549-4dca-968a-1c8a730fd0f9",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:06.131703",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Final Corrected quantal data for JoVE II 29Jun17.xlsx",
+            "package_id": "5569d0ce-641f-4cc5-89ea-d415818a9c97",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407572/Final%20Corrected%20quantal%20data%20for%20JoVE%20II%2029Jun17.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "occurrence",
+            "id": "cab40a44-e1c4-4cf6-9158-6fe2187fdf76",
+            "name": "occurrence",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "total-culturable-virus-assay",
+            "id": "2c8ad114-f928-44c3-ad74-d567f26fe449",
+            "name": "total-culturable-virus-assay",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "virus",
+            "id": "76cbf985-0edc-4f4d-bfc5-8bb757e7cd05",
+            "name": "virus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waterborne",
+            "id": "f7c62290-817c-4eb5-9f89-76fdb21cdf00",
+            "name": "waterborne",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 177,
+        "recent": 1
+    }
+}

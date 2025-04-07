@@ -1,0 +1,219 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "550bf824-7c32-4591-b120-3cefeba101f4",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Catherine Birney",
+    "maintainer_email": "birney.catherine@epa.gov",
+    "metadata_created": "2021-06-12T00:12:33.489801",
+    "metadata_modified": "2023-07-25T06:49:00.657494",
+    "name": "national-land-occupation-totals-by-industry-2012",
+    "notes": "This dataset contains 2012 national level land occupation totals by North American Industry Classification System (NAICS) 2012 6-digit codes. This dataset was created in FLOWSA, a publicly available python package that generates standardized environmental flows by industry. \n\nThis dataset is associated with the following publication:\nIngwersen, W.W., M. Li, B. Young, J. Vendries, and C. Birney. USEEIO v2.0, The US Environmentally-Extended InputOutput Model v2.0.   Scientific Data. Springer Nature Group, New York, NY,   194, (2022).",
+    "num_resources": 2,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "National Land Occupation Totals By Industry 2012",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "22629d54a210ce7a292e448d31f985be902e0ffd"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520954"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-04-27"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1038/s41597-022-01293-7"
+            ]
+        },
+        {
+            "key": "describedBy",
+            "value": "https://github.com/USEPA/flowsa/blob/54f9368942eb9234806aaacc0ae105bb477dcbb8/format%20specs/FlowBySector.md"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4f073554-0976-4a96-9097-3cfc9e2dc206"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-25T06:49:00.709450",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "e2f80577-253b-4230-9176-c3a374382bb5",
+            "last_modified": null,
+            "metadata_modified": "2023-07-25T06:49:00.678010",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/Land_national_2012_v0.1.1_66af8ab.parquet",
+            "package_id": "550bf824-7c32-4591-b120-3cefeba101f4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://dmap-data-commons-ord.s3.amazonaws.com/flowsa/FlowBySector/Land_national_2012_v0.1.1_66af8ab.parquet",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-12T00:12:33.564904",
+            "description": "Land_national_2012_v0.1.1_66af8ab.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "690ef2a5-f28a-4595-b928-bd8c5554a21d",
+            "last_modified": null,
+            "metadata_modified": "2021-06-12T00:12:33.564904",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Land_national_2012_v0.1.1_66af8ab.csv",
+            "package_id": "550bf824-7c32-4591-b120-3cefeba101f4",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520954/Land_national_2012_v0.1.1_66af8ab.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "input-output-data",
+            "id": "c81db1b1-a86e-432d-8fb1-71c87d052790",
+            "name": "input-output-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land-use",
+            "id": "654cca31-2f3e-484d-8172-d3135df7bc74",
+            "name": "land-use",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-assessment",
+            "id": "5f206d22-5675-4b27-aa71-99155591d1d5",
+            "name": "life-cycle-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-inventory-data",
+            "id": "9379a1c4-6da5-456a-a992-f09eb8a52def",
+            "name": "life-cycle-inventory-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "naics",
+            "id": "743d4172-c4ca-4db6-ae13-7c107f6cf47a",
+            "name": "naics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sustainability",
+            "id": "a1f8f71a-0bf8-4572-98f9-2cd9a7ea9cd7",
+            "name": "sustainability",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 35,
+        "recent": 1
+    }
+}

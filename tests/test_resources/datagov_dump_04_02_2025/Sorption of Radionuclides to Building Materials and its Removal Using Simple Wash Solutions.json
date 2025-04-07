@@ -1,0 +1,211 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c137c1a9-5128-49ce-a8ae-640445586767",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Matthew Magnuson",
+    "maintainer_email": "magnuson.matthew@epa.gov",
+    "metadata_created": "2020-11-12T13:36:58.684077",
+    "metadata_modified": "2020-11-12T13:36:58.684087",
+    "name": "sorption-of-radionuclides-to-building-materials-and-its-removal-using-simple-wash-solution",
+    "notes": "Data corresponding to the figures in the paper. \n\nThis dataset is associated with the following publication:\nKaminski, M., C. Mertz, L. Ortega, and N. Kivenas. Sorption of Radionuclides to Building Materials and its Removal Using Simple Wash Solutions.   Journal of Environmental Chemical Engineering. Elsevier B.V., Amsterdam,  NETHERLANDS,  ., (2016).",
+    "num_resources": 1,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Sorption of Radionuclides to Building Materials and its Removal Using Simple Wash Solutions",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:060"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jece.2016.02.004"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6922a8b8-7076-485a-821f-353234e8b622"
+        },
+        {
+            "key": "source_hash",
+            "value": "3e9ce718f961cb06d64b4efa8630cbbe4fb9d60a"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2012-01-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-t1gn-310"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:36:58.733014",
+            "description": "Data%20for%20A-t1gn.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d98116e9-db29-4128-a883-3cd96053e179",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:36:58.733014",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Data for A-t1gn.xlsx",
+            "package_id": "c137c1a9-5128-49ce-a8ae-640445586767",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/310/Data%20for%20A-t1gn.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "ammonium",
+            "id": "85518dfb-9323-4916-9e25-8d1a08262bd2",
+            "name": "ammonium",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cesium-137",
+            "id": "6a583280-d3d7-47b2-8267-9b345382679a",
+            "name": "cesium-137",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "concrete",
+            "id": "86e5f67c-3b65-4591-a37c-5cafc0d0b576",
+            "name": "concrete",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "decontamination",
+            "id": "076c6307-6979-45c1-9b34-8c7ef39d011b",
+            "name": "decontamination",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dirty-bomb",
+            "id": "2013d2e8-a44e-44b8-958f-3b9da8209667",
+            "name": "dirty-bomb",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nuclear-power-plant",
+            "id": "ff9ba8d8-8c3a-4756-8679-4af2c0dad438",
+            "name": "nuclear-power-plant",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radioactive-contamination",
+            "id": "ae218dd3-885e-4e64-ad16-9ac1988eceee",
+            "name": "radioactive-contamination",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radiological-disperal-device",
+            "id": "b7ff57d0-626f-4adb-ac07-36701fe3de63",
+            "name": "radiological-disperal-device",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation",
+            "id": "d7a31147-fbf4-4cc4-9813-fcd875012e5c",
+            "name": "remediation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 87,
+        "recent": 1
+    }
+}

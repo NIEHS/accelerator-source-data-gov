@@ -1,0 +1,261 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "41d36e1c-e807-4796-969f-f2002b068e1c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "US EPA DATA Act Workgroup",
+    "maintainer_email": "DATAActInquiries@epa.gov",
+    "metadata_created": "2020-11-29T22:03:45.345348",
+    "metadata_modified": "2022-05-20T22:52:56.135684",
+    "name": "deobligations-recoveries-refunds-by-tas-cpe",
+    "notes": "The amount of downward adjustments to obligations and outlays resulting from deobligations, recoveries, or refunds collected, summarized at the TAS level. The adjustments are to the obligations and outlays which were made in a prior year.",
+    "num_resources": 3,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Deobligations Recoveries Refunds By TAS_CPE",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "conformsTo",
+            "value": "https://www.fiscal.treasury.gov/fsservices/gov/data-trans/dt-daims.htm"
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "issued",
+            "value": "2018-09-02"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:028"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "f4bb06d956ad27cf708a5b5e8ef43173053d6eac"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/epa_data_license.html"
+        },
+        {
+            "key": "language",
+            "value": [
+                "en-US"
+            ]
+        },
+        {
+            "key": "modified",
+            "value": "2018-07-31"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/PUBLIC/OCFO/Metadata/DataAct.json"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "R/P3M"
+        },
+        {
+            "key": "dataQuality",
+            "value": true
+        },
+        {
+            "key": "identifier",
+            "value": "21927f28-a583-11e8-98d0-529269fb1459"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://www.fiscal.treasury.gov/fsservices/gov/data-trans/dt-daims.htm"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2ffb7b57-a749-4251-86a9-7e52f17b7188"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "875567e9-df06-4595-9e03-f0d6a7766361"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Data Act Harvest"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-29T22:03:45.349909",
+            "description": "USAspending.gov is the official source for spending data for the U.S. Government. Its mission is to show the American public what the federal government spends every year and how it spends the money. You can follow the money from the Congressional appropriations to the federal agencies and down to local communities and businesses",
+            "format": "",
+            "hash": "",
+            "id": "5c480698-d45a-4a58-a440-11ac1f1e1445",
+            "last_modified": null,
+            "metadata_modified": "2020-11-29T22:03:45.349909",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "usaspending.gov",
+            "package_id": "41d36e1c-e807-4796-969f-f2002b068e1c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://api.usaspending.gov/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 20,
+                "recent": 4
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-05-20T22:52:56.182226",
+            "description": "USAspending.gov is the official source for spending data for the U.S. Government. Its missiex.htmlon is to show the American public what the federal government spends every year and how it spends the money. You can follow the money from the Congressional appropriations to the federal agencies and down to local communities and businesses",
+            "format": "",
+            "hash": "",
+            "id": "08c9de72-33f6-40f9-b8ef-f70d0505292c",
+            "last_modified": null,
+            "metadata_modified": "2022-05-20T22:52:56.182226",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "usaspending.gov",
+            "package_id": "41d36e1c-e807-4796-969f-f2002b068e1c",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.usaspending.gov/agency/environmental-protection-agency",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 5,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-05-20T22:52:56.182236",
+            "description": "EPA File A submission to comply with the DATA Act.",
+            "format": "CSV",
+            "hash": "",
+            "id": "ee869eb0-0dae-449d-8c07-ddb33ddb4ef9",
+            "last_modified": null,
+            "metadata_modified": "2022-05-20T22:52:56.182236",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Raw Quarterly DATA Act Files - Environmental Protection Agency (EPA) / File A, Appropriations",
+            "package_id": "41d36e1c-e807-4796-969f-f2002b068e1c",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.usaspending.gov/download_center/award_data_archive",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 26,
+                "recent": 4
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "a-11",
+            "id": "0628babf-a92c-411d-bf87-6057271a4d28",
+            "name": "a-11",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "budgetary-reporting",
+            "id": "1f4cc7bf-51ae-4627-a054-b822f77c03a6",
+            "name": "budgetary-reporting",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "current-period-financial-reporting",
+            "id": "033b3b5c-1a21-4341-8962-115af97d432c",
+            "name": "current-period-financial-reporting",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "deobligations-recoveries-refunds",
+            "id": "11735690-e374-4e15-96e9-7d1e49ae007a",
+            "name": "deobligations-recoveries-refunds",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "omb-circular-a-11",
+            "id": "9e71fbeb-0150-4540-9bc0-06057db91a60",
+            "name": "omb-circular-a-11",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 86,
+        "recent": 1
+    }
+}

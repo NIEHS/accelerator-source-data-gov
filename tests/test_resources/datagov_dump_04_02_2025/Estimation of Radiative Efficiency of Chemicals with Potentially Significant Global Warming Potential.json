@@ -1,0 +1,170 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "713f8a74-1c6c-4a64-948a-b2a5434a6d8c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Leon Betowski",
+    "maintainer_email": "betowski.don@epa.gov",
+    "metadata_created": "2020-11-12T13:35:48.344246",
+    "metadata_modified": "2020-11-12T13:35:48.344254",
+    "name": "estimation-of-radiative-efficiency-of-chemicals-with-potentially-significant-global-warmin",
+    "notes": "The set of commercially available chemical substances in commerce that may have significant global warming potential (GWP) is not well defined. Although there are currently over 200 chemicals with high GWP reported by the Intergovernmental Panel on Climate Change, World Meteorological Organization, or Environmental Protection Agency, there may be hundreds of additional chemicals that may also have significant GWP. Evaluation of various approaches to estimate radiative efficiency (RE) and atmospheric lifetime will help to refine GWP estimates for compounds where no measured IR spectrum is available. This study compares values of RE calculated using computational chemistry techniques for 235 chemical compounds against the best available values. It is important to assess the reliability of the underlying computational methods for computing RE to understand the sources of deviations from the best available values. Computed vibrational frequency data is used to estimate RE values using several Pinnock-type models. The values derived using these models are found to be in reasonable agreement with reported RE values (though significant improvement is obtained through scaling). The effect of varying the computational method and basis set used to calculate the frequency data is also discussed. It is found that the vibrational intensities have a strong dependence on basis set and are largely responsible for differences in computed values of RE in this study. Deviations of calculated RE values are also analyzed by chemical classification, and it is found that some classes are computed more accurately than others. \n\nThis dataset is associated with the following publication:\nBetowski , D., C. Bevington , and T. Allison. Estimation of Radiative Forcing of Chemicals with Potentially Significant Global Warming Potential.   CRITICAL REVIEWS IN ENVIRONMENTAL SCIENCE AND TECHNOLOGY. CRC Press LLC, Boca Raton, FL, USA, 0(0): 1-31, (2015).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Estimation of Radiative Efficiency of Chemicals with Potentially Significant Global Warming Potential",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a4bb6bb9-af6d-4971-a133-1c59901252e6"
+        },
+        {
+            "key": "source_hash",
+            "value": "be985bc10cf1b9e0b806c7c150a1e30f0a7691c1"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2015-12-08"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-rbpj-11"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:35:48.366140",
+            "description": "Supporting%20Information_EST_3_31_16.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "235b2a80-0709-4a50-86ca-5e55ed7ee908",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:35:48.366140",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "Supporting Information_EST_3_31_16.pdf",
+            "package_id": "713f8a74-1c6c-4a64-948a-b2a5434a6d8c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/11/Supporting%20Information_EST_3_31_16.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "computational-chemistry",
+            "id": "a29b15c5-0406-4fad-8e6f-118fd0e2361b",
+            "name": "computational-chemistry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "global-warming-potentials",
+            "id": "52006c2f-4a61-46b0-a5aa-e518e683c9dc",
+            "name": "global-warming-potentials",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ir-frequencies",
+            "id": "e94efdd8-3a43-4de6-9213-22c990a847c8",
+            "name": "ir-frequencies",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radiative-efficiency",
+            "id": "5898a3de-ad71-463c-b54e-fd88523b2c20",
+            "name": "radiative-efficiency",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 103,
+        "recent": 2
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "5671294d-8753-4c47-8e5d-cc9e6674eb3c",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:47:03.079417",
+    "metadata_modified": "2025-02-25T05:47:03.079422",
+    "name": "us-epa-care-grants9",
+    "notes": "This is a provisional dataset that contains point locations for the subset of Community Action for a Renewed Environment (CARE) grants given out by the US EPA. CARE is a competitive grant program that offers an innovative way for a community to organize and take action to reduce toxic pollution in its local environment. There are many limitations to the data so it is advised that these metadata be read carefully before use. Although the records for these grant locations are drawn directly from the official EPA grants repository (IGMS Integrated Grants Management System), it is important to know that the IGMS was designed for purposes that did not include accurately portraying the grants place of performance on a map. Instead, the IGMS grant recipients mailing address is the primary source for grant locations. Particularly for statewide grants that are administered via State and Regional headquarters, the grant location data should not be interpreted as the grants place of performance. In 2012, a policy was established to start to collect the place of performance as a pilot for newly awarded grants that were deemed community-based in nature and for these the grant location depicted in this database will be a more reliable indicator of the actual place of performance. As for the locational accuracy of these points, there is no programmatic certification process, however, they are being entered by the Grant Project Officers who are most familiar with the details of the grants, apart from the grantees themselves. Limitations notwithstanding, this is a first-of-breed attempt to map all of the Agencys grants, using the best internal geocoding algorithms available, and is a useful tool for getting to an understanding of the distribution of USEPA grant-giving. The CARE Grants layer contains Places of Performance for single locations or areas where CARE grants are applied.",
+    "num_resources": 1,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "US EPA CARE Grants",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "{B9286C32-7897-4F8C-A688-D31FB0D4BF84}"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2012-05-07\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng; USA"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2023-09-05"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "balassiano.kim@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "THE GRANTS ARE REFRESHED DAILY."
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.htm\"]"
+        },
+        {
+            "key": "licence_url",
+            "value": "https://edg.epa.gov/EPA_Data_License.htm"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2005-07-01"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2011-09-01"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Environmental Information\", \"roles\": [\"pointOfContact\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-64.685100"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "71.295070"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "17.701010"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-174.200050"
+        },
+        {
+            "key": "lineage",
+            "value": "This lineage was generated by the FGDC CSDGM to 19139 transformation"
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-174.20005, 17.70101], [-64.6851, 17.70101], [-64.6851, 71.29507], [-174.20005, 71.29507], [-174.20005, 17.70101]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-174.20005, 17.70101], [-64.6851, 17.70101], [-64.6851, 71.29507], [-174.20005, 71.29507], [-174.20005, 17.70101]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0480ea5f-9f59-49b0-aa43-aae9da8624b5"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:47:03.081142",
+            "description": "The endpoint of a web service to access the dataset (REST endpoint, WMS GetCapabilities URL, or a SOAP WSDL endpoint).",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "db2d5442-62c6-4471-9338-121cc0188df8",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:47:03.074568",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "API",
+            "package_id": "5671294d-8753-4c47-8e5d-cc9e6674eb3c",
+            "position": 0,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "ESRI:ArcGIS",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://geopub.epa.gov/arcgis/rest/services/EMEF/EJgrants/MapServer/1",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "grants",
+            "id": "a51dd8ee-74bf-438e-b7a3-8656fb0d2724",
+            "name": "grants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "3fe4e67b-fb41-4eb9-94c1-331a0a836556",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Melissa Duvall",
+    "maintainer_email": "duvall.melissa@epa.gov",
+    "metadata_created": "2023-08-12T21:44:27.456616",
+    "metadata_modified": "2023-08-12T21:44:27.456622",
+    "name": "impacts-of-climate-change-on-estuarine-hydrodynamics-and-implications-for-hypoxia-within-a",
+    "notes": "Data for manuscript titled, \"Impacts of climate change on estuarine hydrodynamics and implications for hypoxia within a shallow subtropical system\". The data is organized by figure. \n\nAbstract: Vertical density stratification often plays an important role in the formation and expansion of coastal hypoxic zones through its effect on near-bed circulation. However, the impact of future climate change on estuarine circulation and hypoxia is widely unknown. Here, we developed and calibrated a three-dimensional hydrodynamic model for Pensacola Bay, a shallow subtropical estuary in the northeastern Gulf of Mexico. Hindcast simulations for 2013 \u2013 2017 were applied to examine changes in salinity, temperature, and density distribution under future climate scenarios, including increased radiative forcing (IR), temperature (T), freshwater discharge (D), sea-level (SLR), and wind (W). Simulations showed that the impacts of climate change on modeled state variables varied over time with external forcing conditions. The model demonstrated the potential for sea-level rise (+0.48 m) and increased freshwater discharge (110%) to episodically increase vertical density gradients in the Bay. However, increased wind forcing (150%) destabilized vertical gradients, reducing the spatial extent and duration of strong stratification. For example, from March \u2013 June 2014 total area, wherein the bottom to surface density difference (\u0394\u03c3t) exceeded16 kg m-3, decreased by 33% (8.5 km^2) for the climate change (T+D+SLR+W) model. Wavelet coherence analysis revealed that the greatest differences in temperature and salinity between Base and T+D+SLR+W models occurred at hourly to daily timescales and primarily impacted the bottom layer. Results from this study suggest decreased density stratification and bottom temperature due to enhanced wind mixing and saltwater intrusion may mitigate future expansion of summertime hypoxia due to climate change. \n\nThis dataset is associated with the following publication:\nDuvall, M., B. Jarvis, and Y. Wan. Impacts of climate change on estuarine stratification and implications for hypoxia within a shallow subtropical system.   Estuarine Coastal and Shelf Science. Elsevier Science Ltd, New York, NY, USA, 279: 14, (2022).",
+    "num_resources": 2,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Impacts of climate change on estuarine hydrodynamics and implications for hypoxia within a shallow subtropical system -- Full Dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "7390514778cbe0831368832f926edfb4542ddce5"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524280"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-10-19"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.ecss.2022.108146"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "db7723a4-dc19-45eb-836d-2a87b0b3921a"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-12T21:44:27.462493",
+            "description": "Figure_Data.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7f5e0c16-1309-4c96-a201-b0f1c26f1272",
+            "last_modified": null,
+            "metadata_modified": "2023-08-12T21:44:27.447408",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Figure_Data.zip",
+            "package_id": "3fe4e67b-fb41-4eb9-94c1-331a0a836556",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524280/Figure_Data.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-12T21:44:27.462497",
+            "description": "DataDictionary.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "10c440a2-b450-4e8f-a684-ce7e541abf58",
+            "last_modified": null,
+            "metadata_modified": "2023-08-12T21:44:27.447583",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "DataDictionary.docx",
+            "package_id": "3fe4e67b-fb41-4eb9-94c1-331a0a836556",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524280/DataDictionary.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hypoxia",
+            "id": "2e78fc43-4af6-4bfc-b32a-3c4289ac8f64",
+            "name": "hypoxia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "modeling",
+            "id": "6dab039d-306b-4964-a66a-39a76a295408",
+            "name": "modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "surface-water",
+            "id": "81d14904-cfd8-4a1f-b8b5-8955c0f4245f",
+            "name": "surface-water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 18,
+        "recent": 1
+    }
+}

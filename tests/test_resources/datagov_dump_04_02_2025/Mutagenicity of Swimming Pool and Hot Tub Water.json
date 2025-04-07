@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "af33e6aa-6d4a-4f35-b4f0-047c1cf3df06",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "David Demarini",
+    "maintainer_email": "demarini.david@epa.gov",
+    "metadata_created": "2020-11-12T13:39:09.277789",
+    "metadata_modified": "2020-11-12T13:39:09.277797",
+    "name": "mutagenicity-of-swimming-pool-and-hot-tub-water",
+    "notes": "Description is included in the dataset. \n\nThis dataset is associated with the following publication:\nDaiber, E., D. DeMarini , S. Ravuri, H. Liberatore, A. Cuthbertson, A. Thompson-Klemish, J. Byer, J. Schmid , M. Afifi, E. Blatchley, and S. Richardson. Progressive Increase in Disinfection Byproducts and Mutagenicity from Sourceto Tap to Swimming Pool and Spa Water:  Implications for Public Health.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 50(13): 6652-6662, (2016).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Mutagenicity of Swimming Pool and Hot Tub Water",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.6b00808"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "61641e35-85b2-4944-9dda-f05a111b86b1"
+        },
+        {
+            "key": "source_hash",
+            "value": "eab7c21144ca14718848301f906760f9a0fe06ed"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-07-13"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-j6qk-443"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:39:09.299035",
+            "description": "Science%20Hub%20Pool%20ES%26T%20Data%20Set.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "47bf5fa6-c8d5-4993-a9a6-60c2c1f46a9d",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:39:09.299035",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Science Hub Pool ES&T Data Set.docx",
+            "package_id": "af33e6aa-6d4a-4f35-b4f0-047c1cf3df06",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/443/Science%20Hub%20Pool%20ES%26T%20Data%20Set.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "disinfection-byproducts",
+            "id": "4b6a64a5-051f-4ad8-aac3-c3063ed9c2d0",
+            "name": "disinfection-byproducts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hot-tub",
+            "id": "a54821b2-9cb5-457f-a056-1f15e716d6e4",
+            "name": "hot-tub",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mutagenicity",
+            "id": "47c56f7b-b3eb-4877-8e9d-117144d116b3",
+            "name": "mutagenicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "spa",
+            "id": "c51fecd1-a34f-48bc-99b9-0e04e0f8796d",
+            "name": "spa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "swimming-pool",
+            "id": "55629d1f-e4f2-466e-86f1-94c77a5d0e93",
+            "name": "swimming-pool",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 51,
+        "recent": 1
+    }
+}

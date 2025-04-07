@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "33a2911a-c07d-4a4d-a39d-e2a38b1bbae4",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "John Washington",
+    "maintainer_email": "washington.john@epa.gov",
+    "metadata_created": "2023-07-20T13:55:58.624481",
+    "metadata_modified": "2023-07-20T13:55:58.624490",
+    "name": "accumulation-of-pfas-in-vegetation-and-deep-soils",
+    "notes": "This file contains data from accumulation of chloro perfluoro polyether carboxylate (Cl-PFPECA) and legacy perfluorocarboxylate PFAS in native vegetation and subsoil samples collected in New Jersey by New Jersey state government personnel. Samples were originally processed and extracted in Athens, GA EPA/ORD/NERL/EMMD laboratory by Tom Jenkins and John Washington. Samples were analyzed for PFAS on the Waters LC-MS/MS instruments in Athens, GA EPA/ORD/CEMM/EPD laboratory by Mary Davis, Marina Evich, and John Washington. Instrument output was reviewed and optimized by Mary Davis, Marina Evich, and John Washington. \n\nThis dataset is associated with the following publication:\nDavis, M., M. Evich, S. Goodrow, and J. Washington. Environmental Fate of Cl-PFPECAs: Accumulation of Novel and Legacy Perfluoroalkyl Compounds in Real-World Vegetation and Subsoils.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 57(24): 8994\u20139004, (2023).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Accumulation of PFAS in vegetation and deep soils",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "6c8c01f3fe689a2d19f9611563fc9f80ed5056c2"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528418"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-07-12"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.3c00665"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "5b7b7821-9a89-4398-91ce-6cdb0499ccba"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-07-20T13:55:58.635198",
+            "description": "SciHub_data%20supporting%20Davis%20et%20al.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b6fcf317-2a48-4f91-a642-abe3b8c4ac4c",
+            "last_modified": null,
+            "metadata_modified": "2023-07-20T13:55:58.601168",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "SciHub_data supporting Davis et al.xlsx",
+            "package_id": "33a2911a-c07d-4a4d-a39d-e2a38b1bbae4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528418/SciHub_data%20supporting%20Davis%20et%20al.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "accumulation-factors",
+            "id": "ed624cb3-6c68-450e-9e65-83fa628bb25a",
+            "name": "accumulation-factors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-contaminants",
+            "id": "75351dd4-059c-4cc0-9bc3-1535cc6e521d",
+            "name": "environmental-contaminants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "next-generation-chemicals",
+            "id": "22da2269-0472-49f3-98c8-90dac6e4a21c",
+            "name": "next-generation-chemicals",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfas",
+            "id": "467ff291-49fb-462a-93ad-afccfda9c165",
+            "name": "pfas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfas-alternatives",
+            "id": "c3d41487-c64d-4aa0-92a2-1e02b6628ee9",
+            "name": "pfas-alternatives",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "polyfluorinated-alkyl-substances",
+            "id": "7b7816f9-2eb3-47fa-8968-cae53b403829",
+            "name": "polyfluorinated-alkyl-substances",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 85,
+        "recent": 2
+    }
+}

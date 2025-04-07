@@ -1,0 +1,332 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "ffaa4085-f3dd-4548-b84d-6266e970d025",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Xin Ma",
+    "maintainer_email": "ma.cissy@epa.gov",
+    "metadata_created": "2020-11-12T13:45:04.562912",
+    "metadata_modified": "2020-11-12T13:45:04.562919",
+    "name": "life-cycle-inventory-data-of-various-unit-processes-in-water-and-wastewater-treatment-trai",
+    "notes": "LCI and LCIA for water and wastewater treatment plants. \n\nThis dataset is associated with the following publications:\nXue, X., S. Cashman, A. Gaglione, J. Mosley, L. Weiss, C. Ma, J. Cashdollar, and J. Garland. Holistic Analysis of Urban Water Systems in the Greater Cincinnati Region: (1) Life Cycle Assessment and Cost Implications.   Water Research X. Elsevier B.V., Amsterdam,  NETHERLANDS, 2: 100015, (2019).\nCashman, S., A. Gaglione, J. Mosley, L. Weiss, T. Hawkins, N. Ashbolt, J. Cashdollar , X. Xue, C. Ma , and S. Arden. Environmental and cost life cycle assessment of disinfection options for municipal drinking water treatment. U.S. Environmental Protection Agency, Washington, DC, USA, 2014.\nCashman, S., A. Gaglione, J. Mosley, L. Weiss, N. Ashbolt, T. Hawkins, J. Cashdollar , X. Xue, C. Ma , and S. Arden. Environmental and cost life cycle assessment of disinfection options for municipal wastewater treatment. U.S. Environmental Protection Agency, Washington, DC, USA, 2014.",
+    "num_resources": 5,
+    "num_tags": 12,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Life cycle inventory data of various unit processes in water and wastewater treatment trains and the life cycle impact assessments of different environmental performance categories.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.wroa.2018.100015"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "35ec0ff3-549f-42ff-825a-66d213602eba"
+        },
+        {
+            "key": "source_hash",
+            "value": "9427b769218cd035f9dbfac37086ca87fa30e17c"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-10-25"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1407684"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:04.569445",
+            "description": "graphs%20for%20manuscript.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ab683f56-0fe5-4d5f-927d-39a2721e6452",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:04.569445",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "graphs for manuscript.xlsx",
+            "package_id": "ffaa4085-f3dd-4548-b84d-6266e970d025",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407684/graphs%20for%20manuscript.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:04.569455",
+            "description": "DWT%20Cost%20Calculations_Final_2014%2009%2025.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f445dae9-3720-49fa-bab9-945f8e3241d2",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:04.569455",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DWT Cost Calculations_Final_2014 09 25.xlsx",
+            "package_id": "ffaa4085-f3dd-4548-b84d-6266e970d025",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407684/DWT%20Cost%20Calculations_Final_2014%2009%2025.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:04.569461",
+            "description": "DWT_LCAResults_DraftFinal.UpdatedNG%283.31.15%29%2810.15.15%29.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f64b6ce6-788f-4381-b022-42aa0156d6a3",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:04.569461",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DWT_LCAResults_DraftFinal.UpdatedNG(3.31.15)(10.15.15).xlsx",
+            "package_id": "ffaa4085-f3dd-4548-b84d-6266e970d025",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407684/DWT_LCAResults_DraftFinal.UpdatedNG%283.31.15%29%2810.15.15%29.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:04.569466",
+            "description": "WWT%20BaseCaseCosts.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f230d2e2-ed53-482f-b327-fa99318855d8",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:04.569466",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "WWT BaseCaseCosts.xlsx",
+            "package_id": "ffaa4085-f3dd-4548-b84d-6266e970d025",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407684/WWT%20BaseCaseCosts.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:04.569471",
+            "description": "WWT%20LCAresults%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ffde3596-30ac-460e-ad9c-dbc766f8273b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:04.569471",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "WWT LCAresults .xlsx",
+            "package_id": "ffaa4085-f3dd-4548-b84d-6266e970d025",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 5
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407684/WWT%20LCAresults%20.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "drinking-water-systems",
+            "id": "9cd3affd-0723-4a8a-a1ed-163bf5f0e373",
+            "name": "drinking-water-systems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy-expenditure-and-distribution",
+            "id": "9d543f31-2c25-4dae-a178-4a8ae1ecac0f",
+            "name": "energy-expenditure-and-distribution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "impact-assessment",
+            "id": "0f1293e4-4830-4235-a639-1934ad99ffb3",
+            "name": "impact-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lca",
+            "id": "3801a5b3-ecfb-4413-8a75-6bf46ae79a04",
+            "name": "lca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lcc",
+            "id": "07e6f8e6-8dd7-4743-86d7-07101b5a6ab5",
+            "name": "lcc",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-assessment-lca",
+            "id": "5740a0bb-1a32-46cd-8c69-7569e55d4c70",
+            "name": "life-cycle-assessment-lca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-costing",
+            "id": "37cf5756-80ba-46a8-b6f4-d57f38f58ec5",
+            "name": "life-cycle-costing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-impact-assessment-method",
+            "id": "d24d5790-74c5-4fbe-9274-2586661a04d5",
+            "name": "life-cycle-impact-assessment-method",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sustainability-analysis",
+            "id": "440a0b0f-3088-4aa9-a448-6bcdb9eac2b5",
+            "name": "sustainability-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "system-analysis",
+            "id": "ec22a661-019d-496e-a63c-f0dc3020fcd9",
+            "name": "system-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wastewater-systems",
+            "id": "1eac3a1f-4fa7-4ca7-ab21-ba3f1c85289c",
+            "name": "wastewater-systems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-systems",
+            "id": "da3ee0cc-f549-4b91-af5d-ec913bd24258",
+            "name": "water-systems",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 373,
+        "recent": 18
+    }
+}

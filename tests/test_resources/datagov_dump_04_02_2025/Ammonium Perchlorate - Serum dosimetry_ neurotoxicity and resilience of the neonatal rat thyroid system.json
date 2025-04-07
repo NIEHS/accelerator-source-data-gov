@@ -1,0 +1,204 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "d170a696-99cb-434a-8e1f-4ff80af9b0d3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mary Gilbert",
+    "maintainer_email": "gilbert.mary@epa.gov",
+    "metadata_created": "2024-10-04T05:24:00.255398",
+    "metadata_modified": "2024-10-04T05:24:00.255406",
+    "name": "ammonium-perchlorate-serum-dosimetry-neurotoxicity-and-resilience-of-the-neonatal-rat-thyr",
+    "notes": "Perchlorate is an environmental contaminant that interferes with iodine uptake via the NIS transporter into the thyroid gland, reducing thyroid hormone (TH) synthesis. As adequate supplies of TH are essential for brain development, exposures to perchlorate during pregnancy have raised concern for the developing brain. This paper describes the effects of exposure of pregnant rat dams to a classic chemical NIS inhibitor, perchlorate, on serum, thyroid gland and brain in the dam and pup. declines were observed in the newborn pup. TH were also reduced in the newborn pup brain, but both serum and brain hormones quickly recovered by PN2 despite continued maternal exposure.  Gene expression changes in the gland revealed dramatic increases in expression of Nis, serum perchlorate concentrations fell, and large increases in serum TSH were evident. Combined, these events contributed to rapid recovery of serum markers in the early postnatal period. Despite full recovery of serum and brain hormones, significant reductions in a number of molecular markers of TH-action remained in the cortex and hippocampus of the PN14 pup brain. The findings provide for the first-time quantitative information collected in the same study for thyroid hormones in the thyroid gland, serum, and brain. They provide essential quantitative data to reduce uncertainties in development of Physiologically Based Pharmacokinetic (PBPK), Biologically Based Dose Response (BBDR), and Quantitative Adverse Outcome (qAOP) models of thyroid disruption and neurodevelopment. They demonstrate the remarkable resilience of the neonatal thyroid gland to NIS inhibition and support the use of Comparative Thyroid Assay (CTA) for identifying thyroid system disrupting chemicals. They indicate that the postnatal rat may be much less sensitive to the neurological effects of TH insufficiency relative to humans based on species differences in the timing of brain development. \n\nThis dataset is associated with the following publication:\nGilbert, M., I. Hassan, K. O'Shaughnessy, C. Wood, T. Stoker, C. Riutta, and J. Ford. Ammonium Perchlorate: Serum Dosimetry, Neurotoxicity and Resilience of the Neonatal Rat Thyroid System.   TOXICOLOGICAL SCIENCES. Society of Toxicology, RESTON, VA,  198(1): 113-127, (2023).",
+    "num_resources": 1,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Ammonium Perchlorate - Serum dosimetry, neurotoxicity and resilience of the neonatal rat thyroid system",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "aadaacc06d3a46ed35fdc4555156974c20ae5753cd64aedd2a7274598c508f72"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531742"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-09-19"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/toxsci/kfad133"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "3b4308c7-5a59-496a-a320-5c136c5c9677"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-04T05:24:00.266460",
+            "description": "Developmental%20Perchlorate%20Tox%20Sci%20%202023%20Science%20Hub.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "e1ab4ddf-d532-4d70-b40e-d6b884a3e7c0",
+            "last_modified": null,
+            "metadata_modified": "2024-10-04T05:24:00.231752",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Developmental Perchlorate Tox Sci  2023 Science Hub.xlsx",
+            "package_id": "d170a696-99cb-434a-8e1f-4ff80af9b0d3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531742/Developmental%20Perchlorate%20Tox%20Sci%20%202023%20Science%20Hub.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "adverse-outcome-pathways-aops",
+            "id": "c98552ad-b194-434f-a279-a6fb3dbd4cb4",
+            "name": "adverse-outcome-pathways-aops",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "childrens-environmental-health",
+            "id": "1d44d7c5-55ce-47ff-a1d3-b3d9d3fd2327",
+            "name": "childrens-environmental-health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "childrens-health",
+            "id": "5f76deb0-996b-451b-bf26-c282ba5f796a",
+            "name": "childrens-health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "developmental-neurotoxicity",
+            "id": "efe53fb1-bf12-476a-9f71-325ed0b9d9cc",
+            "name": "developmental-neurotoxicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water-contaminants",
+            "id": "fbb890e9-87d7-4df9-9bd3-a345a1f712fb",
+            "name": "drinking-water-contaminants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-justice",
+            "id": "7b8a573d-1190-4ab3-b9fc-45635e0bd505",
+            "name": "environmental-justice",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "human-health",
+            "id": "0deb6b9c-0c84-488f-8ba2-47a8d31750b3",
+            "name": "human-health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-vivo",
+            "id": "6f5bdd89-9e36-4907-b227-6ffe74036ad0",
+            "name": "in-vivo",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 13,
+        "recent": 1
+    }
+}

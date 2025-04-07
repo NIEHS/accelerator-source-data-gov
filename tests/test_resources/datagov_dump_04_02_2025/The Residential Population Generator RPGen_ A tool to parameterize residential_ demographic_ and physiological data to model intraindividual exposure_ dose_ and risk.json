@@ -1,0 +1,170 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "cbbd60dd-8181-4c92-b380-27e2cfd3fb32",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Daniel Vallero",
+    "maintainer_email": "vallero.daniel@epa.gov",
+    "metadata_created": "2021-03-09T09:38:47.884874",
+    "metadata_modified": "2021-03-09T09:38:47.884881",
+    "name": "the-residential-population-generator-rpgen-a-tool-to-parameterize-residential-demographic-",
+    "notes": "This repository contains scripts, input files, and some example output files for the Residential Population Generator, an R-based tool to generate synthetic human residental populations to use in making estimates of near-field chemical exposures. This tool is most readily adapted for using in the workflow for CHEM, the Combined Human Exposure Model, avaialable in two other GitHub repositories in the HumanExposure project, including ProductUseScheduler and source2dose. CHEM is currently best suited to estimating exposure to product use. Outputs from RPGen are translated into ProductUseScheduler, which with subsequent outputs used in source2dose. ",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "The Residential Population Generator (RPGen): A tool to parameterize residential, demographic, and physiological data to model intraindividual exposure, dose, and risk",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "eecb8791-d18a-4e3d-ad23-9f5db60402c3"
+        },
+        {
+            "key": "source_hash",
+            "value": "ab319f7b065e6a84ffb1c82f4ca4f52d8e70e923"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2021-01-08"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520861"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-09T09:38:47.950261",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "be9547e9-d0b4-41b8-98db-c7553f32ae1f",
+            "last_modified": null,
+            "metadata_modified": "2021-03-09T09:38:47.950261",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://github.com/HumanExposure/RPGen",
+            "package_id": "cbbd60dd-8181-4c92-b380-27e2cfd3fb32",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://github.com/HumanExposure/RPGen",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "computational-toxicology",
+            "id": "facb0c32-5b33-4cae-8c6d-84464cd0e5da",
+            "name": "computational-toxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exposure-and-dose-models",
+            "id": "f5260c56-c23d-4576-ae9e-f1732481feef",
+            "name": "exposure-and-dose-models",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new-approach-methodologies",
+            "id": "d49bfe87-7fe4-4f27-bbf2-cec419af2252",
+            "name": "new-approach-methodologies",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pbpk-models",
+            "id": "aa498e5b-e19c-42a2-987b-aa573d05022f",
+            "name": "pbpk-models",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 46,
+        "recent": 1
+    }
+}

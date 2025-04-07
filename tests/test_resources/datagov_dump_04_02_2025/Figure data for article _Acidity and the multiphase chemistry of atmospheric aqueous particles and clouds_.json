@@ -1,0 +1,150 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "cdf358a0-3f95-437c-87b6-08b23fd15e4a",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Kathleen Fahey",
+    "maintainer_email": "fahey.kathleen@epa.gov",
+    "metadata_created": "2021-10-04T12:34:43.296693",
+    "metadata_modified": "2021-10-04T12:34:43.296703",
+    "name": "figure-data-for-article-acidity-and-the-multiphase-chemistry-of-atmospheric-aqueous-partic",
+    "notes": "Noting here that data used to make figures in \"Acidity and the multiphase chemistry of atmospheric aqueous\nparticles and clouds\" article can be found within the paper and associated supplement. This dataset is not publicly accessible because: Figure data are already embedded in the paper tables/supplement by authors external to the EPA. It can be accessed through the following means: The figure data are found within the paper tables and supplemental information (SI) and thus can be accessed by downloading the paper and SI. One may also contact co-authors, V. Faye McNeill (vfm2103@columbia.edu) and/or Hartmut Herrmann (herrmann@tropos.de) for additional information. Format: Data used for the figures are provided in the paper tables and supplement at the following link: https://doi.org/10.5194/acp-2021-58. \n\nThis dataset is associated with the following publication:\nTilgner, A., T. Schaefer, B. Alexander, M. Barth, J. Collett, K. Fahey, A. Nenes, H. Pye, H. Herrmann, and V.F. McNeill. Acidity and the multiphase chemistry of atmospheric aqueous particles and clouds.   Atmospheric Chemistry and Physics. Copernicus Publications, Katlenburg-Lindau,  GERMANY, 21(17): 13483\u201313536, (2021).",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Figure data for article \"Acidity and the multiphase chemistry of atmospheric aqueous particles and clouds\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520880"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2021-01-19"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.5194/acp-21-13483-2021"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "8504b14c0d0c545b6b149f3d92ea11f150bf12e9"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "fb4de306-5201-4605-a1c7-e5f3506141b8"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "acidity",
+            "id": "5d322554-ebf8-4230-ae4f-10fa15d00ddd",
+            "name": "acidity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aqueous-aerosol",
+            "id": "4eb4e48a-c45c-465d-9588-72921195f501",
+            "name": "aqueous-aerosol",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "clouds",
+            "id": "0850c191-11ba-4e04-a565-f8d4c54a07ac",
+            "name": "clouds",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "multiphase-chemistry",
+            "id": "b0539f97-1178-428a-ad27-0914722b0d76",
+            "name": "multiphase-chemistry",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 2
+    }
+}

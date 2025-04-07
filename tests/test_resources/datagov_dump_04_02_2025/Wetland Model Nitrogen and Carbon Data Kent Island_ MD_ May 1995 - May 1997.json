@@ -1,0 +1,253 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "1ff8ac7a-b9ea-40a4-8b20-30e38287ebd4",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mohamed Hantush",
+    "maintainer_email": "hantush.mohamed@epa.gov",
+    "metadata_created": "2020-11-12T13:43:27.950781",
+    "metadata_modified": "2020-11-12T13:43:27.950788",
+    "name": "wetland-model-nitrogen-and-carbon-data-kent-island-md-may-1995-may-1997",
+    "notes": "This data are composed of precipitation, wetland water depth, volumetric soil moisture, nitrogen and carbon concentrations measured into and out of a wetland, and model computed soil moisture content as well as nitrogen and carbon loading from the wetland. The wetland is a restored treatment wetland, located in Kent Island, MD. \n\nThis dataset is associated with the following publication:\nSharifi, A., M. Hantush, and L. Kalin. Modeling Nitrogen and Carbon Dynamics in Wetland Soils and Water Using Mechanistic Wetland Model.  Rao S. Govindaraju  Journal of Hydrologic Engineering. American Society of Civil Engineers  (ASCE), Reston, VA, USA, 22(1): 1-18, (2017).",
+    "num_resources": 1,
+    "num_tags": 15,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Wetland Model Nitrogen and Carbon Data (Kent Island, MD, May 1995 - May 1997)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1061/(asce)he.1943-5584.0001441"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a5c0dbfb-caf8-441b-ba26-8bc829cecf0f"
+        },
+        {
+            "key": "source_hash",
+            "value": "3d09b2fb64d3965fcf36daf3ede8b54cc106f1df"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-02-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502641"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:27.955423",
+            "description": "Mechansitic%20Wetland%20Model_unsaturated%20condition.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "e156b5dc-7c1b-4f9a-b996-5106d73841de",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:27.955423",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Mechansitic Wetland Model_unsaturated condition.xlsx",
+            "package_id": "1ff8ac7a-b9ea-40a4-8b20-30e38287ebd4",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502641/Mechansitic%20Wetland%20Model_unsaturated%20condition.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aerobic",
+            "id": "a1690339-027c-4bfd-9111-027d3c31e62b",
+            "name": "aerobic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "anaerobic",
+            "id": "67266d23-cd1a-4ee9-9a08-a7b4cf6a66e7",
+            "name": "anaerobic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bayesian-statistics",
+            "id": "7640e593-cc4c-49c3-a74f-bb94d5e3eddf",
+            "name": "bayesian-statistics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "carbon",
+            "id": "ec545a1d-203a-4dcf-a2b3-0b0592f49598",
+            "name": "carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "glue",
+            "id": "62edf5c4-62a2-4ecc-ad0f-bb445ff32201",
+            "name": "glue",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "monte-carlo-method",
+            "id": "6918fda2-7add-4115-a958-43dd7f682581",
+            "name": "monte-carlo-method",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen",
+            "id": "547959b4-f904-484c-9a1e-0f6ab529e4b2",
+            "name": "nitrogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "phosphorus",
+            "id": "919d36d2-b516-4c7e-b418-304d9e85f796",
+            "name": "phosphorus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "process-based-model",
+            "id": "15a445d9-efa3-44cd-8350-d28e8249e501",
+            "name": "process-based-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "richards-equation",
+            "id": "a27d9ac4-a707-4c3d-b25a-1113c3d67890",
+            "name": "richards-equation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sensitivity-analysis",
+            "id": "9c06c4e2-b1cf-47af-836c-7acaf3a8972d",
+            "name": "sensitivity-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "uncertainty-estimation",
+            "id": "f89b2b2a-90b5-40e1-a108-3262f55a0f41",
+            "name": "uncertainty-estimation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "unsaturated-soil",
+            "id": "76da39e9-c273-4f92-a45f-75bb26b09605",
+            "name": "unsaturated-soil",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetland-hydrology",
+            "id": "85d2ea9e-f652-4de2-aab9-51c8dd343e75",
+            "name": "wetland-hydrology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wetlands",
+            "id": "9cdeb6f3-52c8-4dfa-8b62-8e5ba8d7cc56",
+            "name": "wetlands",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 32,
+        "recent": 2
+    }
+}

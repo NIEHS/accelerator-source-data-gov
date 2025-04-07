@@ -1,0 +1,276 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "509255e1-ccb9-4378-abee-011b6bf78551",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Chunming Su",
+    "maintainer_email": "su.chunming@epa.gov",
+    "metadata_created": "2020-11-12T13:47:10.974839",
+    "metadata_modified": "2020-11-12T13:47:10.974848",
+    "name": "growth-inhibition-of-algae-and-x-ray-diffractions-of-zno",
+    "notes": "The XRD text files show counts per second of X-ray diffraction as a function of diffraction angle for four nanomaterials: industrial ZnO, sunscreen ZnO, industrial ZnO after algae toxicity test, sunscreen ZnO after algae toxicity test. Figure 2 in ZnO paper shows the raw data for the inhibition (%) as a function of time (h) for the nanomaterials at 10 mg/L and 50 mg/L concentrations. \n\nThis dataset is associated with the following publication:\nSpisni, E., S. Seo, S.H. Joo, and C. Su. Release and toxicity comparison between industrial- and sunscreen-derived nano-ZnO particles.   International Journal of Environmental Science and Technology. Springer, Heidelburg,  GERMANY, 13: 2485-2494, (2016).",
+    "num_resources": 5,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Growth inhibition of algae and X-ray diffractions of ZnO",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s13762-016-1077-1"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f68780bb-ce87-4524-b464-2d2c5ed75f79"
+        },
+        {
+            "key": "source_hash",
+            "value": "7989089aa193b2228ae0064b0fe291707f4ee3b4"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-11-27"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503200"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.981128",
+            "description": "Fig.%202%20in%20ZnO%20paper.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "662b9a7d-c656-4469-8be2-e96e5db26c46",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.981128",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig. 2 in ZnO paper.xlsx",
+            "package_id": "509255e1-ccb9-4378-abee-011b6bf78551",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503200/Fig.%202%20in%20ZnO%20paper.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.981138",
+            "description": "IndustrialZnO.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "6d19fb88-ee8a-4640-8f58-ccecefc9ad4a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.981138",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "IndustrialZnO.txt",
+            "package_id": "509255e1-ccb9-4378-abee-011b6bf78551",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503200/IndustrialZnO.txt",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.981143",
+            "description": "SunscreenZnO.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "19296a54-d669-4f59-8ea9-d18a44868b85",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.981143",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "SunscreenZnO.txt",
+            "package_id": "509255e1-ccb9-4378-abee-011b6bf78551",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503200/SunscreenZnO.txt",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.981148",
+            "description": "ToxtestindustrialZnO.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "9dd59df0-1bb1-4431-8b71-366d3e82a842",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.981148",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "ToxtestindustrialZnO.txt",
+            "package_id": "509255e1-ccb9-4378-abee-011b6bf78551",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503200/ToxtestindustrialZnO.txt",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.981152",
+            "description": "ToxtestsunscreenZnO.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "c36aefb9-9aa7-4900-9663-a5c4bc14ba99",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.981152",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "ToxtestsunscreenZnO.txt",
+            "package_id": "509255e1-ccb9-4378-abee-011b6bf78551",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503200/ToxtestsunscreenZnO.txt",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aggregation",
+            "id": "18f33454-5392-4939-90e9-78c3ef0f4688",
+            "name": "aggregation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "commercial-zno",
+            "id": "013e5915-c968-4c87-9f4d-1860a7a25273",
+            "name": "commercial-zno",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecotoxicity",
+            "id": "7b137112-d296-4af3-83cd-55cf0102b5e0",
+            "name": "ecotoxicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thalassiosira-pseudonana",
+            "id": "ccd3f788-1d45-41ac-8314-07f76bacc48d",
+            "name": "thalassiosira-pseudonana",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 107,
+        "recent": 3
+    }
+}

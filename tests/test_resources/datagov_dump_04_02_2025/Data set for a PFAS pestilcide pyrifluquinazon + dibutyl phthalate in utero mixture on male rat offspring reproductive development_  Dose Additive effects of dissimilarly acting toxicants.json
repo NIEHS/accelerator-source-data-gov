@@ -1,0 +1,184 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "28fd026f-1746-4e42-a736-df59a848fa90",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Leon Gray",
+    "maintainer_email": "gray.earl@epa.gov",
+    "metadata_created": "2023-05-30T17:57:01.778035",
+    "metadata_modified": "2023-05-30T17:57:01.778041",
+    "name": "data-set-for-a-pfas-pestilcide-pyrifluquinazon-dibutyl-phthalate-in-utero-mixture-on-male-",
+    "notes": "data set has a description of the information in the excell file and all the data used in the study. \n\nThis dataset is associated with the following publication:\nGray, E., J. Conley, C. Lambright, and J. Furr. In utero exposure to a mixture of the perfluoroalkylisopropyl pesticide pyrifluquinazon with dibutyl phthalate\ncumulatively disrupts male rat reproductive development via different mechanisms of action.   TOXICOLOGICAL SCIENCES. Society of Toxicology, RESTON, VA,  188(2): 234-247, (2022).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data set for a PFAS pestilcide pyrifluquinazon + dibutyl phthalate in utero mixture on male rat offspring reproductive development.  Dose Additive effects of dissimilarly acting toxicants",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "7da502ab23fe59b79919bcb638959b65075ec25b"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527806"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-08-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/toxsci/kfac059",
+                "https://pasteur.epa.gov/uploads/10.23719/1527806/documents/supplemental%20file%20for%20DBP%20PLUS%20PFQ%20MIXTURE%20PAPER%20read%20only.xlsx"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "117c08c2-027b-419b-8705-88c292e175eb"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-30T17:57:01.816378",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "ebf65f8f-1420-43a8-bdc3-1a2316c65c71",
+            "last_modified": null,
+            "metadata_modified": "2023-05-30T17:57:01.761337",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://academic.oup.com/toxsci/article/188/2/234/6596614",
+            "package_id": "28fd026f-1746-4e42-a736-df59a848fa90",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://academic.oup.com/toxsci/article/188/2/234/6596614",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "chemical-mixtures",
+            "id": "e670a2f9-4120-4668-9573-ce9e2c27632c",
+            "name": "chemical-mixtures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dibutyl-phthalate",
+            "id": "5ac54da5-8b4f-46e2-a915-f42be62c74f8",
+            "name": "dibutyl-phthalate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dose-additivity",
+            "id": "ee97f716-52ba-47de-8e91-e4f37c2cdb86",
+            "name": "dose-additivity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "per-and-polyfluoroalkyl-substances-pfas",
+            "id": "f3a73ad0-63d0-45ff-ba50-a918c8a1edbe",
+            "name": "per-and-polyfluoroalkyl-substances-pfas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "reproductive-toxicity",
+            "id": "771234df-b6fa-4268-9124-8e0c6a287385",
+            "name": "reproductive-toxicity",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 13,
+        "recent": 1
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "61ebc3b0-b202-4244-8c57-928b24162b38",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Jahne",
+    "maintainer_email": "jahne.michael@epa.gov",
+    "metadata_created": "2025-01-12T00:08:58.310475",
+    "metadata_modified": "2025-01-12T00:08:58.310481",
+    "name": "metadata-entry-for-assessing-human-source-microbial-contamination-of-stormwater-in-the-u-s",
+    "notes": "Metadata Entry for \"Assessing Human-Source Microbial Contamination of Stormwater in the U.S\".  Please contact the corresponding author Jumana Alja'fari (Jumana.Aljafari@colostate.edu) to request the associated data. This dataset is not publicly accessible because: The data is non-EPA generated. It can be accessed through the following means: Please contact the corresponding author Jumana Alja'fari at Jumana.Aljafari@colostate.edu to request the data. Format: XLSX and/or CSV files. \n\nThis dataset is associated with the following publication:\nAlja'fari, J., S. Sharvelle, A. Branch, B. Pecson, M. Jahne, A. Olivieri, M. Arabi, J. Garland, and R. Gonzalez. Assessing Human-Source Microbial Contamination of Stormwater in the U.S.   WATER RESEARCH. Elsevier Science Ltd, New York, NY, USA, 268: 122640, (2024).",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Metadata Entry for \"Assessing Human-Source Microbial Contamination of Stormwater in the U.S.\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "288d7c19270189bd63a31757a840ec98ef34aeea9724a1cd89c64450f9aace51"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529951"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-12-19"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.watres.2024.122640"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4305a5f0-8117-4c00-9aff-0d89e864a008"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "microbial-risk",
+            "id": "a14a8ccf-7ef0-4f93-b30f-f0634ceab5d3",
+            "name": "microbial-risk",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pathogens",
+            "id": "c5f40795-8379-48fe-b03b-f4d5268f9187",
+            "name": "pathogens",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stormwater",
+            "id": "2091a4b4-9960-4717-a44f-f5a01e8660be",
+            "name": "stormwater",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wastewater",
+            "id": "b0e501c9-117c-4a13-9d0e-6c73d19ef1d9",
+            "name": "wastewater",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 11,
+        "recent": 1
+    }
+}

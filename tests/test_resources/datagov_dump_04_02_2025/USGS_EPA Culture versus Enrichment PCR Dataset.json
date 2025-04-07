@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "1e14d609-b88f-4aba-baeb-f31e9d0150fc",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Erin Silvestri",
+    "maintainer_email": "silvestri.erin@epa.gov",
+    "metadata_created": "2020-12-03T20:16:00.142755",
+    "metadata_modified": "2020-12-03T20:16:00.142785",
+    "name": "usgs-epa-culture-versus-enrichment-pcr-dataset",
+    "notes": "The dataset provides the raw data in support of Tables 1-4 of the paper and include: colony forming unit (CFU) data for each of three replicates of sand, loam, and clay soils; results for the sand/clay and loam/clay soil blend culture experiments; Quibit DNA concentration data; and polymerase chain reaction data. \n\nThis dataset is associated with the following publication:\nGriffin, D., J. Lisle, D. Feldhake, and E. Silvestri. Colony-Forming Unit Spreadplate Assay versus Liquid Culture Enrichment-Polymerase Chain Reaction Assay for the Detection of Bacillus Endospores in Soils.   Geosciences. MDPI AG, Basel,  SWITZERLAND, 10(1): 14, (2020).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "USGS/EPA Culture versus Enrichment PCR Dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/geosciences10010005"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "531c67ca-7f35-449f-8108-cd7326843c2a"
+        },
+        {
+            "key": "source_hash",
+            "value": "4ab732b13ff828642a6af6e2a6ef2ff0c20a4b3d"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-03-13"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503523"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-03T20:16:00.203454",
+            "description": "Copy%20of%20EPA%20loam%20sand%20clay%20experimet%20data_ees.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d50a743e-070e-4898-a1b9-59bfa11d3eba",
+            "last_modified": null,
+            "metadata_modified": "2020-12-03T20:16:00.203454",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Copy of EPA loam sand clay experimet data_ees.xlsx",
+            "package_id": "1e14d609-b88f-4aba-baeb-f31e9d0150fc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503523/Copy%20of%20EPA%20loam%20sand%20clay%20experimet%20data_ees.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "b-anthracis",
+            "id": "7e3de9e5-17dd-4e3c-b7db-846973ec5d96",
+            "name": "b-anthracis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "b-globigii",
+            "id": "ac35f682-8f94-4a0d-9ab8-3096f015c2a7",
+            "name": "b-globigii",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "culture",
+            "id": "bb05c195-ff39-4095-b73a-1cff8fc6ed3f",
+            "name": "culture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "detection",
+            "id": "9e34c387-41c4-4f9e-b2ec-5a65921f6e48",
+            "name": "detection",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "enrichment",
+            "id": "7b143ae4-9484-47de-a43a-d70d592cafe0",
+            "name": "enrichment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pcr",
+            "id": "f9e44cf2-de0e-4b77-b862-b55cd8264a89",
+            "name": "pcr",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "spores",
+            "id": "018918af-687b-41d9-8954-2ada8555ce02",
+            "name": "spores",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 96,
+        "recent": 1
+    }
+}

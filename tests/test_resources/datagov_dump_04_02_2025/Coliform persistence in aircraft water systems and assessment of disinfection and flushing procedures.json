@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "8e77fe63-11e1-423b-98a9-a84166f26405",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jeffrey Szabo",
+    "maintainer_email": "szabo.jeff@epa.gov",
+    "metadata_created": "2020-11-12T13:44:33.926678",
+    "metadata_modified": "2020-11-12T13:44:33.926689",
+    "name": "coliform-persistence-in-aircraft-water-systems-and-assessment-of-disinfection-and-flushing",
+    "notes": "In 2009, the EPA promulgated the Aircraft Drinking Water Rule (ADWR), which aims to ensure that safe and reliable drinking water is provided to aircraft passengers and crew.  The rule sets a schedule for disinfection, flushing and coliform/E. coli sampling, in addition to instituting best practices and operator training.  In this study, a full scale reproduction of an aircraft drinking water system was constructed at the Test and Evaluation (T&E) facility in Cincinnati, OH.  The water system was conditioned using municipal tap water with a mixture of free chlorine and chloramines, and subsequently contaminated with coliforms.   Disinfection was undertaken using two common airline industry methods: chlorine dioxide at 100 mg/L (or higher) for two hours, and ozone at 1 mg/L (or higher) for 5 minutes. After disinfection, the water system was flushed until no disinfectant residual remained and then filled with treated municipal drinking water.  \n\nResults show that coliforms were not persistent on the aircraft plumbing surfaces, and no coliform positives were detected after disinfection and flushing.  The one exception was the aerator attached to the faucet typically installed in the lavatory, was positive for coliforms after disinfection. These data suggest that the faucet aerators could be a source of coliform contamination that may result in coliform positive samples taken under the ADWR.  Further experiments conducted on disinfection of aerators with glycolic acid and quaternary ammonia (both commonly used by the airlines) showed no detectable coliforms on coliform contaminated aerators after 30 minutes of soaking in the disinfectants.  However, many airlines disinfect aerators by the above methods or simply replace the aerators during each disinfection, effectively eliminating this potential source of coliform contamination. \n\nThis dataset is associated with the following publication:\nSzabo, J., M. Rodgers, J. Mistry, J. Steenbock, J. Hoelle, and J. Hall. The effectiveness of disinfection and flushing procedures to prevent coliform persistence in aircraft water systems.   JOURNAL OF WATER SUPPLY: RESEARCH AND TECHNOLOGY - AQUA. IWA Publishing, London,  UK,  1-8, (2018).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Coliform persistence in aircraft water systems and assessment of disinfection and flushing procedures",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:060"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.2166/ws.2018.195"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "aa61d1d1-3c5f-4cbc-a977-b40e18227e5a"
+        },
+        {
+            "key": "source_hash",
+            "value": "92bbf7b100fe8fda1dd998c9f31c193c769cd7e9"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-04-21"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1390163"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:33.933029",
+            "description": "Aircraft%20Decon%20Analysis%20Science%20Hub.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2b362e10-2885-4516-811b-5f4f1ed42092",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:33.933029",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Aircraft Decon Analysis Science Hub.xlsx",
+            "package_id": "8e77fe63-11e1-423b-98a9-a84166f26405",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1390163/Aircraft%20Decon%20Analysis%20Science%20Hub.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aircraft-engines",
+            "id": "f7cad498-b8fd-4cb7-a224-fd15f382f8dc",
+            "name": "aircraft-engines",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chlorine-dioixde",
+            "id": "5e618bb8-6910-4aba-b596-1bfdbc873735",
+            "name": "chlorine-dioixde",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water-distribution-system",
+            "id": "cbffe6c8-65c2-4bd5-b0e5-895291f0c28d",
+            "name": "drinking-water-distribution-system",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "e-coli",
+            "id": "f1ab954f-71c2-41b1-86de-b890b26dc0f5",
+            "name": "e-coli",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 175,
+        "recent": 1
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "06234dc9-2cda-43a2-b084-0699d6246682",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Darryl Keith",
+    "maintainer_email": "keith.darryl@epa.gov",
+    "metadata_created": "2023-05-30T17:56:42.859015",
+    "metadata_modified": "2023-05-30T17:56:42.859021",
+    "name": "supporting-datasets-for-assessing-lake-and-reservoir-recreation-suitability-based-on-lands",
+    "notes": "Water quality is a critical consideration in determining the beneficial uses of these waters. Water clarity has long been used by aquatic monitoring programs as a visual indicator of the condition of water quality. During field operations, water clarity is often monitored using an inexpensive Secchi disk. The Secchi disk is a 20-centimeter (8 inch) diameter metal or weighted plastic disk, normally black and white, which is attached to a measured line and lowered into a lake until it can be no longer seen. Therefore, Secchi depth becomes a visual measure of water clarity. \nThis dataset contains Secchi depths predicted from atmospherically corrected Landsat 8 spectral data collected from 2014 \u2013 2018 for over 200 lakes and reservoirs in the continental United States and in situ Secchi data from eutrophic, mesotrophic, and oligotrophic lakes and reservoirs retrieved from the AquaSat database as well as the Water Quality Portal (WQP) and LAGOS-NE databases, which are paired (matched) with Landsat archived images collected within 1- 3 days of a sampling event.  The data are in tabular format in an EXCEL spreadsheet in *.xlsx format.\nThe data were collected to determine if Secchi depths could be accurately determined for inland lakes and reservoirs at continental scales from satellite derived inherent optical properties and light attenuation character of freshwater lakes and reservoirs. The predicted Secchi depth data were then used in an assessment framework to supplement social surveys which seek to assess the suitability of freshwater lakes and reservoirs for recreation based on public perception.\n\n",
+    "num_resources": 4,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Supporting Datasets for assessing lake and reservoir recreation suitability based on Landsat 8 water clarity",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "cceb553774cb8402c0c74320a0a79524a73cd988"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528472"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-01-26"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6b066a31-ea60-4255-89fd-2f1931ff2593"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-30T17:56:42.872792",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "5a7772bc-8a4c-4186-a659-22a1897b7493",
+            "last_modified": null,
+            "metadata_modified": "2023-05-30T17:56:42.846136",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://figshare.com/articles/dataset/AquaSat/8139383",
+            "package_id": "06234dc9-2cda-43a2-b084-0699d6246682",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://figshare.com/articles/dataset/AquaSat/8139383",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-30T17:56:42.872797",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "2b5ce025-89cf-4c55-a01f-abaa09025849",
+            "last_modified": null,
+            "metadata_modified": "2023-05-30T17:56:42.846325",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://github.com/cont-limno/LAGOS",
+            "package_id": "06234dc9-2cda-43a2-b084-0699d6246682",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://github.com/cont-limno/LAGOS",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-30T17:56:42.872799",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "a67694f2-bf0c-40c7-aec2-ab7a564faaaf",
+            "last_modified": null,
+            "metadata_modified": "2023-05-30T17:56:42.846503",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.waterqualitydata.us",
+            "package_id": "06234dc9-2cda-43a2-b084-0699d6246682",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.waterqualitydata.us",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-30T17:56:42.872801",
+            "description": "Supporting%20Datasets%20for%20assessing%20lake%20and%20reservoir%20recreation%20suitability%20based%20on%20Landsat%208.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "43297062-0f0a-4d1c-b997-8bbfed2ca4cc",
+            "last_modified": null,
+            "metadata_modified": "2023-05-30T17:56:42.846658",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Supporting Datasets for assessing lake and reservoir recreation suitability based on Landsat 8.xlsx",
+            "package_id": "06234dc9-2cda-43a2-b084-0699d6246682",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528472/Supporting%20Datasets%20for%20assessing%20lake%20and%20reservoir%20recreation%20suitability%20based%20on%20Landsat%208.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "lakes-and-reservoirs",
+            "id": "306d290e-39f1-4a68-a63e-ce4bc697e12f",
+            "name": "lakes-and-reservoirs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "landsat-8",
+            "id": "6ec892a1-c948-443e-a80b-6cfb74da208f",
+            "name": "landsat-8",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "secchi-depth",
+            "id": "a93beaee-5f06-48d5-8337-a2c3ff157980",
+            "name": "secchi-depth",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-clarity",
+            "id": "041723fb-e4e4-4103-b0ad-b702ed22147e",
+            "name": "water-clarity",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 21,
+        "recent": 3
+    }
+}

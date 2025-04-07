@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "82f085ba-2003-4971-b382-e7e7b5487346",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Urmila Kodavanti",
+    "maintainer_email": "kodavanti.urmila@epa.gov",
+    "metadata_created": "2021-04-06T01:14:19.492084",
+    "metadata_modified": "2021-04-06T01:14:19.492092",
+    "name": "pulmonary-and-vascular-effects-of-acute-ozone-exposure-in-diabetic-rats-fed-an-atherogenic",
+    "notes": "In this study, we investigated effects of inhaled ozone exposure and high-cholesterol diet (HCD) in healthy Wistar and Wistar-derived Goto-Kakizaki (GK) rats, a non-obese model of type 2 diabetes. Male rats (4-week old) were fed normal diet or HCD for 12 weeks and then exposed to filtered air or 1.0 ppm ozone (6hrs/day) for 1 or 2 days. We examined pulmonary, vascular, hematology, and inflammatory responses after each exposure plus an 18-hr recovery period. \n\nThis dataset is associated with the following publication:\nSnow, S., A. Henriquez, L. Thompson, C. Fisher, M.C. Schladweiler, C. Wood, and U. Kodavanti. Pulmonary and Vascular Effects of Acute Ozone Exposure in Diabetic Rats Fed an Atherogenic Diet.   TOXICOLOGY AND APPLIED PHARMACOLOGY. Academic Press Incorporated, Orlando, FL, USA, 415(115430): 1, (2021).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Pulmonary and Vascular Effects of Acute Ozone Exposure in Diabetic Rats Fed an Atherogenic Diet",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.taap.2021.115430"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "26f763e7-1856-4d4a-878e-8b904e9ffdbc"
+        },
+        {
+            "key": "source_hash",
+            "value": "7adbe3c7e031b278f917203384fa4ae4bf552465"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-11-30"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1521140"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-04-06T01:14:19.512647",
+            "description": "GK-ozone%20Pulmonary%20Paper%20Science%20Hub-final.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "c34bdd57-df90-495c-81eb-d755fece456b",
+            "last_modified": null,
+            "metadata_modified": "2021-04-06T01:14:19.512647",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "GK-ozone Pulmonary Paper Science Hub-final.xlsx",
+            "package_id": "82f085ba-2003-4971-b382-e7e7b5487346",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521140/GK-ozone%20Pulmonary%20Paper%20Science%20Hub-final.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "pulmonary-injury",
+            "id": "2b7d5887-0158-473c-8a6d-6171883a6594",
+            "name": "pulmonary-injury",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "systemic-inflammation",
+            "id": "10c60159-5ea7-46ff-9a61-919e6d9fc2e0",
+            "name": "systemic-inflammation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "type-2-diabetes-rat-model",
+            "id": "a5559143-5868-45cb-94d8-30ce0a11f005",
+            "name": "type-2-diabetes-rat-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vasocontraction",
+            "id": "a5b8fc67-8ec2-46f4-8eee-f916cf887bdb",
+            "name": "vasocontraction",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "western-high-cholesterol-diet",
+            "id": "fcb0c261-f8de-4952-9e9a-edd45fbf8a2e",
+            "name": "western-high-cholesterol-diet",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 45,
+        "recent": 1
+    }
+}

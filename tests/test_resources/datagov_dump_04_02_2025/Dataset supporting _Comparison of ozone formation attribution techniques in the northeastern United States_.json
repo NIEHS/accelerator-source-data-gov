@@ -1,0 +1,210 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "8a518a0e-3a91-4cd4-a4b7-5bd025dd871e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Sergey Napelenok",
+    "maintainer_email": "napelenok.sergey@epa.gov",
+    "metadata_created": "2024-11-29T13:26:19.569221",
+    "metadata_modified": "2024-11-29T13:26:19.569227",
+    "name": "dataset-supporting-comparison-of-ozone-formation-attribution-techniques-in-the-northeaster",
+    "notes": "The Integrated Source Apportionment Method (ISAM) has been revised in the Community Multiscale Air Quality (CMAQ) model. This work updates ISAM to maximize its flexibility, particularly for ozone (O3) modeling, by providing multiple attribution options, including products inheriting attribution fully from nitrogen oxide reactants, fully from volatile organic compound (VOC) reactants, equally\nfrom all reactants, or dynamically from NOx or VOC reactants based on the indicator gross production ratio of hydrogen\nperoxide (H2O2) to nitric acid (HNO3). The updated ISAM has been incorporated into the most recent publicly accessible\nversions of CMAQ (v5.3.2 and beyond). This study\u2019s primary objective is to document these ISAM updates and\ndemonstrate their impacts on source apportionment results for O3 and its precursors. Additionally, the ISAM results are\ncompared with the Ozone Source Apportionment Technology (OSAT) in the Comprehensive Air-quality Model with\nExtensions (CAMx) and the brute-force method (BF). \n\nThis dataset is associated with the following publication:\nShu, Q., S. Napelenok, W. Hutzell, K. Baker, B. Henderson, B. Murphy, and C. Hogrefe. Comparison of ozone formation attribution techniques in the northeastern United States.   Geoscientific Model Development. Copernicus Publications, Katlenburg-Lindau,  GERMANY, 16(8): 2303\u20132322, (2023).",
+    "num_resources": 2,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset supporting \"Comparison of ozone formation attribution techniques in the northeastern United States\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "b875ab7a76db28363378af9a379348f55172c01e7ffb1fd24c0da326bb2066b2"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531882"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-03-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.5194/gmd-16-2303-2023",
+                "https://www.epa.gov/aqs",
+                "https://www.epa.gov/cmaq/forms/download-cmaq-data"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "25459ecf-893a-4e6a-a75a-dca3a77b9fee"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-11-29T13:26:19.583347",
+            "description": "gmd-16-2303-2023.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "f660a30d-3d4f-43ef-9f19-24a5fec63fe9",
+            "last_modified": null,
+            "metadata_modified": "2024-11-29T13:26:19.551068",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "gmd-16-2303-2023.pdf",
+            "package_id": "8a518a0e-3a91-4cd4-a4b7-5bd025dd871e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531882/gmd-16-2303-2023.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-11-29T13:26:19.583352",
+            "description": "Shu_etal_2023GMD_data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "1cb22f53-49a1-417d-a92f-3abc0eaad780",
+            "last_modified": null,
+            "metadata_modified": "2024-11-29T13:26:19.551230",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Shu_etal_2023GMD_data.xlsx",
+            "package_id": "8a518a0e-3a91-4cd4-a4b7-5bd025dd871e",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531882/Shu_etal_2023GMD_data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-pollution",
+            "id": "377a66eb-8d7a-472b-9d77-39ac9e6cb37f",
+            "name": "air-pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cmaq",
+            "id": "0b0fef67-e80d-444d-bb78-bb953300d6e3",
+            "name": "cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "source-apportionment",
+            "id": "b5d30774-8dc0-436c-9f2c-b3abad09a8bc",
+            "name": "source-apportionment",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 1
+    }
+}

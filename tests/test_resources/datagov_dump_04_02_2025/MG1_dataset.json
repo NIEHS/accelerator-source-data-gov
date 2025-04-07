@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "174ac91b-0ff1-4425-9ec3-382d57248101",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jingrang Lu",
+    "maintainer_email": "lu.jingrang@epa.gov",
+    "metadata_created": "2023-03-19T14:41:41.588405",
+    "metadata_modified": "2023-03-19T14:41:41.588410",
+    "name": "mg1-dataset",
+    "notes": "Genome sequence, PCR clone sequences and qPCR data. \n\nThis dataset is associated with the following publication:\nLinz, D., K. McIntosh, I. Struewing, S. Klemm, B. McMinn, R. Haugland, E. Villegas, and J. Lu. Genomic Characterization and Wetland Occurrence of a Novel Campylobacter Isolate from Canada Geese.   Microorganisms. MDPI, Basel,  SWITZERLAND, 11(3): 648, (2023).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "MG1_dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "2373af9215d42c4b504d9746fbd5b8953c40d933"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528148"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-10-31"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/microorganisms11030648"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f99f0f93-7169-4f88-bd01-668201046daa"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-03-19T14:41:41.597811",
+            "description": "MG1_dataset.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "385a1a5d-7ba1-4c60-87b6-0229103d62bb",
+            "last_modified": null,
+            "metadata_modified": "2023-03-19T14:41:41.561796",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "MG1_dataset.xlsx",
+            "package_id": "174ac91b-0ff1-4425-9ec3-382d57248101",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528148/MG1_dataset.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "campylobacter-canadensis",
+            "id": "1078691d-6a0a-4b67-af38-9dc1a6a3847a",
+            "name": "campylobacter-canadensis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "canada-goose",
+            "id": "701e261b-c797-4a69-8c42-b17cdcc4132e",
+            "name": "canada-goose",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "clone",
+            "id": "c630a102-97da-4302-b5ed-dd6fb4d5d17a",
+            "name": "clone",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fecal-indicators",
+            "id": "8161be2b-f02a-403c-8415-168ab1818fcb",
+            "name": "fecal-indicators",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "genome",
+            "id": "d1b0fcb4-ea75-44d8-bf65-549a4dff43fc",
+            "name": "genome",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "genome-sequence",
+            "id": "97ef141b-1e8a-4d7f-9fbd-729a66ee431f",
+            "name": "genome-sequence",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microbial-source-tracking",
+            "id": "197a483e-f7e2-4abc-af40-9ca0b9e3e807",
+            "name": "microbial-source-tracking",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 40,
+        "recent": 1
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "142652e0-c88c-40bd-8574-0e33d934112f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jana Compton",
+    "maintainer_email": "compton.jana@epa.gov",
+    "metadata_created": "2020-11-12T13:43:33.525700",
+    "metadata_modified": "2021-05-02T09:02:38.491877",
+    "name": "assessing-the-social-and-environmental-costs-of-institutions-nitrogen-footprints",
+    "notes": "This dataset allowed estimates the damage costs associated with the institutional nitrogen (N) footprint and explores how this information could be used to create more sustainable institutions. Potential damages associated with the release of nitrogen oxides (NOx), ammonia (NH3), and nitrous oxide (N2O) to air and release of nitrogen to water were estimated\nusing existing values and a cost per unit of nitrogen approach. These damage cost values were then applied to two universities. Annual potential damage costs to human health, agriculture, and natural ecosystems associated with the N footprint of institutions were $11.0 million (2014) at the University of Virginia (UVA) and $3.04 million at the University of New Hampshire (UNH). Costs associated with the release of nitrogen oxides to human health, in particular the use of coal-derived energy, were the largest component of damage at UVA. At UNH the energy N footprint is much lower because of a landfill cogeneration source, and thus the majority of damages were associated with food production. Annual damages associated with release of nitrogen from food production were very similar\nat the two universities ($1.80 million vs. $1.66 million at UVA and UNH, respectively). These damages also have implications for the extent and scale at which the damages are felt. For example, impacts to human health from energy and transportation are generally larger near the power plants and roads, while impacts from food production can be distant from the campus. Making this information available to institutions and communities can improve their understanding of the damages associated with the different nitrogen forms and sources, and inform decisions about\nnitrogen reduction strategies. \n\nThis dataset is associated with the following publication:\nCompton, J., A. Leach, E. Castner, and J. Galloway. Assessing the Social and Environmental Costs of Institutional Nitrogen Footprints.   Sustainability: The Journal of Record. Mary Ann Liebert, Inc., New Rochelle, NY, USA, 10(2): 114-122, (2017).",
+    "num_resources": 2,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Assessing the Social and Environmental Costs of Institutions Nitrogen Footprints",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1089/sus.2017.29099.jec"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "52d5d237-0a76-4f47-bffe-b05d66e2945d"
+        },
+        {
+            "key": "source_hash",
+            "value": "65edfb40903fbdd38051292cc074c39fb18464b4"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-09-27"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1407639"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-05-02T09:02:41.101615",
+            "description": "sus.2017.29099.jec",
+            "format": "",
+            "hash": "",
+            "id": "dd43404f-f8e4-48c7-a1e1-f330a78b36a2",
+            "last_modified": null,
+            "metadata_modified": "2021-05-02T09:02:41.101615",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://online.liebertpub.com/doi/pdfplus/10.1089/sus.2017.29099.jec",
+            "package_id": "142652e0-c88c-40bd-8574-0e33d934112f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://online.liebertpub.com/doi/pdfplus/10.1089/sus.2017.29099.jec",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:33.572683",
+            "description": "SciHub%20data%20ORD-019271.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8975535e-076f-4979-9e2f-e5e2429abd7d",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:33.572683",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "SciHub data ORD-019271.xlsx",
+            "package_id": "142652e0-c88c-40bd-8574-0e33d934112f",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407639/SciHub%20data%20ORD-019271.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "atmospheric-deposition",
+            "id": "e85c2b66-44c1-4d2b-a7cc-3c1008b12165",
+            "name": "atmospheric-deposition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "benefit-cost-analysis",
+            "id": "dba955b8-4465-489e-a31d-41bbd2273c7e",
+            "name": "benefit-cost-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem-services",
+            "id": "42c771f8-6d6c-4724-b210-142cad6b6734",
+            "name": "ecosystem-services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fertilizer",
+            "id": "4bc559ae-5b7f-43c8-9cb9-91ae86438191",
+            "name": "fertilizer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "n-fixation",
+            "id": "5fbd1f01-ff56-4ca3-b18e-817fe943a027",
+            "name": "n-fixation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen",
+            "id": "547959b4-f904-484c-9a1e-0f6ab529e4b2",
+            "name": "nitrogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nutrients",
+            "id": "7b22a832-3d85-4237-b697-ecd346e37a1e",
+            "name": "nutrients",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "point-sources",
+            "id": "0a2a66ee-4d6c-415b-ac49-bdabb3c31d9a",
+            "name": "point-sources",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 103,
+        "recent": 1
+    }
+}

@@ -1,0 +1,395 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "72f1b86d-2df5-46c6-a0a7-b50ea7a87d47",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:30:31.361730",
+    "metadata_modified": "2025-02-25T05:30:31.361737",
+    "name": "u-s-level-iii-and-iv-ecoregions-u-s-epa10",
+    "notes": "This map service displays Level III and Level IV Ecoregions of the United States and was created from ecoregion data obtained from the U.S. Environmental Protection Agency Office of Research and Development's Western Ecology Division. The original ecoregion data was projected from Albers to Web Mercator for this map service. To download shapefiles of ecoregion data (in Albers), please go to: https://dmap-prod-oms-edc.s3.us-east-1.amazonaws.com/index.html#ORD/Ecoregions/. IMPORTANT NOTE ABOUT LEVEL IV POLYGON LEGEND DISPLAY IN ARCMAP: Due to the limitations of Graphical Device Interface (GDI) resources per application on Windows, ArcMap does not display the legend in the Table of Contents for the ArcGIS Server service layer if the legend has more than 100 items. As of December 2011, there are 968 unique legend items in the Level IV Ecoregion Polygon legend. Follow this link (http://support.esri.com/en/knowledgebase/techarticles/detail/33741) for instructions about how to increase the maximum number of ArcGIS Server service layer legend items allowed for display in ArcMap. Note the instructions at this link provide a slightly incorrect path to \"Maximum Legend Count\". The correct path is HKEY_CURRENT_USER > Software > ESRI > ArcMap > Server > MapServerLayer > Maximum Legend Count. When editing the \"Maximum Legend Count\", update the field, \"Value data\" to 1000. To download a PDF version of the Level IV ecoregion map and legend, go to https://dmap-prod-oms-edc.s3.us-east-1.amazonaws.com/ORD/Ecoregions/us/Eco_Level_IV_US_pg.pdf. Ecoregions denote areas of general similarity in ecosystems and in the type, quality, and quantity of environmental resources. They are designed to serve as a spatial framework for the research, assessment, management, and monitoring of ecosystems and ecosystem components. These general purpose regions are critical for structuring and implementing ecosystem management strategies across federal agencies, state agencies, and nongovernment organizations that are responsible for different types of resources within the same geographical areas. The approach used to compile this map is based on the premise that ecological regions can be identified through the analysis of patterns of biotic and abiotic phenomena, including geology, physiography, vegetation, climate, soils, land use, wildlife, and hydrology. The relative importance of each characteristic varies from one ecological region to another. A Roman numeral hierarchical scheme has been adopted for different levels for ecological regions. Level I is the coarsest level, dividing North America into 15 ecological regions. Level II divides the continent into 52 regions (Commission for Environmental Cooperation Working Group, 1997). At Level III, the continental United States contains 104 regions whereas the conterminous United States has 85 (U.S. Environmental Protection Agency, 2005). Level IV ecoregions (n = 968) are further subdivisions of Level III ecoregions. Methods used to define the ecoregions are explained in Omernik (1995, 2004), Omernik and others (2000), and Gallant and others (1989). Literature cited: Commission for Environmental Cooperation Working Group, 1997, Ecological regions of North America- toward a common perspective: Montreal, Commission for Environmental Cooperation, 71 p. Gallant, A.L., Whittier, T.R., Larsen, D.P., Omernik, J.M., and Hughes, R.M., 1989, Regionalization as a tool for managing environmental resources: Corvallis, Oregon, U.S. Environmental Protection Agency, EPA/600/3-89/060, 152p. Omernik, J.M., 1995, Ecoregions - a framework for environmental management, in Davis, W.S. and Simon, T.P., eds., Biological assessment and criteria-tools for water resource planning and decision making: Boca Raton, Florida, Lewis Publishers, p.49-62. Omernik, J.M., Chapman, S.S., Lillie, R.A., and Dumke, R.T., 2000, Ecoregions of Wisconsin: Transactions of the Wisconsin Academy of Science, Arts, and Letters, v. 88, p. 77-103. Omernik, J.M., 2004, Perspectives on the nature and definitions of ecological regions: Environmental Management, v. 34, Supplement 1, p. s27-s38. Comments and questions regarding ecoregion development should be addressed to Glenn Griffith, Dynamac Corporation, c/o US EPA., 200 SW 35th Street, Corvallis, OR 97333, 541-754-4465, email:griffith.glenn@epa.gov Alternate: James Omernik, USGS, c/o US EPA, 200 SW 35th Street, Corvallis, OR 97333, 541-754-4458, email:omernik.james@epa.gov",
+    "num_resources": 7,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "U.S. Level III and IV Ecoregions (U.S. EPA)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "{02C99043-2E25-4A4E-BBE3-6AAE81ED7FC8}"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2012-04-26\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng; USA"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2025-01-21"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "esrisupport@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "underDevelopment"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "licence_url",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Research Triangle Park\", \"roles\": [\"pointOfContact\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-64"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "50"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "17"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-160"
+        },
+        {
+            "key": "lineage",
+            "value": "This lineage was generated by the FGDC CSDGM to 19139 transformation"
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.0, 17.0], [-64.0, 17.0], [-64.0, 50.0], [-160.0, 50.0], [-160.0, 17.0]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.0, 17.0], [-64.0, 17.0], [-64.0, 50.0], [-160.0, 50.0], [-160.0, 17.0]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f8089ab2-39c5-4fc3-8000-f86008c3a713"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:31.366771",
+            "description": "The URL providing direct access to the downloadable dataset. ",
+            "format": "HTML",
+            "hash": "",
+            "id": "6679e70c-cc5e-4dbf-a4fe-2ad6068cc2b5",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:31.348443",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Download",
+            "package_id": "72f1b86d-2df5-46c6-a0a7-b50ea7a87d47",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "download",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://dmap-prod-oms-edc.s3.us-east-1.amazonaws.com/index.html#ORD/Ecoregions/",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:31.366776",
+            "description": "The endpoint of a web service to access the dataset (REST endpoint, WMS GetCapabilities URL, or a SOAP WSDL endpoint).",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "7fac0601-02cd-408b-9ed0-6ef1099e28fd",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:31.348563",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "API",
+            "package_id": "72f1b86d-2df5-46c6-a0a7-b50ea7a87d47",
+            "position": 1,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "ESRI:ArcGIS",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://gispub.epa.gov/arcgis/rest/services/ORD/USEPA_Ecoregions_Level_III_and_IV/MapServer",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:31.366777",
+            "description": "These spatial files represent the most up-to-date publicly available ecoregion data for the US.",
+            "format": "HTML",
+            "hash": "",
+            "id": "888e0c28-3c17-4a72-b158-36e090cec2ee",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:31.348650",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Shapefile",
+            "package_id": "72f1b86d-2df5-46c6-a0a7-b50ea7a87d47",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://dmap-prod-oms-edc.s3.us-east-1.amazonaws.com/index.html#ORD/Ecoregions/",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:31.366779",
+            "description": " ",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "0fad39dc-375a-49bd-872a-0d63c6adcbb5",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:31.348736",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "ArcGIS Server Map Service",
+            "package_id": "72f1b86d-2df5-46c6-a0a7-b50ea7a87d47",
+            "position": 3,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://gispub.epa.gov/arcgis/rest/services/ORD/USEPA_Ecoregions_Level_III_and_IV/MapServer",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:31.366780",
+            "description": " ",
+            "format": "WMS",
+            "hash": "",
+            "id": "df788977-c19a-4da3-89c0-d23adf983824",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:31.348822",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "ArcGIS Server WMS Service",
+            "package_id": "72f1b86d-2df5-46c6-a0a7-b50ea7a87d47",
+            "position": 4,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://gispub.epa.gov/arcgis/services/ORD/USEPA_Ecoregions_Level_III_and_IV/MapServer/WMSServer",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:31.366781",
+            "description": " ",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "f5d26e41-b4dc-43ff-9038-ba2a06381a1f",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:31.348906",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "ArcGIS Server REST interface",
+            "package_id": "72f1b86d-2df5-46c6-a0a7-b50ea7a87d47",
+            "position": 5,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://gispub.epa.gov/arcgis/rest/services/ORD/USEPA_Ecoregions_Level_III_and_IV/MapServer?f=json&pretty=true",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:30:31.366783",
+            "description": " ",
+            "format": "",
+            "hash": "",
+            "id": "19eb04ba-0ce8-4151-a573-9d73baafce69",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:30:31.348988",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "ArcGIS Server SOAP interface",
+            "package_id": "72f1b86d-2df5-46c6-a0a7-b50ea7a87d47",
+            "position": 6,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://gispub.epa.gov/arcgis/services/ORD/USEPA_Ecoregions_Level_III_and_IV/MapServer?wsdl",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "ecology",
+            "id": "f1bf9844-1fe9-4726-b4d6-4b1031328d1a",
+            "name": "ecology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecoregions",
+            "id": "2712d5e9-2c38-4f03-ba36-8d4462ae8e62",
+            "name": "ecoregions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem",
+            "id": "76ce6029-c904-4ad7-a8dd-531c90a09522",
+            "name": "ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land",
+            "id": "899e1294-851a-4804-95fa-e0c5a45f19fc",
+            "name": "land",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "natural resources",
+            "id": "199ef54a-58f4-48ff-8edd-ffc0a762fa08",
+            "name": "natural resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 10,
+        "recent": 5
+    }
+}

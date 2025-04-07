@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "087c78c5-8e3c-47e9-ac95-5281eea9506a",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Timothy Shafer",
+    "maintainer_email": "shafer.tim@epa.gov",
+    "metadata_created": "2020-11-12T13:40:58.496338",
+    "metadata_modified": "2020-11-12T13:40:58.496345",
+    "name": "screening-silver-nanoparticles-for-potential-neurotoxicity-using-cortical-neurons-grown-on",
+    "notes": "the zip files contain outputs from the R-analysis for the nanosilver experiments. \n\nThis dataset is associated with the following publication:\nStrickland, J., W. LeFew, J. Crooks, D. Hall, J. Ortenzio , K. Dreher , and T. Shafer. In vitro screening of silver nanoparticles and ionic silver using neural networks yields differential effects on spontaneous activity and pharmacological responses..   TOXICOLOGY. Elsevier Science Ltd, New York, NY, USA, 355(11): 1-8, (2016).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Screening silver nanoparticles for potential neurotoxicity using cortical neurons grown on microelectrode arrays",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.tox.2016.05.009"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "652bcc5d-6f33-4521-95ba-06a09ebc9888"
+        },
+        {
+            "key": "source_hash",
+            "value": "9d17757e44a0b6c9fa96f0172e365b866a3a17c3"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-12-14"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1413280"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:40:58.515893",
+            "description": "MEA_NanoAg.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c9326cbd-dd97-4003-8215-617f55d85662",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:40:58.515893",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "MEA_NanoAg.zip",
+            "package_id": "087c78c5-8e3c-47e9-ac95-5281eea9506a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1413280/MEA_NanoAg.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "high-throughput-screening",
+            "id": "7762bf90-ad7b-432d-aaba-f98d1b19f54c",
+            "name": "high-throughput-screening",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microelectrode-array",
+            "id": "b379bd10-6085-4872-872c-a4a4cb212605",
+            "name": "microelectrode-array",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nanoparticle",
+            "id": "0a5bfb46-42cf-4fd7-9a87-ded08b0522d1",
+            "name": "nanoparticle",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nanosilver",
+            "id": "8fc0c979-2a55-4302-960a-3f7fa14b94af",
+            "name": "nanosilver",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "neurotoxicity",
+            "id": "483f5b17-137f-46b5-8a82-05b0d1c35e2c",
+            "name": "neurotoxicity",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 97,
+        "recent": 1
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "6473e9c8-e126-47e3-ad2b-83b0c83482c9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Havala Pye",
+    "maintainer_email": "pye.havala@epa.gov",
+    "metadata_created": "2022-10-02T06:38:32.287175",
+    "metadata_modified": "2022-10-02T06:38:32.287183",
+    "name": "data-for-amore-isoprene-v1-0-a-new-reduced-mechanism-for-gas-phase-isoprene-oxidation",
+    "notes": "Data zip file contains the exact CMAQ code used by Wiser et al. in the development of CRACMM1AMORE. In addition, CMAQ predictions and AQS observations of formaldehyde and ozone appearing in Figure 8 are included as csv files. For information on CMAQ file conventions as well as site compare output for model/observation evaluation, see the linked github repository for CMAQ. Linked dois include the standard CMAQv5.3.3 code and AMORE supplementary files.",
+    "num_resources": 4,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data for AMORE-Isoprene v1.0: A new reduced mechanism for gas-phase isoprene oxidation",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "a8080f2a6f2d97bff4587422855d7367cac353ef"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527975"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-09-26"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "eed14d86-e902-4a90-bd41-c689547c9247"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-10-02T06:38:32.325209",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "64269c29-efb0-4ba4-9253-0c58de3fe73f",
+            "last_modified": null,
+            "metadata_modified": "2022-10-02T06:38:32.273659",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://github.com/USEPA/CMAQ",
+            "package_id": "6473e9c8-e126-47e3-ad2b-83b0c83482c9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://github.com/USEPA/CMAQ",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-10-02T06:38:32.325216",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "6f49a8c7-0bed-461f-abf2-e90c50bf60b0",
+            "last_modified": null,
+            "metadata_modified": "2022-10-02T06:38:32.273864",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.5281/zenodo.5213949",
+            "package_id": "6473e9c8-e126-47e3-ad2b-83b0c83482c9",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://doi.org/10.5281/zenodo.5213949",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-10-02T06:38:32.325220",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "4e88bd86-f9ec-4d38-8e60-4ec18c54ec52",
+            "last_modified": null,
+            "metadata_modified": "2022-10-02T06:38:32.274056",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.5281/zenodo.7106505",
+            "package_id": "6473e9c8-e126-47e3-ad2b-83b0c83482c9",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://doi.org/10.5281/zenodo.7106505",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-10-02T06:38:32.325224",
+            "description": "20220916_CMAQ_AMORE.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "810ddbbb-1ad6-495b-9a5f-2f584303b49d",
+            "last_modified": null,
+            "metadata_modified": "2022-10-02T06:38:32.274262",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "20220916_CMAQ_AMORE.zip",
+            "package_id": "6473e9c8-e126-47e3-ad2b-83b0c83482c9",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527975/20220916_CMAQ_AMORE.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cmaq",
+            "id": "0b0fef67-e80d-444d-bb78-bb953300d6e3",
+            "name": "cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cracmm",
+            "id": "e917d5c7-7e5d-4696-9a5f-b77a9e25543b",
+            "name": "cracmm",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "formaldehyde",
+            "id": "10817b7b-68a2-4aff-bd48-67302641f656",
+            "name": "formaldehyde",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "isoprene",
+            "id": "3e6cfb79-ee9d-48d7-962f-df3dc37026c7",
+            "name": "isoprene",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 49,
+        "recent": 1
+    }
+}

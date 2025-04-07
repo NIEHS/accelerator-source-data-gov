@@ -1,0 +1,211 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "f73bd1c0-55b6-4e18-b880-b0fe2de41c15",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Richard Wilkin",
+    "maintainer_email": "wilkin.rick@epa.gov",
+    "metadata_created": "2020-11-12T13:47:14.130227",
+    "metadata_modified": "2020-11-12T13:47:14.130234",
+    "name": "wilkin-et-al-2019-dataset",
+    "notes": "The dataset contains chromatographic traces of samples containing thioarsenic species and solubility data for disordered orpiment (arsenic sulfide). \n\nThis dataset is associated with the following publication:\nWilkin, R.T., R.G. Ford, L.M. Costantino, R.R. Ross, D.G. Beak, and K.G. Scheckel. Thioarsenite Detection and Implications for Arsenic Transport in Groundwater.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 53(20): 11684-11693, (2019).",
+    "num_resources": 1,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Wilkin et al. (2019) dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.9b04478"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4ffabe17-b8a5-44a9-82db-1fb75ac7a28c"
+        },
+        {
+            "key": "source_hash",
+            "value": "80e0742fb5f434279a0cf2959d8e143811f73f9d"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-06-24"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503989"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:14.134847",
+            "description": "Wilkin%20et%20al.%20%282019%29%20dataset.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "4b3b508d-612b-4b73-9669-33cee8055eb1",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:14.134847",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Wilkin et al. (2019) dataset.xlsx",
+            "package_id": "f73bd1c0-55b6-4e18-b880-b0fe2de41c15",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503989/Wilkin%20et%20al.%20%282019%29%20dataset.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "arsenic",
+            "id": "8d4273a7-b2fc-45f8-85dc-23eda4ab84a3",
+            "name": "arsenic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arsenic-speciation",
+            "id": "162a7673-db5d-4379-a7ba-45816660cbd5",
+            "name": "arsenic-speciation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chromium",
+            "id": "7b1ca241-5838-4e14-9c11-49876f6f0ff9",
+            "name": "chromium",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "groundwater",
+            "id": "692bc2bf-4d42-4222-9794-b6196f106f94",
+            "name": "groundwater",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "iron-sulfides",
+            "id": "d1126ae7-7767-41cd-bf41-9fa8d125559d",
+            "name": "iron-sulfides",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nickel",
+            "id": "ae7a481e-619d-4de1-9d92-9702335bc260",
+            "name": "nickel",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation",
+            "id": "d7a31147-fbf4-4cc4-9813-fcd875012e5c",
+            "name": "remediation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thioarsenite",
+            "id": "88aa74a9-0e28-4c91-8485-b3eace0af345",
+            "name": "thioarsenite",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "uranium",
+            "id": "8f00ba96-ef10-44fd-a27e-052809047cc7",
+            "name": "uranium",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 197,
+        "recent": 1
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "1bf8324f-ecc0-4015-afb7-4d83187f85b3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "David Heist",
+    "maintainer_email": "heist.david@epa.gov",
+    "metadata_created": "2020-11-12T13:38:30.775264",
+    "metadata_modified": "2020-11-12T13:38:30.775274",
+    "name": "rw1",
+    "notes": "Wind tunnel measurements of flow and dispersion from a simulated roadway with near-road solid barriers. \n\nThis dataset is associated with the following publication:\nAhangar, F., D. Heist, S. Perry, and A. Venkatram. Reduction of air pollution levels downwind of a road with an upwind noise barrier.   ATMOSPHERIC ENVIRONMENT. Elsevier Science Ltd, New York, NY, USA, 155: 1-10, (2017).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "RW1",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.atmosenv.2017.02.001"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "da511b69-7aca-437a-bff4-b7b260d92624"
+        },
+        {
+            "key": "source_hash",
+            "value": "f7cc8285cf3ebee65f196ee57efa70008e0f6ca2"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-03-07"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "A-dv4c-515"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/515/documents/Heist%20A-dv4c-DataDictionaryRW1-20170307.docx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:30.794609",
+            "description": "Heist%20A-dv4c-DataFiles_RW1-20170307.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2ec87424-c949-46ce-9cc6-37e8a983d075",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:30.794609",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Heist A-dv4c-DataFiles_RW1-20170307.zip",
+            "package_id": "1bf8324f-ecc0-4015-afb7-4d83187f85b3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/515/Heist%20A-dv4c-DataFiles_RW1-20170307.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "dispersion-modeling",
+            "id": "8c0f0b82-6478-4a38-b2ec-ca5f97124380",
+            "name": "dispersion-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "near-road",
+            "id": "1199739f-906a-4c11-ab1b-fe1d710a0257",
+            "name": "near-road",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "noise-barriers",
+            "id": "6e33de26-e8a4-4409-94ed-90fa7f921d49",
+            "name": "noise-barriers",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wind-tunnel",
+            "id": "c248c8ec-54ca-4b25-a6b0-9b4a992defc1",
+            "name": "wind-tunnel",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 177,
+        "recent": 1
+    }
+}

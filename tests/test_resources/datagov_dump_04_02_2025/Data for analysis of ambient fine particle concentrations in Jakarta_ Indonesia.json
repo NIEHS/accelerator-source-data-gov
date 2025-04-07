@@ -1,0 +1,155 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "dfb633e9-3407-444c-bbd6-1e1e0592cd70",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Golam Sarwar",
+    "maintainer_email": "sarwar.golam@epa.gov",
+    "metadata_created": "2023-03-19T14:41:24.931758",
+    "metadata_modified": "2023-03-19T14:41:24.931763",
+    "name": "data-for-analysis-of-ambient-fine-particle-concentrations-in-jakarta-indonesia",
+    "notes": "Data are publicly available and have been downloaded from the AirNow website. Data on AirNow website: \n\nhttps://www.airnow.gov/international/us-embassies-and-consulates/#Indonesia$Jakarta_South\nhttps://www.airnow.gov/international/us-embassies-and-consulates/#Indonesia$Jakarta_Central. \n\nThis dataset is associated with the following publication:\nSarwar, G., B. Henderson, R. Baldauf, and P. Gupta. Analysis of ambient fine particle concentrations in Jakarta, Indonesia.   EM Magazine. Air and Waste Management Association, Pittsburgh, PA, USA,  1-5, (2022).",
+    "num_resources": 1,
+    "num_tags": 1,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data for analysis of ambient fine particle concentrations in Jakarta, Indonesia",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "27d2391eabc9918c60f308ef6612af5165ac4e6f"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524716"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-08-13"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://airandwmapa.sharepoint.com/sites/AWMA_Website/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FAWMA%5FWebsite%2FShared%20Documents%2Fem%2Ddo%20not%20delete%2F2022%2FEM%20July%202022%2Fsarwar%2Epdf&parent=%2Fsites%2FAWMA%5FWebsit"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6a7278ce-5353-4535-a403-5aa041bd33ff"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-03-19T14:41:24.941021",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "c3b0e86b-9899-416e-b4fe-0ad7d2c36c62",
+            "last_modified": null,
+            "metadata_modified": "2023-03-19T14:41:24.924836",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.airnow.gov/international/us-embassies-and-consulates/",
+            "package_id": "dfb633e9-3407-444c-bbd6-1e1e0592cd70",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.airnow.gov/international/us-embassies-and-consulates/",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "fine-particulate-matter-pm2-5",
+            "id": "cd16eecc-dce8-4323-984b-d6eb4d71021a",
+            "name": "fine-particulate-matter-pm2-5",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 33,
+        "recent": 1
+    }
+}

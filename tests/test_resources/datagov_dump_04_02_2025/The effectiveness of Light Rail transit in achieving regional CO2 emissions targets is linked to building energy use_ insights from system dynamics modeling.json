@@ -1,0 +1,315 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "bc8ea1c9-ee0a-4f99-a7b4-3592cbd0ad16",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Rochelle Araujo",
+    "maintainer_email": "araujo.rochelle@epa.gov",
+    "metadata_created": "2020-11-12T13:39:30.986680",
+    "metadata_modified": "2020-11-12T13:39:30.986690",
+    "name": "the-effectiveness-of-light-rail-transit-in-achieving-regional-co2-emissions-targets-is-lin",
+    "notes": "Dataset is comprised of a series of journal publications  (in pdf form) that use system dynamics modeling to analyze the interactions among transportation, land use, economy and resources (water, energy) to yield sustainability outcomes, with a focus on achieving energy sustainability goals. In particular, the paper analyzes the tradeoffs and cumulative impacts of energy use across building and transportation types under a range of transportation and land use scenarios. In addition to the articles themselves, the dataset includes figures from the articles and a link to the model documentation, as well as tabular sources of input and calibration data and the full set of model output data. \n\nThis dataset is associated with the following publication:\nProcter, A., A. Bassi, J. Kolling, L. Cox, N. Flanders, N. Tanners, and R. Araujo. The effectiveness of Light Rail transit in achieving regional CO2 emissions targets is linked to building energy use: insights from system dynamics modeling.   CLEAN TECHNOLOGIES ENVIRONMENTAL POLICY. Springer, New York, NY, USA, 19(5): 1459-1474, (2017).",
+    "num_resources": 6,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "The effectiveness of Light Rail transit in achieving regional CO2 emissions targets is linked to building energy use: insights from system dynamics modeling",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s10098-017-1343-z"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d3a29cd0-232f-43b7-bc36-1a7160b1bc8f"
+        },
+        {
+            "key": "source_hash",
+            "value": "84fea1ec3e87589d797b110bfd7a146747bcf077"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-08-22"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1377842"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:39:31.014187",
+            "description": "Procter%20et%20al.%202017_The%20effectiveness%20of%20light%20rail%20transit.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "d4f87632-64e4-4464-9bba-dfb5a22b2b1f",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:39:31.014187",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "Procter et al. 2017_The effectiveness of light rail transit.pdf",
+            "package_id": "bc8ea1c9-ee0a-4f99-a7b4-3592cbd0ad16",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1377842/Procter%20et%20al.%202017_The%20effectiveness%20of%20light%20rail%20transit.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:39:31.014197",
+            "description": "Procter_Figures%20for%20Energy%20Paper.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "06e7a9bb-c3b7-48cd-a2cd-78ccff05a80f",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:39:31.014197",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Procter_Figures for Energy Paper.xlsx",
+            "package_id": "bc8ea1c9-ee0a-4f99-a7b4-3592cbd0ad16",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1377842/Procter_Figures%20for%20Energy%20Paper.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:39:31.014203",
+            "description": "D-O%20LRP%20SD%20Model%20Documentation%20Appendix%20B.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "a4b368aa-48ef-42c3-a99e-42f41beab4b0",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:39:31.014203",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "D-O LRP SD Model Documentation Appendix B.xlsx",
+            "package_id": "bc8ea1c9-ee0a-4f99-a7b4-3592cbd0ad16",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1377842/D-O%20LRP%20SD%20Model%20Documentation%20Appendix%20B.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:39:31.014208",
+            "description": "D-O%20LRP%20Model_Base%20Scenario%20Outputs.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "469a8342-949f-4ac3-a975-8639b758a4a5",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:39:31.014208",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "D-O LRP Model_Base Scenario Outputs.xlsx",
+            "package_id": "bc8ea1c9-ee0a-4f99-a7b4-3592cbd0ad16",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1377842/D-O%20LRP%20Model_Base%20Scenario%20Outputs.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:39:31.014213",
+            "description": "Historical%20and%20Projected%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "c1412d13-11b7-49f1-8028-b26fa92990f6",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:39:31.014213",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Historical and Projected Data.xlsx",
+            "package_id": "bc8ea1c9-ee0a-4f99-a7b4-3592cbd0ad16",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1377842/Historical%20and%20Projected%20Data.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:39:31.014217",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "7627e03e-54ba-4d7f-97c4-f78cd90f8507",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:39:31.014217",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=310977",
+            "package_id": "bc8ea1c9-ee0a-4f99-a7b4-3592cbd0ad16",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=310977",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "buildings",
+            "id": "76501d19-f923-46e3-b744-0d8f959cc054",
+            "name": "buildings",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emissions",
+            "id": "09baf6a3-d24a-4265-8b80-2ada905665dd",
+            "name": "emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy",
+            "id": "7c35fe0d-a745-4f8a-aff7-961189fe994f",
+            "name": "energy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "integrated-approaches",
+            "id": "6943cb42-2adf-48a4-aa21-2226123064a2",
+            "name": "integrated-approaches",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "light-rail",
+            "id": "b80aea8a-18dd-484f-9cf2-e2d118e5829d",
+            "name": "light-rail",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sustainability",
+            "id": "a1f8f71a-0bf8-4572-98f9-2cd9a7ea9cd7",
+            "name": "sustainability",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 170,
+        "recent": 3
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "3717d588-f9a7-4938-ab9e-f851fc887ec9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Amanda Nahlik",
+    "maintainer_email": "nahlik.amanda@epa.gov",
+    "metadata_created": "2022-12-04T16:23:17.949047",
+    "metadata_modified": "2024-06-09T14:27:16.826211",
+    "name": "datasets-to-develop-and-validate-the-genus-level-trait-based-multimetric-diatom-indices-fo",
+    "notes": "Data is from National Aquatic Resource Surveys. \n\nThis dataset is associated with the following publication:\nRiato, L., R. Hill, A. Herlihy, D. Peck, P. Kaufmann, J. Stoddard, and S. Paulsen. Genus-level, trait-based multimetric diatom indices for assessing the ecological condition of river and stream across the conterminous United States..   ECOLOGICAL INDICATORS. Elsevier Science Ltd, New York, NY, USA, 141: 109131, (2022).",
+    "num_resources": 4,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Datasets to develop and validate the genus-level, trait-based multimetric diatom indices for assessing the ecological condition of river and stream across the conterminous United States",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "453eafcb3997aee778af6208071f5be0748b5e1463ab1fc713bea615828e4786"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527731"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-05-31"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.ecolind.2022.109131",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9393879"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "38483605-fd14-4b96-9117-b1b42e527405"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-12-04T16:23:18.007216",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "9be9b3bb-f9d7-484e-81a3-6189f16c42fb",
+            "last_modified": null,
+            "metadata_modified": "2022-12-04T16:23:17.923728",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys",
+            "package_id": "3717d588-f9a7-4938-ab9e-f851fc887ec9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 6,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-06-09T14:27:16.874209",
+            "description": "Site%20Info%202008_2014.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "537e3016-41fa-45ab-b2f5-d1d6205a63da",
+            "last_modified": null,
+            "metadata_modified": "2024-06-09T14:27:16.849306",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Site Info 2008_2014.xlsx",
+            "package_id": "3717d588-f9a7-4938-ab9e-f851fc887ec9",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527731/Site%20Info%202008_2014.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-06-09T14:27:16.874214",
+            "description": "NRSA_2013_2014_Diatom_Dataset.csv",
+            "format": "CSV",
+            "hash": "",
+            "id": "a3bc343a-b3de-477c-985e-dc6e055ae797",
+            "last_modified": null,
+            "metadata_modified": "2024-06-09T14:27:16.849443",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "NRSA_2013_2014_Diatom_Dataset.csv",
+            "package_id": "3717d588-f9a7-4938-ab9e-f851fc887ec9",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527731/NRSA_2013_2014_Diatom_Dataset.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 4,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-06-09T14:27:16.874216",
+            "description": "NRSA_2008_2009_Diatom_Dataset.csv",
+            "format": "CSV",
+            "hash": "",
+            "id": "e2c1831c-919a-4baa-b391-8bd4a80698dd",
+            "last_modified": null,
+            "metadata_modified": "2024-06-09T14:27:16.849560",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "NRSA_2008_2009_Diatom_Dataset.csv",
+            "package_id": "3717d588-f9a7-4938-ab9e-f851fc887ec9",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527731/NRSA_2008_2009_Diatom_Dataset.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "diatoms",
+            "id": "6593229d-3dca-46ff-8ac6-f0455ec3a733",
+            "name": "diatoms",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecological-assessment",
+            "id": "ca266d49-9a62-4786-af9c-25d80396f9fb",
+            "name": "ecological-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "genus-taxonomy",
+            "id": "ea924c04-572e-46e4-9005-6e77bf119f19",
+            "name": "genus-taxonomy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "national-rivers-and-streams-assessment",
+            "id": "c96201c6-70aa-4ef3-9207-26432dfacebe",
+            "name": "national-rivers-and-streams-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "taxonomic-inconsistency",
+            "id": "ea050c38-c16a-4982-aec3-81c55dbb404a",
+            "name": "taxonomic-inconsistency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "traits",
+            "id": "760e384b-38f8-4722-b4f0-886d8e418456",
+            "name": "traits",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 45,
+        "recent": 2
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "8ddc16b6-c773-41b6-b90d-2db4eb457d91",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Daniel Villeneuve",
+    "maintainer_email": "villeneuve.dan@epa.gov",
+    "metadata_created": "2020-11-12T13:46:11.694853",
+    "metadata_modified": "2020-11-12T13:46:11.694864",
+    "name": "extracting-and-benchmarking-emerging-adverse-outcome-pathway-knowledge",
+    "notes": "A collection of R scripts useful for extracting and analyzing adverse outcome pathway network data from the adverse outcome pathway wiki (aopwiki.org). \n\nThis dataset is associated with the following publication:\nPollesch, N., D. Villeneuve, and J. O'Brien. Extracting and benchmarking emerging adverse outcome pathway knowledge.   TOXICOLOGICAL SCIENCES. Society of Toxicology, RESTON, VA,  168(2): 349-364, (2019).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Extracting and benchmarking emerging adverse outcome pathway knowledge",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/toxsci/kfz006"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "20097a14-4094-441b-976a-c83cd036ac7d"
+        },
+        {
+            "key": "source_hash",
+            "value": "29648b7951401388d4cb94f08eef95ef8761ffe2"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-06-16"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502574"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:46:11.699761",
+            "description": "R_Scripts-20180820T191551Z-001.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "69c45999-b574-42a3-af07-c87934dc276a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:46:11.699761",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "R_Scripts-20180820T191551Z-001.zip",
+            "package_id": "8ddc16b6-c773-41b6-b90d-2db4eb457d91",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502574/R_Scripts-20180820T191551Z-001.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "adverse-outcome-pathway",
+            "id": "6c32dde5-d17f-444d-b996-e48a9d05ca8b",
+            "name": "adverse-outcome-pathway",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "adverse-outcome-pathway-network",
+            "id": "c4533804-5dcf-46be-b484-9d23fc4415bb",
+            "name": "adverse-outcome-pathway-network",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "aquatic-ecosystems",
+            "id": "179f5285-53bb-43d2-8c7a-511de9bdb4f0",
+            "name": "aquatic-ecosystems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecotoxicology",
+            "id": "0994d8ba-74d1-41d8-ae22-4717e1c8e1b1",
+            "name": "ecotoxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emergent-knowledge",
+            "id": "137c5c9e-0064-4016-90a5-577532649056",
+            "name": "emergent-knowledge",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "endocrine-disruption",
+            "id": "3b5a8278-b816-43f3-8934-6704f464f46d",
+            "name": "endocrine-disruption",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "screening-and-prioritization",
+            "id": "4d896dac-5224-4102-a6a1-d903c8da6263",
+            "name": "screening-and-prioritization",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 99,
+        "recent": 1
+    }
+}

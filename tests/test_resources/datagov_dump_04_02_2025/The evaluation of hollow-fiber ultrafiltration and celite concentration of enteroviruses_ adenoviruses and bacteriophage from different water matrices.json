@@ -1,0 +1,170 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "2c1d30cd-73f3-47c6-b9fe-d890e61f6963",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Eric Rhodes",
+    "maintainer_email": "rhodes.eric@epa.gov",
+    "metadata_created": "2020-11-12T13:37:38.619368",
+    "metadata_modified": "2020-11-12T13:37:38.619375",
+    "name": "the-evaluation-of-hollow-fiber-ultrafiltration-and-celite-concentration-of-enteroviruses-a",
+    "notes": "The data to support the evaluation of hollow-fiber ultrafiltration and celite concentration of enteroviruses, adenoviruses and bacteriophage from different water matrices. \n\nThis dataset is associated with the following publication:\nRhodes , E., E. Huff, D. Hamilton, and J. Jones. The evaluation of hollow-fiber ultrafiltration and celite concentration of enteroviruses, adenoviruses and bacteriophage from different water matrices.   JOURNAL OF VIROLOGICAL METHODS. Elsevier Science Ltd, New York, NY, USA, 228(2): 31-38, (2016).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "The evaluation of hollow-fiber ultrafiltration and celite concentration of enteroviruses, adenoviruses and bacteriophage from different water matrices",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "9c6783b0-2b66-4820-86d8-4311ed777cb2"
+        },
+        {
+            "key": "source_hash",
+            "value": "ba8d9eb45b5f44b025d5e28400dfba87ba250457"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2015-06-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-cc2s-279"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:37:38.637019",
+            "description": "HFUF%20Virus%20Summary%20Table%20%281%29.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "bf6692f8-1442-4a8e-950b-8b5c6d437243",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:37:38.637019",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "HFUF Virus Summary Table (1).xlsx",
+            "package_id": "2c1d30cd-73f3-47c6-b9fe-d890e61f6963",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/279/HFUF%20Virus%20Summary%20Table%20%281%29.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bacteriophage",
+            "id": "993e739d-77d7-43ee-8420-522377853953",
+            "name": "bacteriophage",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ultrafiltration",
+            "id": "39cb0a05-b544-4f8b-aeaf-c42687e61eb7",
+            "name": "ultrafiltration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "viruses",
+            "id": "8d3874c0-f263-4190-a95e-a12aeed1f087",
+            "name": "viruses",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-concentration",
+            "id": "20700453-7df2-41cf-a045-d388fbb4572a",
+            "name": "water-concentration",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 104,
+        "recent": 2
+    }
+}

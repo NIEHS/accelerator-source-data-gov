@@ -1,0 +1,376 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Gerardo Ruiz-Mercado",
+    "maintainer_email": "ruiz-mercado.gerardo@epa.gov",
+    "metadata_created": "2022-03-04T08:50:11.547940",
+    "metadata_modified": "2022-03-04T08:50:11.547955",
+    "name": "datasets-for-manuscript-analysis-of-incentive-policies-for-phosphorus-recovery-at-livestoc",
+    "notes": "The datasets contain data required to obtain a distribution of profitable phosphorus recovery processes in the Great Lakes area for scenarios considering phosphorus credits (USD/kg P recovered) and renewable energy credits (USD/MWh) (Figure 4); an economic evaluation (USD) of P recovery processes for different incentives scenarios (Figure 5); compare the total cost of phosphorus recovery (USD/kg P) for different incentive scenarios (electricity incentives in USD/MWh and phosphorus credits in USD/kg P recovered) and the environmental remediation cost due to phosphorus releases (Figure 6); allocate incentives (USD/kg P) for achieving the economic neutrality of nutrient recovery systems minimizing the total cost of incentives (Figure 7); and the distribution of incentives (MM USD/year) considering the Nash allocation scheme assuming available incentives equal to the 10%, 30%, 50%, 70%, and 100% of the incentives needed to cover the economic losses of unprofitable P recovery systems in the Great Lakes (Figure 8). \n\nThis dataset is associated with the following publication:\nMart\u00edn-Hern\u00e1ndez, E., Y. Hu, V.M. Zavala, M. Mart\u00edn, and G.J. Ruiz-Mercado. Analysis of incentive policies for phosphorus recovery at livestock facilities in the Great Lakes area.   Resources, Conservation and Recycling. Elsevier Science BV, Amsterdam,  NETHERLANDS, 177: 105973, (2022).",
+    "num_resources": 9,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Datasets for manuscript \"Analysis of incentive policies for phosphorus recovery at livestock facilities in the Great Lakes area.\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522901"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2021-06-29"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.resconrec.2021.105973"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "e77e5eb370e230d240ecdaa2bab62aa0ecd1d032"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8e0d2b5d-e11f-4880-98c2-0c73510423b8"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-03-04T08:50:11.571353",
+            "description": "Figure%208%20-BudgetAvailable100percent.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "919daef7-fe9d-4890-9534-ae2de13eee44",
+            "last_modified": null,
+            "metadata_modified": "2022-03-04T08:50:11.571353",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure 8 -BudgetAvailable100percent.csv",
+            "package_id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522901/Figure%208%20-BudgetAvailable100percent.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-03-04T08:50:11.571363",
+            "description": "Figure%208%20-BudgetAvailable70percent.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "b146025c-3488-451f-9a5c-2fbad047a0e4",
+            "last_modified": null,
+            "metadata_modified": "2022-03-04T08:50:11.571363",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure 8 -BudgetAvailable70percent.csv",
+            "package_id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522901/Figure%208%20-BudgetAvailable70percent.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-03-04T08:50:11.571369",
+            "description": "Figure%208%20-BudgetAvailable50percent.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "54684a0b-69dc-45f8-a7bc-4c9549b43295",
+            "last_modified": null,
+            "metadata_modified": "2022-03-04T08:50:11.571369",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure 8 -BudgetAvailable50percent.csv",
+            "package_id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522901/Figure%208%20-BudgetAvailable50percent.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-03-04T08:50:11.571373",
+            "description": "Figure%208%20-BudgetAvailable30percent.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "411f3b96-6bc5-4fb6-b535-de96544c6c55",
+            "last_modified": null,
+            "metadata_modified": "2022-03-04T08:50:11.571373",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure 8 -BudgetAvailable30percent.csv",
+            "package_id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522901/Figure%208%20-BudgetAvailable30percent.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-03-04T08:50:11.571378",
+            "description": "Figure%208%20-BudgetAvailable10percent.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "0a9711c0-83ce-4aec-b537-03f06847646a",
+            "last_modified": null,
+            "metadata_modified": "2022-03-04T08:50:11.571378",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure 8 -BudgetAvailable10percent.csv",
+            "package_id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522901/Figure%208%20-BudgetAvailable10percent.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-03-04T08:50:11.571383",
+            "description": "Figure%207%20-AllStatesPolicy.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "0f161901-bf95-4714-ad1b-79c700578638",
+            "last_modified": null,
+            "metadata_modified": "2022-03-04T08:50:11.571383",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure 7 -AllStatesPolicy.csv",
+            "package_id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522901/Figure%207%20-AllStatesPolicy.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-03-04T08:50:11.571388",
+            "description": "Figures%205%20%26%206%20-DataAnalysis_AllScenariosExtended.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "6fbc2a05-ab15-4f0b-a3d4-eaecd5077a99",
+            "last_modified": null,
+            "metadata_modified": "2022-03-04T08:50:11.571388",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figures 5 & 6 -DataAnalysis_AllScenariosExtended.csv",
+            "package_id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522901/Figures%205%20%26%206%20-DataAnalysis_AllScenariosExtended.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-03-04T08:50:11.571393",
+            "description": "Figure%204b%20-DataAnalysis_REC.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "ed463057-bef0-450c-b73f-546e5ca42d9d",
+            "last_modified": null,
+            "metadata_modified": "2022-03-04T08:50:11.571393",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure 4b -DataAnalysis_REC.csv",
+            "package_id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522901/Figure%204b%20-DataAnalysis_REC.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-03-04T08:50:11.571397",
+            "description": "Figure%204a%20-DataAnalysis_PCredits.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "80a88e09-bdca-4878-9f2c-e5ed3e69712e",
+            "last_modified": null,
+            "metadata_modified": "2022-03-04T08:50:11.571397",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure 4a -DataAnalysis_PCredits.csv",
+            "package_id": "5f496b41-8035-43fa-a89c-c38b4611c2ae",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522901/Figure%204a%20-DataAnalysis_PCredits.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "incentive-policy",
+            "id": "0b48dfc0-6c79-4e74-aad0-96dd5492c3bc",
+            "name": "incentive-policy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "livestock-industry",
+            "id": "df89791c-a1d3-4ffc-8a48-0e58fb60bb12",
+            "name": "livestock-industry",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nutrient-recovery",
+            "id": "44478689-63c7-464a-aa29-fa488df52677",
+            "name": "nutrient-recovery",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "organic-waste",
+            "id": "fb2e582c-498e-4965-aaf9-638498c4f4a5",
+            "name": "organic-waste",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 43,
+        "recent": 1
+    }
+}

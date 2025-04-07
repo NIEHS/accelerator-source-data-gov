@@ -1,0 +1,169 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "ae80c162-ebb4-4b99-a427-fe696b910cdc",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Molly Wick",
+    "maintainer_email": "wick.molly@epa.gov",
+    "metadata_created": "2022-05-07T00:08:20.859152",
+    "metadata_modified": "2022-05-07T00:08:20.859160",
+    "name": "density-data-for-lake-ontario-benthic-invertebrate-assemblages-from-1964-to-2018",
+    "notes": "Benthic invertebrates are important trophic links in aquatic food webs and serve as useful bioindicators of environmental conditions because their responses integrate the effects of both water and sediment qualities. However, long-term data sets for benthic invertebrate assemblages across broad geographic areas are rare and, even if collected, historic data sets are often not readily accessible. This data set provides densities of benthic macroinvertebrates for all taxa collected during lake-wide surveys in Lake Ontario, a Laurentian Great Lake, from 1964 to 2018. This information resulted from surveys funded by the governments of the United States and Canada to investigate the status and changes of Lake Ontario benthic community. Of the 13 lake-wide benthic surveys conducted in Lake Ontario over the course of 54\u2009yr, we were able to acquire taxonomic data to the species level for 11 of the surveys and data to the group level for the other two surveys. Density data are provided for taxa representing the Annelida, Arthropoda, Mollusca, Cnidaria, Nemertea, and Platyhelminthes phyla. Univariate and multivariate analyses revealed that the compositional structure of Lake Ontario invertebrate assemblages differed markedly by depth and were also significantly altered by the Dreissena spp. invasion in early 1990s. The introduction of invasive dreissenids has changed the community historically dominated by Diporeia, Oligochaeta, and Sphaeriidae, to a community dominated by quagga mussels and Oligochaeta. Considering the rarity of long-term benthic data of high taxonomic resolution in lake ecosystems, this data set could be useful to explore broader aspects of ecological theory, including effects of different environmental factors and invasive species on community organization, functional and phylogenetic diversity, and spatial scale of variation in community structure. The data set could also be useful for studies on individual species including abundance and distribution, species co-occurrence, and how the patterns of dominance and rarity change over space and time. Use of this data set for academic or educational purposes is encouraged as long as the data source is properly cited using the title of this Data Paper, the names of the authors, the year of publication, the journal name, and the article number. \n\nThis dataset is associated with the following publication:\nKaratayev, A., L. Burlakova, K. Mehler, A. Elgin, L. Rudstam, J. Watkins, and M. Wick. Dreissena in Lake Ontario 30 years post-invasion.   JOURNAL OF GREAT LAKES RESEARCH. International Association for Great Lakes Research, Ann Arbor, MI, USA, 48(2): 264-273, (2022).",
+    "num_resources": 1,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Density data for Lake Ontario benthic invertebrate assemblages from 1964 to 2018",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524702"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2021-09-30"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jglr.2020.11.010"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "49d8d5935f8e2486e1ee823393f28525253a2133"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "73222bce-d0cb-4072-a7da-8d60a387a8ed"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-05-07T00:08:20.935798",
+            "description": "ecy.3528",
+            "format": "",
+            "hash": "",
+            "id": "4f58e433-5062-44d6-a6bb-d72b5f93d415",
+            "last_modified": null,
+            "metadata_modified": "2022-05-07T00:08:20.935798",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3528",
+            "package_id": "ae80c162-ebb4-4b99-a427-fe696b910cdc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3528",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "benthos",
+            "id": "a0507f12-c641-4b5f-b09b-3640e55146d8",
+            "name": "benthos",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dreissena",
+            "id": "2105ab72-43fd-40bf-8e6f-acb0f550595e",
+            "name": "dreissena",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lake-ontario",
+            "id": "97eecddd-62a4-4b65-aa23-21946dadf162",
+            "name": "lake-ontario",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 128,
+        "recent": 1
+    }
+}

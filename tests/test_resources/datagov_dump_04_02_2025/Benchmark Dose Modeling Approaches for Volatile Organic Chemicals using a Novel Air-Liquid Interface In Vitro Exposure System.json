@@ -1,0 +1,344 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "23ab3bb1-8f3b-458c-a9e9-fb21a995c010",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mark Higuchi",
+    "maintainer_email": "higuchi.mark@epa.gov",
+    "metadata_created": "2022-09-17T01:57:47.145627",
+    "metadata_modified": "2022-09-17T01:57:47.145636",
+    "name": "benchmark-dose-modeling-approaches-for-volatile-organic-chemicals-using-a-novel-air-liquid",
+    "notes": "Whole transcriptomics dose response data is collected and storedthrough public facing Gene Expression Omnibus database.\nRaw collected viability/cytotoxicity data for each chemical are collected and presented on separate spreadsheets. Portions of this dataset are inaccessible because: The transcriptomics full data file is too large to be uploaded alone onto ScienceHub, impeding ease of access. They can be accessed through the following means: Raw and processed transcriptomics data is available through Gene Expression Omnibus (GEO, https://www.ncbi.nlm.nih.gov/geo/) under accession GSE199794. Format: The full transcriptomics data set for all chemical conditions tested. \n\nThis dataset is associated with the following publication:\nSpeen, A., J. Murray, T. Krantz, D. Davies, P. Evansky, J. Harrill, L. Everett, J. Bundy, L. Dailey, W. Zander, E. Carlsten, M. Monsees, J. Hill, J. Zavala, and M. Higuchi. Benchmark Dose Modeling Approaches for Volatile Organic Chemicals using a Novel Air-Liquid Interface In Vitro Exposure System.   TOXICOLOGICAL SCIENCES. Society of Toxicology, RESTON, VA,  188(1): 88-107, (2022).",
+    "num_resources": 8,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Benchmark Dose Modeling Approaches for Volatile Organic Chemicals using a Novel Air-Liquid Interface In Vitro Exposure System",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "ec2d0b3bcf70707ae3a27d60d0910a82c5cef330"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524251"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-11-16"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/toxsci/kfac040"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1cc71936-6a31-4961-9dca-06dc597b587e"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-09-17T01:57:47.175454",
+            "description": "1-Bromopropane%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f536c374-c80a-40db-812c-d62dd07c9dec",
+            "last_modified": null,
+            "metadata_modified": "2022-09-17T01:57:47.130865",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "1-Bromopropane Sample ID and Exposure Conditions.xlsx",
+            "package_id": "23ab3bb1-8f3b-458c-a9e9-fb21a995c010",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524251/1-Bromopropane%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-09-17T01:57:47.175460",
+            "description": "1%2C3-butadiene%20Sample%20ID%20and%20exposure%20conditions.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5bd3b224-43c5-4c08-918f-bc1e87497643",
+            "last_modified": null,
+            "metadata_modified": "2022-09-17T01:57:47.131114",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "1,3-butadiene Sample ID and exposure conditions.xlsx",
+            "package_id": "23ab3bb1-8f3b-458c-a9e9-fb21a995c010",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524251/1%2C3-butadiene%20Sample%20ID%20and%20exposure%20conditions.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-09-17T01:57:47.175464",
+            "description": "Acetaldehyde%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "044b9b85-426a-4ee4-b9a7-73dcb5c408cd",
+            "last_modified": null,
+            "metadata_modified": "2022-09-17T01:57:47.131342",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Acetaldehyde Sample ID and Exposure Conditions.xlsx",
+            "package_id": "23ab3bb1-8f3b-458c-a9e9-fb21a995c010",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524251/Acetaldehyde%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-09-17T01:57:47.175468",
+            "description": "Acrolein%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "691d6549-548b-4f40-a5ef-d855e95bdd5c",
+            "last_modified": null,
+            "metadata_modified": "2022-09-17T01:57:47.131635",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Acrolein Sample ID and Exposure Conditions.xlsx",
+            "package_id": "23ab3bb1-8f3b-458c-a9e9-fb21a995c010",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524251/Acrolein%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-09-17T01:57:47.175471",
+            "description": "Formaldehyde%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "67c97b80-76b6-4adc-9f62-6616333fb4f0",
+            "last_modified": null,
+            "metadata_modified": "2022-09-17T01:57:47.131889",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Formaldehyde Sample ID and Exposure Conditions.xlsx",
+            "package_id": "23ab3bb1-8f3b-458c-a9e9-fb21a995c010",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524251/Formaldehyde%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-09-17T01:57:47.175475",
+            "description": "Carbon%20Tetrachloride%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "804d88f4-46ee-421b-8562-97c97730ad2d",
+            "last_modified": null,
+            "metadata_modified": "2022-09-17T01:57:47.132113",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Carbon Tetrachloride Sample ID and Exposure Conditions.xlsx",
+            "package_id": "23ab3bb1-8f3b-458c-a9e9-fb21a995c010",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524251/Carbon%20Tetrachloride%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-09-17T01:57:47.175478",
+            "description": "Trichloroethylene%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "dd08d960-0b30-4d9e-b289-38e33c3a1508",
+            "last_modified": null,
+            "metadata_modified": "2022-09-17T01:57:47.132316",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Trichloroethylene Sample ID and Exposure Conditions.xlsx",
+            "package_id": "23ab3bb1-8f3b-458c-a9e9-fb21a995c010",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524251/Trichloroethylene%20Sample%20ID%20and%20Exposure%20Conditions.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-09-17T01:57:47.175482",
+            "description": "Dichloromethane%20Sample%20ID%20and%20Exposure%20Conditions1.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "466f1ba0-6bba-4c23-83d4-e316106095a4",
+            "last_modified": null,
+            "metadata_modified": "2022-09-17T01:57:47.132515",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Dichloromethane Sample ID and Exposure Conditions1.xlsx",
+            "package_id": "23ab3bb1-8f3b-458c-a9e9-fb21a995c010",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524251/Dichloromethane%20Sample%20ID%20and%20Exposure%20Conditions1.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "airway-epithelial-cells",
+            "id": "60a31525-15f0-43ec-a428-281980b698f9",
+            "name": "airway-epithelial-cells",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "transcriptomics",
+            "id": "99bc3551-31fd-41b0-a88a-06f8c55e0217",
+            "name": "transcriptomics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "volatile-organic-compound-voc",
+            "id": "4431a467-cbb5-438c-85d6-3759b7c77a74",
+            "name": "volatile-organic-compound-voc",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 33,
+        "recent": 2
+    }
+}

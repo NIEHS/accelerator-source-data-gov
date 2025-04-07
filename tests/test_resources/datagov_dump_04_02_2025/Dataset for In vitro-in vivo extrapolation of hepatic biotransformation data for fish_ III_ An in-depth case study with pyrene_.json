@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "c46fcbf3-53a5-4f7f-9ca5-02a1749a56d9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Patrick Fitzsimmons",
+    "maintainer_email": "fitzsimmons.patrick@epa.gov",
+    "metadata_created": "2023-08-20T18:42:57.996204",
+    "metadata_modified": "2023-08-20T18:42:57.996212",
+    "name": "dataset-for-in-vitro-in-vivo-extrapolation-of-hepatic-biotransformation-data-for-fish-iii-",
+    "notes": "This dataset, presented as an Excel spreadsheet, contains all data presented as figures and tables in an article by Nichols et al, entitled \"In vitro-in vivo extrapolation of hepatic biotransformation data for fish. III. An in-depth case study with pyrene\" and published in Environmental Toxicology and Chemistry, 2023.  The dataset describes results from a paired set of experiments designed to evaluate the accuracy of in vitro to in vivo metabolism extrapolation procedures for fish.  Results showed that measured rates of in vitro intrinsic clearance, when extrapolated to the whole liver, underestimated apparent rates of in vivo activity by about a factor of 4 (assuming the liver is the only site of biotransformation).  These findings may have important implications for the use of IVIVE methods in bioaccumulation assessments for fish. \n\nThis dataset is associated with the following publication:\nNichols, J., P. Fitzsimmons, A. Hoffman, and K. Wong. In vitro-in vivo extrapolation of hepatic biotransformation data for fish. III. An in-depth case study with pyrene.   ENVIRONMENTAL TOXICOLOGY AND CHEMISTRY. Society of Environmental Toxicology and Chemistry, Pensacola, FL, USA, 42(7): 1501-1515, (2023).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset for In vitro-in vivo extrapolation of hepatic biotransformation data for fish. III. An in-depth case study with pyrene.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "da7a7bf404e8265f8c847144c4480ce093b10b21"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528739"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-04-04"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/etc.5626"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4347f686-a31b-4df8-8a75-b27645fcdb05"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-20T18:42:58.018222",
+            "description": "PYR%20BCF%20ScienceHub_04282023.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "c95a5b70-79ea-4736-9d35-96f03161a854",
+            "last_modified": null,
+            "metadata_modified": "2023-08-20T18:42:57.975941",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "PYR BCF ScienceHub_04282023.xlsx",
+            "package_id": "c46fcbf3-53a5-4f7f-9ca5-02a1749a56d9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528739/PYR%20BCF%20ScienceHub_04282023.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bioconcentration",
+            "id": "4486cffb-7df0-4bfe-8440-feec80024f53",
+            "name": "bioconcentration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biotransformation",
+            "id": "7358e122-e55a-40de-90ef-67e728c97de4",
+            "name": "biotransformation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fish",
+            "id": "f3edd32f-bee1-4337-9475-98c665dc6028",
+            "name": "fish",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-vitro-in-vivo-extrapolation",
+            "id": "a9d8c0dc-397b-4c4b-b33e-4559db2b8024",
+            "name": "in-vitro-in-vivo-extrapolation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "polycyclic-aromatic-hydrocarbons",
+            "id": "266211a7-f8a8-482a-9cb2-edd4d558aff9",
+            "name": "polycyclic-aromatic-hydrocarbons",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 77,
+        "recent": 1
+    }
+}

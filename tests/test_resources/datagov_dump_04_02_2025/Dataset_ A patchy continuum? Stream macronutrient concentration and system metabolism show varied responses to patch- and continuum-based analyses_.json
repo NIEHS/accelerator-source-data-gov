@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "930a3b13-2a0a-4cc3-9dc6-2a77aa75c5ec",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Joseph Flotemersch",
+    "maintainer_email": "flotemersch.joseph@epa.gov",
+    "metadata_created": "2020-11-12T13:44:24.881191",
+    "metadata_modified": "2020-11-12T13:44:24.881202",
+    "name": "dataset-a-patchy-continuum-stream-macronutrient-concentration-and-system-metabolism-show-v",
+    "notes": "At 21 sites located in the Kanawha River Basin in West Virginia, U.S.A., Oxygen concentration (mg l-1) and water temperature (\u00b0C) were measured every 15 min for > 72 h using TROLL\u00ae 9500 multiparameter water quality instruments. \n\nThis dataset is associated with the following publication:\nCollins, S., S. Matter, I. Buffam, and J. Flotemersch. A patchy continuum? Stream processes show varied responses to patch\u2010 and continuum\u2010based analyses.   Ecosphere. ESA Journals,    9(11): e02481, (2018).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset: A patchy continuum? Stream macronutrient concentration and system metabolism show varied responses to patch- and continuum-based analyses.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/ecs2.2481"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "43d4f506-09bd-43ee-9352-2e70589f9a4c"
+        },
+        {
+            "key": "source_hash",
+            "value": "a1155c65729714570e6407510640be2b0f3e229b"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2014-03-31"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1500943"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:24.886581",
+            "description": "Kanawha%20River%20Basin%20temperature%20and%20DO%20data.xls",
+            "format": "XLS",
+            "hash": "",
+            "id": "b76c2757-3bd2-442a-9fb5-f35d7152e756",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:24.886581",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Kanawha River Basin temperature and DO data.xls",
+            "package_id": "930a3b13-2a0a-4cc3-9dc6-2a77aa75c5ec",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500943/Kanawha%20River%20Basin%20temperature%20and%20DO%20data.xls",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "functional-process-zones",
+            "id": "9fb19dfe-8e6d-4b6f-827e-4e463a5b646f",
+            "name": "functional-process-zones",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oxygen",
+            "id": "de2038a1-3a7a-4ce6-83af-687dbbe45973",
+            "name": "oxygen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "river-continuum-concept",
+            "id": "10f20eef-c133-492d-a629-f9559c289955",
+            "name": "river-continuum-concept",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "riverine-ecosystem-synthesis",
+            "id": "70c029f2-f433-431e-91e8-c437e893b31b",
+            "name": "riverine-ecosystem-synthesis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stream-order",
+            "id": "94df5d71-c00e-40f1-8074-a17518a038c2",
+            "name": "stream-order",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "temperature",
+            "id": "f7836450-d341-4d80-9115-2994f86ee720",
+            "name": "temperature",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 22,
+        "recent": 1
+    }
+}

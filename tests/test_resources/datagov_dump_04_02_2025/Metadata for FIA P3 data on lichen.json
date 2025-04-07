@@ -1,0 +1,165 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "9334cd7d-387f-4740-9d02-2e6fb9dce920",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Christopher Clark",
+    "maintainer_email": "clark.christopher@epa.gov",
+    "metadata_created": "2020-11-12T13:45:36.946085",
+    "metadata_modified": "2020-11-12T13:45:36.946093",
+    "name": "metadata-for-fia-p3-data-on-lichen",
+    "notes": "This data describe the abundance of individual lichen species across the U.S. as recorded in the Forest Health and Monitoring dataset of the Forest Inventory and Analysis program (i.e. Phase 3 plots). This dataset is not publicly accessible because: These data are already housed on the USFS Forest Inventory and Analysis site (see below). It can be accessed through the following means: The lichen data for this product are from the USDA Forest Services (USFS) Forest Inventory and Analysis (FIA) Phase 3 (P3) dataset - Forest Health and Monitoring. The metadata and database description for the FIA-P3 is here (https://www.fia.fs.fed.us/library/database-documentation/). The data itself is located at the USFS Data Mart here (https://apps.fs.usda.gov/fia/datamart/CSV/datamart_csv.html) in two files: \u201cLICHEN_PLOT_SUMMARY.zip,\u201d and \u201cLICHEN_VISIT.zip.\u201d\n\nPoint of contact: Linda Geiser, lgeiser@fs.fed.us. Format: The data are in .csv format.",
+    "num_resources": 0,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Metadata for FIA P3 data on lichen",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "cf1d8d64-b91e-4838-872e-a1afc3017910"
+        },
+        {
+            "key": "source_hash",
+            "value": "92f34a64f4778abb0dd9a9b39942f92022e3010a"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-08-09"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503743"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "annual-naaqs",
+            "id": "009600c4-2883-4aa7-9af5-d36be24ef200",
+            "name": "annual-naaqs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "atmospheric-deposition",
+            "id": "e85c2b66-44c1-4d2b-a7cc-3c1008b12165",
+            "name": "atmospheric-deposition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biodiversity",
+            "id": "f47bab1b-9f80-4d5a-b030-a224e425af7b",
+            "name": "biodiversity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "critical-loads",
+            "id": "37d2752b-d92f-4813-a136-ae719df1a031",
+            "name": "critical-loads",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lichen",
+            "id": "cf116160-e779-4664-9862-c35dade48ff8",
+            "name": "lichen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-deposition",
+            "id": "74df7640-19c2-4e83-88c7-cef9b289da3c",
+            "name": "nitrogen-deposition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sulfur-deposition",
+            "id": "c52eadba-6852-4fef-8445-2413d553a0d6",
+            "name": "sulfur-deposition",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 74,
+        "recent": 1
+    }
+}

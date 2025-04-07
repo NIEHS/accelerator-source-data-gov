@@ -1,0 +1,206 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "7f3d2aa3-120c-449e-a9c8-a2505d5eea28",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Kathleen Fahey",
+    "maintainer_email": "fahey.kathleen@epa.gov",
+    "metadata_created": "2024-12-15T15:52:54.233803",
+    "metadata_modified": "2024-12-15T15:52:54.233809",
+    "name": "emissions-for-fairbanks-ak-and-alpaca-products",
+    "notes": "January-February 2022 Fairbanks Emissions for the US EPA 1.33 km WRF-CMAQ domain. Portions of this dataset are inaccessible because: Raw emissions files in NetCDF IOAPI format are too large. Below are the size of directories in this archive of ALPACA emissions that is around 75 Gb total.\r\n\r\n63G     ./premerged\r\n11G     ./onroad_ADEC_surrogates\r\n121M    ./ptegu_zehnder\r\n121M    ./ptegu_uaf\r\n121M    ./ptegu_north_pole\r\n121M    ./ptegu_ft_wainwright\r\n121M    ./ptegu_doyon\r\n121M    ./ptegu_aurora_chena\r\n2.0M    ./smk_merge_dates_202202.txt\r\n2.0M    ./smk_merge_dates_202201.txt. They can be accessed through the following means: See data dictionary on archived location on US EPA computer system for specifics, but all emissions are archived on tape drives connected to the Atmos computer system here:\r\n\r\n/asm/MOD3DEV/kfa/Fairbanks/ALPACA/emis. Format: See provided data dictionary document for full details: Data_dictionary_Emissions.docx\r\n\r\ni.e.;\r\nThis dataset includes emissions inputs for the Community Multiscale Air Quality (CMAQ) modeling system for the 1.33 km resolution Fairbanks domain (Figure 1, inner box) during the ALPACA period (January 17-February 25, 2022). The following sections describe the data as well as their location on the archival file system, /asm, for EPA\u2019s atmos high-performance computing platform.        ",
+    "num_resources": 1,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Emissions for Fairbanks AK and ALPACA products",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "e2e4ada7fb380cc9dd63f6184bbe83a732834936ccf83e6829b953ea9000c424"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531883"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-08-09"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1531883/documents/Data_dictionary_Emissions.docx"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "340c064d-2a44-49e4-b320-2b45d499fdfd"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-12-15T15:52:54.254268",
+            "description": "Data_dictionary_Emissions.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "f9b310b4-a1c0-402c-ad72-b3ff5a70ed72",
+            "last_modified": null,
+            "metadata_modified": "2024-12-15T15:52:54.214520",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Data_dictionary_Emissions.docx",
+            "package_id": "7f3d2aa3-120c-449e-a9c8-a2505d5eea28",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531883/Data_dictionary_Emissions.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-pollution",
+            "id": "377a66eb-8d7a-472b-9d77-39ac9e6cb37f",
+            "name": "air-pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "alaska",
+            "id": "5aa6034d-aead-4175-a8df-15f33abffb71",
+            "name": "alaska",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "arctic",
+            "id": "9c45b994-ae20-4ced-bd3b-52e461f04a1a",
+            "name": "arctic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-justice",
+            "id": "7b8a573d-1190-4ab3-b9fc-45635e0bd505",
+            "name": "environmental-justice",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "meteorology",
+            "id": "b50d509b-7c54-4407-a26b-d629ec9c74c5",
+            "name": "meteorology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "naaqs",
+            "id": "4792daaf-603c-47fe-9cfd-259433bbf81a",
+            "name": "naaqs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stack-emission-transp",
+            "id": "6e173be6-23e5-4b41-80bd-0c6f5446b581",
+            "name": "stack-emission-transp",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 7,
+        "recent": 1
+    }
+}

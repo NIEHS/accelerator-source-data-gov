@@ -1,0 +1,177 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "52a3c816-c8a2-4640-b573-b75bd5378786",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Amara Holder",
+    "maintainer_email": "holder.amara@epa.gov",
+    "metadata_created": "2024-05-27T12:47:05.113236",
+    "metadata_modified": "2024-05-27T12:47:05.113245",
+    "name": "dataset-for-emissions-estimates-from-fires-in-the-wildland-urban-interface",
+    "notes": "This data set includes the emission factors and emission estimates that are used to generate the figures and tables in the manuscript. \n\nThis dataset is associated with the following publication:\nHolder, A., A. Ahmed, J. Vukovich, and V. Rao. Hazardous air pollutants emission estimates from wildfires in the wildland urban interface.   PNAS Nexus. Oxford University Press, OXFORD,  UK, 2(6): pgad186, (2023).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset for emissions estimates from fires in the wildland urban interface",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "1abd53fd3570d813d062e01312885de3e5064537621a32094df43d06074d0de1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528455"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-01-23"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/pnasnexus/pgad186",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10281377"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "28e7c371-28b9-43b3-a729-4300822ecb2c"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-05-27T12:47:05.132922",
+            "description": "Dataset%20for%20emission%20estimates.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ec06b76d-6b74-4188-adf9-f4f20a3134f7",
+            "last_modified": null,
+            "metadata_modified": "2024-05-27T12:47:05.095685",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Dataset for emission estimates.xlsx",
+            "package_id": "52a3c816-c8a2-4640-b573-b75bd5378786",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528455/Dataset%20for%20emission%20estimates.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "particulate-matter-pm",
+            "id": "054788bd-2441-4777-b45b-a99f6b5f918e",
+            "name": "particulate-matter-pm",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "smoke",
+            "id": "67911fe7-504a-4cc0-a518-85f8b174542e",
+            "name": "smoke",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "structure-fire",
+            "id": "c784f548-f2a7-41ef-9a81-7d9c8023841e",
+            "name": "structure-fire",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxic-emissions",
+            "id": "046173b1-2c15-4f50-bad2-36e2b10affb6",
+            "name": "toxic-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 34,
+        "recent": 1
+    }
+}

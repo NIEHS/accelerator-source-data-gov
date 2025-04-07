@@ -1,0 +1,194 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "32eb7d38-adc8-42e9-b2e8-706700fa8068",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Cathleen Wigand",
+    "maintainer_email": "wigand.cathleen@epa.gov",
+    "metadata_created": "2020-12-07T20:38:51.169346",
+    "metadata_modified": "2020-12-07T20:38:51.169361",
+    "name": "mangrove-wetland-carbon-cycling-data",
+    "notes": "Raw data for greenhouse gas measures and physical parameters from the mangrove soils and associated estuarine water. \n\nThis dataset is associated with the following publication:\nMartin, R., C. Wigand, A. Oczkowski, A. Hanson, S. Balogh, B. Branoff, E. Santos, and E. Huertas. Greenhouse Gas Fluxes of Mangrove Soils and Adjacent Coastal Waters in an Urban, Subtropical Estuary.   WETLANDS. The Society of Wetland Scientists, McLean, VA, USA, 40: 1469\u20131480, (2020).",
+    "num_resources": 2,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Mangrove Wetland Carbon Cycling Data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1007/s13157-020-01300-w"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "141f5255-84a1-43ce-a4c3-3ec40ab1449b"
+        },
+        {
+            "key": "source_hash",
+            "value": "b4d2b522f09f9fe77d32c4f18367bba286641577"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-03-27"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1500450"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-07T20:38:51.184474",
+            "description": "water_data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5c412eda-4d90-4bd8-ab33-4355fd378045",
+            "last_modified": null,
+            "metadata_modified": "2020-12-07T20:38:51.184474",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "water_data.xlsx",
+            "package_id": "32eb7d38-adc8-42e9-b2e8-706700fa8068",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500450/water_data.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-07T20:38:51.184483",
+            "description": "mangrovedata_2.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8645fb48-78ab-45d8-824c-91a38f85b2e0",
+            "last_modified": null,
+            "metadata_modified": "2020-12-07T20:38:51.184483",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "mangrovedata_2.xlsx",
+            "package_id": "32eb7d38-adc8-42e9-b2e8-706700fa8068",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500450/mangrovedata_2.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "carbon-sequestration",
+            "id": "71e075f5-eaac-4ec0-84e2-ca865d03c5f1",
+            "name": "carbon-sequestration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "greenhouse-gas-emissions",
+            "id": "cd8a1f0a-6537-4981-85b6-b0b4ebcbd636",
+            "name": "greenhouse-gas-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mangrove",
+            "id": "a89871e0-6420-4b33-87e4-68189cc47508",
+            "name": "mangrove",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 160,
+        "recent": 2
+    }
+}

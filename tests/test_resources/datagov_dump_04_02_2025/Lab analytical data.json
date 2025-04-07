@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "983f4b58-2262-48a6-8266-fc04308c775c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Douglas Werkema",
+    "maintainer_email": "werkema.d@epa.gov",
+    "metadata_created": "2024-01-14T10:28:20.465671",
+    "metadata_modified": "2024-01-14T10:28:20.465697",
+    "name": "lab-analytical-data",
+    "notes": "chemical concentrations. \n\nThis dataset is associated with the following publication:\nFalzone, S., C. Schaefer, E. Siegenthaler, K. Keating, D. Werkema, and L. Slater. Geophysical Signatures of Soil AFFF Contamination from Spectral Induced Polarization and Low Field Nuclear Magnetic Resonance Methods.   JOURNAL OF CONTAMINANT HYDROLOGY. Elsevier Science Ltd, New York, NY, USA, 260: 104268, (2024).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Lab analytical data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "e48fa0a9adcc6019b3c0d8d49579f244b470004aad964708d7fa16311d0f0d68"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528295"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-11-02"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jconhyd.2023.104268"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c50c80d1-da9f-4ceb-b2e7-d585c0aadcad"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-01-14T10:28:20.486418",
+            "description": "V78124PFAS_Database_1.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "4d2c3360-0cc0-4767-9676-ce1e2a1bff56",
+            "last_modified": null,
+            "metadata_modified": "2024-01-14T10:28:20.444176",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "V78124PFAS_Database_1.xlsx",
+            "package_id": "983f4b58-2262-48a6-8266-fc04308c775c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528295/V78124PFAS_Database_1.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aqueous-film-forming-foam",
+            "id": "1d003d34-1318-42a6-a107-d481edc38d1b",
+            "name": "aqueous-film-forming-foam",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "perfluoroalkyl-substances",
+            "id": "8c480c83-e30b-4ead-82bb-e92f49340aa4",
+            "name": "perfluoroalkyl-substances",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sorption",
+            "id": "a7fcff93-1e11-496a-96fb-b8c14a916171",
+            "name": "sorption",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "source-zones",
+            "id": "850e928c-543e-4881-a398-1928fc9cfd65",
+            "name": "source-zones",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 51,
+        "recent": 2
+    }
+}

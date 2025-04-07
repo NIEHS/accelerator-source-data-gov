@@ -1,0 +1,254 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "340f0318-0149-4345-8269-86d8f822b172",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mark Johnson",
+    "maintainer_email": "johnson.markg@epa.gov",
+    "metadata_created": "2024-10-14T05:54:12.270200",
+    "metadata_modified": "2024-10-14T05:54:12.270205",
+    "name": "formosa-mine-studies-5f0cd",
+    "notes": "Doug-fir, mine tailing, and site data for Formosa mine case study site. \n\nThis dataset is associated with the following publication:\nJohnson, M., D. Olszyk, M. Bollman, M. Storm, R. Coulombe, M. Nash, V. Manning, K. Trippe, D. Watts, and J. Novak. Amendments promote Douglas-fir survival on Formosa Mine tailings.   JOURNAL OF ENVIRONMENTAL QUALITY. American Society of Agronomy, MADISON, WI, USA, 53(5): 553-561, (2024).",
+    "num_resources": 3,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Formosa Mine Studies",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "f798212851d8c4856e303c4236accc8f8accabb94bc00450004dae9aff256b0f"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527930"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-08-10"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/jeq2.20587"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a9f3d905-1976-482a-837b-cfb3cfe6db48"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-14T05:54:12.284788",
+            "description": "Formosa_gradientplot_SoilMoisture_Temp_daily_data_All_Final_050820.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "1a91c7e2-3167-4199-995c-aeaf305437ba",
+            "last_modified": null,
+            "metadata_modified": "2024-10-14T05:54:12.251192",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Formosa_gradientplot_SoilMoisture_Temp_daily_data_All_Final_050820.xlsx",
+            "package_id": "340f0318-0149-4345-8269-86d8f822b172",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527930/Formosa_gradientplot_SoilMoisture_Temp_daily_data_All_Final_050820.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-14T05:54:12.284791",
+            "description": "Formosa%20Tailings%2C%20Biosolids%2C%20Biochar%20Chemistry%20Data%20Final%20082522.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9837f6cc-57bc-4b4a-89cd-e317627e045d",
+            "last_modified": null,
+            "metadata_modified": "2024-10-14T05:54:12.251354",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Formosa Tailings, Biosolids, Biochar Chemistry Data Final 082522.xlsx",
+            "package_id": "340f0318-0149-4345-8269-86d8f822b172",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527930/Formosa%20Tailings%2C%20Biosolids%2C%20Biochar%20Chemistry%20Data%20Final%20082522.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-14T05:54:12.284793",
+            "description": "Formosa%20Douglas-fir%20Data%20Final%20082522.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2efb84d0-a1e3-41f2-8a78-c00636f7dd20",
+            "last_modified": null,
+            "metadata_modified": "2024-10-14T05:54:12.251488",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Formosa Douglas-fir Data Final 082522.xlsx",
+            "package_id": "340f0318-0149-4345-8269-86d8f822b172",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527930/Formosa%20Douglas-fir%20Data%20Final%20082522.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "biochar",
+            "id": "01d13426-6281-43c8-be42-8e6789db39d8",
+            "name": "biochar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biosolids",
+            "id": "30dc210e-85e4-4e7a-92f3-eb55076f6dc1",
+            "name": "biosolids",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "electrical-conductivity",
+            "id": "bc94c6a6-fe9b-4aa6-972f-0f64d5d1d2db",
+            "name": "electrical-conductivity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lime",
+            "id": "dcf94398-8dfc-4157-b79f-d622cf3921d7",
+            "name": "lime",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "metals",
+            "id": "9eb56fd2-e121-4037-a9cd-7f0312d82591",
+            "name": "metals",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ph",
+            "id": "e795aa07-d91d-43da-9266-916f966b810d",
+            "name": "ph",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation",
+            "id": "d7a31147-fbf4-4cc4-9813-fcd875012e5c",
+            "name": "remediation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "superfund-sites",
+            "id": "d8f748c8-3718-4404-9466-de040309dc71",
+            "name": "superfund-sites",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    }
+}

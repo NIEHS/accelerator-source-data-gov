@@ -1,0 +1,287 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "914fff64-5b30-42e3-abeb-0ed82dba4424",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Richard Mitchell",
+    "maintainer_email": "mitchell.richard@epa.gov",
+    "metadata_created": "2021-06-06T08:30:52.012719",
+    "metadata_modified": "2021-06-06T08:30:52.012726",
+    "name": "diatom-data-sets-from-multiple-nwaqa-datasets",
+    "notes": "Diatom data used in the analysis of analysts bias. Citation information for this dataset can be found in the EDG's Metadata Reference Information section and Data.gov's References section.",
+    "num_resources": 6,
+    "num_tags": 2,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Diatom data sets from multiple NWAQA datasets",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://dx.doi.org/10.1002/lom3.10350"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b4263784-ad6b-4629-8c53-40f030e7e97a"
+        },
+        {
+            "key": "source_hash",
+            "value": "40771543ae8163d0856a4085c85f952e2868fde2"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "modified",
+            "value": "2021-04-30"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522409"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-06T08:30:52.049660",
+            "description": "long_counts_ne_lakes.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "63610922-0221-441b-8a8a-46c48d985203",
+            "last_modified": null,
+            "metadata_modified": "2021-06-06T08:30:52.049660",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "long_counts_ne_lakes.csv",
+            "package_id": "914fff64-5b30-42e3-abeb-0ed82dba4424",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522409/long_counts_ne_lakes.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-06T08:30:52.049667",
+            "description": "combined_counts_NElakes_040218.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "12abf92e-aba3-4eee-8791-0b8a462d142e",
+            "last_modified": null,
+            "metadata_modified": "2021-06-06T08:30:52.049667",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "combined_counts_NElakes_040218.csv",
+            "package_id": "914fff64-5b30-42e3-abeb-0ed82dba4424",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522409/combined_counts_NElakes_040218.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-06T08:30:52.049670",
+            "description": "wide_counts_ne_lakes.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "193982f0-b1c0-4752-b0d9-6ff3db63982f",
+            "last_modified": null,
+            "metadata_modified": "2021-06-06T08:30:52.049670",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "wide_counts_ne_lakes.csv",
+            "package_id": "914fff64-5b30-42e3-abeb-0ed82dba4424",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522409/wide_counts_ne_lakes.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-06T08:30:52.049673",
+            "description": "Tyree%20SESQA_NRSA_NAWQA_diatomwide_2017_02_09.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "14e34553-46bb-4408-8b93-69661eddbc73",
+            "last_modified": null,
+            "metadata_modified": "2021-06-06T08:30:52.049673",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Tyree SESQA_NRSA_NAWQA_diatomwide_2017_02_09.csv",
+            "package_id": "914fff64-5b30-42e3-abeb-0ed82dba4424",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522409/Tyree%20SESQA_NRSA_NAWQA_diatomwide_2017_02_09.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-06T08:30:52.049676",
+            "description": "NE_lakes_site_list_20180123.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "6e38e19c-8ac0-49dc-a6e6-688d0e99d181",
+            "last_modified": null,
+            "metadata_modified": "2021-06-06T08:30:52.049676",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "NE_lakes_site_list_20180123.csv",
+            "package_id": "914fff64-5b30-42e3-abeb-0ed82dba4424",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522409/NE_lakes_site_list_20180123.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-06T08:30:52.049678",
+            "description": "NE%20Lakes%20Voucher%20Name%20Translation%20Genus%20Removed.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "aeb77122-cafb-40f4-80f2-8760d3b2d6e7",
+            "last_modified": null,
+            "metadata_modified": "2021-06-06T08:30:52.049678",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "NE Lakes Voucher Name Translation Genus Removed.csv",
+            "package_id": "914fff64-5b30-42e3-abeb-0ed82dba4424",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522409/NE%20Lakes%20Voucher%20Name%20Translation%20Genus%20Removed.csv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "diatom",
+            "id": "7321bc25-a42e-47cb-a0b9-01e14dbcf977",
+            "name": "diatom",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "taxonomy",
+            "id": "9572e630-2d70-4953-ae79-a10a8e81a144",
+            "name": "taxonomy",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 125,
+        "recent": 1
+    }
+}

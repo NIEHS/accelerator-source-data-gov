@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "bbe3cf9d-0715-45d3-b19d-93d6b1369f4f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Ann Richard",
+    "maintainer_email": "richard.ann@epa.gov",
+    "metadata_created": "2020-12-10T22:08:22.297111",
+    "metadata_modified": "2020-12-10T22:08:22.297118",
+    "name": "grulke-epas-dsstox-chemical-structure-database",
+    "notes": "The US Environmental Protection Agency\u2019s (EPA) Distributed Structure-Searchable Toxicity (DSSTox) database, launched publicly in 2004, currently exceeds 875 K substances spanning hundreds of lists of interest to EPA and environmental researchers. From its inception, DSSTox has focused curation e\ufb00orts on resolving chemical identi\ufb01er errors and con\ufb02icts in the public domain towards the goal of assigning accurate chemical structures to data and lists of importance to the environmental research and regulatory community. In 2014, the legacy, manually curated DSSTox_V1 content was migrated to a MySQL data model, with modern cheminformatics tools supporting both manual and automated curation processes to increase e\ufb03ciencies. Currently, DSSTox serves as the core foundation of EPA\u2019s CompTox Chemicals Dashboard [https://comptox.epa.gov/dashboard], which provides public access to DSSTox content in support of a broad range of modeling and research activities within EPA and, increasingly, across the \ufb01eld of computational toxicology. \n\nThis dataset is associated with the following publication:\nGrulke, C., A. Williams, I. Thillainadarajah, and A. Richard. EPA\u2019s DSSTox database: History of development of a curated chemistry resource supporting computational toxicology research.   Computational Toxicology. Elsevier B.V., Amsterdam,  NETHERLANDS, 12: 100096, (2019).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Grulke_EPA\u2019s DSSTox Chemical Structure Database",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.comtox.2019.100096"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0474a038-ff01-4c63-a5ca-6a2bf82e83b2"
+        },
+        {
+            "key": "source_hash",
+            "value": "075ee4a2f99afa8560bb73169108df2d6a6c8701"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-05-02"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503738"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-10T22:08:22.301720",
+            "description": "epacomptox.8068211.v1",
+            "format": "",
+            "hash": "",
+            "id": "340ce7e2-796e-4063-b6aa-3662c696df26",
+            "last_modified": null,
+            "metadata_modified": "2020-12-10T22:08:22.301720",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.23645/epacomptox.8068211.v1",
+            "package_id": "bbe3cf9d-0715-45d3-b19d-93d6b1369f4f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://doi.org/10.23645/epacomptox.8068211.v1",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "chemistry-database",
+            "id": "7c627062-ecb3-4373-a023-926f5440e738",
+            "name": "chemistry-database",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "computational-toxicology",
+            "id": "facb0c32-5b33-4cae-8c6d-84464cd0e5da",
+            "name": "computational-toxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "data-quality",
+            "id": "a19787d1-dc9c-4cc0-91e7-02d3009c782f",
+            "name": "data-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dsstox",
+            "id": "c2aec88d-4bb8-47da-b197-d9407732d26b",
+            "name": "dsstox",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-science",
+            "id": "09fe421e-a784-4a77-8bf0-62937b6139f9",
+            "name": "environmental-science",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "qsar",
+            "id": "74761a8a-b8e5-4c39-910b-7a7811087d67",
+            "name": "qsar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "structure-curation",
+            "id": "c8a2b88b-0fe7-40a0-b112-35a1ace5a596",
+            "name": "structure-curation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 77,
+        "recent": 4
+    }
+}

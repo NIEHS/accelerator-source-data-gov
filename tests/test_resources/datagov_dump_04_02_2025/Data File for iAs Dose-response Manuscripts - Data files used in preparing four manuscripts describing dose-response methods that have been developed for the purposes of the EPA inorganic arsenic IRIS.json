@@ -1,0 +1,740 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jeffrey Gift",
+    "maintainer_email": "gift.jeff@epa.gov",
+    "metadata_created": "2020-11-12T13:50:57.229898",
+    "metadata_modified": "2020-11-12T13:50:57.229905",
+    "name": "data-file-for-ias-dose-response-manuscripts-data-files-used-in-preparing-four-manuscripts-",
+    "notes": "These datasets contain information used in support of tables, figures and conclusions made in four manuscripts related to EPA methods developed for the dose-response analysis of epidemiological studies of arsenic health effects. \n\nThis dataset is associated with the following publications:\nHobbie, K., K. Shao, C. Henning, W. Mendez, Jr, J. Lee, I. Cote, I. Druwe, A. Davis, and J. Gift. Use of study-specific MOE-like estimates to prioritize health effects from chemical exposure for analysis in human health assessments.   ENVIRONMENT INTERNATIONAL. Elsevier B.V., Amsterdam,  NETHERLANDS, 144: 1-14, (2020).\nMendez, W., K. Shao, J. Lee, I. Cote, I. Druwe, A. Davis, and J. Gift. Model Averaging Methods for the Evaluation of Dose-Response Model Uncertainty When Assessing the Suitability of Studies for Estimating Risk.   ENVIRONMENT INTERNATIONAL. Elsevier B.V., Amsterdam,  NETHERLANDS, 143: 1-11, (2020).\nAllen, B., K. Shao, K. Hobie, W. Mendez Jr, J. Lee, I. Cote, I. Druwe, J. Gift, and A. Davis. Systematic dose-response of environmental epidemiologic studies: Dose and Response Pre-Analysis.   ENVIRONMENT INTERNATIONAL. Elsevier B.V., Amsterdam,  NETHERLANDS, 142: 105810, (2020).\nAllen, B., K. Shao, K. Hobbie, W. Mendez Jr, J. Lee, I. Cote, I. Druwe, J. Gift, and A. Davis. Bayesian Hierarchical Dose-response Meta-analysis  of Epidemiological Studies : Modeling and Target Population Prediction Methods.   ENVIRONMENT INTERNATIONAL. Elsevier B.V., Amsterdam,  NETHERLANDS, 145: 106111, (2020).",
+    "num_resources": 24,
+    "num_tags": 2,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data File for iAs Dose-response Manuscripts - Data files used in preparing four manuscripts describing dose-response methods that have been developed for the purposes of the EPA inorganic arsenic IRIS health assessment.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:062"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.envint.2020.105986",
+                "https://doi.org/10.1016/j.envint.2020.105857",
+                "https://doi.org/10.1016/j.envint.2020.105810",
+                "https://doi.org/10.1016/j.envint.2020.106111"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "80a63eba-659e-4a1b-9a38-0f6fd201c4ef"
+        },
+        {
+            "key": "source_hash",
+            "value": "08781d5df6449c74ca67cce7ae71cabd36b440de"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-07-26"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502484"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244476",
+            "description": "bootstrap_bladder_case_num_adj_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "63960b5f-02e7-4496-a9fd-8d8a946b976b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244476",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "bootstrap_bladder_case_num_adj_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/bootstrap_bladder_case_num_adj_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244483",
+            "description": "Data_Dictionary-MOE_paper_508.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "dc99370b-b98a-499e-b73e-894fc39098aa",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244483",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Data_Dictionary-MOE_paper_508.docx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/Data_Dictionary-MOE_paper_508.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244486",
+            "description": "Bladder%20and%20Lung%20Cancer%20Dose%20response%20Read%20Me_508.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "94176323-4c82-45ca-96c4-0ce1998a447b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244486",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Bladder and Lung Cancer Dose response Read Me_508.docx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/Bladder%20and%20Lung%20Cancer%20Dose%20response%20Read%20Me_508.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244489",
+            "description": "bootstrap_lung_cases_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5b588b87-9fc1-49df-83d9-e646eb88e635",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244489",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "bootstrap_lung_cases_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/bootstrap_lung_cases_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244492",
+            "description": "bootstrap_mean_expo_march2016big_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ac7d880c-000e-43aa-ae53-620192d4f396",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244492",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "bootstrap_mean_expo_march2016big_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/bootstrap_mean_expo_march2016big_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244494",
+            "description": "A_Summary_For_CaseControl_20161002_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "bd5eecf2-0f1e-4a12-8658-897d04aefb04",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244494",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "A_Summary_For_CaseControl_20161002_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/A_Summary_For_CaseControl_20161002_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244497",
+            "description": "A_Summary_For_Cohort_20180713_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0a67f74e-7fde-4fa2-b177-a50a242f8d58",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244497",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "A_Summary_For_Cohort_20180713_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/A_Summary_For_Cohort_20180713_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244499",
+            "description": "Data_Dictionary_MR1_paper_508.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "61080821-0169-400c-b641-3b8e03fa4c00",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244499",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Data_Dictionary_MR1_paper_508.docx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/Data_Dictionary_MR1_paper_508.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244502",
+            "description": "S8-Steinmaus2013_CE5_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "06c48597-71ba-4bfb-a6a8-75c3d1d7625b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244502",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S8-Steinmaus2013_CE5_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S8-Steinmaus2013_CE5_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244504",
+            "description": "S9-Wu2013_U%26I_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9d26d032-7f9a-425b-9a57-5557ad48ad77",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244504",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S9-Wu2013_U&I_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S9-Wu2013_U%26I_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244507",
+            "description": "S2-Bates2004_DW4_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9186cd26-c5d3-4477-a85f-6984ee4c4d20",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244507",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S2-Bates2004_DW4_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 10,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S2-Bates2004_DW4_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244509",
+            "description": "S3-Chen_2010_NE_Taiwan_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f48afd17-d08b-4247-acad-d873f670522f",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244509",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S3-Chen_2010_NE_Taiwan_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 11,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S3-Chen_2010_NE_Taiwan_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244512",
+            "description": "S5-Sawada_females_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "72617365-5f0f-437f-be3c-ed3b15901448",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244512",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S5-Sawada_females_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 12,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S5-Sawada_females_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244514",
+            "description": "S4-Meliker2010_CE5_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2752af7a-f44f-4f6e-b84b-8db1bc0b0fbc",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244514",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S4-Meliker2010_CE5_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 13,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S4-Meliker2010_CE5_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244517",
+            "description": "S6-Sawada_males_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b4fcdc52-0ca0-43be-a377-14243a367879",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244517",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S6-Sawada_males_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 14,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S6-Sawada_males_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244520",
+            "description": "S7-Steinmaus2003_CE5_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "e6cfebe5-e679-4231-966b-48438375b43a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244520",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S7-Steinmaus2003_CE5_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 15,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S7-Steinmaus2003_CE5_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244522",
+            "description": "S1-Bates1995_CE5_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "4139d71c-5c48-4775-a498-6c0a8b63c4e6",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244522",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S1-Bates1995_CE5_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 16,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S1-Bates1995_CE5_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244525",
+            "description": "S10-BC_Morbidity_Lifetable_10ugL_MLE_inh_bkg_0.31_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "004d835a-95a7-485e-9adc-d1cee1bdea7c",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244525",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S10-BC_Morbidity_Lifetable_10ugL_MLE_inh_bkg_0.31_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 17,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S10-BC_Morbidity_Lifetable_10ugL_MLE_inh_bkg_0.31_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244528",
+            "description": "S6%20-%20bladder%20cancer%20lifetable%20results_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b34bdf2f-7364-4950-a55e-cd6ab463de01",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244528",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S6 - bladder cancer lifetable results_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 18,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S6%20-%20bladder%20cancer%20lifetable%20results_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244530",
+            "description": "S5-Gamma%20distribution%20for%20B_mean%20prior_508.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "9884bce8-08c9-4666-b6a7-21e69814d795",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244530",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "S5-Gamma distribution for B_mean prior_508.docx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 19,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S5-Gamma%20distribution%20for%20B_mean%20prior_508.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244533",
+            "description": "S11-BC_Morbidity_Lifetable_10ugL_MLE_inh_bkg_0.6_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "6e71c233-a762-4b34-a83e-42f9512154f7",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244533",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S11-BC_Morbidity_Lifetable_10ugL_MLE_inh_bkg_0.6_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 20,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S11-BC_Morbidity_Lifetable_10ugL_MLE_inh_bkg_0.6_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244535",
+            "description": "Data_Dictionary_MR2_paper_508.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "8443c1df-19d6-4c50-953e-6bc3c2452100",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244535",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Data_Dictionary_MR2_paper_508.docx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 21,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/Data_Dictionary_MR2_paper_508.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244538",
+            "description": "S8-final%20bladder%20cancer%20Stan%20runs_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "76c37b30-90d6-4cd9-8763-7de5f7492602",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244538",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S8-final bladder cancer Stan runs_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 22,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S8-final%20bladder%20cancer%20Stan%20runs_508.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:57.244540",
+            "description": "S12-alternative_gamma_prior_results_508.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8cf8a7d4-b903-44ce-aa91-453ff7416de0",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:57.244540",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S12-alternative_gamma_prior_results_508.xlsx",
+            "package_id": "4d8a7134-fdfa-4a87-8b81-2a87817436ee",
+            "position": 23,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502484/S12-alternative_gamma_prior_results_508.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "dose-response",
+            "id": "bc46bbc4-f252-4706-9e5c-41274506f669",
+            "name": "dose-response",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inorganic-arsenic",
+            "id": "51baa03d-5ff0-48f8-aec4-a79781d32988",
+            "name": "inorganic-arsenic",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 44,
+        "recent": 2
+    }
+}

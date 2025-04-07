@@ -1,0 +1,242 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "b6368f73-4be2-40b0-8c08-311b36f7253c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "John Johnston",
+    "maintainer_email": "johnston.johnm@epa.gov",
+    "metadata_created": "2020-11-12T13:38:44.777469",
+    "metadata_modified": "2020-11-12T13:38:44.777480",
+    "name": "rainwater-harvesting-human-health-and-environmental-impact-assessment-and-sustainability-a",
+    "notes": "LCA/LCCA/LCIA data used to create figures and tables in the papers. \n\nThis dataset is associated with the following publications:\nGhimire, S., and J. Johnston. Holistic impact assessment and cost savings of rainwater harvesting at the watershed scale.   Elementa: Science of the Anthropocene. University of California Press (UC Press), Oakland, CA, USA, 5(9): 1-17, (2017).\nGhimire, S., and J. Johnston. A modified eco-efficiency framework and methodology for advancing the state of practice of sustainability analysis as applied to green infrastructure.   Integrated Environmental Assessment and Management. Allen Press, Inc., Lawrence, KS, USA, 13(5): 821-831, (2017).\nGhimire, S., J. Johnston, W. Ingwersen, and S. Sojka. Life cycle assessment of a commercial rainwater harvesting system compared with a municipal water supply system.   JOURNAL OF CLEANER PRODUCTION. Elsevier Science Ltd, New York, NY, USA, 151: 74\u201386, (2017).",
+    "num_resources": 1,
+    "num_tags": 12,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Rainwater harvesting human health and environmental impact assessment and sustainability analysis",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1525/elementa.135",
+                "https://doi.org/10.1002/ieam.1928",
+                "https://doi.org/10.1016/j.jclepro.2017.02.025"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b8b08145-0f6a-478a-b06c-ae011ed17566"
+        },
+        {
+            "key": "source_hash",
+            "value": "e2536956451323c8eb636e43b1d055c64c1b52c9"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-02-27"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "A-fttt-543"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/543/documents/SOP%20LCA%20Projects%20Involving%20Data%20Collection%2020Jan2015.docx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:44.784773",
+            "description": "RWH%20PAPERS%20DATA.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d8ac9ad5-deb7-4d4a-9d27-bf10605a66a4",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:44.784773",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "RWH PAPERS DATA.zip",
+            "package_id": "b6368f73-4be2-40b0-8c08-311b36f7253c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/543/RWH%20PAPERS%20DATA.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "agricultural-and-domestic-rainwater-harvesting-systems",
+            "id": "b8ef3d51-17c3-4a25-970e-292d51e5791d",
+            "name": "agricultural-and-domestic-rainwater-harvesting-systems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "commercial-rainwater-harvesting",
+            "id": "d392cb91-1b37-475e-b8f4-94a624daa99f",
+            "name": "commercial-rainwater-harvesting",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "data-envelopment-analysis",
+            "id": "3c1155f9-068a-4173-83bb-0bad3431a86d",
+            "name": "data-envelopment-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "eco-efficiency-analysis",
+            "id": "a4ec8312-fe81-4dc9-a1c9-e08047ffa342",
+            "name": "eco-efficiency-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy-intensity",
+            "id": "71f83406-ea95-495a-9bee-56b283fc924c",
+            "name": "energy-intensity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "holistic-analysis",
+            "id": "2ed73cc4-dbba-4aff-9f2d-ae2c09b8ae49",
+            "name": "holistic-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-assessment",
+            "id": "5f206d22-5675-4b27-aa71-99155591d1d5",
+            "name": "life-cycle-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-costing",
+            "id": "37cf5756-80ba-46a8-b6f4-d57f38f58ec5",
+            "name": "life-cycle-costing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-impact-assessment-method",
+            "id": "d24d5790-74c5-4fbe-9274-2586661a04d5",
+            "name": "life-cycle-impact-assessment-method",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "municipal-water-supply",
+            "id": "23aab52a-f36b-4223-80bc-8a8362b20efc",
+            "name": "municipal-water-supply",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sustainability-analysis",
+            "id": "440a0b0f-3088-4aa9-a448-6bcdb9eac2b5",
+            "name": "sustainability-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "watershed-scale",
+            "id": "bdb1ed75-3c76-4d99-afcd-d7dc64a23e32",
+            "name": "watershed-scale",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 243,
+        "recent": 3
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "dc1773a1-d03e-42b1-befe-ba2643ba1368",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "James Samet",
+    "maintainer_email": "samet.james@epa.gov",
+    "metadata_created": "2024-10-03T04:27:33.949599",
+    "metadata_modified": "2024-10-03T04:27:33.949605",
+    "name": "refit-data-for-sciencehub-12-16-2021",
+    "notes": "This dataset contains data for a manuscript describing facemask's fitted filtration efficiency and material performance after repeated washing and wearing. \n\nThis dataset is associated with the following publication:\nChen, H., J. Samet, H. Tong, A. Abzhanova, A. Rappold, and S. Prince. Can Disposable Masks Be Worn More Than Once?.   ECOTOXICOLOGY AND ENVIRONMENTAL SAFETY. Elsevier Science Ltd, New York, NY, USA, 242: 113908, (2022).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "REFIT Data for ScienceHub-12.16.2021",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "33b92e6b014bb00ab222b3c8fecdec020ff0a294cfc1a792700ce272cb83f9c2"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524375"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-12-16"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.ecoenv.2022.113908",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301359"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "3a2cef55-b8d1-4ad2-baf5-aaf813d6b9de"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-03T04:27:33.963103",
+            "description": "REFIT%20Data%20for%20ScienceHub-12.16.2021.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0315be4b-b184-4a7c-b814-29e4e7e859af",
+            "last_modified": null,
+            "metadata_modified": "2024-10-03T04:27:33.937398",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "REFIT Data for ScienceHub-12.16.2021.xlsx",
+            "package_id": "dc1773a1-d03e-42b1-befe-ba2643ba1368",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1524375/REFIT%20Data%20for%20ScienceHub-12.16.2021.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "covid-19",
+            "id": "af0c031e-ec6e-482c-b12e-90c7c320c38d",
+            "name": "covid-19",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "disposable-facemask",
+            "id": "958bc4dc-6bab-4cc7-96f5-3372c8ca1aad",
+            "name": "disposable-facemask",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "durability",
+            "id": "90b2cc8e-886a-4d7c-a487-929b235d6a6e",
+            "name": "durability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "filtration-efficiency",
+            "id": "d7853557-9aa5-4daa-8c38-f5d720b26868",
+            "name": "filtration-efficiency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "personal-protection-equipment-ppe",
+            "id": "c1462f79-ba8d-49bf-ab7b-a485828e2d50",
+            "name": "personal-protection-equipment-ppe",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "plastic-waste",
+            "id": "f6740069-b4e7-4556-9807-09dcd42e4eed",
+            "name": "plastic-waste",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "reusability",
+            "id": "bbed9ad6-b401-4d82-934d-ab45ce6e45ef",
+            "name": "reusability",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 10,
+        "recent": 2
+    }
+}

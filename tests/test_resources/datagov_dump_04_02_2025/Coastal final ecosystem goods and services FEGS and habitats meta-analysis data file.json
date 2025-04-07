@@ -1,0 +1,169 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "3bcf7fe1-8ecc-49d8-a3e2-1b6252b37d30",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Chanda Littles",
+    "maintainer_email": "littles.chanda@epa.gov",
+    "metadata_created": "2020-11-12T13:43:47.117967",
+    "metadata_modified": "2020-11-12T13:43:47.117976",
+    "name": "coastal-final-ecosystem-goods-and-services-fegs-and-habitats-meta-analysis-data-file",
+    "notes": "Coastal ecosystem goods and services (EGS) have steadily gained traction in the scientific literature over the last few decades, providing a wealth of information about underlying coastal habitat dependencies. This meta-analysis summarizes relationships between coastal habitats and final ecosystem goods and services (FEGS) users. Through a \u201cweight of evidence\u201d approach synthesizing information from published literature, we assessed habitat classes most relevant to coastal users. Approximately 2800 coastal EGS journal articles were identified by online search engines, of which 16% addressed linkages between specific coastal habitats and FEGS users, and were retained for subsequent analysis. Recreational (83%) and industrial (35%) users were most cited in literature, with experiential-users/hikers and commercial fishermen most prominent in each category, respectively. Recreational users were linked to the widest diversity of coastal habitat subclasses (i.e., 22 of 26). Whereas, mangroves and emergent wetlands were most relevant for property owners. We urge EGS studies to continue surveying local users and identifying habitat dependencies, as these steps are important precursors for developing appropriate coastal FEGS metrics and facilitating local valuation. In addition, understanding how habitats contribute to human well-being may assist communities in prioritizing restoration and evaluating development scenarios in the context of future ecosystem service delivery. \n\nThis dataset is associated with the following publication:\nLittles, C., C. Jackson, T. DeWitt, and M. Harwell. Linking People to Coastal Habitats: A meta-analysis of final ecosystem goods and services (FEGS) on the coast.   Ocean & Coastal Management. Elsevier, Shannon,  IRELAND, 165: 356-369, (2018).",
+    "num_resources": 1,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Coastal final ecosystem goods and services (FEGS) and habitats meta-analysis data file",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.ocecoaman.2018.09.009"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "41cb3e83-add8-435e-ae88-df230b1615f9"
+        },
+        {
+            "key": "source_hash",
+            "value": "ae51df99401a8dc32db79d9e5519662512ec1af3"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-03-08"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1424684"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:47.122561",
+            "description": "Manuscript1_data-file_FINAL_SciHub.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "e75e8906-e4e3-42ad-83b5-16dacffedb73",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:47.122561",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Manuscript1_data-file_FINAL_SciHub.xlsx",
+            "package_id": "3bcf7fe1-8ecc-49d8-a3e2-1b6252b37d30",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1424684/Manuscript1_data-file_FINAL_SciHub.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "ecosystem-goods-and-services",
+            "id": "001cf79c-eee7-4192-8743-eaa706e36048",
+            "name": "ecosystem-goods-and-services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "literature-review",
+            "id": "e9d160fb-e2ad-42e0-bf36-0ea0a4eb00a5",
+            "name": "literature-review",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nearshore",
+            "id": "8f154177-0afc-4718-ac76-552afac07439",
+            "name": "nearshore",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 96,
+        "recent": 1
+    }
+}

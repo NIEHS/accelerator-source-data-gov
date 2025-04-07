@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "2abd8b81-b7c3-4816-ba8e-b1ad9e0f429e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "David Herr",
+    "maintainer_email": "herr.david@epa.gov",
+    "metadata_created": "2020-11-12T13:41:01.720633",
+    "metadata_modified": "2020-11-12T13:41:01.720640",
+    "name": "genetic-targets-of-acute-toluene-inhalation-in-drosophila-melanogaster-dgrp-activity-overl",
+    "notes": "We used the Drosophila Genetics Reference Panel (DGRP), a collection of ~200 homozygous lines of fruit flies whose genomes have been sequenced. We quantified toluene-induced suppression of motor activity in 123 lines of these flies during exposure to toluene, a volatile organic compound known to induce narcosis in mammals via its effects on neuronal ion channels. We then applied genome-wide association analyses on this effect of toluene using the DGRP web portal (http://dgrp2.gnets.ncsu.edu), which identified polymorphisms in candidate genes associated with the variation in response to toluene exposure. We tested ~2 million variants and found 82 polymorphisms located in or near 66 candidate genes that were associated with phenotypic variation for sensitivity to toluene at P < 5 x 10-5, and human orthologs for 52 of these candidate Drosophila genes. None of these orthologs are known to be involved in canonical pathways for mammalian neuronal ion channels, including GABA, glutamate, dopamine, glycine, serotonin, and voltage sensitive calcium channels. \n\nThis dataset is associated with the following publications:\nBushnell, P., W. Ward, T. Morozova, W. Oshiro, M. Lin, R. Judson, S. Hester, J. Mckee, and M. Higuchi. Editor's Highlight: Genetic Targets of Acute Toluene Inhalation in Drosophila melanogaster.   TOXICOLOGICAL SCIENCES. Society of Toxicology,     230-239, (2017).\nTatum-Gibbs, K.R., J. Mckee , M. Higuchi , and P. Bushnell. Effects of Toluene, Acrolein and Vinyl Chloride on Motor Activity of Drosophila Melanogaster.   NEUROTOXICOLOGY AND TERATOLOGY. Elsevier Science Ltd, New York, NY, USA, 47: 114-24, (2015).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Genetic Targets of Acute Toluene Inhalation in Drosophila melanogaster: DGRP activity, overlapping human orthologs, pathway analyses, GWAS results",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/toxsci/kfw243"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c0e9bfdd-3af5-45ab-8acb-e18f3b9bea02"
+        },
+        {
+            "key": "source_hash",
+            "value": "368317dac63ebd6035c1d73c2535517087400cc5"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-02-02"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1419253"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:01.725458",
+            "description": "HerrDavid_A-qnkv_DATA_20171221.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "667989be-5b91-4a12-b511-8076986f4476",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:01.725458",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "HerrDavid_A-qnkv_DATA_20171221.xlsx",
+            "package_id": "2abd8b81-b7c3-4816-ba8e-b1ad9e0f429e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1419253/HerrDavid_A-qnkv_DATA_20171221.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "dgrp",
+            "id": "e9fff812-3054-452e-b93b-5ff969f210ef",
+            "name": "dgrp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fly-genome",
+            "id": "c66511dc-09e5-471d-b631-1eb9af5e25cf",
+            "name": "fly-genome",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fruit-fly",
+            "id": "6cf58a98-5ced-4fb4-b655-d2c28631c4b4",
+            "name": "fruit-fly",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "motor-activity",
+            "id": "f5d2e61e-a229-4074-baa6-f46ba287d65e",
+            "name": "motor-activity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toluene",
+            "id": "f3cac528-1426-4f57-a315-89d0ab1e8d3c",
+            "name": "toluene",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "volatile-organic-compound",
+            "id": "fe21f58b-667f-49fe-a061-a15fb2d326c4",
+            "name": "volatile-organic-compound",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 107,
+        "recent": 1
+    }
+}

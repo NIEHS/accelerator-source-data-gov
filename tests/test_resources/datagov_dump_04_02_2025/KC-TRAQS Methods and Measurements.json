@@ -1,0 +1,315 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "da831720-a6eb-4c86-9808-5b252981e62b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Evelyn Kimbrough",
+    "maintainer_email": "kimbrough.sue@epa.gov",
+    "metadata_created": "2020-11-12T13:46:55.142327",
+    "metadata_modified": "2020-11-12T13:46:55.142334",
+    "name": "kc-traqs-methods-and-measurements",
+    "notes": "Data collected during the Kansas City Transportation and Local-Scale Air\nQuality Study (KC-TRAQS). \n\nThis dataset is associated with the following publication:\nKimbrough, S., S. Krabbe, R. Baldauf, T. Barzyk, M. Brown, S. Brown, C. Croghan, M. Davis, P. Deshmukh, R. Duvall, S. Feinberg, V. Isakov, R. Logan, T. McArthur, and A. Shields. Characterizing Community Air Pollution Impacts Near Complex Sources: The Kansas City Transportation and Local-Scale Air Quality Study (KC-TRAQS).   Chemosensors. MDPI AG, Basel,  SWITZERLAND, 7(2): x, (2019).",
+    "num_resources": 6,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "KC-TRAQS Methods and Measurements",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/chemosensors7020026"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6c69fac5-c9ad-4875-8a4f-098e82f6bd2f"
+        },
+        {
+            "key": "source_hash",
+            "value": "3abf01df81b4f0d17a404da044fe17f49ec5a2a5"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-06-26"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504005"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:46:55.171937",
+            "description": "Figure2_meteorologicaldata.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "d2279ae6-f76a-4f84-9056-d05f15030695",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:46:55.171937",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Figure2_meteorologicaldata.zip",
+            "package_id": "da831720-a6eb-4c86-9808-5b252981e62b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504005/Figure2_meteorologicaldata.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:46:55.171944",
+            "description": "Figure3Data.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "1e039e7c-8d2f-4593-8e68-bdf1848dfbbd",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:46:55.171944",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure3Data.csv",
+            "package_id": "da831720-a6eb-4c86-9808-5b252981e62b",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504005/Figure3Data.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:46:55.171948",
+            "description": "Figure%204%20BoxPlots%20pm25.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5847a87b-e960-4732-b37b-bbcf3fcfc1d2",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:46:55.171948",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 4 BoxPlots pm25.xlsx",
+            "package_id": "da831720-a6eb-4c86-9808-5b252981e62b",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504005/Figure%204%20BoxPlots%20pm25.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:46:55.171950",
+            "description": "Figure%205%20BoxPlots%20BC.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0bd76255-a9bd-4a62-8c42-43fe95bc33ca",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:46:55.171950",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Figure 5 BoxPlots BC.xlsx",
+            "package_id": "da831720-a6eb-4c86-9808-5b252981e62b",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504005/Figure%205%20BoxPlots%20BC.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:46:55.171953",
+            "description": "Figure%208%20and%209%20%28SiteName%2C%20Hour%29.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "cbc562d5-8d1f-4998-ac14-3b4edfe85c37",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:46:55.171953",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figure 8 and 9 (SiteName, Hour).csv",
+            "package_id": "da831720-a6eb-4c86-9808-5b252981e62b",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504005/Figure%208%20and%209%20%28SiteName%2C%20Hour%29.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:46:55.171956",
+            "description": "Figures%206%20and%207.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "e8a3a6bd-0b46-4b0d-8ae2-704337e1e8c2",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:46:55.171956",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Figures 6 and 7.csv",
+            "package_id": "da831720-a6eb-4c86-9808-5b252981e62b",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504005/Figures%206%20and%207.csv",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "black-carbon",
+            "id": "2e3fe484-103a-49a7-8fea-eb68c420aac5",
+            "name": "black-carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "kc-traqs",
+            "id": "01532bae-f8fc-416b-93be-ee51d6021493",
+            "name": "kc-traqs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "near-source",
+            "id": "58882426-d1b9-4b81-81f2-c84ddd716f51",
+            "name": "near-source",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm2-5",
+            "id": "a1b6b16a-9f6b-4198-aff5-013a1484c09a",
+            "name": "pm2-5",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rail",
+            "id": "a0599eb4-95f4-4e2f-85fe-9bce8f901916",
+            "name": "rail",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sensors",
+            "id": "f6f13c9b-cb11-449b-8b2c-8c77de90d002",
+            "name": "sensors",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 55,
+        "recent": 1
+    }
+}

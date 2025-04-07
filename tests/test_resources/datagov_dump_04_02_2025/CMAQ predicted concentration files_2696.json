@@ -1,0 +1,230 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "1de77bfb-86d1-454a-9f3c-312fe690fa9c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Golam Sarwar",
+    "maintainer_email": "sarwar.golam@epa.gov",
+    "metadata_created": "2020-11-12T13:40:27.747540",
+    "metadata_modified": "2020-11-12T13:40:27.747547",
+    "name": "cmaq-predicted-concentration-files-d2776",
+    "notes": "model predicted concentrations. \n\nThis dataset is associated with the following publication:\nMu\u00f1iz-Unamunzaga, M., R. Borge, G. Sarwar, B. Gantt, D. de la Paz, C. Cuevas, and A. Saiz-Lopez. The influence of ocean halogen and sulfur emissions in the air quality of a coastal megacity: The case of Los Angeles.   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 610(611): 1536-1545, (2018).",
+    "num_resources": 2,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "CMAQ predicted concentration files",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2017.06.098"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "92ce96c9-4ced-4ab6-ad85-393cd4e4bd4d"
+        },
+        {
+            "key": "source_hash",
+            "value": "1b53a0885147d55aae3da75a12420f80d611d655"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-10-07"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1390152"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1390152/documents/SrawarGolaml_A-q57q_Data_Dictionary.docx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:40:27.777247",
+            "description": "COMBINE_CONC_SELECT_A_AVG.tar",
+            "format": "TAR",
+            "hash": "",
+            "id": "6287ee15-0bc9-4f8e-aefa-6b27f0b08301",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:40:27.777247",
+            "mimetype": "application/x-tar",
+            "mimetype_inner": null,
+            "name": "COMBINE_CONC_SELECT_A_AVG.tar",
+            "package_id": "1de77bfb-86d1-454a-9f3c-312fe690fa9c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1390152/COMBINE_CONC_SELECT_A_AVG.tar",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:40:27.777254",
+            "description": "COMBINE_CONC_SELECT_B_AVG.tar",
+            "format": "TAR",
+            "hash": "",
+            "id": "ed820024-3e7d-434e-8224-042083f9f61d",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:40:27.777254",
+            "mimetype": "application/x-tar",
+            "mimetype_inner": null,
+            "name": "COMBINE_CONC_SELECT_B_AVG.tar",
+            "package_id": "1de77bfb-86d1-454a-9f3c-312fe690fa9c",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1390152/COMBINE_CONC_SELECT_B_AVG.tar",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cmaq",
+            "id": "8ec5fd16-3c5f-4bef-9a2f-20f6146da03c",
+            "name": "cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dms",
+            "id": "8037f047-cc5c-4abf-9b95-19757d97a942",
+            "name": "dms",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "halogens",
+            "id": "325dc250-af9b-4c33-8a0e-ca2716eab124",
+            "name": "halogens",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "los-angeles",
+            "id": "7972ae76-6902-46f2-8a77-864230049646",
+            "name": "los-angeles",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "marine-natural-emissions",
+            "id": "39c574f8-51cf-49c7-af8a-9d0f76963a99",
+            "name": "marine-natural-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "urban-air-quality",
+            "id": "6f56dc97-92d0-42e4-9b59-be9626e146e5",
+            "name": "urban-air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 89,
+        "recent": 1
+    }
+}

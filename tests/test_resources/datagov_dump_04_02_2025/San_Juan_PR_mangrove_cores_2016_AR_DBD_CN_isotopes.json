@@ -1,0 +1,248 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "198c095e-b529-488d-9110-599a7b0ca511",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Cathleen Wigand",
+    "maintainer_email": "wigand.cathleen@epa.gov",
+    "metadata_created": "2021-09-01T13:29:16.926055",
+    "metadata_modified": "2021-09-01T13:29:16.926068",
+    "name": "san-juan-pr-mangrove-cores-2016-ar-dbd-cn-isotopes",
+    "notes": "Dataset provides mangrove soil accretion rates, dry bulk density, %carbon, %nitrogen, nitrogen, carbon and sulfur stable isotopes from 5 sites in the San Juan Bay Estuary, Puerto Rico.",
+    "num_resources": 3,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "San_Juan_PR_mangrove_cores_2016_AR_DBD_CN_isotopes",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1521124"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2021-03-25"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "d2a0d838536b9331b434611e3a9f46f6bf6e3591"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "71ce796c-937f-404d-8dc9-cbb6a00df218"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-09-01T13:29:17.140357",
+            "description": "PR_Cores2016_AR_DBD_%25CN_mean_age_isotopes_NStudy_3-25-21.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9fa2799d-050d-4b36-ae1f-d0954031af42",
+            "last_modified": null,
+            "metadata_modified": "2021-09-01T13:29:17.140357",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "PR_Cores2016_AR_DBD_%CN_mean_age_isotopes_NStudy_3-25-21.xlsx",
+            "package_id": "198c095e-b529-488d-9110-599a7b0ca511",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1521124/PR_Cores2016_AR_DBD_%25CN_mean_age_isotopes_NStudy_3-25-21.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-09-01T13:29:17.140364",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "48210146-1495-42e7-8362-a4cab6c32bfa",
+            "last_modified": null,
+            "metadata_modified": "2021-09-01T13:29:17.140364",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.5066/P97CAF30",
+            "package_id": "198c095e-b529-488d-9110-599a7b0ca511",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://doi.org/10.5066/P97CAF30",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-09-01T13:29:17.140367",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "bb60d7f1-fb26-4c16-8190-473aeb710aed",
+            "last_modified": null,
+            "metadata_modified": "2021-09-01T13:29:17.140367",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sciencebase.gov/catalog/item/60902e3fd34e93746a710491",
+            "package_id": "198c095e-b529-488d-9110-599a7b0ca511",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.sciencebase.gov/catalog/item/60902e3fd34e93746a710491",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "anthropogenic-stressors",
+            "id": "7581ec2d-1c25-4f5e-bd49-de16b4365141",
+            "name": "anthropogenic-stressors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "coastal-kidney",
+            "id": "d9d8db1a-6cdc-4ed3-a87e-c1425502c243",
+            "name": "coastal-kidney",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mangrove-forest",
+            "id": "fd1d291d-be50-4497-9781-2ce3b137eee8",
+            "name": "mangrove-forest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-accumulation",
+            "id": "5e3cbd75-b5a3-41f0-8f52-bef1a670df3a",
+            "name": "nitrogen-accumulation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-storage",
+            "id": "6363206c-16fe-4ff5-9188-352e096825f9",
+            "name": "nitrogen-storage",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rapid-urbanization",
+            "id": "b8cc3baf-5a76-4f03-9011-37671630a144",
+            "name": "rapid-urbanization",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "urban-mangrove",
+            "id": "87b7ceac-f1c7-4cec-af9f-5a10898f7cd3",
+            "name": "urban-mangrove",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wastewater",
+            "id": "b0e501c9-117c-4a13-9d0e-6c73d19ef1d9",
+            "name": "wastewater",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 30,
+        "recent": 2
+    }
+}

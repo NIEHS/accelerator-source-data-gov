@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "498b60cc-b027-429e-8845-0fd5c7adf5de",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "James Summers",
+    "maintainer_email": "summers.kevin@epa.gov",
+    "metadata_created": "2021-03-04T19:20:16.297809",
+    "metadata_modified": "2021-03-04T19:20:16.297817",
+    "name": "nahrsi-scored-results",
+    "notes": "Domains, Indicators and Metrics of NaHRSI and CRSI. \n\nThis dataset is associated with the following publication:\nSummers, K., L. Harwell, K. Buck, L. Smith, J. Harvey, D. Vivian, J. Bousquin, M. McLaughlin, and S. Hafner. Development of a Climate Resilience Screening Index (CRSI): An Assessment of Resilience to Acute Meteorological Events and Selected Natural Hazards. U.S. Environmental Protection Agency, Washington, DC, USA, 2017.",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "NaHRSI Scored Results",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100SSN6.txt"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6eaa911d-a063-46e8-a507-6430b0eff343"
+        },
+        {
+            "key": "source_hash",
+            "value": "4a4b34d9020cb09f36d6d39b8d7de47ee31e721b"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-03-28"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503667"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-03-04T19:20:16.322551",
+            "description": "Summers_etal_GeoHealth2_Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8e7facdc-09a1-4744-9acd-fc5eada04adf",
+            "last_modified": null,
+            "metadata_modified": "2021-03-04T19:20:16.322551",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Summers_etal_GeoHealth2_Data.xlsx",
+            "package_id": "498b60cc-b027-429e-8845-0fd5c7adf5de",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503667/Summers_etal_GeoHealth2_Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "crsi",
+            "id": "45961a5b-a334-444b-8658-14adb9b2d76e",
+            "name": "crsi",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nahrsi",
+            "id": "fe83f5af-fcd1-45cd-bbcb-aa5daec126dd",
+            "name": "nahrsi",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "natural-hazards",
+            "id": "b6be488f-85b1-4f79-9c15-07a2e1fcf6a8",
+            "name": "natural-hazards",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "recovery",
+            "id": "50420d92-3bcb-4975-8eda-49adbebb566a",
+            "name": "recovery",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "resilience",
+            "id": "af13db60-2555-426c-b876-f0ea147c62e3",
+            "name": "resilience",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vulnerability",
+            "id": "8bb87124-91ee-4f1f-9ebd-9cc3b1bf35de",
+            "name": "vulnerability",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 178,
+        "recent": 1
+    }
+}

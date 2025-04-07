@@ -1,0 +1,207 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "65dd4f90-0a69-4843-95ec-cfae149fa972",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:39:52.548109",
+    "metadata_modified": "2025-02-25T05:39:52.548115",
+    "name": "southern-mount-desert-island-maine-sewage-no-discharge-zone-2009-epa-hq-owow13",
+    "notes": "This dataset details No Discharge Zones (NDZ) for Southern Mount Desert Island, ME. Boaters may not discharge waste into these areas. Boundaries were determined mostly by Federal Register Environmental Documents in coordination with Massachusetts Coastal Zone Management (MA CZM) and EPA Region 1 Office of Ecosystem Protection (OEP) staff.",
+    "num_resources": 0,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Southern Mount Desert Island (Maine) sewage no-discharge zone, 2009, EPA HQ OWOW",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "209154F0-2B6B-4123-B696-C7823C9D0997"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "102039"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2014-03-18\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2024-03-14"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "Watts-Fitzgerald.Kelsey@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "notPlanned"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "underDevelopment"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.\", \"Dataset is not intended for use in analysis.\", \"Any gaps between the No-Discharge Zone (NDZ) and the shoreline are unintentional.\", \"Not to be used for navigational purposes.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "graphic-preview-file",
+            "value": "None"
+        },
+        {
+            "key": "graphic-preview-description",
+            "value": "None"
+        },
+        {
+            "key": "graphic-preview-type",
+            "value": "None"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2009-07-15T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2014-03-18T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 1\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"US EPA\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-68.145832"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "44.377301"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "44.194147"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-68.390872"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-68.390872, 44.194147], [-68.145832, 44.194147], [-68.145832, 44.377301], [-68.390872, 44.377301], [-68.390872, 44.194147]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-68.390872, 44.194147], [-68.145832, 44.194147], [-68.145832, 44.377301], [-68.390872, 44.377301], [-68.390872, 44.194147]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "481c0168-58bb-4810-af5b-f9d9146508c7"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:078",
+            "id": "27141278-172c-47a3-82e2-60abc043aaf8",
+            "name": "020:078",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "marine",
+            "id": "f7696055-3160-4418-b9eb-29c5dc716390",
+            "name": "marine",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new hampshire",
+            "id": "7aa744b5-8d2d-4419-a84f-c071e5f4f04a",
+            "name": "new hampshire",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water",
+            "id": "143854aa-c603-4193-9c89-232e63461fa4",
+            "name": "water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

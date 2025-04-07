@@ -1,0 +1,473 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "a181b223-9b07-4116-b3c3-69dd76538516",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Susan Yee",
+    "maintainer_email": "yee.susan@epa.gov",
+    "metadata_created": "2024-02-15T17:56:54.370845",
+    "metadata_modified": "2024-02-15T17:56:54.370852",
+    "name": "beneficiary-and-ecosystem-services-profiles-from-massbays-document-analysis",
+    "notes": "This data set contains the output from a keyword search document analysis of MassBays NEP Assessment Area communities.  S1 is the list of keyword search terms. S2 is the list of planning documents included in the search. S3 are graphs of beneficiary profiles and ecosystem services profiles for each assessment area.  S4 are graphs of ecosystem frequencies, beneficiary profiles, and ecosystem services for each cluster. S5 is the table of socio-economic and ecological variables for each assessment area. S6 are graphs of socio-economic and ecological variables for each cluster. S7 are post-hoc statistical analysis to relate socio-economic and ecological variables to ecosystem services priorities. S8 are the frequency at which ecosystems are mentioned in documents for each assessment area. S9 is the table of beneficiary profiles for each assessment area.  S10 are the relative importance of ecosystem services attributes to each beneficiary type for each assessment area. S11 are the final ecosystem services profiles for each assessment area. S12 is the full list of final ecosystem services (an ecosystem + a beneficiary + an ecosystem services attribute) from all search documents. \n\nThis dataset is associated with the following publication:\nYee, S., L. Sharpe, B. Branoff, C. Jackson, G. Cicchetti, S. Jackson, M. Pryor, and E. Shumchenia. Ecosystem Services Profiles for Communities Benefitting from Estuarine Habitats along the Massachusetts Coast, USA.   Ecological Informatics. Elsevier Science Ltd, New York, NY, USA, 77: 102182, (2023).",
+    "num_resources": 12,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Beneficiary and Ecosystem Services Profiles from MassBays Document Analysis",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "401212c79c60f611b7578b77c742c214d338159fa529e9e5ebba9c76eed92eed"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528467"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-01-26"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.ecoinf.2023.102182",
+                "https://pasteur.epa.gov/uploads/10.23719/1528467/documents/MB_Assessment_Areas.zip"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d27eb8ed-9dad-4ec3-aa3c-2977038c59fd"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385257",
+            "description": "S3_Assessment_Area_Profiles.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "7e33b2c3-484a-426e-99cd-1d8acde854e6",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.348156",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "S3_Assessment_Area_Profiles.pdf",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S3_Assessment_Area_Profiles.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385262",
+            "description": "S2.Document_List.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0457f8bd-eb60-4678-8feb-dd450f7e4b50",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.348384",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S2.Document_List.xlsx",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S2.Document_List.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385264",
+            "description": "S1.Keyword_List_MassBays.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "601899e3-f5da-4e36-b6dd-52682dbd0567",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.348552",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S1.Keyword_List_MassBays.xlsx",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S1.Keyword_List_MassBays.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385266",
+            "description": "S10.EcoServices_Per_Beneficiary_for_EachAssessmentArea_EachHabitat.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "7beeb81c-2b37-43a9-852b-b9a40f50984b",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.348697",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S10.EcoServices_Per_Beneficiary_for_EachAssessmentArea_EachHabitat.xlsx",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S10.EcoServices_Per_Beneficiary_for_EachAssessmentArea_EachHabitat.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385268",
+            "description": "S9.Beneficiaries_for_EachAssessmentArea_EachHabitat.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "e512028a-e79d-4167-a976-b86908766428",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.348829",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S9.Beneficiaries_for_EachAssessmentArea_EachHabitat.xlsx",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S9.Beneficiaries_for_EachAssessmentArea_EachHabitat.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385270",
+            "description": "S8.Ecosystems_EachAssessmentArea.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "efebbd81-5703-42d2-9306-83df3f5d8173",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.348967",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S8.Ecosystems_EachAssessmentArea.xlsx",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S8.Ecosystems_EachAssessmentArea.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385272",
+            "description": "S7.PostHoc_Analyses.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "017e4d17-9178-429d-95e3-8b59f6bd7d6f",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.349095",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S7.PostHoc_Analyses.xlsx",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S7.PostHoc_Analyses.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385273",
+            "description": "S6_Socioeconomic_Data_By_Cluster.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "d0577f05-b9dc-465b-a26e-c3163cb9774c",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.349244",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "S6_Socioeconomic_Data_By_Cluster.pdf",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S6_Socioeconomic_Data_By_Cluster.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385275",
+            "description": "S5.SocioEcological_Data_EachAssessmentArea.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "42639b36-6241-4cb4-b651-ff78cdef4696",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.349392",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S5.SocioEcological_Data_EachAssessmentArea.xlsx",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S5.SocioEcological_Data_EachAssessmentArea.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385277",
+            "description": "S4_Profiles_By_Cluster.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "289194b7-0ba9-493d-b71b-6ac6a0604063",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.349521",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "S4_Profiles_By_Cluster.pdf",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S4_Profiles_By_Cluster.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385279",
+            "description": "S12.Triplets_Each_Document.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ba7b4d6e-56b7-47eb-9902-b82e2ad8cb8d",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.349667",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S12.Triplets_Each_Document.xlsx",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 10,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S12.Triplets_Each_Document.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:56:54.385280",
+            "description": "S11.FinalEcoServices_for_EachAssessmentArea_EachHabitat.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "312ea93f-b138-499d-b321-164016719931",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:56:54.349842",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S11.FinalEcoServices_for_EachAssessmentArea_EachHabitat.xlsx",
+            "package_id": "a181b223-9b07-4116-b3c3-69dd76538516",
+            "position": 11,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528467/S11.FinalEcoServices_for_EachAssessmentArea_EachHabitat.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "document-analysis",
+            "id": "b28f873f-8506-4f33-828e-8932ebd5ff66",
+            "name": "document-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem-services",
+            "id": "ccc67e1b-18ea-4776-b9b4-976b2763e39f",
+            "name": "ecosystem-services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "estuary",
+            "id": "45c59167-199e-499d-b352-16e4c2ea9f5e",
+            "name": "estuary",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "massachusetts-bay",
+            "id": "fb0f255d-55f6-4acc-b0bc-b2fb30926a29",
+            "name": "massachusetts-bay",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "salt-marsh",
+            "id": "ad4ec816-9a8d-4733-994e-622f53f6aee6",
+            "name": "salt-marsh",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "seagrass",
+            "id": "cb0ff180-772d-4263-8da2-6054ec47a654",
+            "name": "seagrass",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tidal-flats",
+            "id": "18535b2a-a83d-4188-9b9e-4fbe61d77b49",
+            "name": "tidal-flats",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 10,
+        "recent": 1
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "2e10de5c-b215-4d88-a178-4e7170666524",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Terranna Haxton",
+    "maintainer_email": "haxton.terra@epa.gov",
+    "metadata_created": "2023-06-17T10:08:01.067188",
+    "metadata_modified": "2023-06-17T10:08:01.067195",
+    "name": "wntr-resilience-analysis-pennsylvania-drinking-water-system-dataset",
+    "notes": "This is the dataset associated with the WNTR resilience analysis for a Pennsylvania drinking water utility. It contains the number of junctions and customers impacted following a pipe break scenario, the social-economic and environmental priority ranks for the pipe break scenarios, and the water service availability (WSA) for a tank outage, pump outage, and source water outage. The WSA is also provided for these outage scenarios and their respective emergency response actions. \n\nThis dataset is associated with the following publication:\nChu-Ketterer, J., W. Platten, S. Bolenbaugh, and T. Haxton. Resilience analysis and emergency response evaluation for drinking water systems.   Journal AWWA. American Water Works Association, Denver, CO, USA, 115(5): 32-42, (2023).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "WNTR resilience analysis Pennsylvania drinking water system dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "f63824f54cb21a9ef392fece1d5450419e80da9e"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1527876"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-07-27"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/awwa.2107"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b1eec463-494f-4202-9ee2-5cd684a072a4"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-06-17T10:08:01.101136",
+            "description": "Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "94a3182d-0bd9-4b0b-a067-afd59bd68aae",
+            "last_modified": null,
+            "metadata_modified": "2023-06-17T10:08:01.049408",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Data.xlsx",
+            "package_id": "2e10de5c-b215-4d88-a178-4e7170666524",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1527876/Data.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "disaster-planning",
+            "id": "30861156-795c-4506-94e7-71d354f0cd15",
+            "name": "disaster-planning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emergency-response",
+            "id": "931e958a-dc3a-4037-b497-9f7acbbb1938",
+            "name": "emergency-response",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "epanet",
+            "id": "2c749efd-977f-4651-ba54-ce8081dbc58a",
+            "name": "epanet",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "resilience",
+            "id": "af13db60-2555-426c-b876-f0ea147c62e3",
+            "name": "resilience",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wntr",
+            "id": "2a14a4bd-c3b7-4c42-9381-31b97be82cfb",
+            "name": "wntr",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 35,
+        "recent": 1
+    }
+}

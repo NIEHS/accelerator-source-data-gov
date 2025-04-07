@@ -1,0 +1,208 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "d05c640f-e3d7-493f-972f-ddc2a42ef18b",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:15:29.329167",
+    "metadata_modified": "2025-02-25T05:15:29.329174",
+    "name": "light-rail-stop-sacramento-ca-2016-sacog-and-sacramento-regional-transit13",
+    "notes": "",
+    "num_resources": 0,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Light Rail Stop, Sacramento, CA, 2016, SACOG and Sacramento Regional Transit",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "665AF05F-9E87-4BA6-B33E-D9D550E3BFD6"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2023-03-15"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "lbell@sacog.org"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": ""
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"SACOG provides data as a public service. These data are provided \\\"as-is.\\\" While every effort has been made to ensure the accuracy or correctness of these data, SACOG makes no warranty, expressed or implied, as to its accuracy or correctness and expressly disclaims liability for the accuracy thereof. In no event shall SACOG become liable to users of these data, or any other party, for any loss or damages, consequential or otherwise, including but not limited to time, money, or goodwill, arising from the use, operation or modification of the data. In using these data, users further agree to indemnify, defend, and hold harmless SACOG for any and all liability of any nature arising out of or resulting from the lack of accuracy or correctness of the data, or the use of the data. Users will not distribute these data to other potential users. Instead they will refer those users to SACOG for an independent dataset and documentation. To assist SACOG in the maintenance of the data, users should provide SACOG's GIS staff information concerning errors or discrepancies found in using the data.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"SACOG and Sacramento Regional Transit\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-121.180572"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "38.675963"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "38.453782"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-121.49984"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-121.49984, 38.453782], [-121.180572, 38.453782], [-121.180572, 38.675963], [-121.49984, 38.675963], [-121.49984, 38.453782]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-121.49984, 38.453782], [-121.180572, 38.453782], [-121.180572, 38.675963], [-121.49984, 38.675963], [-121.49984, 38.453782]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8adf4201-9b81-4f97-9876-25687d5b983d"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:072",
+            "id": "ee6ec260-2686-4482-884a-e21bd34c47f0",
+            "name": "020:072",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ca",
+            "id": "cba63d47-9488-4d2b-917d-6296964e337c",
+            "name": "ca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "california",
+            "id": "364760b8-6576-42af-b0c5-278dec4415e7",
+            "name": "california",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "downloadable data",
+            "id": "72877887-708b-46de-bfd6-87613709194a",
+            "name": "downloadable data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "light rail",
+            "id": "7c565228-3188-4211-8243-81e59c3abc31",
+            "name": "light rail",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "rail stops",
+            "id": "0fc8de99-9348-4ca1-a49a-a8f4a4b1a1e4",
+            "name": "rail stops",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sacramento",
+            "id": "fe05f8cc-8105-416a-8588-14b67c6c12fc",
+            "name": "sacramento",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "transportation",
+            "id": "9de63758-c817-4198-8946-25300ec44352",
+            "name": "transportation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 2
+    }
+}

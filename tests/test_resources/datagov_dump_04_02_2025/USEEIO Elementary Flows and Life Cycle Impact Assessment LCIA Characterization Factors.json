@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "77846c16-2a70-4d8e-b8f4-40ac87824fcb",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Wesley Ingwersen",
+    "maintainer_email": "ingwersen.wesley@epa.gov",
+    "metadata_created": "2020-11-12T13:37:55.547342",
+    "metadata_modified": "2020-11-12T13:37:55.547349",
+    "name": "useeio-elementary-flows-and-life-cycle-impact-assessment-lcia-characterization-factors",
+    "notes": "This file contains all the elementary flows (defined in ISO 14044) used in the USEEIO model. The elementary flows come from a draft master list used by USEPA modified from the openLCA 1.4 software master list with original flows added. The characterization factors come from the openLCA 1.5.4 method pack or directly from TRACI 2.1 for the TRACI categories, or for the Non-TRACI categories, are originals used simply to sum up all types of resource use of a given type. \n\nThis dataset is associated with the following publication:\nYang, Y., W. Ingwersen, T. Hawkins, and D. Meyer. USEEIO: A new and transparent United States environmentally extended input-output model.   JOURNAL OF CLEANER PRODUCTION. Elsevier Science Ltd, New York, NY, USA, 158: 308-318, (2017).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "USEEIO Elementary Flows and Life Cycle Impact Assessment (LCIA) Characterization Factors",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jclepro.2017.04.150"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f43559ab-ca88-44e7-976d-470c710aeba7"
+        },
+        {
+            "key": "source_hash",
+            "value": "5b782a9371432a8aa356f0dda6519964c432f886"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-12-07"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-sj4g-458"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:37:55.552769",
+            "description": "USEEIO_ElementaryFlows%26LCIAFactors.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d11b67a5-0ff2-4eb1-a518-f8992809a4c9",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:37:55.552769",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "USEEIO_ElementaryFlows&LCIAFactors.xlsx",
+            "package_id": "77846c16-2a70-4d8e-b8f4-40ac87824fcb",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/458/USEEIO_ElementaryFlows%26LCIAFactors.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "elementary-flows",
+            "id": "136b4572-2cf1-47a1-83da-bae46b4bffc4",
+            "name": "elementary-flows",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "input-output-data",
+            "id": "c81db1b1-a86e-432d-8fb1-71c87d052790",
+            "name": "input-output-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-assessment",
+            "id": "5f206d22-5675-4b27-aa71-99155591d1d5",
+            "name": "life-cycle-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-impact-assessment-method",
+            "id": "d24d5790-74c5-4fbe-9274-2586661a04d5",
+            "name": "life-cycle-impact-assessment-method",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-inventory-data",
+            "id": "9379a1c4-6da5-456a-a992-f09eb8a52def",
+            "name": "life-cycle-inventory-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sustainability",
+            "id": "a1f8f71a-0bf8-4572-98f9-2cd9a7ea9cd7",
+            "name": "sustainability",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 340,
+        "recent": 1
+    }
+}

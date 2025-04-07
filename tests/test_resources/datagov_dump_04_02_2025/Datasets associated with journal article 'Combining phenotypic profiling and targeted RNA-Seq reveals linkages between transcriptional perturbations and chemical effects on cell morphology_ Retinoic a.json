@@ -1,0 +1,201 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "9edfc514-dc95-4f62-bd3e-6880f3055d87",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Joshua Harrill",
+    "maintainer_email": "harrill.joshua@epa.gov",
+    "metadata_created": "2023-05-04T22:58:46.328387",
+    "metadata_modified": "2023-05-04T22:58:46.328391",
+    "name": "datasets-associated-with-journal-article-combining-phenotypic-profiling-and-targeted-rna-s",
+    "notes": "We evaluated the Templated Oligo with Sequencing Readout (TempO-Seq) assay for High-throughput transcriptomic screening of a small set of environmental chemicals. This assay yields sequencing reads of exactly 50 base pairs that can be rapidly aligned to generate gene counts, and is compatible with cell lysates prepared in multiwell format. The version of the TempO-Seq assay we evaluated provides nearly whole transcriptome coverage (>20,000 genes). This study encompasses 2 replicates of a 384-well plate design. The majority of wells contain U-2 OS cells exposed to 11 test chemicals at 7 different concentrations (two replicate per test chemical, concentration, and plate), and additional reference samples and controls. Controls include DMSO vehicle treatments (22 per plate). Reference samples include bulk lysate MCF7 samples (2 DMSO treated and 2 TSA treated samples per plate), reference chemical treatments (3 chemicals at single conc each, per plate), and vendor-provided reference RNA mixtures (UHRR and HBRR). \n\nThis dataset is associated with the following publication:\nNyffeler, J., C. Willis, D. Harris, L. Taylor, R. Judson, L. Everett, and J. Harrill. Combining phenotypic profiles and targeted RNA-Seq reveals linkages between transcriptional perturbations and chemical effects on cell morphology: retinoic acid as an example..   TOXICOLOGY AND APPLIED PHARMACOLOGY. Academic Press Incorporated, Orlando, FL, USA, 444: 116032, (2022).",
+    "num_resources": 2,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Datasets associated with journal article 'Combining phenotypic profiling and targeted RNA-Seq reveals linkages between transcriptional perturbations and chemical effects on cell morphology: Retinoic acid as an example' by Nyffeler, J, et.al.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "46b241986ddf87e1675aceb802208fb55d0e871a"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528482"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-11-22"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.taap.2022.116032"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "de90c904-1922-4f9c-b435-17f06c333eaa"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-04T22:58:46.339169",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "d896a8d2-1736-411c-a4b2-0e508d6dd01c",
+            "last_modified": null,
+            "metadata_modified": "2023-05-04T22:58:46.318039",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.23645/epacomptox.16834519",
+            "package_id": "9edfc514-dc95-4f62-bd3e-6880f3055d87",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://doi.org/10.23645/epacomptox.16834519",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-05-04T22:58:46.339173",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "e9649194-e885-441b-90d0-1b5d85206873",
+            "last_modified": null,
+            "metadata_modified": "2023-05-04T22:58:46.318215",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200845",
+            "package_id": "9edfc514-dc95-4f62-bd3e-6880f3055d87",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200845",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "computational-toxicology",
+            "id": "facb0c32-5b33-4cae-8c6d-84464cd0e5da",
+            "name": "computational-toxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "high-throughput-phenotypic-profiling",
+            "id": "d40e7bc2-fbf6-4b81-9d43-4535184ee7d5",
+            "name": "high-throughput-phenotypic-profiling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "high-throughput-transcriptomicss",
+            "id": "dd423817-0f69-4c63-903b-b8bf30241dce",
+            "name": "high-throughput-transcriptomicss",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new-approach-methods",
+            "id": "a98f7301-1954-47cc-ab96-8c7cf2ddd9c6",
+            "name": "new-approach-methods",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 15,
+        "recent": 1
+    }
+}

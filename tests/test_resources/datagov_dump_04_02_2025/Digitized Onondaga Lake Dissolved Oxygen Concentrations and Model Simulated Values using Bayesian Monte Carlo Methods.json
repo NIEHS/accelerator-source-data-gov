@@ -1,0 +1,232 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "6eb703ab-16e2-4803-8e85-004b8e7f37ce",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mohamed Hantush",
+    "maintainer_email": "hantush.mohamed@epa.gov",
+    "metadata_created": "2020-11-12T13:40:26.829791",
+    "metadata_modified": "2020-11-12T13:40:26.829801",
+    "name": "digitized-onondaga-lake-dissolved-oxygen-concentrations-and-model-simulated-values-using-b",
+    "notes": "The dataset is lake dissolved oxygen concentrations obtained form plots published by Gelda et al. (1996) and lake reaeration model simulated values using Bayesian Monte Carlo methods (Chaudhary and Hantush, 2017). The data also includes measured (Gelda et al., 1996 and references therein) versus estimated liquid film transfer coefficient values (KL) by Chaudhary and Hantush (2017). \n\nThis dataset is associated with the following publication:\nChaudhary, A., and M. Hantush. Bayesian Monte Carlo and Maximum Likelihood Approach for Uncertainty Estimation and Risk Management:  Application to Lake Oxygen Recovery Model.  Mark van Loosdrecht  WATER RESEARCH. Elsevier Science Ltd, New York, NY, USA, 108: 301-311, (2017).",
+    "num_resources": 1,
+    "num_tags": 12,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Digitized Onondaga Lake Dissolved Oxygen Concentrations and Model Simulated Values using Bayesian Monte Carlo Methods",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.watres.2016.11.012"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a5b2ca9c-8dec-4bdb-9858-b63780a57853"
+        },
+        {
+            "key": "source_hash",
+            "value": "8b909b47c51f4770725f756332bde2fb1bd1ab9c"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-06-29"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1405325"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:40:26.877237",
+            "description": "ScienceHub_Lake%20reaeration%20paper_data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "152247ea-c096-438d-b08a-65baa4fecd84",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:40:26.877237",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ScienceHub_Lake reaeration paper_data.xlsx",
+            "package_id": "6eb703ab-16e2-4803-8e85-004b8e7f37ce",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1405325/ScienceHub_Lake%20reaeration%20paper_data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "95-confidence-interval",
+            "id": "ea30e76a-3151-4030-9130-49b44f74b51f",
+            "name": "95-confidence-interval",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bayesian-statistics",
+            "id": "7640e593-cc4c-49c3-a74f-bb94d5e3eddf",
+            "name": "bayesian-statistics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "liquid-film-transfer-coefficient",
+            "id": "dc0a5e4b-887e-4228-b4c4-3a765ea362f1",
+            "name": "liquid-film-transfer-coefficient",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "margin-of-safety",
+            "id": "b614591a-798e-4578-8168-ca1aff3ab44a",
+            "name": "margin-of-safety",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "markov-chain-monte-carlo",
+            "id": "d707e357-a18e-4b87-b4fb-7404f853ed3b",
+            "name": "markov-chain-monte-carlo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "model-calibration",
+            "id": "eded4b4e-51df-4e52-bbec-3b59673e00d2",
+            "name": "model-calibration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "monte-carlo-method",
+            "id": "6918fda2-7add-4115-a958-43dd7f682581",
+            "name": "monte-carlo-method",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "observed-dissolved-oxygen-concentration",
+            "id": "916e31fd-afa7-473a-bfc0-84e49e14b712",
+            "name": "observed-dissolved-oxygen-concentration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "simulated-dissolved-oxygen-concentration",
+            "id": "f7d33d02-e7fd-4660-9e44-fa430cd71bcf",
+            "name": "simulated-dissolved-oxygen-concentration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tmdl",
+            "id": "f5f26962-c64a-41a4-902f-f9c41004e80f",
+            "name": "tmdl",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "uncertainty-estimation",
+            "id": "f89b2b2a-90b5-40e1-a108-3262f55a0f41",
+            "name": "uncertainty-estimation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality-management",
+            "id": "5da8ad73-1a6b-4c59-a620-f5f8870f2f88",
+            "name": "water-quality-management",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 91,
+        "recent": 3
+    }
+}

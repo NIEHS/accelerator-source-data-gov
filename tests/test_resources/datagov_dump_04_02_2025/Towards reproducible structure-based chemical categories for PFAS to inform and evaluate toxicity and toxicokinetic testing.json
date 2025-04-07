@@ -1,0 +1,215 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "a7af0267-2523-48ad-be75-b6539b4f651d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Grace Patlewicz",
+    "maintainer_email": "patlewicz.grace@epa.gov",
+    "metadata_created": "2023-01-28T23:43:37.423503",
+    "metadata_modified": "2023-01-28T23:43:37.423510",
+    "name": "towards-reproducible-structure-based-chemical-categories-for-pfas-to-inform-and-evaluate-t",
+    "notes": "Data and code for \"Grace Patlewicz, Ann M. Richard, Antony J. Williams, Richard S. Judson, Russell S. Thomas, Towards reproducible structure-based chemical categories for PFAS to inform and evaluate toxicity and toxicokinetic testing, Computational Toxicology, Volume 24, 2022, 100250, ISSN 2468-1113, https://doi.org/10.1016/j.comtox.2022.100250.\". \n\nThis dataset is associated with the following publication:\nPatlewicz, G., A. Richard, A. Williams, R. Judson, and R. Thomas. Towards reproducible structure-based chemical categories for PFAS to inform and evaluate toxicity and toxicokinetic testing..   Computational Toxicology. Elsevier B.V., Amsterdam,  NETHERLANDS, 24: 100250, (2022).",
+    "num_resources": 2,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Towards reproducible structure-based chemical categories for PFAS to inform and evaluate toxicity and toxicokinetic testing",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "d10f7043e98c8c14e50ff67f60c19601b5ce06c6"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528378"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-10-24"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.comtox.2022.100250"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f8446700-2372-4e58-a596-0cbd1e643d80"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-01-28T23:43:37.497331",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "66ef5fcd-5cb9-4605-a63b-c58df97896b6",
+            "last_modified": null,
+            "metadata_modified": "2023-01-28T23:43:37.403760",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://github.com/g-patlewicz/pfas_cats/",
+            "package_id": "a7af0267-2523-48ad-be75-b6539b4f651d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://github.com/g-patlewicz/pfas_cats/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-01-28T23:43:37.497336",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "c02a8f3a-2c1b-4df3-b995-aac1dacef227",
+            "last_modified": null,
+            "metadata_modified": "2023-01-28T23:43:37.403977",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.23645/epacomptox.21430380",
+            "package_id": "a7af0267-2523-48ad-be75-b6539b4f651d",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://doi.org/10.23645/epacomptox.21430380",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "chemical-categories",
+            "id": "c827226d-9b4e-4942-91e2-c8537f454fbc",
+            "name": "chemical-categories",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new-approach-methods",
+            "id": "a98f7301-1954-47cc-ab96-8c7cf2ddd9c6",
+            "name": "new-approach-methods",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfas",
+            "id": "467ff291-49fb-462a-93ad-afccfda9c165",
+            "name": "pfas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "read-across",
+            "id": "b8cdfb09-cb83-4902-9b54-bd81320eb780",
+            "name": "read-across",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxcast",
+            "id": "70635af7-3a18-4955-a75a-d5f55cc5901b",
+            "name": "toxcast",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxprints",
+            "id": "886c4fdf-63ed-40c4-9522-dc75ab98ea45",
+            "name": "toxprints",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 26,
+        "recent": 1
+    }
+}

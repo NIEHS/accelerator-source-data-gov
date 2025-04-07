@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "62e99ccf-7a5e-472c-b5c6-3410a1de93c8",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Mary Gilbert",
+    "maintainer_email": "gilbert.mary@epa.gov",
+    "metadata_created": "2020-11-12T13:40:32.779335",
+    "metadata_modified": "2020-11-12T13:40:32.779346",
+    "name": "doc-title-adult-hippocampal-neurogenesis-is-impaired-by-transient-developmental-thyroid-ho",
+    "notes": "Severe thyroid hormone (TH) deprivation during development impairs neurogenesis throughout the brain. The hippocampus also maintains a capacity for neurogenesis throughout life which is reduced in adult-onset hypothyroidism. This study examined hippocampal volume in the neonate and adult hippocampal neurogenesis after developmental and adult-onset TH insufficiency. Pregnant rat dams were administered 0, 3, or 10 ppm of propylthiouracil (PTU) via drinking water from gestational day (GD) 6 until weaning. PTU at the high dose reduced body, brain, hippocampal weights on postnatal day (PN) 14, 21 and 78. Sub-regional analysis revealed decrements in hippocampal volumes at 10 but not 3 ppm PTU on PN23. In Experiment 2, one pair of adult male offspring of 0 and 3ppm-teated dams was placed on 3 ppm PTU from PN60, while a 2nd pair remained on control water. Adult neurogenesis was assessed by bromodeoxyuridine (BrdU, 50mg/kg, ip, 2X daily, X5 days) starting on PN90. Brains from animals perfused 1 and 28 days later were processed for immunohistochemistry. Although no volume changes were seen in neonates at 3ppm, thinning of the granule cell layer emerged in adulthood. Developmental TH insufficiency reduced BrdU+ve cells at 1-day with no further reduction at 28-days post-BrdU, indicative of a selective effect on cell proliferation. This was supported by fewer cells staining for the proliferative marker, Ki67. Adult only PTU did not impair neurogenesis or exacerbate effects seen with developmental exposure. A reduced capacity for neurogenesis may contribute to cognitive deficits evident in adults following moderate degrees of developmental TH insufficiency. \n\nThis dataset is associated with the following publication:\nGilbert, M., J. Goodman, J. Gomez, A. Johnstone, and R. Ramos. Adult Hippocampal Neurogenesis is Impaired by Transient and Moderate Developmental Thyroid Hormone Disruption.   TOXICOLOGICAL SCIENCES. Society of Toxicology,     9-21, (2017).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Doc Title:  Adult Hippocampal Neurogenesis is Impaired by Transient Developmental Thyroid Hormone Disruption",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.neuro.2016.12.009"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "76589147-5355-4294-a57a-1793bac009a1"
+        },
+        {
+            "key": "source_hash",
+            "value": "98d813805061d669469c2a505f636b950b3d35f3"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-06-06"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1390086"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:40:32.808483",
+            "description": "Sceince%20Hub%20Data%20Summaries.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ec40137e-5810-4817-a98b-375797048037",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:40:32.808483",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Sceince Hub Data Summaries.xlsx",
+            "package_id": "62e99ccf-7a5e-472c-b5c6-3410a1de93c8",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1390086/Sceince%20Hub%20Data%20Summaries.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "brain",
+            "id": "824f06c6-1118-427d-a93d-e7214811f613",
+            "name": "brain",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chemical-safety-for-sustainablity",
+            "id": "0af5e821-1c37-42bb-96b6-d42392951703",
+            "name": "chemical-safety-for-sustainablity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "developmental-neurotoxicity",
+            "id": "efe53fb1-bf12-476a-9f71-325ed0b9d9cc",
+            "name": "developmental-neurotoxicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hippocampus",
+            "id": "29192f75-7b70-46b4-aabd-983869f62c10",
+            "name": "hippocampus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "neurogenesis",
+            "id": "e9ab6191-1326-4734-abf5-565ea65c123d",
+            "name": "neurogenesis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thyroid",
+            "id": "e502671c-50a1-40b6-b0d3-c221317d0768",
+            "name": "thyroid",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thyroid-hormone-insufficiency",
+            "id": "08d5d2d2-588f-4a11-ba86-170f45372adb",
+            "name": "thyroid-hormone-insufficiency",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 129,
+        "recent": 4
+    }
+}

@@ -1,0 +1,283 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "2d7fd35b-1e3a-4375-814a-9f1d5517fe72",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "John Walker",
+    "maintainer_email": "walker.johnt@epa.gov",
+    "metadata_created": "2020-11-12T13:48:56.789908",
+    "metadata_modified": "2021-05-02T09:03:42.594195",
+    "name": "need-for-improved-monitoring-of-spatial-and-temporal-trends-of-reduced-nitrogen",
+    "notes": "Data in Figure 1 are from publicly available databases including county-level ammonia (NH3) emissions from the US EPA National Emissions Inventory (https://www.epa.gov/air-emissions-inventories/2014-national-emissions-inventory-nei-data), ambient ammonium (NH4+) aerosol concentrations from the US EPA Clean Air Status and Trends Network (https://java.epa.gov/castnet/clearsession.do), and ambient NH3 concentrations from the National Atmospheric Deposition Program Ammonia Monitoring Network (AMoN) (http://nadp.slh.wisc.edu/data/AMoN/)\n\nSatellite observations of NH3 from the Infrared Atmospheric Sounding Instrument (IASI V2.2R) shown in Figure 2 are also publicly available (https://en.aeris-data.fr/metadata/?dc9dcce0-9324-451b-8d79-2d6df3094068).\n\nDiurnal profiles of ambient NH3 at different sites across the U.S. are summarized in Figure 3. Data from sites operated by EPA Office of Research and Development are attached as a spreadsheet with accompanying data dictionary.  Greg Beachley (Beachley.gregory) is the contact for data from the Charleston, SC; Beltsville, MD and Bondville, IL sites.  Katherine Benedict (Katherine.Benedict@colostate.edu) is the contact for data from the RMNP; Fort Collins, CO and  Greeley, CO sites. \n\nThis dataset is associated with the following publication:\nPuchalski, M., J. Walker, G. Beachley, M. Zondlo, K. Benedict, R. Grant, B. Schichtel, C. Rogers, A. Leytem, J. Rice, K. Morris, J. Schauer, and R. Wang. Need for Improved Monitoring of Spatial and Temporal Trends of Reduced Nitrogen.   ENVIRONMENTAL MANAGEMENT. Springer-Verlag, New York, NY, USA,  0, (2019).",
+    "num_resources": 5,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Need for Improved Monitoring of Spatial and Temporal Trends of Reduced Nitrogen",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://www.awma.org/empastissues"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2ba2ac82-8345-4cc4-bc9f-58714c5391d3"
+        },
+        {
+            "key": "source_hash",
+            "value": "42c109a0008d272f04bdeeb888aaa102b503adf9"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-04-03"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518502"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:56.812189",
+            "description": "NHx_Puchalski%20et%20al_2019.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0c8b825c-70eb-4087-b045-8b0c71f52a8a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:56.812189",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "NHx_Puchalski et al_2019.xlsx",
+            "package_id": "2d7fd35b-1e3a-4375-814a-9f1d5517fe72",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518502/NHx_Puchalski%20et%20al_2019.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:56.812200",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "a72e19cb-1dd7-4f2e-974e-d586880ace55",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:56.812200",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.epa.gov/air-emissions-inventories/2014-national-emissions-inventory-nei-data",
+            "package_id": "2d7fd35b-1e3a-4375-814a-9f1d5517fe72",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/air-emissions-inventories/2014-national-emissions-inventory-nei-data",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-05-02T09:03:45.376320",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "c6db7722-08d8-4849-b849-2172794cff63",
+            "last_modified": null,
+            "metadata_modified": "2021-05-02T09:03:45.376320",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://nadp.slh.wisc.edu/data/AMoN/",
+            "package_id": "2d7fd35b-1e3a-4375-814a-9f1d5517fe72",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://nadp.slh.wisc.edu/data/AMoN/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:56.812210",
+            "description": "clearsession.do",
+            "format": "",
+            "hash": "",
+            "id": "d048e2cb-5cf1-4d47-b9f1-a9b2d239e9d2",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:56.812210",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://java.epa.gov/castnet/clearsession.do",
+            "package_id": "2d7fd35b-1e3a-4375-814a-9f1d5517fe72",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://java.epa.gov/castnet/clearsession.do",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 211,
+                "recent": 13
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:56.812215",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "d86ee7d1-879a-431b-9736-afeb72809171",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:56.812215",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://en.aeris-data.fr/metadata/?dc9dcce0-9324-451b-8d79-2d6df3094068",
+            "package_id": "2d7fd35b-1e3a-4375-814a-9f1d5517fe72",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://en.aeris-data.fr/metadata/?dc9dcce0-9324-451b-8d79-2d6df3094068",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bidirectional-flux",
+            "id": "3b42efb4-baaf-457c-9acc-61bf5da34d5e",
+            "name": "bidirectional-flux",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "deposition",
+            "id": "d7319549-4532-44dd-be1b-ffa4f7a69510",
+            "name": "deposition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "micrometeorology",
+            "id": "f26a7e14-d38d-419f-85ba-f2eaae7191f7",
+            "name": "micrometeorology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen",
+            "id": "547959b4-f904-484c-9a1e-0f6ab529e4b2",
+            "name": "nitrogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sulfur",
+            "id": "e724ca95-147b-48a2-aa39-f15ffb2f0960",
+            "name": "sulfur",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 59,
+        "recent": 1
+    }
+}

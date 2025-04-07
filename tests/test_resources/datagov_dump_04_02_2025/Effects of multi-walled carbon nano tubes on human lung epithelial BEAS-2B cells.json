@@ -1,0 +1,551 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "9707458b-971a-470c-af91-4611a54a35ce",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Sheau-Fung Thai",
+    "maintainer_email": "thai.sheau-fung@epa.gov",
+    "metadata_created": "2024-02-17T06:42:29.543634",
+    "metadata_modified": "2024-02-17T06:42:29.543642",
+    "name": "effects-of-multi-walled-carbon-nano-tubes-on-human-lung-epithelial-beas-2b-cells",
+    "notes": "Dataset for 'Effects of multi-walled carbon nano tubes on human lung epithelial BEAS-2B cells' journal article by Sheau-Fung Thai, et al., to be published in Materials Express.\n\nFor the data set:\nDEG: differentially expressed genes\n33-MWCNT: parent MWCNT \n55-OH-MWCNT: MWCNT modified with -OH group\n66-COOH-MWCNT: MWCNT modified with -COOH group. \n\nThis dataset is associated with the following publication:\nThai, S., C. Jones, B. Robinette, G. Nelson, A. Tennant, H. Ren, B. Vallanat, A. Astriab Fisher, J. Ross, and K. Kitchin. Effects of multi-walled carbon nanotubes on message and Micro-RNA in human lung BEAS-2B cells.   Materials Express. American Scientific Publishers, VALENCIA, CA, USA, 14(2): 249-263, (2024).",
+    "num_resources": 16,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Effects of multi-walled carbon nano tubes on human lung epithelial BEAS-2B cells",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "8f0afe509884da495664c856a8143a32df68e2fd936f1059798a1c5477469909"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529905"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-05-04"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1166/mex.2024.2620"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4f142290-ecde-43fe-ab18-5cb97c05f19f"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553656",
+            "description": "DEG-0.05-GRC337_resultsubset_55_low%20-%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "079da1e9-492b-461c-b464-b906d0b08a83",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.528975",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC337_resultsubset_55_low - .xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC337_resultsubset_55_low%20-%20.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553660",
+            "description": "DEG-0.05-GRC337_resultsubset_55_10.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b2cfdbfe-9701-4d63-8de5-4057f984cee9",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.529255",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC337_resultsubset_55_10.xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC337_resultsubset_55_10.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553662",
+            "description": "DEG-0.05-GRC337_resultsubset_55_3.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d80520de-bee9-48ec-824b-999a9184cfe1",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.529502",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC337_resultsubset_55_3.xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC337_resultsubset_55_3.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553664",
+            "description": "DEG-0.05-GRC337_resultsubset_55_1.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9a1a7a0c-cc50-4a83-bb3f-017cc6f3bb7a",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.529740",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC337_resultsubset_55_1.xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC337_resultsubset_55_1.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553666",
+            "description": "DEG-0.05-GRC336_resultsubset_66_low%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b230bfa8-fefb-44a4-bc1c-7857c804087c",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.529978",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_66_low .xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_66_low%20.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553667",
+            "description": "DEG-0.05-GRC336_resultsubset_66_30%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b68698d2-6538-4e0e-8117-c029949593b4",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.530213",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_66_30 .xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_66_30%20.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553669",
+            "description": "DEG-0.05-GRC336_resultsubset_66_10%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "273cb43d-7d46-42bb-ad0a-0ae0925f3743",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.530435",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_66_10 .xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_66_10%20.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553671",
+            "description": "DEG-0.05-GRC336_resultsubset_66_3.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "22633aff-d609-406b-a6d8-2102c316ad37",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.530595",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_66_3.xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_66_3.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553673",
+            "description": "DEG-0.05-GRC336_resultsubset_66_1%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8cf6cafb-7321-4386-bb15-5adf7e161c41",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.530722",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_66_1 .xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_66_1%20.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553674",
+            "description": "DEG-0.05-GRC336_resultsubset_55_30%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "21c1a245-c8b2-4cfd-b320-4bf0fe465c92",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.530847",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_55_30 .xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_55_30%20.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553676",
+            "description": "DEG-0.05-GRC336_resultsubset_33_low%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "cdc1c40e-a2ba-451b-9a38-a81cf463adc7",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.530972",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_33_low .xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 10,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_33_low%20.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553678",
+            "description": "DEG-0.05-GRC336_resultsubset_33_30.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "30427c7c-51c2-41c5-b18a-ceb450031b34",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.531095",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_33_30.xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 11,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_33_30.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553679",
+            "description": "DEG-0.05-GRC336_resultsubset_33_10.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "c6b2bd8a-52cc-4087-9d4b-eba77ccdfa04",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.531217",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_33_10.xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 12,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_33_10.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553681",
+            "description": "DEG-0.05-GRC336_resultsubset_33_3%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "50cbe690-f0fc-4e20-a90d-dbc42f7102f4",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.531338",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_33_3 .xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 13,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_33_3%20.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553683",
+            "description": "DEG-0.05-GRC336_resultsubset_33_1%20.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "7744a63c-93ce-4934-a09c-144b0d4ee1db",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.531458",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "DEG-0.05-GRC336_resultsubset_33_1 .xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 14,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/DEG-0.05-GRC336_resultsubset_33_1%20.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-17T06:42:29.553685",
+            "description": "all%20signaling%20pathway%20IPA.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "bd345b70-443e-4cb8-8b72-62a02c46984c",
+            "last_modified": null,
+            "metadata_modified": "2024-02-17T06:42:29.531578",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "all signaling pathway IPA.xlsx",
+            "package_id": "9707458b-971a-470c-af91-4611a54a35ce",
+            "position": 15,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529905/all%20signaling%20pathway%20IPA.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "microrna",
+            "id": "5362ec25-11fe-4d47-be96-26464378925b",
+            "name": "microrna",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "multi-walled-carbon-nanotubes",
+            "id": "8b22c894-bda0-40ad-85f3-45b2a65d3849",
+            "name": "multi-walled-carbon-nanotubes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "signaling-pathways",
+            "id": "040fe6c8-05db-44d5-99e1-dc3aa45ee4c2",
+            "name": "signaling-pathways",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "target-filter-analysis",
+            "id": "fbdc310c-77d2-4741-bcdf-7856cdb780ee",
+            "name": "target-filter-analysis",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 11,
+        "recent": 1
+    }
+}

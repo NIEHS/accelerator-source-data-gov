@@ -1,0 +1,286 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "4566bd27-83e2-43ae-ada4-4ac78841ce61",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Havala Pye",
+    "maintainer_email": "pye.havala@epa.gov",
+    "metadata_created": "2020-11-12T13:41:52.315909",
+    "metadata_modified": "2020-11-12T13:41:52.315916",
+    "name": "coupling-of-organic-and-inorganic-systems-and-the-effect-on-gas-particle-partitioning-in-t",
+    "notes": "Several models were used to describe the partitioning of ammonia, water, and organic compounds between the gas and particle phases for conditions in the southeastern US during summer 2013. Existing equilibrium models and frameworks were found to be sufficient, although additional improvements in terms of estimating pure-species vapor pressures are needed. Thermodynamic model predictions were consistent, to first order, with a molar ratio of ammonium to sulfate of approximately 1.6 to 1.8 (ratio of ammonium to 2\u202f\u2009\u00d7\u2009\u202fsulfate, RN\u22152S\u202f\u2009\u2248\u2009\u202f0.8 to 0.9) with approximately 70\u202f% of total ammonia and ammonium (NHx) in the particle. Southeastern Aerosol Research and Characterization Network (SEARCH) gas and aerosol and Southern Oxidant and Aerosol Study (SOAS) Monitor for AeRosols and Gases in Ambient air (MARGA) aerosol measurements were consistent with these conditions. CMAQv5.2 regional chemical transport model predictions did not reflect these conditions due to a factor of 3 overestimate of the nonvolatile cations. In addition, gas-phase ammonia was overestimated in the CMAQ model leading to an even lower fraction of total ammonia in the particle. Chemical Speciation Network (CSN) and aerosol mass spectrometer (AMS) measurements indicated less ammonium per sulfate than SEARCH and MARGA measurements and were inconsistent with thermodynamic model predictions. Organic compounds were predicted to be present to some extent in the same phase as inorganic constituents, modifying their activity and resulting in a decrease in [H+]air (H+ in \u00b5g\u202fm\u22123 air), increase in ammonia partitioning to the gas phase, and increase in pH compared to complete organic vs. inorganic liquid\u2013liquid phase separation. In addition, accounting for nonideal mixing modified the pH such that a fully interactive inorganic\u2013organic system had a pH roughly 0.7 units higher than predicted using traditional methods (pH\u202f\u2009=\u2009\u202f1.5 vs. 0.7). Particle-phase interactions of organic and inorganic compounds were found to increase partitioning towards the particle phase (vs. gas phase) for highly oxygenated (O\u202f:\u202fC\u202f\u2009\u2265\u2009\u202f0.6) compounds including several isoprene-derived tracers as well as levoglucosan but decrease particle-phase partitioning for low O\u202f:\u202fC, monoterpene-derived species. \n\nThis dataset is associated with the following publication:\nPye, H., W. Appel, H. Foroutan, A. Zuend, J. Fry, G. Isaacman-VanWertz , N.L. Ng, A. Goldstein, S. Capps, and L. Xu. Coupling of organic and inorganic aerosol systems and the effect on gas\u2013particle partitioning in the southeastern US.   Atmospheric Chemistry and Physics. Copernicus Publications, Katlenburg-Lindau,  GERMANY, 18: 357-370, (2018).",
+    "num_resources": 4,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Coupling of organic and inorganic systems and the effect on gas-particle partitioning in the southeastern United States",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.5194/acp-18-357-2018"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b5cacca0-6863-46c5-8597-6fa268f2fde3"
+        },
+        {
+            "key": "source_hash",
+            "value": "6492796bb5ba666a7b5d112109198cf123554495"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-02-13"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1422410"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:52.352536",
+            "description": "acp-18-357-2018.html",
+            "format": "HTML",
+            "hash": "",
+            "id": "5357b980-4f0a-4f3b-999c-9a57019023ec",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:52.352536",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.atmos-chem-phys.net/18/357/2018/acp-18-357-2018.html",
+            "package_id": "4566bd27-83e2-43ae-ada4-4ac78841ce61",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.atmos-chem-phys.net/18/357/2018/acp-18-357-2018.html",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:52.352543",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "f9388b0b-473b-4ae1-8c96-58058627c25c",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:52.352543",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://github.com/USEPA/CMAQ/",
+            "package_id": "4566bd27-83e2-43ae-ada4-4ac78841ce61",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://github.com/USEPA/CMAQ/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:52.352546",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "ca354f9a-2fc0-4093-bcb8-e5cdb869be16",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:52.352546",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://esrl.noaa.gov/csd/groups/csd7/measurements/2013senex/",
+            "package_id": "4566bd27-83e2-43ae-ada4-4ac78841ce61",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://esrl.noaa.gov/csd/groups/csd7/measurements/2013senex/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:52.352549",
+            "description": "pye_acp-18-357-2018.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "083fa09d-17c2-4aa8-a8c4-7c74651168d0",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:52.352549",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "pye_acp-18-357-2018.zip",
+            "package_id": "4566bd27-83e2-43ae-ada4-4ac78841ce61",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1422410/pye_acp-18-357-2018.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aerosol",
+            "id": "d5357f08-1def-40b4-906f-dc876e4db4e5",
+            "name": "aerosol",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ammonia",
+            "id": "99a6748a-77cc-45bc-8040-19a358c48f25",
+            "name": "ammonia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ammonium",
+            "id": "85518dfb-9323-4916-9e25-8d1a08262bd2",
+            "name": "ammonium",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "levoglucosan",
+            "id": "8e86fef4-f3a9-4080-8a49-83b65ea29b48",
+            "name": "levoglucosan",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen",
+            "id": "547959b4-f904-484c-9a1e-0f6ab529e4b2",
+            "name": "nitrogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "secondary-organic-aerosol",
+            "id": "57fe6170-81a0-4fb9-9310-7e9fe78f8f27",
+            "name": "secondary-organic-aerosol",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soa",
+            "id": "ab567db6-fcfa-4ee3-abd1-ac0b96a8f25e",
+            "name": "soa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soas",
+            "id": "e8bf57d1-eeea-41e4-8161-e16b8cb23fec",
+            "name": "soas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sulfate",
+            "id": "1a846a50-314d-459f-ac97-1a897a3e0c9b",
+            "name": "sulfate",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 145,
+        "recent": 1
+    }
+}

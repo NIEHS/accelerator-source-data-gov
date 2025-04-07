@@ -1,0 +1,356 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "a47637b9-e035-40c1-8b50-34a7dcf383cd",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-24T05:05:26.209247",
+    "metadata_modified": "2025-02-24T05:05:26.209254",
+    "name": "enviroatlas-cleveland-oh-land-cover-by-block-group2",
+    "notes": "This EnviroAtlas dataset describes the percentage of each block group that is classified as impervious, forest, green space, and wetlands. In this community, forest is defined as Trees & Forest and Woody Wetlands and green space is defined as Trees & Forest, Grass & Herbaceous, Woody Wetlands, and Emergent Wetlands. Wetlands are defined as Woody Wetlands and Emergent Wetlands. This dataset also includes the area per capita for each block group for some land cover types. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas ) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
+    "num_resources": 4,
+    "num_tags": 13,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EnviroAtlas - Cleveland, OH - Land Cover by Block Group",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "{a188b44d-3442-4447-883a-3746b55a350b}"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2016-09-09\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng; USA"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2017-05-15"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "EnviroAtlas@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "licence_url",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas\", \"roles\": [\"pointOfContact\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-81.00209"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "41.84987"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "41.20277"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-82.07722"
+        },
+        {
+            "key": "lineage",
+            "value": "This lineage was generated by the FGDC CSDGM to 19139 transformation"
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.07722, 41.20277], [-81.00209, 41.20277], [-81.00209, 41.84987], [-82.07722, 41.84987], [-82.07722, 41.20277]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.07722, 41.20277], [-81.00209, 41.20277], [-81.00209, 41.84987], [-82.07722, 41.84987], [-82.07722, 41.20277]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "781cc869-df7e-45f1-87e5-10d804d4966c"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-24T05:05:26.212459",
+            "description": "The URL providing direct access to the downloadable dataset. ",
+            "format": "",
+            "hash": "",
+            "id": "41f06bb7-a6f6-4762-889c-e7dac4369ea3",
+            "last_modified": null,
+            "metadata_modified": "2025-02-24T05:05:26.188677",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Download",
+            "package_id": "a47637b9-e035-40c1-8b50-34a7dcf383cd",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "download",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/Communities/ClevelandOH",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-24T05:05:26.212464",
+            "description": "The endpoint of a web service to access the dataset (REST endpoint, WMS GetCapabilities URL, or a SOAP WSDL endpoint).",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "d9ad6af3-51bb-4bfa-833d-202b26188e47",
+            "last_modified": null,
+            "metadata_modified": "2025-02-24T05:05:26.188791",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "API",
+            "package_id": "a47637b9-e035-40c1-8b50-34a7dcf383cd",
+            "position": 1,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "ESRI:ArcGIS",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://enviroatlas.epa.gov/arcgis/rest/services/Communities/Community_BGmetrics/MapServer",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-24T05:05:26.212466",
+            "description": "URL for accessing related documents such as data dictionary, technical information about a dataset, developer documentation, etc. ",
+            "format": "",
+            "hash": "",
+            "id": "9c597967-fce0-4eed-8d20-515909fc02be",
+            "last_modified": null,
+            "metadata_modified": "2025-02-24T05:05:26.188878",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Documentation",
+            "package_id": "a47637b9-e035-40c1-8b50-34a7dcf383cd",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-24T05:05:26.212467",
+            "description": "Alternative landing page used to redirect user to a contextual, Agency-hosted \"homepage\" for the Dataset or API",
+            "format": "",
+            "hash": "",
+            "id": "c0d685b9-cda9-46bf-8c01-532085295ada",
+            "last_modified": null,
+            "metadata_modified": "2025-02-24T05:05:26.188960",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Home Page",
+            "package_id": "a47637b9-e035-40c1-8b50-34a7dcf383cd",
+            "position": 3,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/enviroatlas",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 12,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "census block groups",
+            "id": "a4ee30b3-f055-4976-b27c-ef46ebda393e",
+            "name": "census block groups",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleveland",
+            "id": "266152d2-a094-49bf-929b-186142828875",
+            "name": "cleveland",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "communities",
+            "id": "5c23cc33-06db-472c-b8f2-308d0b3631ca",
+            "name": "communities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem",
+            "id": "76ce6029-c904-4ad7-a8dd-531c90a09522",
+            "name": "ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem services",
+            "id": "44fb7141-4528-4814-a750-bd293bddb4a4",
+            "name": "ecosystem services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "enviroatlas",
+            "id": "07950295-6219-4233-a952-2fc3763c2891",
+            "name": "enviroatlas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental atlas",
+            "id": "c6e53900-d97f-4008-adc0-d0872c80066b",
+            "name": "environmental atlas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "green space",
+            "id": "1336cdba-648d-4cb6-ae4a-7b2eef15fd17",
+            "name": "green space",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land cover",
+            "id": "1a02a1e7-20f1-4cfd-a811-0aa5d61aa755",
+            "name": "land cover",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "natural resources",
+            "id": "199ef54a-58f4-48ff-8edd-ffc0a762fa08",
+            "name": "natural resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oh",
+            "id": "1988f200-4bdd-4c85-adb3-cc5d65f2238e",
+            "name": "oh",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ohio",
+            "id": "00c7081e-4155-4a54-9432-0905da42e744",
+            "name": "ohio",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 2,
+        "recent": 1
+    }
+}

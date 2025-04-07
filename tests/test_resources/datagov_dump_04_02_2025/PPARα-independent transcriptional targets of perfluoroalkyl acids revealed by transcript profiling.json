@@ -1,0 +1,246 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "ee76b6b5-b4d2-4b9e-9668-02aae7a802ae",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jon Corton",
+    "maintainer_email": "corton.chris@epa.gov",
+    "metadata_created": "2020-12-10T22:08:16.452460",
+    "metadata_modified": "2020-12-10T22:08:16.452468",
+    "name": "ppar-independent-transcriptional-targets-of-perfluoroalkyl-acids-revealed-by-transcript-pr-9d323",
+    "notes": "Microarray datasets used in the analysis. \n\nThis dataset is associated with the following publication:\nRosen, M., K. Das, J. Rooney, B. Abbott, C. Lau, and C. Corton. PPAR\u03b1-independent transcriptional targets of perfluoroalkyl acids revealed by transcript profiling.   TOXICOLOGY. Elsevier Science Ltd, New York, NY, USA, 387: 95-107, (2017).",
+    "num_resources": 1,
+    "num_tags": 14,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "PPAR\u03b1-independent transcriptional targets of perfluoroalkyl acids revealed by transcript profiling",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.tox.2017.05.013"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "221e5e91-5ae4-4f66-a653-b9fb67404592"
+        },
+        {
+            "key": "source_hash",
+            "value": "9757dc340f61ae10bbb2eea34cfa6076113b728c"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-10-13"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1376226"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-10T22:08:16.457336",
+            "description": "Data%20submission%20for%20A-zkhs.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "adca43e7-863c-40bc-bb8a-10e1fa6770bf",
+            "last_modified": null,
+            "metadata_modified": "2020-12-10T22:08:16.457336",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Data submission for A-zkhs.xlsx",
+            "package_id": "ee76b6b5-b4d2-4b9e-9668-02aae7a802ae",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1376226/Data%20submission%20for%20A-zkhs.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "constitutive-activated-receptor-car",
+            "id": "496f1e56-a289-425c-862f-9e69d73a4f2e",
+            "name": "constitutive-activated-receptor-car",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "estrogen-receptor",
+            "id": "e9dbdfff-1224-4c29-a759-ef1b0458a120",
+            "name": "estrogen-receptor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "gene-expression-omnibus-accession-numbers",
+            "id": "4ebe83f7-26f8-4b12-8b30-98bccd5d324f",
+            "name": "gene-expression-omnibus-accession-numbers",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "liver-cancer",
+            "id": "1052674f-4d6a-423f-a6a3-8e379b7293d0",
+            "name": "liver-cancer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microarray",
+            "id": "0c974e12-20ab-455d-9ae0-2a1a82d9d246",
+            "name": "microarray",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "perfluorinated-chemicals",
+            "id": "716e0112-9e63-44b3-a389-a2d3390cd810",
+            "name": "perfluorinated-chemicals",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "peroxisome-proliferator-activated-receptor-alpha",
+            "id": "cc58ba09-0d38-41dc-9ff9-3f5a31890e97",
+            "name": "peroxisome-proliferator-activated-receptor-alpha",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "peroxisome-proliferator-activated-receptor-gamma",
+            "id": "3b67fd4d-57c7-4cc8-acd2-a8ce9e869296",
+            "name": "peroxisome-proliferator-activated-receptor-gamma",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfhxs",
+            "id": "cd5fef26-2d95-4fb8-a72f-080dfd62bb31",
+            "name": "pfhxs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfna",
+            "id": "879cb036-5505-4629-af9a-d946fa51b06d",
+            "name": "pfna",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfoa",
+            "id": "a1555aef-c4c1-4124-9691-45f543c1334c",
+            "name": "pfoa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfos",
+            "id": "fe932f81-df6c-448e-b539-9269c5c75e4c",
+            "name": "pfos",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stat5b",
+            "id": "411366e7-4dee-4dd2-b01e-1d929436d2df",
+            "name": "stat5b",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "steatosis",
+            "id": "1ddf4689-bca8-48e9-b284-939d94769b83",
+            "name": "steatosis",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 19,
+        "recent": 1
+    }
+}

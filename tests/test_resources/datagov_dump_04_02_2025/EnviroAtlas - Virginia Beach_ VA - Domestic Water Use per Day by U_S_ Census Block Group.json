@@ -1,0 +1,384 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "4bca8158-c110-4ee2-a28c-8ce0fcd7ac1d",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:41:08.179770",
+    "metadata_modified": "2025-02-25T05:41:08.179776",
+    "name": "enviroatlas-virginia-beach-va-domestic-water-use-per-day-by-u-s-census-block-group7",
+    "notes": "As included in this EnviroAtlas dataset, the community level domestic water use is calculated using locally available water use data per capita in gallons of water per day (GPD), distributed dasymetrically, and summarized by census block group. Domestic water use, as defined in this case, is intended to represent residential indoor and outdoor water use (e.g., cooking, hygiene, landscaping, pools, etc.) for primary residences (i.e., excluding second homes and tourism rentals). The 2011 Hampton Roads Water Supply Plan estimates for 2007 domestic water use were weighted across publicly, privately, and self-supplied sources by population served, resulting in a single water use estimate between 47 and 124 GPD for each of the 13 subregions in the study area. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
+    "num_resources": 4,
+    "num_tags": 17,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EnviroAtlas - Virginia Beach, VA - Domestic Water Use per Day by U.S. Census Block Group",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "{3890bacf-de41-47fc-8e33-9bea128d5332}"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2015-09-18\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng; USA"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2017-12-22"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "EnviroAtlas@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "licence_url",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas\", \"roles\": [\"pointOfContact\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-75.867044"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "37.401501"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "36.550453"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-76.886426"
+        },
+        {
+            "key": "lineage",
+            "value": "This lineage was generated by the FGDC CSDGM to 19139 transformation"
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.886426, 36.550453], [-75.867044, 36.550453], [-75.867044, 37.401501], [-76.886426, 37.401501], [-76.886426, 36.550453]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.886426, 36.550453], [-75.867044, 36.550453], [-75.867044, 37.401501], [-76.886426, 37.401501], [-76.886426, 36.550453]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "ba34c71a-38e2-4b67-85c3-5bdedfd960b8"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:41:08.181719",
+            "description": "The URL providing direct access to the downloadable dataset. ",
+            "format": "",
+            "hash": "",
+            "id": "97a9a219-ebfd-4e8d-a422-52ce1db974f4",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:41:08.162031",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Download",
+            "package_id": "4bca8158-c110-4ee2-a28c-8ce0fcd7ac1d",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "download",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/Communities/VirginiaBeachWilliamsburgVA",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:41:08.181722",
+            "description": "The endpoint of a web service to access the dataset (REST endpoint, WMS GetCapabilities URL, or a SOAP WSDL endpoint).",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "2de7131f-902f-4d3c-97a7-0c12c2a25b02",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:41:08.162157",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "API",
+            "package_id": "4bca8158-c110-4ee2-a28c-8ce0fcd7ac1d",
+            "position": 1,
+            "resource_locator_function": "webMapService",
+            "resource_locator_protocol": "ESRI:ArcGIS",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://enviroatlas.epa.gov/arcgis/rest/services/Communities/Community_BGmetrics/MapServer",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:41:08.181724",
+            "description": "URL for accessing related documents such as data dictionary, technical information about a dataset, developer documentation, etc. ",
+            "format": "",
+            "hash": "",
+            "id": "edcdba15-c592-47e6-9054-ae6e46c6c5be",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:41:08.162265",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Documentation",
+            "package_id": "4bca8158-c110-4ee2-a28c-8ce0fcd7ac1d",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 19,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:41:08.181725",
+            "description": "Alternative landing page used to redirect user to a contextual, Agency-hosted \"homepage\" for the Dataset or API",
+            "format": "",
+            "hash": "",
+            "id": "b8d862cf-988a-4ea9-ba38-738e96330373",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:41:08.162360",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Home Page",
+            "package_id": "4bca8158-c110-4ee2-a28c-8ce0fcd7ac1d",
+            "position": 3,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "information",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/enviroatlas",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 12,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "census block groups",
+            "id": "a4ee30b3-f055-4976-b27c-ef46ebda393e",
+            "name": "census block groups",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "communities",
+            "id": "5c23cc33-06db-472c-b8f2-308d0b3631ca",
+            "name": "communities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "demand for ecosystem services",
+            "id": "52f3bccd-f76d-46c6-8a28-957463b0f4fb",
+            "name": "demand for ecosystem services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking water",
+            "id": "cf264a55-2d50-4fb2-ba58-ba6ef9df39b9",
+            "name": "drinking water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecology",
+            "id": "f1bf9844-1fe9-4726-b4d6-4b1031328d1a",
+            "name": "ecology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem",
+            "id": "76ce6029-c904-4ad7-a8dd-531c90a09522",
+            "name": "ecosystem",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecosystem services",
+            "id": "44fb7141-4528-4814-a750-bd293bddb4a4",
+            "name": "ecosystem services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "enviroatlas",
+            "id": "07950295-6219-4233-a952-2fc3763c2891",
+            "name": "enviroatlas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental atlas",
+            "id": "c6e53900-d97f-4008-adc0-d0872c80066b",
+            "name": "environmental atlas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ground water",
+            "id": "2245b3ca-8f8d-4725-a13b-6135e8ab9bf3",
+            "name": "ground water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "surface water",
+            "id": "b2299263-5de0-400f-8567-2386aa5f897f",
+            "name": "surface water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "utilities",
+            "id": "51ef39a8-998a-403d-b74a-b81cd1651715",
+            "name": "utilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "va",
+            "id": "7fd1491e-51ba-4971-be16-8e57a4e40132",
+            "name": "va",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "virginia",
+            "id": "9eba7ccb-8234-4f34-9f78-a51ea87bf46d",
+            "name": "virginia",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "virginia beach",
+            "id": "07a972e7-be61-43d3-91e3-b2a23ee483ee",
+            "name": "virginia beach",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water",
+            "id": "143854aa-c603-4193-9c89-232e63461fa4",
+            "name": "water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

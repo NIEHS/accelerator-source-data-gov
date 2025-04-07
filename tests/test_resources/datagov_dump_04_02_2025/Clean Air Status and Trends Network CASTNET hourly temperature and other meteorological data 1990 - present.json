@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "3af344ff-0f71-4c5a-b1ce-cb1aa25a917e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Melissa Puchalski",
+    "maintainer_email": "puchalski.melissa@epa.gov",
+    "metadata_created": "2023-11-24T03:38:46.376161",
+    "metadata_modified": "2023-11-24T03:38:46.376167",
+    "name": "clean-air-status-and-trends-network-castnet-hourly-temperature-and-other-meteorological-da",
+    "notes": "Hourly temperature data and other meteorological data (e.g., relative humidity, solar radiation, precipitation, wind direction) are provided at long-term rural air monitoring sites. There are more than 90 CASTNET sites reporting hourly temperature data throughout the United States. These data can be used to assess climate impacts on air quality and trends in temperature from long-term monitoring sites. Meteorological sensors are calibrated to NIST traceable standards. Site location information is included with this dataset. The QAPP and associated SOPs can be found on the CASTNET website: www.epa.gov/castnet/documents-reports. Citation information for this dataset can be found in Data.gov's References section.",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Clean Air Status and Trends Network (CASTNET) hourly temperature and other meteorological data (1990 - present)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "6cbb280b686ccbf22582baed623ff248f5836bf800e358cf56efb338d0d2229d"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529853"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-11-21"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://gaftp.epa.gov/Castnet/CASTNET_Outgoing/data/site.zip"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "7dfc6f3a-bdf3-47e0-b8cc-1f34d2081a0d"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-11-24T03:38:46.399630",
+            "description": "metdata.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "9b418049-2d54-4639-8725-6a15286d5a69",
+            "last_modified": null,
+            "metadata_modified": "2023-11-24T03:38:46.361083",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://gaftp.epa.gov/castnet/CASTNET_Outgoing/data/metdata.zip",
+            "package_id": "3af344ff-0f71-4c5a-b1ce-cb1aa25a917e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://gaftp.epa.gov/castnet/CASTNET_Outgoing/data/metdata.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 3,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-temperature",
+            "id": "8a0125e3-c982-48e6-b399-0111e6761f92",
+            "name": "air-temperature",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "clean-air-status-and-trends-network-castnet",
+            "id": "0e38e91b-6efe-445b-a39c-1577ca847654",
+            "name": "clean-air-status-and-trends-network-castnet",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 43,
+        "recent": 3
+    }
+}

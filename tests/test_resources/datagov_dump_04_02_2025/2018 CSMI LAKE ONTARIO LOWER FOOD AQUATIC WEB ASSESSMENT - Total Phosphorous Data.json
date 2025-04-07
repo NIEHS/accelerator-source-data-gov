@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "8e32dc36-d23d-4fa9-a56b-4be693dc33ad",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "James Pauer",
+    "maintainer_email": "pauer.james@epa.gov",
+    "metadata_created": "2023-12-21T06:12:40.373996",
+    "metadata_modified": "2023-12-21T06:12:40.374004",
+    "name": "2018-csmi-lake-ontario-lower-food-aquatic-web-assessment-total-phosphorous-data",
+    "notes": "Lake Ontario open lake and nearshore phosphorus data in support of developing a model and manuscript. \n\nThis dataset is associated with the following publication:\nPauer, J., W. Melendez, T. Hollenhorst, D. Woodruff, and T. Brown. A modeling study to determine the contribution of interbasin versus intrabasin phosphorus loads on the southwestern nearshore of Lake Ontario.   JOURNAL OF GREAT LAKES RESEARCH. International Association for Great Lakes Research, Ann Arbor, MI, USA, 48(2): 343-358, (2022).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "2018 CSMI LAKE ONTARIO LOWER FOOD AQUATIC WEB ASSESSMENT - Total Phosphorous Data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "3bb6f793b331a2f4811ce9649a0f00242f9fe636c4929fa9092038491dbae014"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520668"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-01-12"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jglr.2021.09.014"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "29c8f819-402f-48a9-9958-0dbe06cf357b"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-12-21T06:12:40.383759",
+            "description": "CSMI_WQ2018GLTEDdata.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "adeaed0d-d359-421b-beb7-f2466ef14b0b",
+            "last_modified": null,
+            "metadata_modified": "2023-12-21T06:12:40.359555",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "CSMI_WQ2018GLTEDdata.xlsx",
+            "package_id": "8e32dc36-d23d-4fa9-a56b-4be693dc33ad",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520668/CSMI_WQ2018GLTEDdata.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "lake-ontario",
+            "id": "97eecddd-62a4-4b65-aa23-21946dadf162",
+            "name": "lake-ontario",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mathematical-model",
+            "id": "64f3e224-d06e-473f-9462-f5b5a4a41bfa",
+            "name": "mathematical-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nearshore",
+            "id": "8f154177-0afc-4718-ac76-552afac07439",
+            "name": "nearshore",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "total-phosphorus",
+            "id": "3c80b8dd-ee16-4032-be47-798edd9c5850",
+            "name": "total-phosphorus",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 11,
+        "recent": 1
+    }
+}

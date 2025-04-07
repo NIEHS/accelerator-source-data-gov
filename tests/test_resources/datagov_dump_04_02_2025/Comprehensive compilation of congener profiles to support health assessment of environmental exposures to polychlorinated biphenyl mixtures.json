@@ -1,0 +1,251 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "1e414f1c-2f9a-4cad-bcba-575705eea34b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Laura Carlson",
+    "maintainer_email": "carlson.laura@epa.gov",
+    "metadata_created": "2024-10-13T05:54:48.896969",
+    "metadata_modified": "2024-10-13T05:54:48.896974",
+    "name": "comprehensive-compilation-of-congener-profiles-to-support-health-assessment-of-environment",
+    "notes": "This data supports the journal publication \"Comprehensive compilation of congener profiles to support health assessment of environmental exposures to polychlorinated biphenyl mixtures\" which identifies and extracts published congener profiles across 29 commercial and simulated environmental PCB mixtures, including various Aroclors, Phenoclors, Clophens, and Kanechlors, among others. This work represents the most extensive effort to date to compile and make publicly available the PCB congener profiles for mixtures with toxicological data, providing a foundation for understanding toxicological potency of PCB mixtures in the environment. \n\nThis dataset is associated with the following publication:\nSchulz, B., L. Carlson, K. Christensen, C. Weitekamp, R. Marek, A. Martinez, K. Hornbuckle, and G. Lehmann. Comprehensive compilation of congener profiles to support health assessment of environmental exposures to polychlorinated biphenyl mixtures.   ENVIRONMENTAL RESEARCH. Elsevier B.V., Amsterdam,  NETHERLANDS, 263(Part 1): 120081, (2024).",
+    "num_resources": 4,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Comprehensive compilation of congener profiles to support health assessment of environmental exposures to polychlorinated biphenyl mixtures",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "089b1be733507a55f1a853d995a0117a61369d29feec5361a54011573586e1d6"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529824"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-10-10"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.envres.2024.120081"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "12182976-c998-4b89-8982-59e15ba87636"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-13T05:54:48.907024",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "ab8217bb-a75b-40b5-9eff-d32bd2aaebdd",
+            "last_modified": null,
+            "metadata_modified": "2024-10-13T05:54:48.882547",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://public.tableau.com/app/profile/literature.inventory/viz/PCB_Profiles/CommercialPCBMixtures",
+            "package_id": "1e414f1c-2f9a-4cad-bcba-575705eea34b",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://public.tableau.com/app/profile/literature.inventory/viz/PCB_Profiles/CommercialPCBMixtures",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-13T05:54:48.907028",
+            "description": "Supplemental_Material_1.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "e078d22c-8c3e-4b73-b617-2949c855b0f5",
+            "last_modified": null,
+            "metadata_modified": "2024-10-13T05:54:48.882764",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Supplemental_Material_1.docx",
+            "package_id": "1e414f1c-2f9a-4cad-bcba-575705eea34b",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529824/Supplemental_Material_1.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-13T05:54:48.907030",
+            "description": "Supplemental%20Data%202.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f52b270e-cd4e-4d88-a55a-55e822fb445d",
+            "last_modified": null,
+            "metadata_modified": "2024-10-13T05:54:48.882918",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Supplemental Data 2.xlsx",
+            "package_id": "1e414f1c-2f9a-4cad-bcba-575705eea34b",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529824/Supplemental%20Data%202.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-10-13T05:54:48.907032",
+            "description": "PCB-Mix-Profiles_Tableau.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "eb023ea5-7b23-4686-909a-2cc8f8b3bc55",
+            "last_modified": null,
+            "metadata_modified": "2024-10-13T05:54:48.883037",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "PCB-Mix-Profiles_Tableau.xlsx",
+            "package_id": "1e414f1c-2f9a-4cad-bcba-575705eea34b",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529824/PCB-Mix-Profiles_Tableau.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aroclor",
+            "id": "35947d46-3b64-4ca6-84e1-05eccd5b96e5",
+            "name": "aroclor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chemical-mixtures",
+            "id": "e670a2f9-4120-4668-9573-ce9e2c27632c",
+            "name": "chemical-mixtures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "congener",
+            "id": "c3a493cd-0670-4bcc-816f-6cce9db9490b",
+            "name": "congener",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pcbs",
+            "id": "5ae0cde9-5332-4980-94bc-ad9d3154a1bd",
+            "name": "pcbs",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 10,
+        "recent": 3
+    }
+}

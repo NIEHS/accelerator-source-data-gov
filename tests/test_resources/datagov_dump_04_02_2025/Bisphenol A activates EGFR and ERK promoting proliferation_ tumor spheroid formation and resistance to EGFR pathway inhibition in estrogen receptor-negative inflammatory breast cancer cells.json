@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "40766ed8-fb3d-4577-88be-83c4e5b967b9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Alexander Hanf",
+    "maintainer_email": "hanf.alexander@epa.gov",
+    "metadata_created": "2020-11-12T13:47:31.253640",
+    "metadata_modified": "2021-05-02T09:03:36.713701",
+    "name": "bisphenol-a-activates-egfr-and-erk-promoting-proliferation-tumor-spheroid-formation-and-re",
+    "notes": "Raw data and figures for Bisphenol A activates EGFR and ERK promoting proliferation, tumor spheroid formation and resistance to EGFR pathway inhibition in estrogen receptor-negative inflammatory breast cancer cells manuscript. \n\nThis dataset is associated with the following publication:\nSauer, S.J., M. Tarpley, I. Shah , A.V. Save, H.K. Lyerly, S.R. Patierno, K.P. Williams, and G.R. Devi. (Carcinogenesis) Bisphenol A activates EGFR and ERK promoting proliferation, tumor spheroid formation and resistance to EGFR pathway inhibition in estrogen receptornegative inflammatory breast cancer cells.   CARCINOGENESIS. Oxford University Press, Cary, NC, USA, 38(3): 252\u2013260, (2017).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Bisphenol A activates EGFR and ERK promoting proliferation, tumor spheroid formation and resistance to EGFR pathway inhibition in estrogen receptor-negative inflammatory breast cancer cells",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/carcin/bgx003"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0492a5a7-dc8f-4396-8705-13b4fa05a64f"
+        },
+        {
+            "key": "source_hash",
+            "value": "6e8b34d58ad8bacac0bde5eb29d8452203fdaf03"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-01-25"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504293"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-05-02T09:03:39.046331",
+            "description": "Figure_Raw_Data.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "728f3d46-9eed-4128-8cfa-217524180694",
+            "last_modified": null,
+            "metadata_modified": "2021-05-02T09:03:39.046331",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://gaftp.epa.gov/COMPTOX/NCCT_Publication_Data/ShahImran/BPA_breast_cancer/Figure_Raw_Data.zip",
+            "package_id": "40766ed8-fb3d-4577-88be-83c4e5b967b9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://gaftp.epa.gov/COMPTOX/NCCT_Publication_Data/ShahImran/BPA_breast_cancer/Figure_Raw_Data.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bpa",
+            "id": "e9086f96-9e6b-4394-b507-cbea2f551ed7",
+            "name": "bpa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "estrogen-receptor",
+            "id": "e9dbdfff-1224-4c29-a759-ef1b0458a120",
+            "name": "estrogen-receptor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "expocast",
+            "id": "21ac0be8-219f-41ac-99ed-60e313055a3d",
+            "name": "expocast",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exposure",
+            "id": "8049ad10-3bf6-4846-b6f7-ad415afd0ae7",
+            "name": "exposure",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 154,
+        "recent": 1
+    }
+}

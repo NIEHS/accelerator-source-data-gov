@@ -1,0 +1,233 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "20126c60-4a9f-4b8d-931c-f447c3b66316",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Richard Rice",
+    "maintainer_email": "rice.byron@epa.gov",
+    "metadata_created": "2023-12-14T05:26:56.433568",
+    "metadata_modified": "2023-12-14T05:26:56.433576",
+    "name": "data-and-code-for-rice-et-al-wildfires-increase-concentrations-of-hazardous-air-pollutants",
+    "notes": "This dataset provides the data and code associated with the publication Rice et al. \"Wildfires increase concentrations of hazardous air pollutants in downwind communities\". \n\nThis dataset is associated with the following publication:\nRice, R., K. Boaggio, N. Olson, K. Foley, C. Weaver, J. Sacks, S. McDow, A. Holder, and S. Leduc. Wildfires increase concentrations of hazardous air pollutants in downwind communities.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA,  14, (2023).",
+    "num_resources": 3,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data and code for Rice et al. \u201cWildfires increase concentrations of hazardous air pollutants in downwind communities.\u201d",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "086e86521d5b810c4a6fe2019d4f583a2ea74aba619f4735830e7538254713ae"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529861"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-11-29"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.3c04153"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1f3000da-0d33-4ba4-aab9-9559bd89ce05"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-12-14T05:26:56.445528",
+            "description": "Data%20and%20code%20description%20for%20Rice%20et%20al%202023.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "15c660b3-4609-4f25-9c37-4f86e7573ef6",
+            "last_modified": null,
+            "metadata_modified": "2023-12-14T05:26:56.412540",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Data and code description for Rice et al 2023.docx",
+            "package_id": "20126c60-4a9f-4b8d-931c-f447c3b66316",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529861/Data%20and%20code%20description%20for%20Rice%20et%20al%202023.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-12-14T05:26:56.445533",
+            "description": "code.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "917dbaba-c7d7-4685-aa1b-898ae3bf9bd8",
+            "last_modified": null,
+            "metadata_modified": "2023-12-14T05:26:56.412711",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "code.zip",
+            "package_id": "20126c60-4a9f-4b8d-931c-f447c3b66316",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529861/code.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-12-14T05:26:56.445535",
+            "description": "data.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "128390f2-72a1-40fe-a9e3-507cf557c746",
+            "last_modified": null,
+            "metadata_modified": "2023-12-14T05:26:56.412844",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "data.zip",
+            "package_id": "20126c60-4a9f-4b8d-931c-f447c3b66316",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529861/data.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hazardous-air-pollutants",
+            "id": "7b352939-8802-4dab-8686-d7588c3df77e",
+            "name": "hazardous-air-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "particulate-matter",
+            "id": "c4644757-f0a3-4c33-a36c-c7a131c54745",
+            "name": "particulate-matter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "smoke",
+            "id": "67911fe7-504a-4cc0-a518-85f8b174542e",
+            "name": "smoke",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wildland-fire",
+            "id": "5d54ac9c-1ca4-4d6d-9390-89e346dbf25a",
+            "name": "wildland-fire",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 43,
+        "recent": 3
+    }
+}

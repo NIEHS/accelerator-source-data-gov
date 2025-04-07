@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "eb6d79c4-122e-4a5b-a6df-89eb17082c31",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Daniel Villeneuve",
+    "maintainer_email": "villeneuve.dan@epa.gov",
+    "metadata_created": "2024-02-15T17:57:02.403046",
+    "metadata_modified": "2024-02-15T17:57:02.403052",
+    "name": "verification-of-in-vivo-estrogenic-activity-for-four-per-and-polyfluoroalkyl-substances-pf",
+    "notes": "The dataset includes data from six experiments in which adult male fathead minnows were exposed to five concentrations of a per- or polyfluorinated alkyl substance (PFAS) and a 17beta-estradiol positive control for 96 hours. Meta data on each fish exposed including treatment, replicate, sex, whole body wet weight, and gonad weights are included. Endpoints measured include nuptial tubercle scores, gonadosomatic index, and hepatic expression of four estrogen regulated mRNA transcripts:  vitellogenin, estrogen receptor alpha, apolipoprotein eb, and insulin-like growth factor 1. The data set also includes water quality data collected over the course of each exposure, and measured concentrations of the test chemicals in water and plasma. The PFAS tested include: Perfluorooctanoic acid; 1H,1H,8H,8H-Perfluorooctane-1,8-diol; 1H,1H,10H,10H-Perfluorodecane-1,10-diol; 1H,1H,8H,8H-Perfluoro-3,6-dioxaoctane-1,8-diol; and Perfluoro-2-methyl-3-oxahexanoic acid. \n\nThis dataset is associated with the following publication:\nVilleneuve, D., B. Blackwell, J. Cavallin, J. Collins, J. Hoang, R. Hofer, K. Houck, K. Jensen, M. Kahl, R. Kutsi, A. Opseth, K. Santana Rodriguez, C. Schaupp, E. Stacy, and G. Ankley. Verification of In Vivo Estrogenic Activity for Four Per- and Polyfluoroalkyl Substances (PFAS) Identified as Estrogen Receptor Agonists via New Approach Methodologies.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 57(9): 3794-3803, (2023).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Verification of in vivo estrogenic activity for four per- and polyfluoroalkyl substances (PFAS) identified as estrogen receptor agonists via new approach methodologies (v4)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "79e53c89234bd97d442dcc33a76f42d150cd2870ffc63a98a7ea414ce14a0797"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528334"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-12-09"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.2c09315"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2eb2d6e8-e91f-4ebe-a7c6-35fa4b4d7fd2"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:57:02.412755",
+            "description": "PFAS%20ER%20Studies_Science%20Hub_v4a.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "59338c66-50eb-4106-8e3d-3e5980d450d8",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:57:02.393012",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "PFAS ER Studies_Science Hub_v4a.xlsx",
+            "package_id": "eb6d79c4-122e-4a5b-a6df-89eb17082c31",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528334/PFAS%20ER%20Studies_Science%20Hub_v4a.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "adverse-outcome-pathways-aops",
+            "id": "c98552ad-b194-434f-a279-a6fb3dbd4cb4",
+            "name": "adverse-outcome-pathways-aops",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecological-risk",
+            "id": "a62c3394-20ef-4001-b793-4ec066da9fa4",
+            "name": "ecological-risk",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "endocrine",
+            "id": "e22adc2f-adf1-4140-aa7b-59a58b89c269",
+            "name": "endocrine",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "high-throughput",
+            "id": "2c991022-532e-414f-90fc-f98dd58b157f",
+            "name": "high-throughput",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pfas",
+            "id": "467ff291-49fb-462a-93ad-afccfda9c165",
+            "name": "pfas",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 15,
+        "recent": 3
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "24fc94bf-c131-4788-b2f5-525c9b9756e6",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Clanton, U.S. EPA Office of the Chief Financial Officer (OCFO)",
+    "maintainer_email": "Clanton.Michael@epa.gov",
+    "metadata_created": "2020-11-30T03:13:41.394244",
+    "metadata_modified": "2021-08-07T10:19:22.802560",
+    "name": "peopleplus",
+    "notes": "PeoplePlus (PPL) is the U.S. Environmental Protection Agency's (EPA) time & labor system which feeds the EPA's payroll function maintained by the Interior Business Center (IBC).",
+    "num_resources": 0,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "PeoplePlus",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "65b473e3-8ff9-49f2-8ea7-ea4d730ec7ea"
+        },
+        {
+            "key": "issued",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OCFO Non-Geo Records"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7BC7C2B9DF-E7EF-442F-81B3-2AD6D7FE916B%7D",
+                "https://edg.epa.gov/metadata/rest/document?id=%7BC7C2B9DF-E7EF-442F-81B3-2AD6D7FE916B%7D"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2137ba37-f09f-4d44-b77b-7d12657e780c"
+        },
+        {
+            "key": "source_hash",
+            "value": "c26adcc76c269a860a39acaf456392a95db2e04b"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of the Chief Financial Officer (OCFO)"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2015-01-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "old-spatial",
+            "value": "-180.0,18.0,-66.0,72.0"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/PUBLIC/OCFO/metadata/OCFO.json"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "irregular"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "8B999151-18DB-4D1E-9F6A-FAE41C9CC2F6"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-180.0, 72.0], [-66.0, 72.0], [-66.0, 18.0], [-180.0, 18.0]]]}"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "peopleplus",
+            "id": "533ae595-6f31-4f11-b9c5-d5efa3e6a8ed",
+            "name": "peopleplus",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ppl",
+            "id": "55f2646a-daf4-4636-908b-4b8ffe2f1abc",
+            "name": "ppl",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "time-and-labor",
+            "id": "3e100d74-fec9-4540-a35b-f81a95d1d6b2",
+            "name": "time-and-labor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 230,
+        "recent": 4
+    }
+}

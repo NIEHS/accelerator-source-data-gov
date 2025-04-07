@@ -1,0 +1,177 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "ad152750-6bd1-4dd3-898b-1f081fa4b82f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jingrang Lu",
+    "maintainer_email": "lu.jingrang@epa.gov",
+    "metadata_created": "2025-03-08T06:32:02.862214",
+    "metadata_modified": "2025-03-08T06:32:02.862220",
+    "name": "datasheet-detroit-lake-or",
+    "notes": "The data include the abundance and community compositions characterized using qPCR and metagenomic sequences. \n\nThis dataset is associated with the following publication:\nJeon, Y., I. Struewing, K. Clauson, N. Reetz, N. Fairchild, L. Goeres-Priest, T. Dreher, R. Labiosa, K. Carpenter, B. Rosen, E. Villegas, and J. Lu. Dominant Dolichospermum and microcystin production in Detroit Lake (Oregon, USA).   Harmful Algae. Elsevier B.V., Amsterdam,  NETHERLANDS, 142: 102802, (2025).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Datasheet-Detroit Lake-OR",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "be542af139ee176808a1974062ad7c03599cc6a13824c4783f30199bd6994263"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531687"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-12-14"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.hal.2025.102802",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11864590"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "02ba2e54-ffb9-4d85-8354-d49016da2c55"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-08T06:32:02.875585",
+            "description": "Datasheet-Detroit%20Lake-OR.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8f427175-c044-4ca8-bdf5-94f04308503c",
+            "last_modified": null,
+            "metadata_modified": "2025-03-08T06:32:02.850616",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Datasheet-Detroit Lake-OR.xlsx",
+            "package_id": "ad152750-6bd1-4dd3-898b-1f081fa4b82f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531687/Datasheet-Detroit%20Lake-OR.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cyanotoxin-producer",
+            "id": "d4a8a5f6-934e-466f-a5ca-e3693ec2a233",
+            "name": "cyanotoxin-producer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mcy-gene",
+            "id": "29b55cb4-ed04-4ae8-b6d3-47d736bfce47",
+            "name": "mcy-gene",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microcystin",
+            "id": "0338536c-e92a-4633-9b22-63c5f1c32d44",
+            "name": "microcystin",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "qpcr",
+            "id": "5fec652f-ce2b-41aa-84ad-eeb2f98197fe",
+            "name": "qpcr",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 16,
+        "recent": 2
+    }
+}

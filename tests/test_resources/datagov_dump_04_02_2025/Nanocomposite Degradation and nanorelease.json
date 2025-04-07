@@ -1,0 +1,198 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "56b40069-a1e5-47b4-aee1-64065b25258d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Endalkac Sahle-Demessie",
+    "maintainer_email": "sahle-demessie.endalkachew@epa.gov",
+    "metadata_created": "2020-11-12T13:46:19.640467",
+    "metadata_modified": "2020-11-12T13:46:19.640477",
+    "name": "nanocomposite-degradation-and-nanorelease",
+    "notes": "Data. \n\nThis dataset is associated with the following publication:\nHan, C., E. Sahle-Demessie, E. Varughese, and H. Shi. Polypropylene\u2013MWCNT composite degradation, and release, detection and toxicity of MWCNTs during accelerated environmental aging.   Environmental Science: Nano. RSC Publishing, Cambridge,  UK, 6: 1876-1894, (2019).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Nanocomposite Degradation and nanorelease",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1039/c9en00153k"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "63720572-8c3a-4675-b7ef-7cd2ea087c27"
+        },
+        {
+            "key": "source_hash",
+            "value": "7062ccbb091887341f65812ade9f1299f8906b28"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-03-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503842"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1503842/documents/Data%20Dictionary_MWCNT_PlolymerComposite.docx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:46:19.678892",
+            "description": "PP%232Electronic%20Supplemental%20Information_BACKUP.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "bbda18e8-0449-41e8-9af9-6ad69eddae80",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:46:19.678892",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "PP#2Electronic Supplemental Information_BACKUP.docx",
+            "package_id": "56b40069-a1e5-47b4-aee1-64065b25258d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503842/PP%232Electronic%20Supplemental%20Information_BACKUP.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "multi-walled-carbon-nanotubes-mwcnts",
+            "id": "906c98c0-cca2-4c4f-942f-6df9b700cc94",
+            "name": "multi-walled-carbon-nanotubes-mwcnts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nanorelease",
+            "id": "0096b4bf-57cf-4997-82dc-dcc6e0c6cd27",
+            "name": "nanorelease",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nanotoxicity",
+            "id": "e84f1f96-e059-46b5-b60f-987f147f3147",
+            "name": "nanotoxicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "polymer-weathering",
+            "id": "c1bdcbe1-153d-472d-82a1-df5137ba0827",
+            "name": "polymer-weathering",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "polypropylene-mwcnt",
+            "id": "5913a473-04d1-4644-a889-e2fd93111684",
+            "name": "polypropylene-mwcnt",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "single-particle-icp-ms",
+            "id": "32faab59-9c33-4b67-92a0-e84b53395211",
+            "name": "single-particle-icp-ms",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 103,
+        "recent": 1
+    }
+}

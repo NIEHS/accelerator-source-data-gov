@@ -1,0 +1,171 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "90cbd0d9-7d64-4bbc-9ee9-b5863ca663aa",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Blake Schaeffer",
+    "maintainer_email": "schaeffer.blake@epa.gov",
+    "metadata_created": "2023-03-19T14:41:28.468467",
+    "metadata_modified": "2023-03-19T14:41:28.468476",
+    "name": "survey-results",
+    "notes": "Survey results from University of Stirling. This dataset is not publicly accessible because: University of Stirling developed the survey and keeps the results. It can be accessed through the following means: Contact University of Stirling. Format: University of Stirling developed the survey and keeps the results.\r\nGroup on Earth Observation AquaWatch distributed the survey and aggregated results.\r\nSchool of Wine & Spirits Business, Burgundy School of Business - Universit\u00e9 Bourgogne Franche-Comt\u00e9 conducted statistical analysis. \n\nThis dataset is associated with the following publication:\nAgnoli, L., E. Urquhart, N. Georgantzis, B. Schaeffer, R. Simmons, B. Hoque, M.B. Neely, C. Neil, J. Oliver, and A. Tyler. Perspectives on user engagement of satellite Earth observation for water quality management.   Technological Forecasting and Social Change. ELSEVIER, AMSTERDAM,  HOLLAND, 189: 122357, (2023).",
+    "num_resources": 0,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Survey Results",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "6ede1f5d0a5453c1c5bd95ec9913c83567f92509"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524688"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-01-20"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.techfore.2023.122357"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "ce047b85-b30f-4971-900d-f81c45d2562c"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "earth-observation",
+            "id": "6b799fcf-e90a-4a13-8d9e-7baac8ee7767",
+            "name": "earth-observation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "knowledge-transfer",
+            "id": "13da4e49-5516-49f4-9f91-5076a1553e85",
+            "name": "knowledge-transfer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "management",
+            "id": "136bd9fa-8661-4e11-904b-b4f71cef0184",
+            "name": "management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "satellite-remote-sensing",
+            "id": "0232307c-981e-45c7-acbf-8c2135b87ca5",
+            "name": "satellite-remote-sensing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "technology-transfer",
+            "id": "a308af54-6baf-46da-be8d-1f7d96fb9cf8",
+            "name": "technology-transfer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tragedy-of-the-commons",
+            "id": "c76982cb-0fde-416b-997e-78ad73626b9c",
+            "name": "tragedy-of-the-commons",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 37,
+        "recent": 2
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c0caf3c2-06c2-4100-a8d2-2e89c7bf5e4d",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Hodon Ryu",
+    "maintainer_email": "ryu.hodon@epa.gov",
+    "metadata_created": "2020-11-12T13:37:54.582768",
+    "metadata_modified": "2020-11-12T13:37:54.582778",
+    "name": "ohmic-resistance-affects-microbial-community-and-electrochemical-kinetics-in-a-multi-anode",
+    "notes": "A-3txf_sequence summary.xksx: Abundance of contigs or unique sequences for each biofilm samples from anodes in the MEC reactor\nHodon Waterloo final_fasta_working.docx: Raw sequences with their identification numbers\nRNA S1_MEC.docx: Representative sequences with their ID number and taxonomy. \n\nThis dataset is associated with the following publication:\nSantodomingo, J., H. Ryu, B. Dhar, and H. Lee. Ohmic resistance affects microbial community and electrochemical kinetics in a multi-anode microbial electrochemical cell.   JOURNAL OF POWER SOURCES. Elsevier Science Ltd, New York, NY, USA, 331: 315-321, (2016).",
+    "num_resources": 2,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Ohmic resistance affects microbial community and electrochemical kinetics in a multi-anode microbial electrochemical cell",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "http://www.sciencedirect.com/science/article/pii/S0378775316312174"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1fc4f7c9-228b-4e07-8cee-84f22501ebe4"
+        },
+        {
+            "key": "source_hash",
+            "value": "92fd44ca64694e3f767bdb9fcff080ed315a2f45"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-11-17"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-3txf-448"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:37:54.589671",
+            "description": "Hodon%20Waterloo%20final_fasta_working.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "3de87260-019f-4323-b81d-de028f9111c1",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:37:54.589671",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Hodon Waterloo final_fasta_working.docx",
+            "package_id": "c0caf3c2-06c2-4100-a8d2-2e89c7bf5e4d",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/448/Hodon%20Waterloo%20final_fasta_working.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:37:54.589677",
+            "description": "RNA%20S1_MEC.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "71dd095c-2f8c-4529-a6ee-02e258df07c1",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:37:54.589677",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "RNA S1_MEC.docx",
+            "package_id": "c0caf3c2-06c2-4100-a8d2-2e89c7bf5e4d",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/448/RNA%20S1_MEC.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "abundance",
+            "id": "cfc55ae3-649f-4bd4-b9d6-e632351fda1a",
+            "name": "abundance",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "anode-potential",
+            "id": "88cadf36-f1bd-47a5-a7c8-2ee00be4423e",
+            "name": "anode-potential",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fasta-file",
+            "id": "1b17974c-eb0b-468b-862d-3da8dc205325",
+            "name": "fasta-file",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "half-saturation-anode-potential",
+            "id": "254ac61a-8104-4858-87fc-f08fd8ce3cd5",
+            "name": "half-saturation-anode-potential",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microbial-electrochemical-cells",
+            "id": "ae012be1-9c3a-45ed-a929-7bc45a03422f",
+            "name": "microbial-electrochemical-cells",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "multi-anode",
+            "id": "46f3bd02-c24a-4721-a2d5-377b5de173f7",
+            "name": "multi-anode",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ohmic-energy-loss",
+            "id": "75588232-b267-4e16-a5d6-a03997083d04",
+            "name": "ohmic-energy-loss",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "raw-sequences",
+            "id": "c3f13e0e-9868-4cac-af32-0dc43e91d0fb",
+            "name": "raw-sequences",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 35,
+        "recent": 1
+    }
+}

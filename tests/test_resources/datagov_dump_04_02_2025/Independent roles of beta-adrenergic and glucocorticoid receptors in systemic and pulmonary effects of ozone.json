@@ -1,0 +1,211 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "2dad24e4-e7cd-4350-810c-f056a196162f",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Urmila Kodavanti",
+    "maintainer_email": "kodavanti.urmila@epa.gov",
+    "metadata_created": "2021-04-12T19:02:04.610468",
+    "metadata_modified": "2021-04-12T19:02:04.610476",
+    "name": "independent-roles-of-beta-adrenergic-and-glucocorticoid-receptors-in-systemic-and-pulmonar",
+    "notes": "A manuscript describing the independent roles of beta adrenergic and glucocorticoid receptors in mediating ozone-induced pulmonary and systemic effects. \n\nThis dataset is associated with the following publication:\nHenriquez, A., S. Snow, M.C. Schladweiler, C. Miller, and U. Kodavanti. Independent roles of beta-adrenergic and glucocorticoid receptors in systemic and pulmonary effects of ozone.   INHALATION TOXICOLOGY. Taylor & Francis, Inc., Philadelphia, PA, USA, 32(4): 155-169, (2020).",
+    "num_resources": 1,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Independent roles of beta-adrenergic and glucocorticoid receptors in systemic and pulmonary effects of ozone",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1080/08958378.2020.1759736"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "bb007fcb-ed32-403b-9ceb-c6179a4ad2e8"
+        },
+        {
+            "key": "source_hash",
+            "value": "f9aaaaddff1490291aa8aae65ccf234ab786c94a"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-01-21"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1517608"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-04-12T19:02:04.699601",
+            "description": "Copy%20of%20ScienceHub%20data%20-%20Henriquez%20et%20al.%202020%20Inh%20Tox.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "c2653473-b796-457e-a3e5-b6626f89907f",
+            "last_modified": null,
+            "metadata_modified": "2021-04-12T19:02:04.699601",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Copy of ScienceHub data - Henriquez et al. 2020 Inh Tox.xlsx",
+            "package_id": "2dad24e4-e7cd-4350-810c-f056a196162f",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1517608/Copy%20of%20ScienceHub%20data%20-%20Henriquez%20et%20al.%202020%20Inh%20Tox.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "adrenergic-receptors",
+            "id": "318d9088-b2e5-4eaf-8ec2-eb2931091a1a",
+            "name": "adrenergic-receptors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "glucocorticoid-receptor",
+            "id": "d1797c57-a6cc-4edf-978c-36ecf56728b0",
+            "name": "glucocorticoid-receptor",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "glucocorticoid-receptors",
+            "id": "f8507279-5f60-497d-92d2-8dde8632fa30",
+            "name": "glucocorticoid-receptors",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lung-injury",
+            "id": "fca174fb-278a-4ca6-aa1a-cc84e7da85bd",
+            "name": "lung-injury",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lung-injury-and-inflammation",
+            "id": "5269688a-1e86-40a1-974e-11f46729ccef",
+            "name": "lung-injury-and-inflammation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "metabolic-response",
+            "id": "b3f5c054-5b81-4948-ada0-983f3768930e",
+            "name": "metabolic-response",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stress-response",
+            "id": "e674c9cd-7869-4ba0-a866-07be4e351844",
+            "name": "stress-response",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "systemic-metabolic-effects",
+            "id": "d7d5d666-4d98-478c-b8ec-7d3813d1ea49",
+            "name": "systemic-metabolic-effects",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 22,
+        "recent": 1
+    }
+}

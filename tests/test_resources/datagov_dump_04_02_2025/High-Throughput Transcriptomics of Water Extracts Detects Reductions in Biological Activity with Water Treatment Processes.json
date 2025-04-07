@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "bd462ed3-845f-4bac-a5ac-3c5301a4def3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Joshua Harrill",
+    "maintainer_email": "harrill.joshua@epa.gov",
+    "metadata_created": "2024-02-15T17:57:18.109009",
+    "metadata_modified": "2024-02-15T17:57:18.109014",
+    "name": "high-throughput-transcriptomics-of-water-extracts-detects-reductions-in-biological-activit",
+    "notes": "Dataset for Rogers, et al., 'High-Throughput Transcriptomics of Water Extracts Detects Reductions in Biological Activity with Water Treatment Processes', published in Environmental Science & Technology, doi https://doi.org/10.1021/acs.est.3c07525. Contains 7 files \nHTTr analysis of water extracts_SI_v3: Supplemental information with detailed descriptions of cell culture, exposure to water extracts, cell viability assays, HTTr assay, and HTTr data processing, and Figures S1\u2013S4 detailing cell viability results, HTTr quality control results, signature-level potency magnitude comparisons, and gene/signature activity of laboratory blanks (PDF)\nTable S1: well-level cell viability metrics for water extracts (XLSX)\nTable S2: treatment-level cell viability metrics for water extracts (XLSX)\nTable S3: well-level HTTr quality control metrics for water extracts (XLSX)\nTable S4: signature collection used for HTTr signature concentration\u2013response modeling (XLSX)\nTable S5: signature concentration-modeling profiling results for water extracts (XLSX)\nTable S6: gene concentration-modeling profiling results for water extracts (XLSX). \n\nThis dataset is associated with the following publication:\nRogers, J., F. Leusch, B. Chambers, K. Daniels, L. Everett, R. Judson, K. Maruya, A. Mehinto, P. Neale, K. Friedman, R. Thomas, S. Snyder, and J. Harrill. High-Throughput Transcriptomics of Water Extracts Detects Reductions in Biological Activity with Water Treatment Processes.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 58(4): 2027-2037, (2024).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "High-Throughput Transcriptomics of Water Extracts Detects Reductions in Biological Activity with Water Treatment Processes",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "61e6a8027ab480edb89ba10b61c7f189f4801681c7be10e2a34788e70f9da14e"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1530112"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-04-27"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.3c07525"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "2446fd69-8bf6-4a85-9814-f794f1942639"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-15T17:57:18.120782",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "2f4c19c4-393e-454f-af74-2f87cabee725",
+            "last_modified": null,
+            "metadata_modified": "2024-02-15T17:57:18.092677",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://clowder.edap-cluster.com/datasets/61147fefe4b0856fdc65639b#folderId=65c5075ae4b063812d6939f9",
+            "package_id": "bd462ed3-845f-4bac-a5ac-3c5301a4def3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://clowder.edap-cluster.com/datasets/61147fefe4b0856fdc65639b#folderId=65c5075ae4b063812d6939f9",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "differentially-expressed-genes",
+            "id": "560b9b96-4941-445a-99a1-9a79edc9c019",
+            "name": "differentially-expressed-genes",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "high-throughput-transcriptomics",
+            "id": "38488465-a16c-498f-ba5d-1f40bbac9cfe",
+            "name": "high-throughput-transcriptomics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mcf7",
+            "id": "68b3e0ba-af09-42e0-a1e9-afff69d01879",
+            "name": "mcf7",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "recycled-water",
+            "id": "6083e7eb-a6c9-49b6-ba88-eabbb3ea343a",
+            "name": "recycled-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-cycle",
+            "id": "5c7ff13a-5f75-46f9-a9e4-e109ab3e07cb",
+            "name": "water-cycle",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 6,
+        "recent": 1
+    }
+}

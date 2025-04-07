@@ -1,0 +1,170 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "cc9ebfb5-2330-4aa0-8f22-c780be06f063",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Chelsea Hintz",
+    "maintainer_email": "hintz.chelsea@epa.gov",
+    "metadata_created": "2024-12-14T15:39:50.436291",
+    "metadata_modified": "2024-12-14T15:39:50.436297",
+    "name": "hintz-cu-ag-lp-dataset-for-science-hub",
+    "notes": "EPA generated data for Hintz et al. publication in Appl Environ Microbiol titled, \"Cu- and Ag-mediated inactivation of L. pneumophila in benchand pilot-scale drinking water systems\"",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Hintz_Cu Ag Lp_dataset for Science Hub",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "b5c67d29bdfd066f73a823b5cf98727d47a13eb3039eba469b24fc75a278bad4"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531898"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-12-10"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1ae89663-60ec-495b-946a-a8423df79380"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-12-14T15:39:50.473479",
+            "description": "Cu%20Ag%20Lp_dataset%20for%20Science%20Hub_2024-12-10.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b295e346-15a0-4b26-9a46-010537af7d1b",
+            "last_modified": null,
+            "metadata_modified": "2024-12-14T15:39:50.419040",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Cu Ag Lp_dataset for Science Hub_2024-12-10.xlsx",
+            "package_id": "cc9ebfb5-2330-4aa0-8f22-c780be06f063",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531898/Cu%20Ag%20Lp_dataset%20for%20Science%20Hub_2024-12-10.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "opportunistic-pathogens",
+            "id": "c3156311-de66-4dd2-871e-bd42d880ddbf",
+            "name": "opportunistic-pathogens",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "premise-plumbing",
+            "id": "16d120ad-ef41-4f01-ba58-fc2c61fa9b44",
+            "name": "premise-plumbing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-treatment-technologies",
+            "id": "9c5ffdf4-7bd0-4591-afe0-de03b23a5f70",
+            "name": "water-treatment-technologies",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 13,
+        "recent": 2
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "4ac579ac-bfab-48d8-92e4-d95ad7670ed5",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "EPA ENERGY STAR program",
+    "maintainer_email": "certification@energystar.gov",
+    "metadata_created": "2022-12-09T11:27:32.251097",
+    "metadata_modified": "2025-03-29T15:36:53.299297",
+    "name": "energy-star-certified-commercial-ice-machines-33e6b",
+    "notes": "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Automatic Commercial Ice Makers that are effective as of January 28, 2018 . A detailed listing of key efficiency criteria is available at https://www.energystar.gov/products/commercial_food_service_equipment/commercial_ice_makers/key_product_criteria",
+    "num_resources": 4,
+    "num_tags": 1,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "ENERGY STAR Certified Commercial Ice Machines",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "64ba55ec517b99fea3808678104797948018d5afabd2c96da628923e3df05e12"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://data.energystar.gov/api/views/nak5-fsjf"
+        },
+        {
+            "key": "issued",
+            "value": "2021-12-03"
+        },
+        {
+            "key": "landingPage",
+            "value": "https://data.energystar.gov/d/nak5-fsjf"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2025-03-29"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:033"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "theme",
+            "value": [
+                "Active Specifications"
+            ]
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://data.energystar.gov/data.json"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0a2f5014-f53c-4dcb-9615-0b407a12a9a4"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "bac1f9bf-daa1-4a30-b5ac-b04d3095c278"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EnergyStar"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-12-09T11:27:32.254816",
+            "description": "",
+            "format": "CSV",
+            "hash": "",
+            "id": "3604eb22-0de0-42c2-b7d2-a761aa425685",
+            "last_modified": null,
+            "metadata_modified": "2022-12-09T11:27:32.244282",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Comma Separated Values File",
+            "no_real_name": true,
+            "package_id": "4ac579ac-bfab-48d8-92e4-d95ad7670ed5",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://data.energystar.gov/api/views/nak5-fsjf/rows.csv?accessType=DOWNLOAD",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-12-09T11:27:32.254819",
+            "describedBy": "https://data.energystar.gov/api/views/nak5-fsjf/columns.rdf",
+            "describedByType": "application/rdf+xml",
+            "description": "",
+            "format": "RDF",
+            "hash": "",
+            "id": "602c47d8-c4f5-4b51-b18c-2ca111d5e58d",
+            "last_modified": null,
+            "metadata_modified": "2022-12-09T11:27:32.244465",
+            "mimetype": "application/rdf+xml",
+            "mimetype_inner": null,
+            "name": "RDF File",
+            "no_real_name": true,
+            "package_id": "4ac579ac-bfab-48d8-92e4-d95ad7670ed5",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://data.energystar.gov/api/views/nak5-fsjf/rows.rdf?accessType=DOWNLOAD",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-12-09T11:27:32.254821",
+            "describedBy": "https://data.energystar.gov/api/views/nak5-fsjf/columns.json",
+            "describedByType": "application/json",
+            "description": "",
+            "format": "JSON",
+            "hash": "",
+            "id": "fa11b689-a5a8-4a23-be26-48dda980616e",
+            "last_modified": null,
+            "metadata_modified": "2022-12-09T11:27:32.244614",
+            "mimetype": "application/json",
+            "mimetype_inner": null,
+            "name": "JSON File",
+            "no_real_name": true,
+            "package_id": "4ac579ac-bfab-48d8-92e4-d95ad7670ed5",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://data.energystar.gov/api/views/nak5-fsjf/rows.json?accessType=DOWNLOAD",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-12-09T11:27:32.254823",
+            "describedBy": "https://data.energystar.gov/api/views/nak5-fsjf/columns.xml",
+            "describedByType": "application/xml",
+            "description": "",
+            "format": "XML",
+            "hash": "",
+            "id": "559264d1-790c-4f0b-be21-639b1a06285e",
+            "last_modified": null,
+            "metadata_modified": "2022-12-09T11:27:32.244761",
+            "mimetype": "application/xml",
+            "mimetype_inner": null,
+            "name": "XML File",
+            "no_real_name": true,
+            "package_id": "4ac579ac-bfab-48d8-92e4-d95ad7670ed5",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://data.energystar.gov/api/views/nak5-fsjf/rows.xml?accessType=DOWNLOAD",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "commercial-ice-machines",
+            "id": "9ee2d45e-19be-478e-a3af-91466d81874a",
+            "name": "commercial-ice-machines",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 35,
+        "recent": 1
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "8825161a-991c-47a8-9693-1c75446cd74c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Cathleen Wigand",
+    "maintainer_email": "wigand.cathleen@epa.gov",
+    "metadata_created": "2023-04-15T13:24:46.121120",
+    "metadata_modified": "2023-04-15T13:24:46.121126",
+    "name": "san-juan-bay-mangrove-stable-isotopesaccretion-rates2016",
+    "notes": "Datasets include nitrogen and carbon stable isotope ratios and sediment accretion rates in radiometrically dated mangrove cores collected from the San Juan Bay Estuary in 2016. \n\nThis dataset is associated with the following publication:\nWigand, C., M. Eagle, B. Branoff, S. Balogh, K. Miller, R. Martin, A. Hanson, A. Oczkowski, E. Huertas, J. Loffredo, and E. Watson. Recent Carbon Storage and Burial Exceed Historic Rates in the San Juan Bay Estuary Peri-Urban Mangrove Forests (Puerto Rico, United States).   Frontiers in Forests and Global Change. Frontiers, Lausanne,  SWITZERLAND, 4: 676691, (2021).",
+    "num_resources": 2,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "San_Juan_Bay-mangrove_stable_isotopes&accretion_rates2016",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "4ef16ac470cba6931ebee4adad1a5b4f9a36f7d0"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520723"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-01-21"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3389/ffgc.2021.676691",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8809366"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "83775017-f0c5-4bf8-ae25-7170c1dd7e76"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-04-15T13:24:46.134626",
+            "description": "isotopedata_withyearinfo_1-21-21.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "cbf5515d-7ec9-4506-a03d-b9a549bdf26f",
+            "last_modified": null,
+            "metadata_modified": "2023-04-15T13:24:46.105234",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "isotopedata_withyearinfo_1-21-21.xlsx",
+            "package_id": "8825161a-991c-47a8-9693-1c75446cd74c",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520723/isotopedata_withyearinfo_1-21-21.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-04-15T13:24:46.134629",
+            "description": "PR_Cores2016_AR_DBD_%25CN_mean_age1-21-21.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0226e7c9-4e5b-45b5-97ef-a877e4e7d0d5",
+            "last_modified": null,
+            "metadata_modified": "2023-04-15T13:24:46.105414",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "PR_Cores2016_AR_DBD_%CN_mean_age1-21-21.xlsx",
+            "package_id": "8825161a-991c-47a8-9693-1c75446cd74c",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520723/PR_Cores2016_AR_DBD_%25CN_mean_age1-21-21.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "carbon-storage",
+            "id": "e35bc6a8-e840-46fd-b75d-9110cc333d74",
+            "name": "carbon-storage",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mangrove",
+            "id": "a89871e0-6420-4b33-87e4-68189cc47508",
+            "name": "mangrove",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "puerto-rico",
+            "id": "819734f5-1a90-4839-af2b-6052c49e057e",
+            "name": "puerto-rico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "san-juan-bay-estuary",
+            "id": "b4c0e0ac-13d0-4992-a3c0-0a369fe07f76",
+            "name": "san-juan-bay-estuary",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 30,
+        "recent": 2
+    }
+}

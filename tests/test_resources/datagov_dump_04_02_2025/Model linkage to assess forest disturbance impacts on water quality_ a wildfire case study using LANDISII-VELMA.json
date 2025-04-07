@@ -1,0 +1,250 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "569f8047-04de-467d-8a13-d81629d159f3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Kar'Retta Venable",
+    "maintainer_email": "venable.karretta@epa.gov",
+    "metadata_created": "2024-08-17T02:26:15.963472",
+    "metadata_modified": "2024-08-17T02:26:15.963481",
+    "name": "model-linkage-to-assess-forest-disturbance-impacts-on-water-quality-a-wildfire-case-study-",
+    "notes": "These files contain the inputs, outputs, and metadata files for VELMA and LANDIS-II calibration. Output and analysis files from the LANDIS-VELMA linkage are also provided. There is an additional zip file that contains the data used for creating the figures for the manuscript and appendices. \n\nThis dataset is associated with the following publication:\nVenable, K., J. Johnston, S. Leduc, and L. Prieto. Model linkage to assess forest disturbance impacts on water quality: A wildfire case study using LANDIS(II)-VELMA.   ENVIRONMENTAL MODELLING & SOFTWARE. Elsevier Science, New York, NY,   180: 106134, (2024).",
+    "num_resources": 2,
+    "num_tags": 11,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Model linkage to assess forest disturbance impacts on water quality: a wildfire case study using LANDIS(II)-VELMA",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "0271e42e8d85b0ce7048beb03f4645dae9000d1c9452830300c7260260f86774"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528060"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-12-02"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.envsoft.2024.106134"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "9227aacb-1a0f-452b-b93a-f744d93f9014"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-08-17T02:26:15.975998",
+            "description": "07192024MSFigureFiles.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a4d1225c-6d30-4e8f-b25e-33ea6466c4ca",
+            "last_modified": null,
+            "metadata_modified": "2024-08-17T02:26:15.934456",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "07192024MSFigureFiles.zip",
+            "package_id": "569f8047-04de-467d-8a13-d81629d159f3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528060/07192024MSFigureFiles.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-08-17T02:26:15.976003",
+            "description": "07192024MSData.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "753fcfc9-630d-4f68-b475-40ccb7d9cdbd",
+            "last_modified": null,
+            "metadata_modified": "2024-08-17T02:26:15.934617",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "07192024MSData.zip",
+            "package_id": "569f8047-04de-467d-8a13-d81629d159f3",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1528060/07192024MSData.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "biomass",
+            "id": "ce25ea2f-7be4-4011-9f19-868eceda4bd5",
+            "name": "biomass",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "evapotranspiration",
+            "id": "fa2f92ab-3678-4274-ae08-a9af59bf7715",
+            "name": "evapotranspiration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "forest-management",
+            "id": "6e48b286-11ef-4e4d-8f02-8f8baf39dd64",
+            "name": "forest-management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hayman-fire",
+            "id": "cd0cc4fb-b4fd-4275-a80c-c8d79ffa9a1f",
+            "name": "hayman-fire",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land-use",
+            "id": "654cca31-2f3e-484d-8172-d3135df7bc74",
+            "name": "land-use",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "landis-ii",
+            "id": "9df7ec9b-2ff3-46df-975d-dab7f4bda15a",
+            "name": "landis-ii",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nutrient-dynamics",
+            "id": "bc6ade79-0435-4933-b298-5f271f810a4e",
+            "name": "nutrient-dynamics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "precipitation",
+            "id": "b7a5df38-d31a-4f4e-9d1b-425b3a625d99",
+            "name": "precipitation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remote-sensing",
+            "id": "2669f4e1-0b6a-4258-a19b-5b977f07aab5",
+            "name": "remote-sensing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "velma",
+            "id": "d23b8944-be6e-4df1-b07b-73d1592c1160",
+            "name": "velma",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-treatment",
+            "id": "416e669d-6cb6-4d9a-bf23-6a81d0a71c5e",
+            "name": "water-treatment",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 2
+    }
+}

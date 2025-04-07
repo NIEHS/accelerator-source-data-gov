@@ -1,0 +1,283 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "a5a4541d-f3b5-4488-a338-b103c44e4234",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Hodon Ryu",
+    "maintainer_email": "ryu.hodon@epa.gov",
+    "metadata_created": "2021-01-19T22:20:24.448889",
+    "metadata_modified": "2021-01-19T22:20:24.448895",
+    "name": "raw-sequencing-data-set-for-photosynthetic-microalgal-fuel-cell-study",
+    "notes": "These data include raw sequencing data (bacterial 16S and eukaryote 18S rRNA genes) and a summary result table for bacteria classification in an Excel file. \n\nThis dataset is associated with the following publication:\nHwang, J., H. Ryu, K. Rodriguez, S. Fahad, J. SantoDomingo, A. Kushima, and W. Lee. A strategy for power generation from bilgewater using a photosynthetic microalgal fuel cell (MAFC).   JOURNAL OF POWER SOURCES. Elsevier Science Ltd, New York, NY, USA, 484: 229222, (2021).",
+    "num_resources": 5,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Raw sequencing data set for photosynthetic microalgal fuel cell study",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jpowsour.2020.229222"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "fe54a11c-ebe5-431b-8b58-88cc3071ff83"
+        },
+        {
+            "key": "source_hash",
+            "value": "ebe623c0b3554a28b9d1c130b2047e4253da7dd1"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-08-05"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1519149"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-19T22:20:24.457483",
+            "description": "Bacterial%2016S_microbial%20community%20analsis.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d2894754-3199-4fca-bfb3-76f5dbf31d59",
+            "last_modified": null,
+            "metadata_modified": "2021-01-19T22:20:24.457483",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Bacterial 16S_microbial community analsis.xlsx",
+            "package_id": "a5a4541d-f3b5-4488-a338-b103c44e4234",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1519149/Bacterial%2016S_microbial%20community%20analsis.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-19T22:20:24.457490",
+            "description": "Bac16S_R1.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "5f23c6c4-e767-4e3c-9426-5e8571addf73",
+            "last_modified": null,
+            "metadata_modified": "2021-01-19T22:20:24.457490",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "Bac16S_R1.txt",
+            "package_id": "a5a4541d-f3b5-4488-a338-b103c44e4234",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1519149/Bac16S_R1.txt",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-19T22:20:24.457493",
+            "description": "Bac16S_R2.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "eefce429-52b8-4501-802f-51ded0340574",
+            "last_modified": null,
+            "metadata_modified": "2021-01-19T22:20:24.457493",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "Bac16S_R2.txt",
+            "package_id": "a5a4541d-f3b5-4488-a338-b103c44e4234",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1519149/Bac16S_R2.txt",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-19T22:20:24.457495",
+            "description": "Eukaryote%2018S-algae_R2.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "1b28f04f-0dae-428e-8259-676da2603b40",
+            "last_modified": null,
+            "metadata_modified": "2021-01-19T22:20:24.457495",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "Eukaryote 18S-algae_R2.txt",
+            "package_id": "a5a4541d-f3b5-4488-a338-b103c44e4234",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1519149/Eukaryote%2018S-algae_R2.txt",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-01-19T22:20:24.457498",
+            "description": "Eukaryote%2018S-algae_R1.txt",
+            "format": "TEXT",
+            "hash": "",
+            "id": "789e3f30-3bf2-4837-b457-b816daa99b6c",
+            "last_modified": null,
+            "metadata_modified": "2021-01-19T22:20:24.457498",
+            "mimetype": "text/plain",
+            "mimetype_inner": null,
+            "name": "Eukaryote 18S-algae_R1.txt",
+            "package_id": "a5a4541d-f3b5-4488-a338-b103c44e4234",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1519149/Eukaryote%2018S-algae_R1.txt",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "bicarbonate",
+            "id": "f4d3577d-12aa-4e10-9b36-c256a0d9da8d",
+            "name": "bicarbonate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bio-electrogenesis",
+            "id": "169b17bb-ec56-4e1f-8ae8-8cba2bdcceaf",
+            "name": "bio-electrogenesis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chlorella-sorokiniana",
+            "id": "47423c50-7080-461e-9f24-f611d0dc7ed9",
+            "name": "chlorella-sorokiniana",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microalgal-fuel-cells",
+            "id": "94254eb6-ff2c-41c0-bf67-844d716699d1",
+            "name": "microalgal-fuel-cells",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "synthetic-bilgewater",
+            "id": "6e8d99c3-cfd6-4bb3-97a4-1bbf1dba4a03",
+            "name": "synthetic-bilgewater",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 38,
+        "recent": 1
+    }
+}

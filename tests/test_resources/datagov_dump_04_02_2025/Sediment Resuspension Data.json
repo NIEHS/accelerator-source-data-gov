@@ -1,0 +1,211 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "2743376f-b398-4fb1-af1a-e34d695890ef",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Regan Murray",
+    "maintainer_email": "murray.regan@epa.gov",
+    "metadata_created": "2020-11-12T13:37:54.919453",
+    "metadata_modified": "2022-11-06T11:52:34.893853",
+    "name": "sediment-resuspension-data",
+    "notes": "The full report on sediment resuspension in drinking water storage tanks and a link to an animation of results. \n\nThis dataset is associated with the following publication:\nHo, C., R. Murray , J. Christian, E. Ching, J. Slavin, J. Ortega, and L. Rossman. Sediment Resuspension and Transport in Water Distribution Storage Tanks.   JOURNAL OF THE AMERICAN WATER WORKS ASSOCIATION. American Water Works Association, Denver, CO, USA, 108(6): ., (2016).",
+    "num_resources": 1,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Sediment Resuspension Data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "dedfb4c4c6b14e58d6bae1da025c1aa6f02113c1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "A-69pf-148"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2016-04-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:060"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.5942/jawwa.2016.108.0077"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4dbc03ea-391f-4ca6-89fd-4c1b7418c243"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-11-06T11:52:34.945046",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "ced372fb-07ec-4490-94f8-7ab62e3ede9e",
+            "last_modified": null,
+            "metadata_modified": "2022-11-06T11:52:34.911545",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sandia.gov/cfd-water/sediment-resuspension-in-water-distribution-storage-tanks/",
+            "package_id": "2743376f-b398-4fb1-af1a-e34d695890ef",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.sandia.gov/cfd-water/sediment-resuspension-in-water-distribution-storage-tanks/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cfd",
+            "id": "925fc3da-cbab-4e82-8f56-026d17e06a97",
+            "name": "cfd",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "homeland-security",
+            "id": "b3bfe5c1-6e43-441b-96fa-bd9358447b6f",
+            "name": "homeland-security",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "modeling",
+            "id": "6dab039d-306b-4964-a66a-39a76a295408",
+            "name": "modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sediments",
+            "id": "d2d3bdca-a78f-4371-b2f5-08cf5ceee5ea",
+            "name": "sediments",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "storage-tanks",
+            "id": "b466f70d-75d9-420b-9b7c-958c4e9988c5",
+            "name": "storage-tanks",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-distribution",
+            "id": "86f8654e-bdd0-4305-ae47-09850bff3c82",
+            "name": "water-distribution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-security",
+            "id": "aa153a3a-06b2-4cdc-a318-db4278ff4276",
+            "name": "water-security",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 75,
+        "recent": 1
+    }
+}

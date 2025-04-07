@@ -1,0 +1,157 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "61736853-1b4a-421c-b082-fd0b6e9c7532",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Lisa Melnyk",
+    "maintainer_email": "melnyk.lisa@epa.gov",
+    "metadata_created": "2025-03-31T20:32:57.248888",
+    "metadata_modified": "2025-03-31T20:32:57.248895",
+    "name": "tribal-focused-participatory-research",
+    "notes": "There are no data to access.  This manuscript describes tribal participatory research. This dataset is not publicly accessible because: there are no data. It can be accessed through the following means: There are no data. Format: no data included in manuscript. \n\nThis dataset is associated with the following publication:\nStover, M., D. Kusnierz, L. Melnyk, J. Lazorchak, G. Perlman, and J. Lin. Tribal-Focused Participatory Research That Accentuates Environmental Justice and Food Security Burdens Impacting the Penobscot Nation Tribal Community.   ENVIRONMENTAL JUSTICE. Mary Ann Liebert, Inc., New Rochelle, NY, USA,  1-11, (2024).",
+    "num_resources": 0,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Tribal focused participatory research",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "d29620cfa45239174fc0c5077b8e57452adca1f08ae2fd88065b7f8d53fde380"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1532008"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2025-02-11"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1089/env.2024.0034"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "891f1e35-1ab6-4d3e-add7-076d4316b5ab"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environmental-contaminants",
+            "id": "75351dd4-059c-4cc0-9bc3-1535cc6e521d",
+            "name": "environmental-contaminants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-justice",
+            "id": "7b8a573d-1190-4ab3-b9fc-45635e0bd505",
+            "name": "environmental-justice",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fish-consumption",
+            "id": "e7032bc7-4ee9-4f73-8a08-018c00c539ce",
+            "name": "fish-consumption",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tribal-focused-participatory-research",
+            "id": "6bd024d7-ea76-48da-8415-1170b84db4bf",
+            "name": "tribal-focused-participatory-research",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tribal-food-security",
+            "id": "b953ed4b-53d6-4cad-95ed-37ddc313f62b",
+            "name": "tribal-food-security",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 3
+    }
+}

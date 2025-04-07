@@ -1,0 +1,655 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Andrew Ghio",
+    "maintainer_email": "ghio.andy@epa.gov",
+    "metadata_created": "2020-11-12T13:47:06.599327",
+    "metadata_modified": "2020-11-12T13:47:06.599334",
+    "name": "silica-disrupts-iron-homeostasis-in-alveolar-macrophages-to-impact-a-biological-effect",
+    "notes": "Cell investigation into mechanism of particle-related biological effect. \n\nThis dataset is associated with the following publication:\nGhio, A., J. Soukup, J. Stonehuerner , H. Tong, J. Richards, M. Gilmour, M. Madden, Z. Shen, and S.P. Kantrow. Quartz disrupts iron homeostasis in alveolar macrophages to impact a pro-inflammatory effect.   CHEMICAL RESEARCH IN TOXICOLOGY. American Chemical Society, Washington, DC, USA, 32(9): 1737-1747, (2019).",
+    "num_resources": 21,
+    "num_tags": 1,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Silica disrupts iron homeostasis in alveolar macrophages to impact a biological effect",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.chemrestox.8b00301"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d1151bdb-fc19-45b4-a3a4-86a62ea6180d"
+        },
+        {
+            "key": "source_hash",
+            "value": "fab45b110c24713c0897822101de59d367d25593"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-11-29"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503077"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619950",
+            "description": "kantrow%20figure%201b.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "afc3c902-c676-4e87-ac8f-7b4194f6cb2a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619950",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 1b.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%201b.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619958",
+            "description": "kantrow%20figure%201d.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d13b567d-88ac-4ab5-b546-9b30bc90b424",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619958",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 1d.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%201d.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619961",
+            "description": "kantrow%20figure%201a.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ac164782-7922-418e-bbb9-1a31965563f7",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619961",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 1a.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%201a.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619964",
+            "description": "kantrow%20figure%201e.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "62e9de21-c8a0-44b1-8fe7-654845877e7e",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619964",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 1e.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%201e.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619966",
+            "description": "kantrow%20figure%202A.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "c517deaf-16bc-4469-8950-69ab677991d1",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619966",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 2A.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%202A.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619969",
+            "description": "kantrow%20figure%203a.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "30767294-5ad6-453a-8910-3d2018f62092",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619969",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 3a.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%203a.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619972",
+            "description": "kantrow%20figure%203b.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "55373447-30bc-4fd4-b885-371876849d3f",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619972",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 3b.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%203b.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619974",
+            "description": "kantrow%20figure%203c.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b1125a82-1282-40c0-8bc5-50a871fec8d4",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619974",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 3c.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%203c.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619977",
+            "description": "kantrow%20figure%203d.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "fa1b3f83-1e90-4113-9b03-a590959ad275",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619977",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 3d.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%203d.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619980",
+            "description": "kantrow%20figure%204a.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "ac2e57d2-e7e0-46d9-95e0-ed61542c608d",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619980",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 4a.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%204a.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619982",
+            "description": "kantrow%20figure%204b.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "dbe62fbc-caa6-4fde-b83f-8a6ee040257a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619982",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 4b.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 10,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%204b.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619985",
+            "description": "kantrow%20figure%204c.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "8196dbf0-c695-4615-84d3-ea41da977f9b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619985",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 4c.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 11,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%204c.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619987",
+            "description": "kantrow%20figure%204d.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "a84885cd-d125-40c8-a8ad-fd6201fbb08d",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619987",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 4d.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 12,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%204d.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619990",
+            "description": "kantrow%20figure%205a.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "84a22711-30ad-4605-94d4-ab63e41c91ad",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619990",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 5a.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 13,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%205a.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619992",
+            "description": "kantrow%20figure%205b.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "733c3c7d-04bf-4cda-8585-9c45188cec1e",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619992",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 5b.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 14,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%205b.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619995",
+            "description": "kantrow%20figure%206a.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5669699c-e156-4140-a375-7898a3f9235a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619995",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 6a.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 15,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%206a.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.619997",
+            "description": "kantrow%20figure%206b.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "90b81b25-bb5a-4f9b-b2e4-5706b1c025ce",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.619997",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 6b.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 16,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%206b.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.620000",
+            "description": "kantrow%20figure%206c.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "7abafed5-4936-4924-9f43-1c690d95ceb7",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.620000",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 6c.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 17,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%206c.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.620003",
+            "description": "kantrow%20figure%207a.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2ef62e30-3206-42bd-beea-b8482718f242",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.620003",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 7a.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 18,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%207a.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.620005",
+            "description": "kantrow%20figure%207b.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "954f8f96-112f-4611-8715-41d83d0ed73d",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.620005",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 7b.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 19,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%207b.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:06.620007",
+            "description": "kantrow%20figure%207c.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "08c13ce8-6af4-418b-9fcd-4213d91592af",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:06.620007",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "kantrow figure 7c.xlsx",
+            "package_id": "ed459bbc-dc5a-4b85-b245-1a9a1fa75dfc",
+            "position": 20,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503077/kantrow%20figure%207c.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "particulate-matter-pm",
+            "id": "054788bd-2441-4777-b45b-a99f6b5f918e",
+            "name": "particulate-matter-pm",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 82,
+        "recent": 1
+    }
+}

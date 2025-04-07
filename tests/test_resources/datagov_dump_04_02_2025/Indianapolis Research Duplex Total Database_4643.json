@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "f3337897-a60f-4223-b2cf-ab8c1d7a06a3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Brian Schumacher",
+    "maintainer_email": "schumacher.brian@epa.gov",
+    "metadata_created": "2021-06-01T13:45:36.861211",
+    "metadata_modified": "2021-06-01T13:45:36.861220",
+    "name": "indianapolis-research-duplex-total-database-a48d2",
+    "notes": "Dataset includes VOC concentrations in ambient air, soil gas, subslab gas, and indoor air; radon measurements from the same locations as the VOC concentrations; weather data; groundwater levels and VOC concentrations in the groundwater; and sampling times and dates.  Predominant VOCs are PCE, TCE, and chloroform. \n\nThis dataset is associated with the following publication:\nLutes, C., C. Holton, B. Schumacher, J. Zimmerman, A. Kondash, and R. Truesdale. Observation of Conditions Preceding Peak Indoor Air Volatile Org Compound Concentrations in Vapor Intrusion Studies.   Groundwater Monitoring & Remediation. Wiley-Blackwell Publishing, Hoboken, NJ, USA, 41(2): 99-111, (2021).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Indianapolis Research Duplex Total Database",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1111/gwmr.12434"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b36eb647-325b-4f3f-ad69-fb34d0e1df98"
+        },
+        {
+            "key": "source_hash",
+            "value": "283bad2e20cabc057771eecf0fab2e2615ea65cb"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2016-09-15"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520730"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-06-01T13:45:36.923710",
+            "description": "TO-013_Database_March_2014.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e3c2be98-8e66-4480-a241-d5c458823faf",
+            "last_modified": null,
+            "metadata_modified": "2021-06-01T13:45:36.923710",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "TO-013_Database_March_2014.zip",
+            "package_id": "f3337897-a60f-4223-b2cf-ab8c1d7a06a3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520730/TO-013_Database_March_2014.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "indicators",
+            "id": "dfe97ee5-b178-41c2-9730-9883696058c4",
+            "name": "indicators",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tracers",
+            "id": "1ce0ff2b-ee74-48d8-a298-744b2b3f27e0",
+            "name": "tracers",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vapor-intrusion",
+            "id": "57a9c66f-7008-4cc5-9536-71822c42f2e7",
+            "name": "vapor-intrusion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "volatile-organic-compounds-vocs",
+            "id": "226663c4-fe28-4efc-b64f-9999859a922b",
+            "name": "volatile-organic-compounds-vocs",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 55,
+        "recent": 1
+    }
+}

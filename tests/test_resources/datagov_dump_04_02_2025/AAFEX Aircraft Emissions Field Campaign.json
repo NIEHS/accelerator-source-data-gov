@@ -1,0 +1,333 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "ea842005-5672-40e6-a26e-a66f2ed7aaf3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "John Kinsey",
+    "maintainer_email": "kinsey.john@epa.gov",
+    "metadata_created": "2020-11-12T13:48:21.343282",
+    "metadata_modified": "2020-11-12T13:48:21.343293",
+    "name": "aafex-aircraft-emissions-field-campaign",
+    "notes": "This dataset contains information from a 2009 research study of the fine particle emissions from two commercial aircraft engines as obtained 30-meters downstream of each engine. \n\nThis dataset is associated with the following publication:\nKinsey, J., W. Squier, and M. Timko. Characterization of the Fine Particle Emissions from the Use of Two Fischer-Tropsch Fuels in a CFM56-2C1 Commercial Aircraft Engine.   ENERGY AND FUELS. American Chemical Society, Washington, DC, USA,  33, (2019).",
+    "num_resources": 7,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "AAFEX Aircraft Emissions Field Campaign",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.energyfuels.9b00780"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "9af93972-a782-4853-b848-98bdf8b383ba"
+        },
+        {
+            "key": "source_hash",
+            "value": "d23b50dabaae5b336d973e57916dea18b7925c5c"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-02-07"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503398"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:21.349760",
+            "description": "Fig%203.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3a1bfd24-750f-4e3d-90d9-3b47d42a20f8",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:21.349760",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig 3.xlsx",
+            "package_id": "ea842005-5672-40e6-a26e-a66f2ed7aaf3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503398/Fig%203.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:21.349771",
+            "description": "Fig%202%20%26%209a_Revised%2010-21-19.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d1b76908-4321-4740-b102-098ee6bed5da",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:21.349771",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig 2 & 9a_Revised 10-21-19.xlsx",
+            "package_id": "ea842005-5672-40e6-a26e-a66f2ed7aaf3",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503398/Fig%202%20%26%209a_Revised%2010-21-19.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:21.349777",
+            "description": "Fig%204%20%26%209b_Revised%2010-22-19.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "2bc7f4ce-aa29-4356-ac68-509257d06667",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:21.349777",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig 4 & 9b_Revised 10-22-19.xlsx",
+            "package_id": "ea842005-5672-40e6-a26e-a66f2ed7aaf3",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503398/Fig%204%20%26%209b_Revised%2010-22-19.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:21.349782",
+            "description": "Fig%205_Revised%2010-22-19.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "04c64f93-ae04-4f76-abcd-4ce3eda88d0f",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:21.349782",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig 5_Revised 10-22-19.xlsx",
+            "package_id": "ea842005-5672-40e6-a26e-a66f2ed7aaf3",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503398/Fig%205_Revised%2010-22-19.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:21.349787",
+            "description": "Fig%206_Revised%2010-22-19.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "0bcc28b1-3835-4ec5-b32d-ab6e75995009",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:21.349787",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig 6_Revised 10-22-19.xlsx",
+            "package_id": "ea842005-5672-40e6-a26e-a66f2ed7aaf3",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503398/Fig%206_Revised%2010-22-19.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:21.349792",
+            "description": "Fig%207%20%26%208_Revised%2010-22-19.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "36b1b2a6-141f-4d44-b7ce-d91bf5087770",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:21.349792",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig 7 & 8_Revised 10-22-19.xlsx",
+            "package_id": "ea842005-5672-40e6-a26e-a66f2ed7aaf3",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503398/Fig%207%20%26%208_Revised%2010-22-19.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:21.349797",
+            "description": "Fig%2010_New%2010-29-19.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5028692e-37c9-466e-acbe-ee766212ef06",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:21.349797",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig 10_New 10-29-19.xlsx",
+            "package_id": "ea842005-5672-40e6-a26e-a66f2ed7aaf3",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503398/Fig%2010_New%2010-29-19.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aircraft-engines",
+            "id": "f7cad498-b8fd-4cb7-a224-fd15f382f8dc",
+            "name": "aircraft-engines",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emissions",
+            "id": "09baf6a3-d24a-4265-8b80-2ada905665dd",
+            "name": "emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "fine-particulate-matter",
+            "id": "8fe071ca-778a-4b81-9083-9b63c6116cd0",
+            "name": "fine-particulate-matter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "instrumentation",
+            "id": "5eef13a9-8ab9-47ec-b96b-d70abe7f76dd",
+            "name": "instrumentation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "speciation",
+            "id": "f77207c6-2a44-43e0-a457-10920f3206fa",
+            "name": "speciation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 220,
+        "recent": 1
+    }
+}

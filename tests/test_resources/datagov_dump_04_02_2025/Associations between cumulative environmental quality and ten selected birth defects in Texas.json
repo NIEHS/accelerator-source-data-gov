@@ -1,0 +1,168 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "255ab03f-b64d-4911-a354-2e4c6b8bfc4b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Danelle Lobdell",
+    "maintainer_email": "lobdell.danelle@epa.gov",
+    "metadata_created": "2021-02-19T20:04:38.274814",
+    "metadata_modified": "2021-02-19T20:04:38.274823",
+    "name": "associations-between-cumulative-environmental-quality-and-ten-selected-birth-defects-in-te",
+    "notes": "The Texas Birth Defects Registry (TBDR) of the Texas Department of State Health Services (TDSHS) is an active surveillance system that maintains information on infants with structural and chromosomal birth defects born to mothers residing in Texas at the time of birth (Texas Department of State Health Services, 2019). TBDR staff review medical records to identify and abstract relevant case information, which then undergoes extensive quality checks (Texas Department of State Health Services, 2019). All diagnoses are made prenatally or within one year after delivery (Texas Department of State Health Services, 2019). Data on cases was obtained from the TBDR. Information on live births for the denominators and on covariates for cases and denominators was obtained from the Texas Department of State Health Services Center for Health Statistics. This research was approved by the Texas Department of State Health Services Institutional Review Board and US EPA Human Subjects Review.\n\nThe Environmental Quality Index (EQI) estimates overall county-level environmental quality for the entire US for 2006-2010. The construction of the EQI is described elsewhere (United States Environmental Protection Agency, 2020). Briefly, the national data was compiled to represent simultaneous, cumulative environmental quality across each of the five domains: air (43 variables) representing criteria and hazardous air pollutants; water (51 variables), representing overall water quality, general water contamination, recreational water quality, drinking water quality, atmospheric deposition, drought, and chemical contamination; land (18 variables), representing agriculture, pesticides, contaminants, facilities, and radon; built (15 variables), representing roads, highway/road safety, public transit behavior, business environment, and subsidized housing environment; and sociodemographic (12 variables), representing socioeconomics and crime. The variables in each domain specific index were reduced using principal component analysis (PCA), with the first component retained as that domain\u2019s index value. The domain specific indices were valence corrected to ensure that the directionality of the variables was consistent with higher values suggesting poorer environmental quality. The domain specific indices were then processed through a second PCA and the first index retained as the overall EQI. The overall and domain specific EQI indices are publicly available through the US EPA (United States Environmental Protection Agency: https://edg.epa.gov/data/Public/ORD/NHEERL/EQI). This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Human health data are not available publicly. EQI data are available at: https://edg.epa.gov/data/Public/ORD/NHEERL/EQI. Format: Data are stored as csv files. \n\nThis dataset is associated with the following publication:\nKrajewski, A., K. Rappazzo, P. Langlois, L. Messer, and D. Lobdell. Associations between cumulative environmental quality and ten selected birth defects in Texas.   Birth Defects Research. John Wiley & Sons, Inc., Hoboken, NJ, USA, 113(2): 161-172, (2020).",
+    "num_resources": 0,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Associations between cumulative environmental quality and ten selected birth defects in Texas",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/bdr2.1788"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "075f8039-afe4-4755-9adb-8b43c0e39602"
+        },
+        {
+            "key": "source_hash",
+            "value": "66e1ba4b9d4373dca9cc1ffcee4f382291dfccd4"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-03-02"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518475"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "built-environment",
+            "id": "66e7d342-c772-41cc-aaf3-288b5055070a",
+            "name": "built-environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-quality",
+            "id": "80e6c743-36bc-4642-9f9a-fb0fc22805f2",
+            "name": "environmental-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land-quality",
+            "id": "a4e61d2e-ffcf-410c-92b1-59ea13fc8796",
+            "name": "land-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sociodemographic-quality",
+            "id": "b12f841e-fdcd-4e81-98a7-833bbfbd5289",
+            "name": "sociodemographic-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 83,
+        "recent": 1
+    }
+}

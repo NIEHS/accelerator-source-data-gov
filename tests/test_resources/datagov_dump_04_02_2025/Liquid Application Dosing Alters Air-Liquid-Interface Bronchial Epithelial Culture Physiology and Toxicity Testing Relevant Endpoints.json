@@ -1,0 +1,454 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "e9c58002-2fd7-4819-b267-fb3977469295",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Shaun McCullough",
+    "maintainer_email": "mccullough.shaun@epa.gov",
+    "metadata_created": "2024-02-29T19:43:08.621093",
+    "metadata_modified": "2024-02-29T19:43:08.621098",
+    "name": "liquid-application-dosing-alters-air-liquid-interface-bronchial-epithelial-culture-physiol",
+    "notes": "Data accompanying the manuscript titled, \"Liquid Application Dosing Alters Air-Liquid-Interface Bronchial Epithelial Culture Physiology and Toxicity Testing Relevant Endpoints\"\n\nAuthors: Nicholas M. Mallek, Elizabeth M. Martin, Lisa A. Dailey, and Shaun D. McCullough. \n\nThis dataset is associated with the following publication:\nMallek, N., E. Martin, L. Dailey, and S. McCullough. Liquid Application Dosing Alters the Physiology of Air-Liquid Interface (ALI) Primary Human Bronchial Epithelial Cell/Lung Fibroblast Co-Cultures and In Vitro Testing Relevant Endpoints.   Frontiers in Toxicology. Frontiers, Lausanne,  SWITZERLAND, 5: 1264331, (2023).",
+    "num_resources": 11,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Liquid Application Dosing Alters Air-Liquid-Interface Bronchial Epithelial Culture Physiology and Toxicity Testing Relevant Endpoints",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "076d168eb5f35a760ec3ed7984bf76c92954ad544a3383f4786f58f37e4bc817"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1526421"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-05-09"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3389/ftox.2023.1264331"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8057673b-8535-49aa-9efe-90a112db218c"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635079",
+            "description": "Mallek%20et%20al_Liquid%20Application_Data_Growth%20Factor%20ELISA.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "82eaa424-c600-4406-b3ea-febe0b22a38c",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.599449",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application_Data_Growth Factor ELISA.xlsx",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application_Data_Growth%20Factor%20ELISA.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635083",
+            "description": "Mallek%20et%20al_Liquid%20Application_Data_Analysis%20of%20Re-Sub%20Rep3-5%20Export_RAW%20DATA.xls",
+            "format": "XLS",
+            "hash": "",
+            "id": "d9ca4f97-c6a1-4288-8a94-e7b59b15f89f",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.599613",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application_Data_Analysis of Re-Sub Rep3-5 Export_RAW DATA.xls",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application_Data_Analysis%20of%20Re-Sub%20Rep3-5%20Export_RAW%20DATA.xls",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635085",
+            "description": "Mallek%20et%20al_Liquid%20Application_Data_Analysis%20of%20Re-Sub%20CBF_Processed%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "1000389c-0b21-4624-98f1-2ab6698bdeee",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.599745",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application_Data_Analysis of Re-Sub CBF_Processed Data.xlsx",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application_Data_Analysis%20of%20Re-Sub%20CBF_Processed%20Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635087",
+            "description": "Mallek%20et%20al_Liquid%20Application%20Data_PHBEC%2024h%20Gene%20Lists_Raw_Thresholded.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "335e13d2-fad6-4502-b008-c9bfd55b1a68",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.599873",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application Data_PHBEC 24h Gene Lists_Raw_Thresholded.xlsx",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application%20Data_PHBEC%2024h%20Gene%20Lists_Raw_Thresholded.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635089",
+            "description": "Mallek%20et%20al_Liquid%20Application%20Data_PHBEC%206h%20Gene%20Lists_Raw_Thresholded.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "c87e2e67-8d35-402d-9189-f462ec3b95b2",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.600017",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application Data_PHBEC 6h Gene Lists_Raw_Thresholded.xlsx",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application%20Data_PHBEC%206h%20Gene%20Lists_Raw_Thresholded.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635090",
+            "description": "Mallek%20et%20al_Liquid%20Application%20Data_TEER%20and%20FITC.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3c968609-3631-4aed-917f-565a93ff8bf7",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.600146",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application Data_TEER and FITC.xlsx",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application%20Data_TEER%20and%20FITC.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635092",
+            "description": "Liquid%20Application%20Manuscript%20Prism%20File.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "44f2d929-edef-4873-ab28-c14a4b66729d",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.600281",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Liquid Application Manuscript Prism File.zip",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Liquid%20Application%20Manuscript%20Prism%20File.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635094",
+            "description": "Mallek%20et%20al_Liquid%20Application_Western%20Blots.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "5315b7af-e232-4f8e-bdee-855793af52cd",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.600411",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application_Western Blots.pdf",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application_Western%20Blots.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635095",
+            "description": "Mallek%20et%20al_Liquid%20Application_p38%20Densitometry.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "f685b195-dde7-492b-956c-832994e756d7",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.600546",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application_p38 Densitometry.xlsx",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application_p38%20Densitometry.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635097",
+            "description": "Mallek%20et%20al_Liquid%20Application_HIF1a%20Densitometry.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "9b4f25a6-fdf1-482a-b5dc-8da5e947f261",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.600672",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application_HIF1a Densitometry.xlsx",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application_HIF1a%20Densitometry.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-02-29T19:43:08.635099",
+            "description": "Mallek%20et%20al_Liquid%20Application_ERK%20Densitometry.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "3cb58653-8a33-4a8f-8f0d-96aac8aa6c6f",
+            "last_modified": null,
+            "metadata_modified": "2024-02-29T19:43:08.600805",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Mallek et al_Liquid Application_ERK Densitometry.xlsx",
+            "package_id": "e9c58002-2fd7-4819-b267-fb3977469295",
+            "position": 10,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1526421/Mallek%20et%20al_Liquid%20Application_ERK%20Densitometry.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-liquid-inter",
+            "id": "8965204a-64bb-44a0-9617-a64d0f492ee5",
+            "name": "air-liquid-inter",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ali",
+            "id": "58743645-113b-4b90-82e7-10ff3d6a909b",
+            "name": "ali",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bronchial",
+            "id": "1bc83815-e7d8-4a8d-9213-d955dd5db168",
+            "name": "bronchial",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chlorothalonil",
+            "id": "2c86cde3-8a04-4ee4-acdf-3e4216133a4e",
+            "name": "chlorothalonil",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-vitro",
+            "id": "0836e38a-f084-4366-bd1c-0617933c4d3b",
+            "name": "in-vitro",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inhalation",
+            "id": "54c20a2f-3675-41d4-b7c8-4e7b3c435825",
+            "name": "inhalation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nams",
+            "id": "b507b137-c9d4-4cb0-a0c6-630fff780bf5",
+            "name": "nams",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "primary",
+            "id": "bc407265-80db-4a03-908b-37780209b114",
+            "name": "primary",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 10,
+        "recent": 1
+    }
+}

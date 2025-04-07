@@ -1,0 +1,395 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jeremy Martinich",
+    "maintainer_email": "martinich.jeremy@epa.gov",
+    "metadata_created": "2021-07-20T04:59:18.889899",
+    "metadata_modified": "2023-08-24T19:12:31.367376",
+    "name": "temperature-and-work-time-allocated-to-work-under-varying-climate-and-labor-market-conditi",
+    "notes": "Data and code for analysis described in Neidell et al. (2021) - Temperature and work: Time allocated to work under varying climate and labor market conditions. PLOSONE. Citation information for this dataset can be found in Data.gov's References section.",
+    "num_resources": 10,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Temperature and work: Time allocated to work under varying climate and labor market conditions",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "0d063f6a884bdffe38a5f461f09214f8a3e2a24b"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1522875"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-07-09"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://dx.doi.org/10.1371/journal.pone.0254224",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386856"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "5762dbc3-602d-4215-a8dc-6c340b090962"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:18.932413",
+            "description": "Weather%20data_projections.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "e4586870-355c-425c-8517-b47626a42f85",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:18.932413",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Weather data_projections.zip",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522875/Weather%20data_projections.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:18.932421",
+            "description": "Wages.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0b0d3a69-9a68-4197-acdb-8e9f2fc342f0",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:18.932421",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Wages.zip",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522875/Wages.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:18.932424",
+            "description": "US%20Business%20Cycles.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "1cb2ddc4-2931-4094-8f38-9735c5ac2733",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:18.932424",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "US Business Cycles.zip",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522875/US%20Business%20Cycles.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:18.932427",
+            "description": "sunrise%20sunset.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a3af1b86-6832-4a7b-be01-98fe80dc7397",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:18.932427",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "sunrise sunset.zip",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522875/sunrise%20sunset.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:18.932429",
+            "description": "CPSA%20to%20FIPS%20crosswalk.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "22d6162c-288d-4300-9a9e-102742bd357c",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:18.932429",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "CPSA to FIPS crosswalk.zip",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522875/CPSA%20to%20FIPS%20crosswalk.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:18.932432",
+            "description": "Census%20Delineation%20Files.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "3622b120-1f54-432e-bf98-8b1fce37fe4f",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:18.932432",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Census Delineation Files.zip",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522875/Census%20Delineation%20Files.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:18.932435",
+            "description": "ACS.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "01bfb988-1eaa-4c20-ae7a-f927138acce5",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:18.932435",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "ACS.zip",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522875/ACS.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:18.932437",
+            "description": "Weather%20processing%20scripts.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c2fa364c-c1c8-4a7a-b728-94bf742e21e2",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:18.932437",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Weather processing scripts.zip",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 7,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522875/Weather%20processing%20scripts.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-07-20T04:59:18.932440",
+            "description": "Stata%20processing%20and%20analysis.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "dc10959b-1fe2-40b0-9242-bb0ae49edaeb",
+            "last_modified": null,
+            "metadata_modified": "2021-07-20T04:59:18.932440",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Stata processing and analysis.zip",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 8,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1522875/Stata%20processing%20and%20analysis.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-08-24T19:12:31.410270",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "67c0f325-f830-4ed7-82a3-a5ee4d9f866b",
+            "last_modified": null,
+            "metadata_modified": "2023-08-24T19:12:31.382849",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://dmap-data-commons-oar.s3.amazonaws.com/index.html?prefix=Neidell%20et%20al.%20(2021)/",
+            "package_id": "dd93f750-b7ee-438a-b7ff-7f8763115f27",
+            "position": 9,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://dmap-data-commons-oar.s3.amazonaws.com/index.html?prefix=Neidell%20et%20al.%20(2021)/",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-temperature",
+            "id": "8a0125e3-c982-48e6-b399-0111e6761f92",
+            "name": "air-temperature",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "labor",
+            "id": "789f717c-3913-4c55-990b-c809eac4ae83",
+            "name": "labor",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 168,
+        "recent": 4
+    }
+}

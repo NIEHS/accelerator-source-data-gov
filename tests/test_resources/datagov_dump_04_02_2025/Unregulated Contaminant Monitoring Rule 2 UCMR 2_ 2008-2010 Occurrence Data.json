@@ -1,0 +1,217 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "77446605-b77b-4010-80f4-caea1db653f5",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Safe Drinking Water Hotline",
+    "maintainer_email": "safewater@epa.gov",
+    "metadata_created": "2020-11-29T22:10:29.341880",
+    "metadata_modified": "2024-03-16T16:15:49.405801",
+    "name": "unregulated-contaminant-monitoring-rule-2-ucmr-2-2008-2010-occurrence-data",
+    "notes": "The Unregulated Contaminant Monitoring Rule supporting the second cycle (UCMR 2) of monitoring, conducted under EPA oversight, was published in the Federal Register on January 4, 2007. The UCMR 2 required monitoring for 25 contaminants using five analytical methods.",
+    "num_resources": 0,
+    "num_tags": 10,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Unregulated Contaminant Monitoring Rule 2 (UCMR 2), (2008-2010) Occurrence Data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "a97845214261be213c683fdd122460796d1fc21d8f3bbd006b5f0f5ea5d807ca"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "irregular"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "{9ADCB4EC-B670-4989-8F1E-1237B510F462}"
+        },
+        {
+            "key": "issued",
+            "value": "2014-01-01"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2007-01-04"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Water (OW) - Office of Ground Water and Drinking Water (OGWDW)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://edg.epa.gov/metadata/rest/document?id=%7B9ADCB4EC-B670-4989-8F1E-1237B510F462%7D",
+                "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B9ADCB4EC-B670-4989-8F1E-1237B510F462%7D"
+            ]
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/public/OW/metadata/OW.json"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "old-spatial",
+            "value": "-180.0,18.0,-66.0,72.0"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8d13a62b-23cf-46ac-9d05-4494e61e255e"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "8ed177f0-2564-4659-9197-8b64a5f0db3d"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OW Non-Geo Records"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-180.0, 72.0], [-66.0, 72.0], [-66.0, 18.0], [-180.0, 18.0]]]}"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "contaminants",
+            "id": "003f419b-f698-4b1f-af51-d1d52668d9ec",
+            "name": "contaminants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking-water",
+            "id": "bd4b88d9-9df1-41e1-aa70-8386bda69032",
+            "name": "drinking-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "health",
+            "id": "3b24c0fa-1ddf-4dc3-965f-93a79d68ab18",
+            "name": "health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "human-health",
+            "id": "0deb6b9c-0c84-488f-8ba2-47a8d31750b3",
+            "name": "human-health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pollution",
+            "id": "8c74ca48-086c-482d-8f64-c9a4f6fdd2b4",
+            "name": "pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sdwa",
+            "id": "77361f5b-7bf9-4cbf-bb51-e551f24bc0d7",
+            "name": "sdwa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ucmr",
+            "id": "e7d92d5e-d4a3-4235-831e-2cd6438c0f4d",
+            "name": "ucmr",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "unregulated-contaminants",
+            "id": "ef5036d6-2d24-49f6-8cb9-a6da6f3d1b24",
+            "name": "unregulated-contaminants",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 59,
+        "recent": 1
+    }
+}

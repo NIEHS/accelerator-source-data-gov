@@ -1,0 +1,176 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "be86a54a-3d57-4a72-b753-e280a1ee04c7",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Gary Norris",
+    "maintainer_email": "norris.gary@epa.gov",
+    "metadata_created": "2020-11-12T13:44:05.720049",
+    "metadata_modified": "2020-11-12T13:44:05.720057",
+    "name": "plume-encounters-that-exhibited-elevated-levels-of-at-least-one-of-the-three-reactive-brom",
+    "notes": "Plume encounters that exhibited elevated levels of at least one of the three reactive bromine compounds (Br2, BrNO2, and BrCl). \n\nThis dataset is associated with the following publication:\nLee, B., F. Lopez-Hilfiker, J. Schroder, P. Campuzano-Jost, J. Jimenez, E. McDuffie, D. Fibiger, P. Veres, S. Brown, T. Campos, A. Weinheimer, F. Flocke, G. Norris, K. O'Mara, J. Green, M. Fiddler, S. Bililign, V. Shah, L. Jaegl\u00e9, and J. Thornton. Airborne Observations of Reactive Inorganic Chlorine and Bromine Species in the Exhaust of Coal\u2010Fired Power Plants.   JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES. American Geophysical Union, Washington, DC, USA, 123(19): 11,225-11,237, (2018).",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Plume encounters that exhibited elevated levels of at least one of the three reactive bromine compounds (Br2, BrNO2, and BrCl).",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1029/2018jd029284"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6b198003-b697-4ec2-b54d-f25831ed0bdf"
+        },
+        {
+            "key": "source_hash",
+            "value": "6117616e8898fe27e0d50ad5996bd9c2a276d35f"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-06-05"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1500925"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:44:05.724010",
+            "description": "Plume%20encounters%20with%20bromine.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "7edb823f-eaa5-43ad-9bd8-27e64034e6ff",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:44:05.724010",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Plume encounters with bromine.docx",
+            "package_id": "be86a54a-3d57-4a72-b753-e280a1ee04c7",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500925/Plume%20encounters%20with%20bromine.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aircraft",
+            "id": "864d75e1-9be1-45c3-b2ac-e560cff36478",
+            "name": "aircraft",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bromine",
+            "id": "19266131-aad6-4304-ba19-46057e90ebb9",
+            "name": "bromine",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "coal",
+            "id": "ec57e5d6-7fda-448c-80b3-2df3d591415a",
+            "name": "coal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "plume",
+            "id": "2d4293db-3c72-488b-808d-4a9094bbdd9b",
+            "name": "plume",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 26,
+        "recent": 1
+    }
+}

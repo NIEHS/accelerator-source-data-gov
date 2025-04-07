@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "cee6526a-0e49-4d76-bc82-97d2cfb9d826",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Marina Evans",
+    "maintainer_email": "evans.marina@epa.gov",
+    "metadata_created": "2023-12-30T07:39:58.631790",
+    "metadata_modified": "2023-12-30T07:39:58.631799",
+    "name": "a-compartment-model-to-predict-in-vitro-finite-dose-absorption-of-chemicals-by-human-skin",
+    "notes": "Supplementary data for \"H.A. Fisher, M.V. Evans, A.L. Bunge, E.A. Cohen Hubal, D.A. Vallero, A compartment model to predict in vitro finite dose absorption of chemicals by human skin, Chemosphere, Volume 349, 2024, 140689, ISSN 0045-6535, https://doi.org/10.1016/j.chemosphere.2023.140689.\". \n\nThis dataset is associated with the following publication:\nFisher, H., M. Evans, A. Bunge, E. Cohen-Hubal, and D. Vallero. A compartment model to predict in vitro finite dose absorption of chemicals by human skin.   CHEMOSPHERE. Elsevier Science Ltd, New York, NY, USA, 349: 140689, (2024).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "A compartment model to predict in vitro finite dose absorption of chemicals by human skin",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "0f68ea1b8fc9204071f1324de776f2e40455ee1591be3e2dc95592c3bf6fc4f5"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1529955"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2023-11-09"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.chemosphere.2023.140689"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "18d35335-4ef6-4404-a6f9-26ad46d6996d"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-12-30T07:39:58.658071",
+            "description": "SI_submission.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "dd32eadc-e747-41d6-8705-bed113e720b9",
+            "last_modified": null,
+            "metadata_modified": "2023-12-30T07:39:58.607770",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "SI_submission.docx",
+            "package_id": "cee6526a-0e49-4d76-bc82-97d2cfb9d826",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1529955/SI_submission.docx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "compartmental-modeling",
+            "id": "fc15e313-4cee-44d1-94e8-ee087124d6c1",
+            "name": "compartmental-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dermal-absorbtion",
+            "id": "d3f0cc4e-ec0a-46d4-82aa-13d4f1fc0bda",
+            "name": "dermal-absorbtion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ficks-law-of-diffusion",
+            "id": "10dcf117-e1a4-4654-b04f-feb0ef911362",
+            "name": "ficks-law-of-diffusion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "human-dermal-permeability",
+            "id": "9b11674a-4ce4-496c-8889-701fb1d3f4cf",
+            "name": "human-dermal-permeability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-vitro-model",
+            "id": "2b5b1da7-af44-43e3-acf9-e8946f00c420",
+            "name": "in-vitro-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mass-balance-model",
+            "id": "2e9560e2-d8a8-4f46-8b0e-0146d71efe33",
+            "name": "mass-balance-model",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "be122af3-f04d-407c-8296-0e87eb5e4bf0",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Gerardo Ruiz-Mercado",
+    "maintainer_email": "ruiz-mercado.gerardo@epa.gov",
+    "metadata_created": "2024-05-23T12:54:53.173935",
+    "metadata_modified": "2024-05-23T12:54:53.173940",
+    "name": "datasets-for-manuscript-phosphorus-recovery-in-municipal-wastewater-and-socioeconomic-impa",
+    "notes": "The datasets contain the computer code and data required to determine the cost and economic impacts of phosphorus recovery from municipal wastewater in Canada and the United States. The datasets supply data to (i) calculate the efficiency and cost of phosphorus recovery from the aqueous phase of digestate and sewage sludge for wastewater resource recovery facilities (WRRFs) as shown in Figure 1; (ii) estimate the average annual per capita phosphorus recovery cost and the household affordability index (HAI) across the second-level territory divisions (census divisions (Canada) and counties (United States)) when excluding and including the offset cost derived from avoiding potential environmental damage caused by phosphorus releases as shown in Figure 2; (iii) supply the distribution of population in urban and rural areas, the treatment level of the WRRFs, and the phosphorus recovery points as a function of the WRRF scale in the studied regions of Canada and the United States as shown in Figure 3; and (iv) describe the distribution of the average phosphorus recovery cost, annual per capita phosphorus recovery costs, and the HAI per studied regions as shown in Figure 4.  \n\nData describing the WRRFs\u2019 location and characteristics across the studied regions of Canada and the United States are retrieved from the HydroWASTE database (https://www.hydrosheds.org/products/hydrowaste), including their spatial coordinates, treatment level, treatment design capacity, and population served. The HydroWASTE database reports the WRRF treatment level as primary, secondary, and advanced treatment. Since the U.S. Environmental Protection Agency does not define numeric nutrient water quality criteria for secondary wastewater treatment effluents, we consider that only the WRRFs with advanced treatments have specific processes for removing phosphorus from the liquid effluent.\n\nTo perform the analysis at the second-level divisions, data on total population, distribution of population in urban and rural areas, total income, and average annual income per capita are retrieved at the census division and county level for Canada and the United States, respectively. Data for the year 2020 is considered since it is the most recent information available for both countries. The first-level divisions level corresponds to census divisions of the United States, which provide territorial divisions similar in terms of development, demographic characteristics, and economic activities, being extensively used for collecting and analyzing data throughout the United States. A table of the states included in each United States census division can be found in the Supplementary Information file. The equivalent of the United States census divisions for Canada is the Canadian provinces and territories, although it must be noted that, unlike the case of the United States, their definition is guided by administrative and political considerations instead of statistical criteria.",
+    "num_resources": 1,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Datasets for manuscript: Phosphorus recovery in municipal wastewater and socioeconomic impacts in Canada and the United States",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "6333e0c0ecb0ffdebb3e342af033b47e859ba17e81d222bc62444ed1375e2cec"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1530881"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-04-12"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://pasteur.epa.gov/uploads/10.23719/1530881/documents/P_WWTP_Impact%20manuscript%20for%20RAPID%20SupMat.pdf",
+                "https://www.hydrosheds.org/products/hydrowaste"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "3ca6d589-e61b-475b-aa70-57ad95883434"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-05-23T12:54:53.188394",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "48d2111e-eaf0-495b-a7c1-62b5f6f1ec81",
+            "last_modified": null,
+            "metadata_modified": "2024-05-23T12:54:53.163685",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://zenodo.org/doi/10.5281/zenodo.10485771",
+            "package_id": "be122af3-f04d-407c-8296-0e87eb5e4bf0",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://zenodo.org/doi/10.5281/zenodo.10485771",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "nutrient-pollution",
+            "id": "08fd3eec-5bd7-450e-808d-15a761084e8a",
+            "name": "nutrient-pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "phosphorus-recovery",
+            "id": "e7cd63d3-3289-49ed-8fe1-48889e861580",
+            "name": "phosphorus-recovery",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "social-impact",
+            "id": "ad4d1683-4d73-4955-a245-93f72793d6fb",
+            "name": "social-impact",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wastewater-resource-recovery-facilities",
+            "id": "1132e63a-a074-4bc6-a218-c0a770ce7207",
+            "name": "wastewater-resource-recovery-facilities",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 8,
+        "recent": 1
+    }
+}

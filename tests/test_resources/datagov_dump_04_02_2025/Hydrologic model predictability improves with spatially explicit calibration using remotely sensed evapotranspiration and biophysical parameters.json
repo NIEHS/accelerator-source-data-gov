@@ -1,0 +1,169 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "da4efe68-67b5-4553-8be4-f33a76a7c772",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Heather Golden",
+    "maintainer_email": "golden.heather@epa.gov",
+    "metadata_created": "2020-11-12T13:45:44.517706",
+    "metadata_modified": "2020-11-12T13:45:44.517715",
+    "name": "hydrologic-model-predictability-improves-with-spatially-explicit-calibration-using-remotel",
+    "notes": "The dataset is supportive of the manuscript \"Hydrologic model predictability improves with spatially explicit calibration using remotely sensed evapotranspiration and biophysical parameters\". \n\nThis dataset is associated with the following publication:\nRajib, A., G. Evenson, H. Golden, and C. Lane. Hydrologic model predictability improves with spatially explicit calibration using remotely sensed evapotranspiration and biophysical parameters.   JOURNAL OF HYDROLOGY. Elsevier Science Ltd, New York, NY, USA, 567: 668-683, (2018).",
+    "num_resources": 1,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Hydrologic model predictability improves with spatially explicit calibration using remotely sensed evapotranspiration and biophysical parameters",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jhydrol.2018.10.024"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "7ee8a602-fd65-49fd-bd45-0d06d1274f3b"
+        },
+        {
+            "key": "source_hash",
+            "value": "7ac6baba694f37d435e6977e707d41f52f552b66"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-04-19"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1433650"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:45:44.532920",
+            "description": "GoldenHeather_A9cp1_Data_20180420.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "6e6a08ec-f2ab-4b49-86a6-cdb2ca3783ad",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:45:44.532920",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "GoldenHeather_A9cp1_Data_20180420.xlsx",
+            "package_id": "da4efe68-67b5-4553-8be4-f33a76a7c772",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1433650/GoldenHeather_A9cp1_Data_20180420.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "floods",
+            "id": "821f1238-2d8f-445b-a094-4a62ca307ec8",
+            "name": "floods",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrologic-model",
+            "id": "7cf83f38-cb7b-4165-8866-b8c6000fed0a",
+            "name": "hydrologic-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydrology",
+            "id": "b2933476-3a0d-4a09-86ac-c3235f87b4da",
+            "name": "hydrology",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 71,
+        "recent": 2
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "1bf45632-6966-4f37-9004-a447389cd133",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Alexander Hanf",
+    "maintainer_email": "hanf.alexander@epa.gov",
+    "metadata_created": "2020-11-12T13:47:32.779322",
+    "metadata_modified": "2020-11-12T13:47:32.779333",
+    "name": "in-silico-prediction-of-physicochemical-properties-of-environmental-chemicals-using-molecu",
+    "notes": "QSAR Model Reporting Formats. Examples of R code: feature selection and regression analysis. Figure S1: Data distribution of logBCF, BP, MP and logVP. Figures S2\u2013S5: Relationship between model complexity and prediction errors as well as the plots of estimated values versus experimental data for logBCF, BP, MP, and logVP, respectively. Figure S6: Plots of leverage versus standardized residuals for logBCF, BP, MP, and logVP models. Table S1: Chemical product classes for training and test sets. Tables S2\u2013S5: Regression statistics for logBCF, BP, MP, and logVP, respectively. Table S6: Applicability domains for logBCF, BP, MP, and logVP. Tables S7\u2013S12: Chemicals with large prediction residuals for the six properties (PDF)\n\nChemical names, CAS registry number and SMILES as well as experimentally measured and estimated property values of the training and test sets (XLSX). \n\nThis dataset is associated with the following publication:\nZang, Q., K. Mansouri, A. Williams, R. Judson, D. Allen, W.M. Casey, and N.C. Kleinstreuer. (Journal of Chemical Information and Modeling) In Silico Prediction of Physicochemical Properties of Environmental Chemicals Using Molecular Fingerprints and Machine Learning.   Journal of Chemical Information and Modeling. American Chemical Society, Washington, DC, USA, 57(1): 36-49, (2017).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "In Silico Prediction of Physicochemical Properties of Environmental Chemicals Using Molecular Fingerprints and Machine Learning",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.jcim.6b00625"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "29cef7dd-3133-40ed-a199-1d51573896da"
+        },
+        {
+            "key": "source_hash",
+            "value": "fc54d26bbbb7e094d22df00fb0cff73b305609e8"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-12-22"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504459"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:32.784446",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "3b145fd0-f2db-4445-8f68-eb8d055a8933",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:32.784446",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://pubs.acs.org/doi/abs/10.1021%2Facs.jcim.6b00625",
+            "package_id": "1bf45632-6966-4f37-9004-a447389cd133",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pubs.acs.org/doi/abs/10.1021%2Facs.jcim.6b00625",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "environmental-chemicals",
+            "id": "f977fa0d-0a08-41af-bf10-e70cc6669bd6",
+            "name": "environmental-chemicals",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "expocast",
+            "id": "21ac0be8-219f-41ac-99ed-60e313055a3d",
+            "name": "expocast",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exposure",
+            "id": "8049ad10-3bf6-4846-b6f7-ad415afd0ae7",
+            "name": "exposure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-silico",
+            "id": "6e65ee85-d41d-4981-bb0f-1498f38f2b43",
+            "name": "in-silico",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "machine-learning",
+            "id": "35c350f1-0603-408b-9c87-a11c53197622",
+            "name": "machine-learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "physicochemical-properties",
+            "id": "ed1e2711-3e17-421e-befb-18da5431a6db",
+            "name": "physicochemical-properties",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 73,
+        "recent": 1
+    }
+}

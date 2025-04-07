@@ -1,0 +1,277 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "02f4d32d-e9e2-402b-a928-47511b6d8215",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Xin Ma",
+    "maintainer_email": "ma.cissy@epa.gov",
+    "metadata_created": "2020-11-12T13:47:10.052315",
+    "metadata_modified": "2020-11-12T13:47:10.052322",
+    "name": "awg-and-bottled-water-source-data-and-results-files",
+    "notes": "Dataset of different AWG units and bottled water units for different scales were provided.  The LCA results of the different systems were provided as well. \n\nThis dataset is associated with the following publication:\nAbsar, M., S. Cashman, X. Ma, J. Garland, and M. Jahne. Life Cycle and Cost Assessments of Atmospheric Water Generation Technologies and Alternative Potable Water Emergency Response Options. U.S. Environmental Protection Agency, Washington, DC, USA.",
+    "num_resources": 5,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "AWG and Bottled Water source data and results files",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "06042be6-18d6-4035-8aeb-213fd6daf165"
+        },
+        {
+            "key": "source_hash",
+            "value": "8e255a195ec048a73ac8629d0e8176726c37f939"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-01-29"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1503094"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.059282",
+            "description": "AppendixA-AWG_BottledWaterDatav4_12.19.18.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "01e7ddb5-dd47-4c1c-befe-97874451789a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.059282",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "AppendixA-AWG_BottledWaterDatav4_12.19.18.xlsx",
+            "package_id": "02f4d32d-e9e2-402b-a928-47511b6d8215",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503094/AppendixA-AWG_BottledWaterDatav4_12.19.18.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.059292",
+            "description": "AppendixB-Results_Template_AWGBottledWaterv4_12.19.18.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "357925ea-ea94-471a-bba2-ce140bd7e5c8",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.059292",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "AppendixB-Results_Template_AWGBottledWaterv4_12.19.18.xlsx",
+            "package_id": "02f4d32d-e9e2-402b-a928-47511b6d8215",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503094/AppendixB-Results_Template_AWGBottledWaterv4_12.19.18.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.059298",
+            "description": "AWG_LCA_Report_Final_1.29.19.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "8d80688c-4872-4bc6-bfdb-29f7dd595dde",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.059298",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "AWG_LCA_Report_Final_1.29.19.docx",
+            "package_id": "02f4d32d-e9e2-402b-a928-47511b6d8215",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503094/AWG_LCA_Report_Final_1.29.19.docx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.059303",
+            "description": "AWG_LCA_Report_Final_1.29.19.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "55851ad5-78d2-4a3b-b08e-ca92c39f6538",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.059303",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "AWG_LCA_Report_Final_1.29.19.pdf",
+            "package_id": "02f4d32d-e9e2-402b-a928-47511b6d8215",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 9,
+                "recent": 4
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503094/AWG_LCA_Report_Final_1.29.19.pdf",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:47:10.059309",
+            "description": "Consolidated%20Comments%20%26%20Response_3.12.19.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "49a16967-335b-4ba3-b58a-bf2ac8f17609",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:47:10.059309",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Consolidated Comments & Response_3.12.19.xlsx",
+            "package_id": "02f4d32d-e9e2-402b-a928-47511b6d8215",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1503094/Consolidated%20Comments%20%26%20Response_3.12.19.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "alternative-potable-water-source",
+            "id": "f62a419e-b118-4118-8cd4-c492a3989eee",
+            "name": "alternative-potable-water-source",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "atmopheric-water-generation",
+            "id": "62485f6b-63e4-4e14-9e6f-551f4b1b4b71",
+            "name": "atmopheric-water-generation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bottled-water",
+            "id": "e7368bfa-f9ce-47fb-92f0-1edef78bb0f8",
+            "name": "bottled-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-assessment-lca",
+            "id": "5740a0bb-1a32-46cd-8c69-7569e55d4c70",
+            "name": "life-cycle-assessment-lca",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "life-cycle-cost",
+            "id": "0cac7d3c-a510-43bd-8e81-d1c18b35185c",
+            "name": "life-cycle-cost",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 117,
+        "recent": 12
+    }
+}

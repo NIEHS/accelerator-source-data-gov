@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "7e3d2bcc-e382-41ac-8658-ef3ba8c8f1f1",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Heather Golden",
+    "maintainer_email": "golden.heather@epa.gov",
+    "metadata_created": "2020-11-12T13:37:56.595252",
+    "metadata_modified": "2020-11-12T13:37:56.595263",
+    "name": "data-to-support-boosted-regression-tree-models-to-explain-watershed-nutrient-concentration",
+    "notes": "Spreadsheets are included here to support the manuscript \"Boosted Regression Tree Models to Explain Watershed Nutrient Concentrations and Biological Condition\". \n\nThis dataset is associated with the following publication:\nGolden , H., C. Lane , A. Prues, and E. D'Amico. Boosted Regression Tree Models to Explain Watershed Nutrient Concentrations and Biological Condition.   JAWRA. American Water Resources Association, Middleburg, VA, USA, 52(5): 1251-1274, (2016).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Data to support \"Boosted Regression Tree Models to Explain Watershed Nutrient Concentrations & Biological Condition\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12447/abstract"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "bcec3c92-5ac1-498c-adf2-12979dc24ad4"
+        },
+        {
+            "key": "source_hash",
+            "value": "11d2a39088e26e4c97470323025026303e5acb1d"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2014-11-10"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "A-7pvt-162"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:37:56.630788",
+            "description": "ScienceHubData_080416.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "2723d707-9b99-4956-bb3e-88778fc33376",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:37:56.630788",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "ScienceHubData_080416.zip",
+            "package_id": "7e3d2bcc-e382-41ac-8658-ef3ba8c8f1f1",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/162/ScienceHubData_080416.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "boosted-regression-tree",
+            "id": "8d7133ce-5dbd-4abd-bb23-310b448dc2d6",
+            "name": "boosted-regression-tree",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "index-of-biotic-integrity",
+            "id": "72aecbdc-bc18-48ce-a085-fe4e16e7e333",
+            "name": "index-of-biotic-integrity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nutrients",
+            "id": "7b22a832-3d85-4237-b697-ecd346e37a1e",
+            "name": "nutrients",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "riparian-buffer",
+            "id": "6467a00a-2877-4e34-91b7-8c68dd5dc1e2",
+            "name": "riparian-buffer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "statistical-model",
+            "id": "191b1dd9-f12b-413d-bb2a-6fb605302c72",
+            "name": "statistical-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "watershed",
+            "id": "e0f81c8b-7e21-4e48-b71b-ae5628329fec",
+            "name": "watershed",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "watershed-management",
+            "id": "a3eba11b-03a4-4128-912d-65eb8715b246",
+            "name": "watershed-management",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 82,
+        "recent": 1
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "e93c4c40-a81a-4bc0-bd5c-496fde192334",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Neil Chernoff",
+    "maintainer_email": "chernoff.neil@epa.gov",
+    "metadata_created": "2021-02-19T20:04:43.601199",
+    "metadata_modified": "2021-02-19T20:04:43.601206",
+    "name": "comparative-toxicity-of-microcystin-congeners-in-mice-exposed-by-the-oral-route",
+    "notes": "Physical and serum chemistry effects in mice due to a single oral dose of ten microcystin congeners at a variety of dose levels to determine health effects and a no observable effect level. \n\nThis dataset is associated with the following publications:\nChernoff, N. Comparative toxicology of microcystin congeners. U.S. Environmental Protection Agency, Washington, DC, USA.\nChernoff, N., D. Hill, J. Schmid, J. Lang, T. Le, A. Farthing, and H. Huang. The comparative toxicity of ten microcystin congeners administered orally to mice: Clinical effects and organ toxicity..   Toxins. MDPI AG, Basel,  SWITZERLAND, 12(6): 403, (2020).\nChernoff, N., D. Hill, J. Schmid, J. Lang, A. Farthing, and H. Huang. Dose-response study of microcystin congeners MCLR, MCLA, MCLY, MCRR, and MCYR administered orally to mice.   Toxins. MDPI AG, Basel,  SWITZERLAND, 13(2): 86, (2021).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Comparative toxicity of microcystin congeners in mice exposed by the oral route",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3390/toxins12060403",
+                "https://doi.org/10.3390/toxins13020086"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "a085096c-2306-4679-98c9-8499145b51c7"
+        },
+        {
+            "key": "source_hash",
+            "value": "6012cb9262775b1e3178aa9f35c8d9f68ade1d58"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2020-02-20"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:096"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1519315"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1519315/documents/Data%20dictionary%20for%20MC%20Congener%20PO%20metadata.docx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-02-19T20:04:43.617269",
+            "description": "MC%20Congener%20PO%20Metadata.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "421abb52-c252-4a7b-b4ab-08a20753decd",
+            "last_modified": null,
+            "metadata_modified": "2021-02-19T20:04:43.617269",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "MC Congener PO Metadata.xlsx",
+            "package_id": "e93c4c40-a81a-4bc0-bd5c-496fde192334",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1519315/MC%20Congener%20PO%20Metadata.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cyanobacterial-toxin",
+            "id": "200eb40d-b123-490c-9050-8371e7201ddb",
+            "name": "cyanobacterial-toxin",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-vivo-data",
+            "id": "54f8a99a-6761-428a-8a96-e74f71f4d66f",
+            "name": "in-vivo-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microcystins",
+            "id": "5897fa07-fcdc-447a-aad7-f0b0047ef23f",
+            "name": "microcystins",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "noael",
+            "id": "0bb65d1e-877a-4e3a-a81d-085b5e093a0e",
+            "name": "noael",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxicology",
+            "id": "fccc93ec-474d-44e2-bbf1-b2d688ba59c7",
+            "name": "toxicology",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 33,
+        "recent": 1
+    }
+}

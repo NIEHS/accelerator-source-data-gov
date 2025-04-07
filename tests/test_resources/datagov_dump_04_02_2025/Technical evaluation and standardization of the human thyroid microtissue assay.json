@@ -1,0 +1,215 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "9ab2b715-d862-493f-ae72-28c455b75539",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Chad Deisenroth",
+    "maintainer_email": "deisenroth.chad@epa.gov",
+    "metadata_created": "2024-12-23T17:09:48.375943",
+    "metadata_modified": "2024-12-23T17:09:48.375948",
+    "name": "technical-evaluation-and-standardization-of-the-human-thyroid-microtissue-assay",
+    "notes": "Dataset for Foley et al. 'Technical evaluation and standardization of the human thyroid microtissue assay'; Toxicological Sciences, Vol 199, Issue 1, pg 89-107, kfae014   May 2024. DOI https://doi.org/10.1093/toxsci/kfae014. \n\nThis dataset is associated with the following publication:\nFoley, B., K. Breaux, J. Gamble, S. Lynn, R. Thomas, and C. Deisenroth. Technical Evaluation and Standardization of the Human Thyroid Microtissue Assay.   TOXICOLOGICAL SCIENCES. Society of Toxicology, RESTON, VA,  199(1): 89-107, (2024).",
+    "num_resources": 2,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Technical evaluation and standardization of the human thyroid microtissue assay",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "4b83b3bc4569bdc9a0c2edd3d8da75d92d257e745ebe03fc27a64c5186573d19"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531907"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-12-12"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1093/toxsci/kfae014"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0912bf6e-da46-47a8-8f87-956cc5f26c7b"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-12-23T17:09:48.403023",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "69507063-5df5-4353-84a2-c2b94f826f30",
+            "last_modified": null,
+            "metadata_modified": "2024-12-23T17:09:48.354801",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://doi.org/10.5061/dryad.j9kd51cjv",
+            "package_id": "9ab2b715-d862-493f-ae72-28c455b75539",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://doi.org/10.5061/dryad.j9kd51cjv",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-12-23T17:09:48.403027",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "1e37fb4a-ae2b-47f3-b11b-93a9764c9eb7",
+            "last_modified": null,
+            "metadata_modified": "2024-12-23T17:09:48.354959",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://zenodo.org/records/10070162",
+            "package_id": "9ab2b715-d862-493f-ae72-28c455b75539",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://zenodo.org/records/10070162",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "endocrine-toxicology",
+            "id": "b37eba64-eadc-4cc9-acc1-a7b60b1b2a35",
+            "name": "endocrine-toxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "microtissues",
+            "id": "9efc2fb2-d578-4c46-b147-813d5a22e34d",
+            "name": "microtissues",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "new-approach-methods-alternatives-to-animal-testing",
+            "id": "b2922b76-6470-4f4f-94e1-f4bb101c257c",
+            "name": "new-approach-methods-alternatives-to-animal-testing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "organoids",
+            "id": "172a270f-41ee-4a57-9477-99d5efc09c75",
+            "name": "organoids",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thyroid",
+            "id": "e502671c-50a1-40b6-b0d3-c221317d0768",
+            "name": "thyroid",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thyroid-disrupting-chemicals",
+            "id": "2ddf0f81-9dae-4932-9667-213347ee9efa",
+            "name": "thyroid-disrupting-chemicals",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 12,
+        "recent": 1
+    }
+}

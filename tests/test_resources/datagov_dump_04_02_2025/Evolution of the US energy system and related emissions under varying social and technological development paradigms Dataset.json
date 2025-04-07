@@ -1,0 +1,197 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "8d23c3ed-02b4-4428-badc-4af9c3d2ae95",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Kristen Brown",
+    "maintainer_email": "brown.kristen@epa.gov",
+    "metadata_created": "2020-11-12T13:43:20.139353",
+    "metadata_modified": "2020-11-12T13:43:20.139359",
+    "name": "evolution-of-the-us-energy-system-and-related-emissions-under-varying-social-and-technolog",
+    "notes": "This data is associated with the manuscript \"Evolution of the US energy system and related emissions under varying social and technological development paradigms: Plausible scenarios for use in robust decision making\" which will be submitted to Environmental Science & Technology (ES&T). The research considers how the US energy system might evolve under four possible scenarios, including different technologies and different emission outcomes. \n\nThis dataset is associated with the following publication:\nBrown, K., T. Hottle, R. Bandyopadhyay, S. Babaee, R. Dodder, O. Kaplan, C. Lenox, and D. Loughlin. Evolution of the US energy system and related emissions under varying social and technological development paradigms: Plausible scenarios for use in robust decision making.   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA,  8027-8038, (2018).",
+    "num_resources": 1,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Evolution of the US energy system and related emissions under varying social and technological development paradigms Dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.8b00575"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b21931e0-c4cf-4c6a-b872-06b850bab33e"
+        },
+        {
+            "key": "source_hash",
+            "value": "5a46b3b37f8ed7b237c40bd3fee1259414a71f1d"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-12-08"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1411860"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:20.169822",
+            "description": "PathwaysFutureScenarios_ScienceHubData.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "b1e5bb45-769b-4f45-bd38-b36c840f62cd",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:20.169822",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "PathwaysFutureScenarios_ScienceHubData.xlsx",
+            "package_id": "8d23c3ed-02b4-4428-badc-4af9c3d2ae95",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1411860/PathwaysFutureScenarios_ScienceHubData.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy",
+            "id": "7c35fe0d-a745-4f8a-aff7-961189fe994f",
+            "name": "energy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy-modeling",
+            "id": "bf67f799-e7fd-476f-ba0c-3786943fdab6",
+            "name": "energy-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "externality",
+            "id": "8969fb43-92ec-45c7-9a0a-c38b26992c00",
+            "name": "externality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "markal",
+            "id": "a0ce729f-b952-4025-b8ad-daa1d7c8e49d",
+            "name": "markal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "scenario-planning",
+            "id": "f06d9843-d8e1-4d63-8e2a-dbced06e25a1",
+            "name": "scenario-planning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "scenarios",
+            "id": "eb7115b9-4a49-4e0b-b1b4-bf4304a1f648",
+            "name": "scenarios",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 102,
+        "recent": 1
+    }
+}

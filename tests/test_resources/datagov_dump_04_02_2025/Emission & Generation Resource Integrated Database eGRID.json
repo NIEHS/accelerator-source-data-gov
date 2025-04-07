@@ -1,0 +1,649 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "516cebf4-27c8-4b01-8d3a-b18b68ec0b0a",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Travis Johnson",
+    "maintainer_email": "Johnson.Travis@epa.gov",
+    "metadata_created": "2022-02-14T22:52:09.837270",
+    "metadata_modified": "2024-02-06T15:45:37.786123",
+    "name": "emission-generation-resource-integrated-database-egrid2020",
+    "notes": "The Emissions & Generation Resource Integrated Database (eGRID) is a comprehensive source of data on characteristics of almost all electric power generated in the United States. This data includes capacity; heat input; net generation; associated air emissions of nitrogen oxides, sulfur dioxide, carbon dioxide, methane, nitrous oxide and mercury; emissions rates; resource mix (i.e., generation by fuel type); nonbaseload calculations; line losses (a.k.a., grid gross loss); and many other attributes. The data is provided at the unit and generator levels, as well as, aggregated to the plant, state, balancing authority, eGRID subregion, NERC region, and US levels.\n\nAs of January 2024, the available editions of eGRID contain data for years 2022, 2021, 2020, 2019, 2018, 2016, 2014, 2012, 2010, 2009, 2007, 2005, 2004, and 1996 through 2000.",
+    "num_resources": 2,
+    "num_tags": 64,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Emission & Generation Resource Integrated Database (eGRID)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "5f9c578f71f3994966d1cf57ae79d2fd60bec2ac49a6804989736a731f308f77"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "R/P1Y"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "dataQuality",
+            "value": true
+        },
+        {
+            "key": "identifier",
+            "value": "c9a433cb-6754-4a87-a157-9571c054c0ca"
+        },
+        {
+            "key": "issued",
+            "value": "2024-01-30"
+        },
+        {
+            "key": "landingPage",
+            "value": "https://www.epa.gov/egrid"
+        },
+        {
+            "key": "language",
+            "value": [
+                "en"
+            ]
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-01-30"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:032"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "Environmental Protection Agency"
+        },
+        {
+            "key": "temporal",
+            "value": "2022-01-01/2022-12-31"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/Public/OAR/OAP/metadata/OAR-OAP.json"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "bbcb6fa4-cabc-41a1-a62c-32d930c4feb7"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "7e6bdd95-d59f-4965-9435-992cbbb90c83"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OAR-OAP Non-Geo Records"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-02-14T22:52:09.874314",
+            "description": "Most recent year represents 2022 data.",
+            "format": "Microsoft Office - OOXML - Spreadsheet (.xlsx)",
+            "hash": "",
+            "id": "12fb6dd5-f7dd-40a3-885d-0d5c6a166fc0",
+            "last_modified": null,
+            "metadata_modified": "2024-02-06T15:45:37.798538",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "eGRID Data Download",
+            "package_id": "516cebf4-27c8-4b01-8d3a-b18b68ec0b0a",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 117,
+                "recent": 7
+            },
+            "url": "https://www.epa.gov/egrid/download-data",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-02-14T22:52:09.874325",
+            "description": "The eGRID mapping files include an eGRID subregion image (png), shapefiles (shp), zipped Keyhole Markup Language (kmz) files, and a geodatabase (gdb).",
+            "format": "",
+            "hash": "",
+            "id": "14f0faa5-e654-486c-8c65-6c7eafb04947",
+            "last_modified": null,
+            "metadata_modified": "2023-02-03T21:44:59.410493",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "eGRID Mapping Files",
+            "package_id": "516cebf4-27c8-4b01-8d3a-b18b68ec0b0a",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 7,
+                "recent": 2
+            },
+            "url": "https://www.epa.gov/egrid/maps",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air",
+            "id": "0c285224-7a71-45b4-804a-ae078ca6f436",
+            "name": "air",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-pollution",
+            "id": "377a66eb-8d7a-472b-9d77-39ac9e6cb37f",
+            "name": "air-pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biomass",
+            "id": "ce25ea2f-7be4-4011-9f19-868eceda4bd5",
+            "name": "biomass",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "carbon-dioxide",
+            "id": "e0e5d578-a6cf-455e-bfff-86033225ac58",
+            "name": "carbon-dioxide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "clean-energy",
+            "id": "7947184c-09d1-4423-b9b4-2bf9c5db3fb0",
+            "name": "clean-energy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate-change",
+            "id": "a5bc1c04-d027-471c-a0f7-1a8b20c88620",
+            "name": "climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "coal",
+            "id": "ec57e5d6-7fda-448c-80b3-2df3d591415a",
+            "name": "coal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "displaced-emissions",
+            "id": "a348ce0d-bf2a-4ed9-98fb-dc8d99b48dcb",
+            "name": "displaced-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "egrid",
+            "id": "5ac87e57-ee54-40b1-b1e5-d49955f6e7e3",
+            "name": "egrid",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "egrid-subregion",
+            "id": "254f257d-564b-4e80-9f5e-7ec95c5d9f5d",
+            "name": "egrid-subregion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "electricity",
+            "id": "4be0487a-507a-4405-b0f3-f32563e04b5f",
+            "name": "electricity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emission-rates",
+            "id": "f5ded24a-b4cd-4d20-9b66-a95f5b7b51d6",
+            "name": "emission-rates",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emission-reductions",
+            "id": "a33ed83b-3cfe-4674-b32e-bd80c7c9aaed",
+            "name": "emission-reductions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emissions",
+            "id": "09baf6a3-d24a-4265-8b80-2ada905665dd",
+            "name": "emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emissions-and-generation-resource-integrated-database",
+            "id": "94542b7f-b119-40e9-bb52-7d22a10f747f",
+            "name": "emissions-and-generation-resource-integrated-database",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "emissions-rates",
+            "id": "74b89b0a-9a9e-4844-826c-9ca4a10c1682",
+            "name": "emissions-rates",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy",
+            "id": "7c35fe0d-a745-4f8a-aff7-961189fe994f",
+            "name": "energy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy-efficiency",
+            "id": "096301f7-03da-41f4-ab39-1084e2daf561",
+            "name": "energy-efficiency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-impacts",
+            "id": "b40bfe59-8e18-4333-ae16-7fff162b0fb7",
+            "name": "environmental-impacts",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental-protection-agency",
+            "id": "6879fc71-8504-4a81-a5c5-16a272bb2a46",
+            "name": "environmental-protection-agency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "facilities",
+            "id": "e84e6137-8dce-41d2-b63e-38319e3f618a",
+            "name": "facilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "gas",
+            "id": "6bfffc96-c4fc-428a-a8b1-01fcebd6ad80",
+            "name": "gas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "geothermal",
+            "id": "a7fc904d-33ea-4243-b9cc-d86add4659ce",
+            "name": "geothermal",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ghg",
+            "id": "712149ed-b280-481a-bf4d-3964c07f93c0",
+            "name": "ghg",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "global-climate-change",
+            "id": "2e6bd074-4a2e-49e9-8592-08e429839949",
+            "name": "global-climate-change",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "green-power",
+            "id": "7e035772-d263-4bf0-b218-7ea4c2f9fa3e",
+            "name": "green-power",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "greenhouse-gas",
+            "id": "99246d47-89cc-4b9a-b752-ef0bd11797d7",
+            "name": "greenhouse-gas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydro",
+            "id": "9f54792d-0d8a-4c5a-ab38-95638c79e8ae",
+            "name": "hydro",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydroelectricity",
+            "id": "759f8ddf-9307-4627-8bc7-5893825ede09",
+            "name": "hydroelectricity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hydropower",
+            "id": "7a8d71da-0a84-445f-b554-ec93bd7b7824",
+            "name": "hydropower",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "landfill-gas",
+            "id": "dd05e93e-2bc2-45f5-ad98-916c700d0681",
+            "name": "landfill-gas",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "location",
+            "id": "eced5b56-955c-407c-a2e8-7e655aec0bd9",
+            "name": "location",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mercury",
+            "id": "546092a9-55ca-4b1e-8c3c-1b0bbda807ef",
+            "name": "mercury",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "methane",
+            "id": "8a86604e-586f-4609-bbb7-489e40eddd15",
+            "name": "methane",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "monitoring",
+            "id": "09a7de3b-d42b-4469-a005-596b886d3c26",
+            "name": "monitoring",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "municipal-solid-waste",
+            "id": "62c5cb20-1060-47b1-9551-6d0d37136897",
+            "name": "municipal-solid-waste",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nerc",
+            "id": "2b3fe20d-6079-401f-88f4-f2a8be256897",
+            "name": "nerc",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nerc-region",
+            "id": "bc9c8a90-62d1-4e2f-b3d2-0c04c741497e",
+            "name": "nerc-region",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-dioxide",
+            "id": "c8461600-8583-495f-b20e-f7853a291970",
+            "name": "nitrogen-dioxide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "non-baseload",
+            "id": "2336027e-cb92-40cc-913c-f74261bd1905",
+            "name": "non-baseload",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nonrenewable-resources",
+            "id": "8fc749d2-e2bf-4cdd-865c-be842d0d867c",
+            "name": "nonrenewable-resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nuclear",
+            "id": "03e9f5c8-be54-41d8-85ce-5e851a85d2e2",
+            "name": "nuclear",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oil",
+            "id": "de39542d-e9e4-4f3b-beae-08829e05bef0",
+            "name": "oil",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pollutants",
+            "id": "29c8d37a-d66a-486c-a04f-0a402560153b",
+            "name": "pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "power-generation",
+            "id": "452f45d9-df1a-4b1b-b634-186b07329bd5",
+            "name": "power-generation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "power-plants",
+            "id": "1139b014-7dd5-4660-8508-0a5e753f263f",
+            "name": "power-plants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "production",
+            "id": "421e1ec6-38cc-4b92-9c87-b9bced2a6ba4",
+            "name": "production",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "renewable-energy",
+            "id": "1835a4e8-8a42-4607-be33-ec2e99632cf3",
+            "name": "renewable-energy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "renewable-resources",
+            "id": "80c5f0ba-a0b7-4619-8bc9-7e7fa187bb03",
+            "name": "renewable-resources",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "solar",
+            "id": "b18201ad-8e8d-4644-b651-244741d27d91",
+            "name": "solar",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "state-policy",
+            "id": "4ee69a67-64a8-4bca-b397-f7a36ce5c9fa",
+            "name": "state-policy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sulfur-dioxide",
+            "id": "7d817415-e315-4082-a13f-66eb78fea63a",
+            "name": "sulfur-dioxide",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "system-mix",
+            "id": "64199ea9-c69d-4d91-8aad-91ba08ddf601",
+            "name": "system-mix",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "technologies",
+            "id": "f4b365dd-fa1e-4df1-8c09-492b770ef55b",
+            "name": "technologies",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "technology",
+            "id": "b93461b8-d8fd-4cf3-a10c-269756a3d525",
+            "name": "technology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "total-output-emission-rate",
+            "id": "bf745203-3201-4d56-a995-7b135eb40914",
+            "name": "total-output-emission-rate",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "u-s-epa",
+            "id": "3fa81da1-806a-4835-b649-2213487d665d",
+            "name": "u-s-epa",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "utilities",
+            "id": "51ef39a8-998a-403d-b74a-b81cd1651715",
+            "name": "utilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "utilitiescommunication",
+            "id": "cf667622-bb35-49e6-be9b-23c5ca1d18d8",
+            "name": "utilitiescommunication",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "utility",
+            "id": "f26c0ba7-fa2e-453c-b4c3-19e9e3c0a548",
+            "name": "utility",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wind",
+            "id": "31a52aee-0cb2-4ad6-8fcb-055efd417ca3",
+            "name": "wind",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 4414,
+        "recent": 75
+    }
+}

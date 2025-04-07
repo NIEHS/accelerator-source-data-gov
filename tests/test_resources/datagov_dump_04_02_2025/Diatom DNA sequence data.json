@@ -1,0 +1,229 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "39937193-3714-4c34-94af-2b4e712083ab",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Erik Pilgrim",
+    "maintainer_email": "pilgrim.erik@epa.gov",
+    "metadata_created": "2025-02-22T04:15:29.229276",
+    "metadata_modified": "2025-02-22T04:15:29.229281",
+    "name": "diatom-dna-sequence-data",
+    "notes": "The raw data consisted of demultiplexed fastq files\npairs (R1.fastq and R2.fastq) per sample accessible on the NCBI Sequences\nRead Archive (SRA) under the BioProject accession numbers PRJNA1187555\nfor experiments E1 and E3 and PRJNA1187576 for E2 and E4. \n\nThis dataset is associated with the following publication:\nValentin, V., S. Rivera, E. Acs, S. Almeida, K. Andree, L. Apoth\u00e9loz-Perret-Gentil, B. Bailet, A. Bari\u010devi\u0107, K. Beentjes, J. Bettig, A. Bouchez, C. Camilla, C. Chardon, M. Duleba, T. Elersek, C. Genthon, M. Jablonska, L. Jacas, M. Kahlert, M. Kelly, J. Macher, F. Mauri, M. Moletta-Denat, A. Mort\u00e1gua, J. Pawlowski, J. P\u00e9rez-Burillo, M. Pfannkuchen, E. Pilgrim, P. Panayiota, F. Rimet, K. Stanic, K. Tapolczai, S. Theroux, R. Trobajo, B. Van der Hoorn, M. Vasquez, M. Vidal, D. Wanless, J. Warren, J. Zimmermann, and B. Paix. Proficiency testing and cross-laboratory method comparison to support standardisation of diatom DNA metabarcoding for freshwater biomonitoring.   Metabarcoding and Metagenomics. Pensoft Publishers, Sofia,  BULGARIA,  e133264, (2025).",
+    "num_resources": 2,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Diatom DNA sequence data",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "aaa528445eaeb817d5031ebd840ff9e2494e9d198f138dc10b71cffd9c4a24be"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531982"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-10-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.3897/mbmg.9.133264"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "ef02a499-ca62-47fd-b669-4ed6314d5bc4"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-22T04:15:29.251362",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "7942829f-c824-4b5e-8560-26cf33d33912",
+            "last_modified": null,
+            "metadata_modified": "2025-02-22T04:15:29.215080",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1187555",
+            "package_id": "39937193-3714-4c34-94af-2b4e712083ab",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1187555",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-22T04:15:29.251365",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "524e1144-cc59-40d8-a1ad-2545b7fe547a",
+            "last_modified": null,
+            "metadata_modified": "2025-02-22T04:15:29.215191",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1187576",
+            "package_id": "39937193-3714-4c34-94af-2b4e712083ab",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1187576",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cross-laboratory-experiment",
+            "id": "8be732f5-fd6b-46fd-b938-3e60595ed0d3",
+            "name": "cross-laboratory-experiment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "diatoms",
+            "id": "6593229d-3dca-46ff-8ac6-f0455ec3a733",
+            "name": "diatoms",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dna-extraction",
+            "id": "a015e607-4dbb-416a-bc56-1dd5e2a3514f",
+            "name": "dna-extraction",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dna-metabarcoding",
+            "id": "e684ac5c-1b74-4b9f-ac67-b0d83262659f",
+            "name": "dna-metabarcoding",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "freshwater-quality-assessment",
+            "id": "a9558e80-0bff-4d46-986f-33625cefc562",
+            "name": "freshwater-quality-assessment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "intercalibration",
+            "id": "42c4c5c5-3050-46d0-94f7-2e44562ce3f9",
+            "name": "intercalibration",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pcr",
+            "id": "f9e44cf2-de0e-4b77-b862-b55cd8264a89",
+            "name": "pcr",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "standardization",
+            "id": "8d57605e-9bbf-470b-8407-0b1935046292",
+            "name": "standardization",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 17,
+        "recent": 1
+    }
+}

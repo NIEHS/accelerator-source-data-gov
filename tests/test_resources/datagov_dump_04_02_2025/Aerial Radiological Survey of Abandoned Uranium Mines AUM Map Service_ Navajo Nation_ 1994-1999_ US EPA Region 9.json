@@ -1,0 +1,294 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "56b17350-5cef-4c3b-90e8-4dbde001bbed",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:39:03.777696",
+    "metadata_modified": "2025-02-25T05:39:03.777702",
+    "name": "aerial-radiological-survey-of-abandoned-uranium-mines-aum-map-service-navajo-nation-1994-1999-u14",
+    "notes": "This map service contains data from aerial radiological surveys of 41 potential uranium mining areas (1,144 square miles) within the Navajo Nation that were conducted during the period from October 1994 through October 1999. The US Environmental Protection Agency (USEPA) Region 9 funded the surveys and the US Department of Energy (USDOE) Remote Sensing Laboratory (RSL) in Las Vegas, Nevada conducted the aerial surveys. The aerial survey data were used to characterize the overall radioactivity and excess Bismuth 214 levels within the surveyed areas. This US EPA Region 9 web service contains the following map layers: Total Terrestrial Gamma Activity Polygons, Total Terrestrial Gamma Activity Contours, Excess Bismuth 214 Contours, Excess Bismuth 214 Polygons, Flight Areas Full FGDC metadata records for each layer can be found by clicking the layer name at the web service endpoint and viewing the layer description. Security Classification: Public. Access Constraints: None. Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.",
+    "num_resources": 1,
+    "num_tags": 15,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Aerial Radiological Survey of Abandoned Uranium Mines (AUM) Map Service, Navajo Nation, 1994-1999, US EPA Region 9",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "7B4E4EC324-FC81-4412-AB8F-0849010CDB57"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2016-06-29\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2022-02-10"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "henley.cheryl@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": ""
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "1999-10-31"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "1999-10-31"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 9\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-106.943359"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "37.461553"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "34.258939"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-111.89114"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.89114, 34.258939], [-106.943359, 34.258939], [-106.943359, 37.461553], [-111.89114, 37.461553], [-111.89114, 34.258939]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.89114, 34.258939], [-106.943359, 34.258939], [-106.943359, 37.461553], [-111.89114, 37.461553], [-111.89114, 34.258939]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f75413a8-89bb-49b1-9bef-99eda133bcad"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:39:03.780263",
+            "description": "",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "c27842b5-7e9a-40b9-b2f3-fb4642e23d5e",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:39:03.754790",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Esri REST API Endpoint",
+            "no_real_name": true,
+            "package_id": "56b17350-5cef-4c3b-90e8-4dbde001bbed",
+            "position": 0,
+            "resource_locator_function": "",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://gispub5.epa.gov/arcgis/rest/services/Region9/R9NNAUMRadiation/MapServer",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "arizona",
+            "id": "505b3704-0140-4a4b-b0ca-1d68829851c9",
+            "name": "arizona",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "california",
+            "id": "364760b8-6576-42af-b0c5-278dec4415e7",
+            "name": "california",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "contaminant",
+            "id": "2437510a-6d3f-40af-89f4-e922116ab457",
+            "name": "contaminant",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "exposure",
+            "id": "8049ad10-3bf6-4846-b6f7-ad415afd0ae7",
+            "name": "exposure",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hazards",
+            "id": "e353b54d-727c-4c4f-ac4b-1c6e16722135",
+            "name": "hazards",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "health",
+            "id": "3b24c0fa-1ddf-4dc3-965f-93a79d68ab18",
+            "name": "health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "human",
+            "id": "b134b1c5-7cd6-489b-ac82-d412c017919b",
+            "name": "human",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "impact",
+            "id": "fa3a6e79-299b-44e3-bb38-df453f7cb7df",
+            "name": "impact",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "navajo",
+            "id": "1ddbf1ce-efff-4f17-8a8a-e8e17bc8b73d",
+            "name": "navajo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "navajo nation",
+            "id": "3e06b3c6-e74c-4708-99d0-ce1db83739ba",
+            "name": "navajo nation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nevada",
+            "id": "2830ad14-05eb-44b7-8533-96336d133990",
+            "name": "nevada",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "radiation",
+            "id": "5fde1601-db8c-4685-a621-9c430b975225",
+            "name": "radiation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "utah",
+            "id": "51a1d813-a630-4490-9ce5-015334c39826",
+            "name": "utah",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 3
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "39a469f5-5e63-410f-b9bb-ea9a6aa710dc",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Kevin Flynn",
+    "maintainer_email": "flynn.kevin@epa.gov",
+    "metadata_created": "2022-04-24T23:07:10.099023",
+    "metadata_modified": "2022-04-24T23:07:10.099030",
+    "name": "dataset-for-effects-of-a-28-day-early-life-stage-exposure-to-carbaryl-on-fathead-minnow-lo",
+    "notes": "The US Environmental Protection Agency conducts ecological risk assessments with a battery of fish toxicity tests that include acute, early life stage, and reproduction tests.  While endpoints in these tests (survival, growth and reproduction) are conceptually related, because they are measured in separate exposures, the quantitative relationships between them are difficult to determine and largely ignored.  In the current test, fathead minnows (FHM) were exposed for 28 days to 1 mg/L or 2 mg/L carbaryl, a well-studied carbamate insecticide, in early life stages and then reared in clean water until adulthood, when reproduction was assessed.  Also. weekly growth measurements were taken throughout the test to determine growth rates during and after exposure.  Growth curves derived from these measurements were then compared to the reproductive output.  The data indicate that carbaryl reduced growth rate only for a brief time early in the exposure.  However, this brief effect impacted overall growth into adulthood and lowered the reproductive output of exposed FHM.  The effect of a transient exposure early in life to carbaryl could have later population-level impacts by causing mortality, lowering growth rates, and reducing reproductive output. \n\nThis dataset is associated with the following publication:\nFlynn, K., S. Kadlec, V. Kurker, and M. Etterson. Effects of a 28-day early life stage exposure to carbaryl on fathead minnow long-term growth and reproduction.   AQUATIC TOXICOLOGY. Elsevier Science Ltd, New York, NY, USA, 242: 106018, (2022).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Dataset for Effects of a 28-day early life stage exposure to carbaryl on fathead minnow long-term growth and reproduction",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1520973"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2021-03-12"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.aquatox.2021.106018"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "9e63f8da53031d049f8cabdae82f76bb011acb3a"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "87c5696e-5716-44cb-bbe2-b00da9846ec3"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2022-04-24T23:07:10.123537",
+            "description": "ORD-038051%20Carbaryl%20ELS_Reprod%20Science%20Hub%20Data%20File%203.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "dc9135e9-e1bd-4996-95b9-7ba0e523c525",
+            "last_modified": null,
+            "metadata_modified": "2022-04-24T23:07:10.123537",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ORD-038051 Carbaryl ELS_Reprod Science Hub Data File 3.xlsx",
+            "package_id": "39a469f5-5e63-410f-b9bb-ea9a6aa710dc",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1520973/ORD-038051%20Carbaryl%20ELS_Reprod%20Science%20Hub%20Data%20File%203.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "aquatic-toxicity",
+            "id": "d01d8033-7d3e-49e0-9052-bdbc5027fde7",
+            "name": "aquatic-toxicity",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "carbaryl",
+            "id": "e199b0de-1659-469a-8f9c-8ecee24d00e3",
+            "name": "carbaryl",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecological-model",
+            "id": "11c91835-c215-4626-b979-047aeb86d6a4",
+            "name": "ecological-model",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "growth",
+            "id": "260e14d6-a2fe-4092-9b06-70522227cce6",
+            "name": "growth",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pesticides",
+            "id": "323d9b30-fa85-4ada-8b8b-2374a8275a6f",
+            "name": "pesticides",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 103,
+        "recent": 1
+    }
+}

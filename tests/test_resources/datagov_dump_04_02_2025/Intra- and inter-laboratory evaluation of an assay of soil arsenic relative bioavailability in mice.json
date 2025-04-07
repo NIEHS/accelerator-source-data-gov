@@ -1,0 +1,150 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "08efd84c-8e15-4fc8-8460-806d0039762c",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Karen Bradham",
+    "maintainer_email": "bradham.karen@epa.gov",
+    "metadata_created": "2020-11-12T13:48:49.301755",
+    "metadata_modified": "2020-11-12T13:48:49.301765",
+    "name": "intra-and-inter-laboratory-evaluation-of-an-assay-of-soil-arsenic-relative-bioavailability",
+    "notes": "Data were generated from US EPA Superfund site soil samples. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: In the publication and supporting information. Format: These data were generated from US EPA Superfund site soil samples.  All of the soil samples were provided to NERL for methods development based on the agreement that the specific sample identifiers not be released.  The public can access the data, which are provided in the publication and presented in tables and figures within the publication. \n\nThis dataset is associated with the following publication:\nBradham, K., C. Herde, P. Herde, A.L. Johasz, K. Herbin-Davis, B. Elek, A. Farthing, G.L. Diamond, and D.J. Thomas. Intra- and Interlaboratory Evaluation of an Assay of Soil Arsenic Relative Bioavailability in Mice.   JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY. American Chemical Society, Washington, DC, USA, 68(9): 2615-2622, (2020).",
+    "num_resources": 0,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Intra- and inter-laboratory evaluation of an assay of soil arsenic relative bioavailability in mice",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.jafc.9b06537"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b61fc6d2-874c-459d-ae18-a9c1c01b865a"
+        },
+        {
+            "key": "source_hash",
+            "value": "38703f5b800aca6acc051474100ac8da07e5f47b"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-05-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504125"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "arsenic",
+            "id": "8d4273a7-b2fc-45f8-85dc-23eda4ab84a3",
+            "name": "arsenic",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "bioavailability",
+            "id": "636e89af-12d2-477b-b87e-717167755036",
+            "name": "bioavailability",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-vivo",
+            "id": "6f5bdd89-9e36-4907-b227-6ffe74036ad0",
+            "name": "in-vivo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soil",
+            "id": "0ff9ac30-4136-4d29-9d25-741217bfa174",
+            "name": "soil",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 62,
+        "recent": 1
+    }
+}

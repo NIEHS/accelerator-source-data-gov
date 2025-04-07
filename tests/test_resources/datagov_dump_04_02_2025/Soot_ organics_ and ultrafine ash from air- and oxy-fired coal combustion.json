@@ -1,0 +1,341 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "ef6cddde-cf3b-44a4-81de-8418a0877b55",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "William Linak",
+    "maintainer_email": "linak.bill@epa.gov",
+    "metadata_created": "2020-11-12T13:38:58.670593",
+    "metadata_modified": "2020-11-12T13:38:58.670603",
+    "name": "soot-organics-and-ultrafine-ash-from-air-and-oxy-fired-coal-combustion",
+    "notes": "Pulverized bituminous coal was burned in a 10W externally heated entrained flow furnace under air-combustion and three oxy-combustion inlet oxygen conditions (28, 32, and 36%).  Experiments were designed to produce flames with practically relevant stoichiometric ratios (SR=1.2-1.4) and constant residence times (2.3s).  Size-classified fly ash samples were collected, and measurements focused on the soot, elemental carbon (EC), and organic carbon (OC) composition of the total and ultrafine (<0.6\u00b5m) fly ash.  Results indicate that although the total fly ash carbon, as measured by loss on ignition, was always acceptably low (<2%) with all three oxy-combustion conditions lower than air-combustion, the ultrafine fly ash for both air-fired and oxy-fired combustion conditions consists primarily of carbonaceous material (50-95%).  Carbonaceous components on particles <0.6\u00b5m measured by a thermal optical method showed that large fractions (52-93%) consisted of OC rather than EC, as expected.  This observation was supported by thermogravimetric analysis indicating that for the air, 28% oxy, and 32% oxy conditions, 14-71% of this material may be OC volatilizing between 100 and 550\u00b0C with the remaining 29-86% being EC/soot.  However, for the 36% oxy condition, OC may comprise over 90% of the ultrafine carbon with a much smaller EC/soot contribution.  These data were interpreted by considering the effects of oxy-combustion on flame attachment, ignition delay, and soot oxidation of a bituminous coal, and the effects of these processes on OC and EC emissions.  Flame aerodynamics and inlet oxidant composition may influence emissions of organic hazardous air pollutants (HAPs) from a bituminous coal.   During oxy-coal combustion, judicious control of inlet oxygen concentration and placement may be used to minimize organic HAP and soot emissions. \n\nThis dataset is associated with the following publication:\nAndersen, M., N. Modak, C. Winterrowd, C.W. Lee , W. Roberts, J. Wendt, and B. Linak. Soot, organics and ultrafine ash from air- and oxy-fired coal combustion.   Proceedings of the Combustion Institute. Elsevier B.V., Amsterdam,  NETHERLANDS, 36(3): 4029-4037, (2017).",
+    "num_resources": 7,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Soot, organics, and ultrafine ash from air- and oxy-fired coal combustion",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.proci.2016.08.073"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "13a848ba-019e-4cda-9e5b-4d045c434152"
+        },
+        {
+            "key": "source_hash",
+            "value": "a48512a3c82820bf4f70be022c4948ab99918c74"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-07-25"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1372478"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1372478/documents/Data%20Dictionary.docx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:58.678136",
+            "description": "Table%201%20of%204.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "488401ed-890c-487b-ae43-6161426c4210",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:58.678136",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Table 1 of 4.docx",
+            "package_id": "ef6cddde-cf3b-44a4-81de-8418a0877b55",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1372478/Table%201%20of%204.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:58.678146",
+            "description": "Table%202%20of%204.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "41cb4cd6-1ec4-4a45-9ce8-5e791f4d5030",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:58.678146",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Table 2 of 4.docx",
+            "package_id": "ef6cddde-cf3b-44a4-81de-8418a0877b55",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1372478/Table%202%20of%204.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:58.678151",
+            "description": "Table%203%20of%204.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "21e97a13-2582-4a06-8747-cacebf5e856b",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:58.678151",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Table 3 of 4.docx",
+            "package_id": "ef6cddde-cf3b-44a4-81de-8418a0877b55",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1372478/Table%203%20of%204.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:58.678156",
+            "description": "Table%204%20of%204.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "b2b65630-8748-49d4-a5ed-534bb4f75658",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:58.678156",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Table 4 of 4.docx",
+            "package_id": "ef6cddde-cf3b-44a4-81de-8418a0877b55",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1372478/Table%204%20of%204.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:58.678160",
+            "description": "Fig%201%20of%203.pdf",
+            "format": "PDF",
+            "hash": "",
+            "id": "b6cefe5a-fc8c-4aa5-bc21-43de718844be",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:58.678160",
+            "mimetype": "application/pdf",
+            "mimetype_inner": null,
+            "name": "Fig 1 of 3.pdf",
+            "package_id": "ef6cddde-cf3b-44a4-81de-8418a0877b55",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1372478/Fig%201%20of%203.pdf",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:58.678165",
+            "description": "Fig%202rev.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "18805603-66b6-4c6c-b94d-4d258be80a56",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:58.678165",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig 2rev.xlsx",
+            "package_id": "ef6cddde-cf3b-44a4-81de-8418a0877b55",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1372478/Fig%202rev.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:38:58.678169",
+            "description": "Fig%203_20160509_Possible_Edits.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "4e86564b-251b-44a7-a445-579cf868a908",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:38:58.678169",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Fig 3_20160509_Possible_Edits.xlsx",
+            "package_id": "ef6cddde-cf3b-44a4-81de-8418a0877b55",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1372478/Fig%203_20160509_Possible_Edits.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "elemental-carbon",
+            "id": "bfbe68a6-c5f5-4357-bc26-b588d135b385",
+            "name": "elemental-carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "loss-on-ignition",
+            "id": "4f15e0d3-fa6f-4461-b071-fd1488bc7406",
+            "name": "loss-on-ignition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "organic-carbon",
+            "id": "bce8faa8-b019-4598-92f0-cdc694184fd7",
+            "name": "organic-carbon",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oxy-coal-combustion",
+            "id": "2c4a0ee9-06b0-432e-880f-9c8eb99c20f7",
+            "name": "oxy-coal-combustion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ultrafine-fly-ash",
+            "id": "2553ea29-832a-499b-8e1c-cc0aa7cb3179",
+            "name": "ultrafine-fly-ash",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 59,
+        "recent": 1
+    }
+}

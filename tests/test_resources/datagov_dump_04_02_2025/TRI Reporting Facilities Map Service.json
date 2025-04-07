@@ -1,0 +1,284 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "ad10ebb3-c201-465e-9425-46d0ce86cff7",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:26:48.666390",
+    "metadata_modified": "2025-02-25T05:26:48.666394",
+    "name": "tri-reporting-facilities-map-service9",
+    "notes": "This map service shows point locations for facilities that submitted TRI reports to EPA during the most recent reporting year. EPA's Locational Reference Table is used for the facility\u2019s latitude and longitude coordinates. Icons on the map are relatively sized based on the sum of all chemical quantities reported as released. The pop-up presents TRI data including facility name, address, industry sector, and total on-site and off-site release amounts as well as identifiers for TRI and FRS programs and a link to a more detailed TRI report. The data refreshes biannually. For more information, refere to the TRI Program Webpages, https://www.epa.gov/toxics-release-inventory-tri-program.",
+    "num_resources": 1,
+    "num_tags": 12,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "TRI Reporting Facilities Map Service",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "C05903B3-3F57-43ED-B280-079A3E05414A"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "3857"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2020-01-09\"}, {\"type\": \"revision\", \"value\": \"\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2022-07-11"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "roach.amanda@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "biannually"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": "completed"
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"Unless otherwise specified, all data produced by the U.S EPA is by default in the public domain and is not subject to domestic copyright protection under 17 U.S.C. \\u00e0\\u00b8\\u00a2\\u00e0\\u00b8? 105. More details on the U.S. Public Domain license are available here: https://www.usa.gov/publicdomain/label/1.0/  Additionally, please be advised that although these data have been processed successfully on a computer system at the U.S. EPA, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. EPA shall not be held liable for improper or incorrect use of the data.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "graphic-preview-file",
+            "value": "\n\t\t\thttps://edg.epa.gov/data/PUBLIC/OCSPP/TRI.png\n\t\t\t"
+        },
+        {
+            "key": "graphic-preview-description",
+            "value": "\n\t\tEPA Facility Registry Service (FRS): TRI\n\t\t"
+        },
+        {
+            "key": "graphic-preview-type",
+            "value": "PNG"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "2022-07-01T00:00:00"
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "2022-07-01T00:00:00"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Chemical Safety and Pollution Prevention\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "174.107672"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "70.293892"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "-14.321981"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-176.634509"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.634509, -14.321981], [174.107672, -14.321981], [174.107672, 70.293892], [-176.634509, 70.293892], [-176.634509, -14.321981]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.634509, -14.321981], [174.107672, -14.321981], [174.107672, 70.293892], [-176.634509, 70.293892], [-176.634509, -14.321981]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f5349a03-a648-446f-9388-5bf1a25d977f"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:26:48.671547",
+            "description": "",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "28cb421b-e244-4ff9-9f29-f7926cb28458",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:26:48.653405",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "EPA Map Feature Service",
+            "package_id": "ad10ebb3-c201-465e-9425-46d0ce86cff7",
+            "position": 0,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "service",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://gispub.epa.gov/arcgis/rest/services/OCSPP/TRI_Reporting_Facilities/MapServer",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:072",
+            "id": "ee6ec260-2686-4482-884a-e21bd34c47f0",
+            "name": "020:072",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air",
+            "id": "0c285224-7a71-45b4-804a-ae078ca6f436",
+            "name": "air",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chemicals",
+            "id": "5cbaa292-842c-4461-a9ea-39ae4ab384f8",
+            "name": "chemicals",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "drinking water",
+            "id": "cf264a55-2d50-4fb2-ba58-ba6ef9df39b9",
+            "name": "drinking water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ejscreen",
+            "id": "e855c672-25a0-49a4-96a9-5083c0e3cec1",
+            "name": "ejscreen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inventory",
+            "id": "959b920e-c81a-4f24-9372-f4962f163399",
+            "name": "inventory",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land",
+            "id": "899e1294-851a-4804-95fa-e0c5a45f19fc",
+            "name": "land",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "releases",
+            "id": "ff94d331-9333-467b-bd0c-2dd5b8a98486",
+            "name": "releases",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxics",
+            "id": "eae2a732-fcb3-4723-b404-cd80f76fd540",
+            "name": "toxics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tri",
+            "id": "627e9f8a-6e74-410e-93f3-e591e91d2f24",
+            "name": "tri",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 17,
+        "recent": 7
+    }
+}

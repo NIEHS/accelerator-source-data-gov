@@ -1,0 +1,249 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "c3978d40-1930-47e0-a0eb-1e817b666e1b",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Kevin Christian",
+    "maintainer_email": "christian.kevin@epa.gov",
+    "metadata_created": "2023-08-24T17:53:33.196202",
+    "metadata_modified": "2024-03-16T16:15:24.148968",
+    "name": "water-quality-portal-2389e",
+    "notes": "The Water Quality Portal (WQP) is the premiere source of discrete water-quality data in the United States and beyond. This cooperative service integrates publicly available water-quality data from the United States Geological Survey (USGS), the Environmental Protection Agency (EPA), and over 400 state, federal, tribal, and local agencies.",
+    "num_resources": 0,
+    "num_tags": 15,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Water Quality Portal",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "3135d2b2c23aa357a90f939c1460a22dac43aa91d6482c4974c37b47e2b6053f"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "R/P1D"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "dataQuality",
+            "value": true
+        },
+        {
+            "key": "identifier",
+            "value": "28bc151c-da9c-4daa-a45d-cb92141cb6a2"
+        },
+        {
+            "key": "landingPage",
+            "value": "https://www.waterqualitydata.us/"
+        },
+        {
+            "key": "license",
+            "value": "https://edg.epa.gov/EPA_Data_License.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-12-14"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:112"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. Geological Survey and U.S. EPA Office of Water (OW)"
+        },
+        {
+            "key": "temporal",
+            "value": "1987/2021"
+        },
+        {
+            "key": "primaryitinvestmentuii",
+            "value": "020-000000103"
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/public/OW/metadata/OW.json"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "4ad9e537-e022-4c15-bae4-20083d398ed3"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "8ed177f0-2564-4659-9197-8b64a5f0db3d"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OW Non-Geo Records"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "data-standard",
+            "id": "207e968b-d0c0-4671-80b3-8e835ffc531b",
+            "name": "data-standard",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inlandwaters",
+            "id": "7aa0b8df-7ae4-49c3-8f96-a495e7babad5",
+            "name": "inlandwaters",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "monitoring-data",
+            "id": "49675991-c3e3-4a1f-8f72-457005a20cb6",
+            "name": "monitoring-data",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nwis",
+            "id": "ca404798-5824-47e1-8a03-b0cbec6a8629",
+            "name": "nwis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "oceans",
+            "id": "3a71f950-a4b8-403e-a5d4-e3655cd89741",
+            "name": "oceans",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "quality",
+            "id": "c016018e-05ba-4dfc-b223-5d2336db8d3c",
+            "name": "quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "schema",
+            "id": "b43cc775-8dac-4221-b333-07cb16170260",
+            "name": "schema",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "stewards",
+            "id": "37dc4973-493a-4ab6-933f-22e60252f5f2",
+            "name": "stewards",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "storet",
+            "id": "0a75a624-8b22-4dcb-aa4a-d0bfa3f944d1",
+            "name": "storet",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "surface-water",
+            "id": "81d14904-cfd8-4a1f-b8b5-8955c0f4245f",
+            "name": "surface-water",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waste",
+            "id": "c8c45fd7-e96a-4e36-9d54-71543519256b",
+            "name": "waste",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "wqx",
+            "id": "4646447a-b8ed-423d-843b-868854d11fdb",
+            "name": "wqx",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 174,
+        "recent": 2
+    }
+}

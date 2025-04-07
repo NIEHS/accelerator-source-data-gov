@@ -1,0 +1,183 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "12b55551-ade5-4adf-b0d1-3d15a87a18f9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Urmila Kodavanti",
+    "maintainer_email": "kodavanti.urmila@epa.gov",
+    "metadata_created": "2020-11-12T13:50:48.883920",
+    "metadata_modified": "2020-11-12T13:50:48.883931",
+    "name": "maternal-high-fat-diet-modify-offspring-susceptibility-to-inhaled-ozone-induced-systemic-m",
+    "notes": "Maternal high-fat diet (HFD) and obesity can increase the susceptibility of offspring to inhaled pollutants. In this study, we examined the influence of maternal HFD on metabolic responses to ozone in young Long-Evans rat offspring. F0-females began control (CD; 10%kcal from fat) or high-fat diet (HFD; 60%kcal from fat) at post-natal day (PND)-30. Rats were bred on PND-72 and allowed to give birth. Dietary regimen was maintained until PND-30 and then all offspring were switched to CD. On PND-40, female and male offspring-F1 (n=10/group) were exposed to air or 0.8-ppm ozone for 5h and within 1h serum samples were collected for neuroendocrine hormones and global metabolomic analysis. Offspring from HFD-dams had increased body fat and weight relative to CD, however, no major changes in circulating hormones were noted. Metabolomic analysis revealed significant sex, diet, and exposure-related changes in metabolites. Maternal HFD increased free fatty acids and decreased phospholipids (female>male). Also, microbiome-associated histidine and tyrosine metabolites were increased in both sexes of offspring, while 1,5-anhydroglucitol levels decreased in males. Ozone exposure increased free fatty acids in males from CD-dams but decreased in females from HFD-dams. Ozone also decreased monohydroxy fatty acids and acyl carnitines in females (HFD>CD). Moreover, it increased pyruvate along with TCA cycle intermediates in females suggesting an increase in glucose utilization. Ozone increased various amino acids, polyamines and metabolites of gut microbiota in HFD female offspring. Collectively, these data suggest that maternal HFD increases offspring susceptibility to metabolic alterations in a sex-specific manner when challenged with environmental stressors. \n\nThis dataset is associated with the following publication:\nSnow, S., K. Broniowska, E. Karoly, A. Henriquez, P. Phillips, A. Ledbetter, M. Schladweiler, C. Miller, C. Gordon, and U. Kodavanti. Offspring Susceptibility to Metabolic Alterations Due to Maternal High Fat Diet and the Impact of Inhaled Ozone Used as a Stressor.   Scientific Reports. Nature Publishing Group, London,  UK,  1, (2020).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Maternal High Fat Diet Modify Offspring Susceptibility to Inhaled Ozone-Induced Systemic Metabolic Alterations",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:097"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1038/s41598-020-73361-0"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "1d204b76-3e39-4a38-97e6-161f0e92ecd9"
+        },
+        {
+            "key": "source_hash",
+            "value": "cd0072124a39cea381843ba5b86a417434df643b"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-08-01"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1504164"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:50:48.889787",
+            "description": "Damdiet%20ozone%20metabolomics-2019EHP.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "a9afe7f8-92fd-477d-8b26-5fa5e103d6a7",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:50:48.889787",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Damdiet ozone metabolomics-2019EHP.xlsx",
+            "package_id": "12b55551-ade5-4adf-b0d1-3d15a87a18f9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 4,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1504164/Damdiet%20ozone%20metabolomics-2019EHP.xlsx",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-pollution",
+            "id": "479f3b60-b95d-4708-9034-c531c6695587",
+            "name": "air-pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "maternal-high-fat-diet",
+            "id": "e65000d6-7a27-4d27-ba4d-1fda9de266cc",
+            "name": "maternal-high-fat-diet",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "metabolomics",
+            "id": "71afb5f1-1344-4281-89f0-2ebd936d54aa",
+            "name": "metabolomics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "neurohormones",
+            "id": "08c30fbd-0e4e-4d33-8674-f3e65cf30701",
+            "name": "neurohormones",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "offsping-susceptibility",
+            "id": "9543d623-e0b9-46ac-8417-fdbc93d2f11e",
+            "name": "offsping-susceptibility",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 83,
+        "recent": 5
+    }
+}

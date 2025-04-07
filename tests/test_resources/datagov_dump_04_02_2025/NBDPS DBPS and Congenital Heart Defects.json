@@ -1,0 +1,169 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "94f94fa0-072d-49ae-a1a4-1c3c34ade67e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Thomas Luben",
+    "maintainer_email": "luben.tom@epa.gov",
+    "metadata_created": "2025-02-22T04:15:31.384558",
+    "metadata_modified": "2025-02-22T04:15:31.384563",
+    "name": "nbdps-dbps-and-congenital-heart-defects",
+    "notes": "Utilizing the National Birth Defects Prevention Study, we linked geocoded residential addresses of mothers whose offspring were delivered in 2000-2005 to public water supply (PWS) measurement data for DBPs in eight states. Self-reported water consumption habits and filtration methods at home and work were used to estimate ingestion of DBPs during the prenatal period. We estimated adjusted odds ratios (aORs) and 95% confidence intervals using logistic regression controlling for maternal age, education, body mass index, race/ethnicity, and study site to examine associations between CHDs and estimated DBP concentrations in household tap water, and between CHDs and estimated levels of maternal ingestion of DBPs. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Data that CDC collects or holds must be available for data sharing within a year after the data are evaluated for quality and shared with any partners in data collection activity.  Because NBDPS data contain PII, NBDPS data are not released publicly.  Instead, they are available via a special use agreement.  Qualified researchers can be granted access to NBDPS data for analysis through collaboration with one of the Centers for Birth Defects Research and Prevention.  The procedure for applying for access to NBDPS data can be found on the NBDPS Public Access Procedures web site: https://www.cdc.gov/ncbddd/birthdefects/nbdps-public-access-procedures.html. Format: This research was conducted with data collected by the CDC-sponsored National Birth Defects Prevention Study (NBDPS).  These data include birth data and geocoded residential addresses before and during pregnancy. \n\nThis dataset is associated with the following publication:\nMichalski, A., T. Luben, I. Zaganjor, A. Rhoads, P. Romitti, K. Conway, P. Langlois, M. Feldkamp, W. Nembhard, J. Reefhuis, M. Yazdy, A. Lin, T. Desrosiers, A. Hoyt, M. Browne, and T.N.B.D.P.S. [Corporate Author]. Maternal Exposure to Tap Water Disinfection By-Products and Risk of Selected Congenital Heart Defects.   Birth Defects Research. John Wiley & Sons, Inc., Hoboken, NJ, USA, 116(September): e2391, (2024).",
+    "num_resources": 0,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "NBDPS DBPS and Congenital Heart Defects",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "aaeffedadeefefc661da2916e1224a99d0fa7e71dddf6319bbddd2422937dbd7"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1532016"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-02-08"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/bdr2.2391",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11440226"
+            ]
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "6626f9b8-d0a2-4bf1-a1ee-9030cccf141f"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "childrens-environmental-health",
+            "id": "1d44d7c5-55ce-47ff-a1d3-b3d9d3fd2327",
+            "name": "childrens-environmental-health",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "congenital-heart-defects",
+            "id": "d0a5f8bd-092d-4fe5-b1c4-07511195ef05",
+            "name": "congenital-heart-defects",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "disinfection-by-products",
+            "id": "c6ab78e2-ba72-4c3f-ae19-123bbc64a2be",
+            "name": "disinfection-by-products",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ingestion",
+            "id": "8eb83677-433b-405c-a867-ef84651c8fe3",
+            "name": "ingestion",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pregnancy",
+            "id": "07a28259-edb9-4d33-9150-5b70220d99b6",
+            "name": "pregnancy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tap-water",
+            "id": "c82ac440-4b40-487a-8dc3-ccf55bf8c0f8",
+            "name": "tap-water",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 27,
+        "recent": 3
+    }
+}

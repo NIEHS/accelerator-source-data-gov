@@ -1,0 +1,251 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "d36e544c-0de8-49b8-bfe1-4c0a60dadbce",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Carlie Lalone",
+    "maintainer_email": "lalone.carlie@epa.gov",
+    "metadata_created": "2020-11-12T13:43:22.597920",
+    "metadata_modified": "2020-11-12T13:43:22.597927",
+    "name": "defining-the-taxonomic-domain-of-applicability-for-mammalian-based-high-throughput-screeni",
+    "notes": "Final Data SeqAPASS v3.0.zip contains datasets from Sequence Alignment to Predict Across Species Susceptibility (SeqAPASS) tool versions 3.0 for all 497 proteins evaluated using Level 1 (primary amino acid sequence comparisons) and Level 2 (functional domain(s) sequence comparisons) to understand conservation of HTS targets across species. Each folder is labeled by the protein accession (identification number and SeqAPASS version), with subfolders containing Level 1 and Level 2 output from the SeqAPASS tool.\nSeqAPASS v3.0 Data in Assay Groups.zip Contains all SeqAPASS data sorted by ToxCast Assay Group (as described in manuscript materials and methods). The original SeqAPASS data for each assay group are found in the folders titled Cell Adhesion, Cytochrome P450, Cytokine, DNA Binding, Esterase, G protein-coupled receptor, Growth Factor, Hydrolase, Ion Channel, Kinase, Lyase, Methyltransferase, Nuclear Receptor, Oxidoreductase, Phophatase, Protease, Protease Inhibitor, and Transporter. The Data_L1_Output folders and Data_L2_Output folders provide summaries of the Level 1 and Level 2 data comparing across datasets (See manuscript Supplemental Data, Legend for further details). \n\nThis dataset is associated with the following publication:\nLaLone, C., D. Villeneuve, J. Doering, B. Blackwell, T. Transue, C. Simmons, J. Swintek, S. Degitz, A. Williams, and G. Ankley. Defining the taxonomic domain of applicability for mammalian-based high-throughput screening assays..   ENVIRONMENTAL SCIENCE & TECHNOLOGY. American Chemical Society, Washington, DC, USA, 52(23): 13960-13971, (2018).",
+    "num_resources": 2,
+    "num_tags": 10,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Defining the Taxonomic Domain of Applicability for Mammalian-Based High-Throughput Screening Assays",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "describedByType",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.23719/1432209"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c05f5f94-60ac-4dfb-9280-e7164323a9bb"
+        },
+        {
+            "key": "source_hash",
+            "value": "a2e4349369d766cca32ca8e1dd2c122466ef5f11"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-04-09"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:095"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1432209"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1432209/documents/Data%20Dictionary%232.docx"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:22.634672",
+            "description": "Final%20Data%20SeqAPASS%20v3.0.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "a2cbc531-231e-4ba6-99bf-558e9d3e5178",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:22.634672",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Final Data SeqAPASS v3.0.zip",
+            "package_id": "d36e544c-0de8-49b8-bfe1-4c0a60dadbce",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1432209/Final%20Data%20SeqAPASS%20v3.0.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:22.634683",
+            "description": "SeqAPASS%20v3.0%20Data%20in%20Assay%20Groups.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "b1c1f8ec-3169-41ce-9fa5-63ebd0fc3c2d",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:22.634683",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "SeqAPASS v3.0 Data in Assay Groups.zip",
+            "package_id": "d36e544c-0de8-49b8-bfe1-4c0a60dadbce",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1432209/SeqAPASS%20v3.0%20Data%20in%20Assay%20Groups.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "adverse-outcome-pathway",
+            "id": "6c32dde5-d17f-444d-b996-e48a9d05ca8b",
+            "name": "adverse-outcome-pathway",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cross-species-extrapolation",
+            "id": "a38488ca-a013-4368-bc9b-0fd65d7ece02",
+            "name": "cross-species-extrapolation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ecotoxicology",
+            "id": "0994d8ba-74d1-41d8-ae22-4717e1c8e1b1",
+            "name": "ecotoxicology",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "endocrine-disruptor-screening-program",
+            "id": "6a097e06-96c8-4117-9b30-3498fa57fbb3",
+            "name": "endocrine-disruptor-screening-program",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "high-throughput-screening",
+            "id": "7762bf90-ad7b-432d-aaba-f98d1b19f54c",
+            "name": "high-throughput-screening",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "honey-bee",
+            "id": "ef9c9243-a3fd-49df-b5f5-39386b335e4e",
+            "name": "honey-bee",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "networks",
+            "id": "cf1d97b4-fed2-4e8c-8c67-121b20bf14f6",
+            "name": "networks",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "screening-and-prioritization",
+            "id": "4d896dac-5224-4102-a6a1-d903c8da6263",
+            "name": "screening-and-prioritization",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "steroidogenesis",
+            "id": "7c89b435-9b52-4e15-9964-d3184165087c",
+            "name": "steroidogenesis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "thyroid-axis",
+            "id": "bbd513a2-a5b4-4533-ab13-1bfae244bb99",
+            "name": "thyroid-axis",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 92,
+        "recent": 6
+    }
+}

@@ -1,0 +1,301 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "3c707773-44c6-4f4c-a08f-a447aab2db45",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jesse Bash",
+    "maintainer_email": "bash.jesse@epa.gov",
+    "metadata_created": "2020-11-12T13:48:07.125405",
+    "metadata_modified": "2020-11-12T13:48:07.125412",
+    "name": "model-output-and-data-used-for-analysis",
+    "notes": "The modeled data in these archives are in the NetCDF format (https://www.unidata.ucar.edu/software/netcdf/). NetCDF (Network Common Data Form) is a set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. It is also a community standard for sharing scientific data. The Unidata Program Center supports and maintains netCDF programming interfaces for C, C++, Java, and Fortran. Programming interfaces are also available for Python, IDL, MATLAB, R, Ruby, and Perl.\nData in netCDF format is:\n\u2022\tSelf-Describing. A netCDF file includes information about the data it contains.\n\u2022\tPortable. A netCDF file can be accessed by computers with different ways of storing integers, characters, and floating-point numbers.\n\u2022\tScalable. Small subsets of large datasets in various formats may be accessed efficiently through netCDF interfaces, even from remote servers.\n\u2022\tAppendable. Data may be appended to a properly structured netCDF file without copying the dataset or redefining its structure.\n\u2022\tSharable. One writer and multiple readers may simultaneously access the same netCDF file.\n\u2022\tArchivable. Access to all earlier forms of netCDF data will be supported by current and future versions of the software.\nPub_figures.tar.zip \nContains the NCL scripts for figures 1-5 and Chesapeake Bay Airshed shapefile. The directory structure of the archive is ./Pub_figures/Fig#_data. Where # is the figure number from 1-5. \nEMISS.data.tar.zip \nThis archive contains two NetCDF files that contain the emission totals for 2011ec and 2040ei emission inventories. The name of the files contain the year of the inventory and the file header contains a description of each variable and the variable units. \nEPIC.data.tar.zip contains the monthly mean EPIC data in NetCDF format for ammonium fertilizer application (files with ANH3 in the name) and soil ammonium concentration (files with NH3 in the name) for historical (Hist directory) and future (RCP-4.5 directory) simulations.\nWRF.data.tar.zip contains mean monthly and seasonal data from the 36km downscaled WRF simulations in the NetCDF format for the historical (Hist directory) and future (RCP-4.5 directory) simulations. \nCMAQ.data.tar.zip contains the mean monthly and seasonal data in NetCDF format from the 36km CMAQ simulations for the historical (Hist directory), future (RCP-4.5 directory) and future with historical emissions (RCP-4.5-hist-emiss directory). \n\nThis dataset is associated with the following publication:\nCampbell, P., J. Bash, C. Nolte, T. Spero, E. Cooter, K. Hinson, and L. Linker. Projections of Atmospheric Nitrogen Deposition to the Chesapeake Bay Watershed.   Journal of Geophysical Research - Biogeosciences. American Geophysical Union, Washington, DC, USA, 12(11): 3307-3326, (2019).",
+    "num_resources": 6,
+    "num_tags": 4,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Model output and data used for analysis",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1029/2019jg005203"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "21ae60ff-2ab6-463c-818f-c7387b0106cd"
+        },
+        {
+            "key": "source_hash",
+            "value": "0586e295159d54f3c0bf7712f7a221a91398a015"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-11-26"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1500447"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:07.130464",
+            "description": "Pub_figures.tar.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "80a62a7b-e0ce-4d45-a1c9-8c339b5c1f56",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:07.130464",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "Pub_figures.tar.zip",
+            "package_id": "3c707773-44c6-4f4c-a08f-a447aab2db45",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500447/Pub_figures.tar.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:07.130470",
+            "description": "EMISS.data.tar.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "c957cd79-00c3-4246-9c44-e62b666ac84a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:07.130470",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "EMISS.data.tar.zip",
+            "package_id": "3c707773-44c6-4f4c-a08f-a447aab2db45",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500447/EMISS.data.tar.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:07.130473",
+            "description": "EPIC.data.tar.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "81cd3e08-56dd-45c7-a21e-1f8b9f2d3d08",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:07.130473",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "EPIC.data.tar.zip",
+            "package_id": "3c707773-44c6-4f4c-a08f-a447aab2db45",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500447/EPIC.data.tar.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:07.130476",
+            "description": "WRF.data.tar.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "bc4c4add-63e7-4a28-9460-53f30addff0a",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:07.130476",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "WRF.data.tar.zip",
+            "package_id": "3c707773-44c6-4f4c-a08f-a447aab2db45",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500447/WRF.data.tar.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:07.130479",
+            "description": "CMAQ.data.tar.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "34fa9855-6e9b-4d33-9878-cafbcd2155cb",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:07.130479",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "CMAQ.data.tar.zip",
+            "package_id": "3c707773-44c6-4f4c-a08f-a447aab2db45",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500447/CMAQ.data.tar.zip",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:48:07.130481",
+            "description": "Science%20hub%20metadata.docx",
+            "format": "DOC",
+            "hash": "",
+            "id": "77aa5203-ac06-4b8d-934a-e0eb6626b33e",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:48:07.130481",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "mimetype_inner": null,
+            "name": "Science hub metadata.docx",
+            "package_id": "3c707773-44c6-4f4c-a08f-a447aab2db45",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1500447/Science%20hub%20metadata.docx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "chesapeake-bay",
+            "id": "238123fd-c73b-4b4a-bcc3-777b8b21553d",
+            "name": "chesapeake-bay",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "cmaq",
+            "id": "8ec5fd16-3c5f-4bef-9a2f-20f6146da03c",
+            "name": "cmaq",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen-and-co-pollutants",
+            "id": "0995fc3f-79e8-4379-8f06-68faac5a992a",
+            "name": "nitrogen-and-co-pollutants",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tmdl",
+            "id": "f5f26962-c64a-41a4-902f-f9c41004e80f",
+            "name": "tmdl",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 156,
+        "recent": 1
+    }
+}

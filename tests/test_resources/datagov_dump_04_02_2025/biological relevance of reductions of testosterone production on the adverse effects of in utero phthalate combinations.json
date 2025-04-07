@@ -1,0 +1,177 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "e11ea67e-239c-460f-9842-48405af2bd53",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Leon Gray",
+    "maintainer_email": "gray.earl@epa.gov",
+    "metadata_created": "2020-11-12T13:39:26.493207",
+    "metadata_modified": "2020-11-12T13:39:26.493214",
+    "name": "biological-relevance-of-reductions-of-testosterone-production-on-the-adverse-effects-of-in",
+    "notes": "RAW DATA, SAS FILES AND DATA MEANS. \n\nThis dataset is associated with the following publication:\nHowdeshell, K., C. Rider, V. Wilson , J. Furr , C. Lambright , and E. Gray. Dose addition models based on biologically-relevant reductions in fetal testosterone accurately predict postnatal reproductive tract alterations by a phthalate mixture in rats.   TOXICOLOGICAL SCIENCES. Society of Toxicology,    148(2): 488-502, (2015).",
+    "num_resources": 1,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "biological relevance of reductions of testosterone production on the adverse effects of in utero phthalate combinations",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "e8334240-95ed-4ade-9bf3-7c21c52a2b20"
+        },
+        {
+            "key": "source_hash",
+            "value": "6908f4901ca7aa065bcfe5153feca9677d5fac85"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-08-30"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1377875"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:39:26.510614",
+            "description": "megaphthalate%20f1%20male%20malf%20DATA%20FILE%20SAS%20DATA%209%2011%202017.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "1c60aeb2-8c0c-4a3c-b08d-9c1fac1b7ad3",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:39:26.510614",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "megaphthalate f1 male malf DATA FILE SAS DATA 9 11 2017.xlsx",
+            "package_id": "e11ea67e-239c-460f-9842-48405af2bd53",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1377875/megaphthalate%20f1%20male%20malf%20DATA%20FILE%20SAS%20DATA%209%2011%202017.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "dose-addition",
+            "id": "c0f093ab-eb9d-4afb-8f4d-be2ce3d16410",
+            "name": "dose-addition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "in-utero-effects-on-reproductive-development",
+            "id": "6404131f-147f-47f4-acd9-fcf592a196ea",
+            "name": "in-utero-effects-on-reproductive-development",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "male-rat",
+            "id": "8cb4e7ea-fff2-46c2-9178-80a92910eaf2",
+            "name": "male-rat",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "mixtures",
+            "id": "d06e2c55-6af8-4b58-b77d-0eb9d6100a28",
+            "name": "mixtures",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "phthalates",
+            "id": "0d7e8dbf-1d6d-49bd-a780-8539223c92be",
+            "name": "phthalates",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 66,
+        "recent": 1
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "c32ca31c-15ab-4905-a8b2-368634b638f3",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Urmila Kodavanti",
+    "maintainer_email": "kodavanti.urmila@epa.gov",
+    "metadata_created": "2020-12-10T22:08:20.681992",
+    "metadata_modified": "2020-12-10T22:08:20.681999",
+    "name": "exacerbation-of-ozone-induced-pulmonary-and-systemic-effects-by-2-adrenergic-and-or-glucoc",
+    "notes": "This data set pertains to the manuscript \"Exacerbation of ozone-induced pulmonary and systemic effects by \uf0622-adrenergic and/or glucocorticoid agonist/s\". It shows the raw data for each figure in the manuscript that is created with these data. Basically examining the influence of beta adrenergic and glucocorticoid receptor agonists on ozone-induced lung injury and inflammation. \n\nThis dataset is associated with the following publication:\nHenriquez, A., S. Snow, M. Schladweiler, C. Miller, J. Dye, A. Ledbetter, M. Hargrove, U. Kodavanti, and J. Richards. Exacerbation of ozone-induced pulmonary and systemic effects by beta2-adrenergic and/or glucocorticoid agonist/s.   Scientific Reports. Nature Publishing Group, London,  UK, 9(1): 17925, (2019).",
+    "num_resources": 1,
+    "num_tags": 6,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Exacerbation of ozone-induced pulmonary and systemic effects by \uf0622-adrenergic and/or glucocorticoid agonist/s",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1038/s41598-019-54269-w"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "8d1755cb-ebf7-4f73-9a1b-efece5f1ea43"
+        },
+        {
+            "key": "source_hash",
+            "value": "991a3f54d7237ac747fbc098e575b65244fa5420"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2019-11-11"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1518675"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-12-10T22:08:20.727142",
+            "description": "Henriquez%202019%20Manuscript%20for%20Sci%20Reports%20-%20Data%20for%20ScienceHub%20-%20Kodavanti%208-1-19.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "22a75370-6917-4e3f-9857-459443d98927",
+            "last_modified": null,
+            "metadata_modified": "2020-12-10T22:08:20.727142",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Henriquez 2019 Manuscript for Sci Reports - Data for ScienceHub - Kodavanti 8-1-19.xlsx",
+            "package_id": "c32ca31c-15ab-4905-a8b2-368634b638f3",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1518675/Henriquez%202019%20Manuscript%20for%20Sci%20Reports%20-%20Data%20for%20ScienceHub%20-%20Kodavanti%208-1-19.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "clenbuterol",
+            "id": "4d461c9b-81d2-4888-906e-80855266774b",
+            "name": "clenbuterol",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dexamethasone",
+            "id": "6dc0a987-5899-4829-893f-b78ea8bb1e5e",
+            "name": "dexamethasone",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "glucocorticoid",
+            "id": "58d5c6af-3cfe-4ed3-a689-b83f68164437",
+            "name": "glucocorticoid",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "lung-inflammation",
+            "id": "77001cd2-feaa-4988-80cf-219587574fb6",
+            "name": "lung-inflammation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "systemic-metabolic",
+            "id": "d68b23ca-75aa-425e-aa81-0e91e8b8a49e",
+            "name": "systemic-metabolic",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 68,
+        "recent": 1
+    }
+}

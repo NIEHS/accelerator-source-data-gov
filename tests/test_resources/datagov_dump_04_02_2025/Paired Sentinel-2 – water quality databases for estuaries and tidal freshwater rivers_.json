@@ -1,0 +1,349 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "684c3626-cf90-446e-92dd-46e06a5ad472",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Steven Rego",
+    "maintainer_email": "rego.steven@epa.gov",
+    "metadata_created": "2024-03-08T23:48:33.898841",
+    "metadata_modified": "2024-03-08T23:48:33.898847",
+    "name": "paired-sentinel-2-water-quality-databases-for-estuaries-and-tidal-freshwater-rivers",
+    "notes": "There are five datasets included in this collection.  One dataset (SiteInventoryunique.shp) provides metadata for sampling stations associated with estuarine water quality data focused on chlorophyll measurements from 1984 to 2021 and with ancillary data parameters added. Water quality data compiled by US EPA from multiple sources are provided in a separate .csv file (surfchl_withSiteInvID.csv) also downloadable from EPA's Estuary Data Mapper (EDM; www.epa.gov/edm). Chlorophyll data were collected as part of a project to refine algorithms for chlorophyll a and harmful algae using Sentinel 2 remote sensing data. Water quality data observations can be matched to the station file using the SiteInvID variable. \n\nA station inventory (Sentinel2matchedsets_surface_uniqstns_NAD83.shp) and two additional datasets (also in EDM) are available with matched chlorophyll - remote sensing Sentinel 2 Level 2A data (Sent2matchsurfchl_wStnIndex.csv) and with matched chlorophyll - Sentinel 2 Level 1C data (....csv).",
+    "num_resources": 7,
+    "num_tags": 7,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Paired Sentinel-2 \u2013 water quality databases for estuaries and tidal freshwater rivers.",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "2038bc5934fb6a289ab56c7681e9b44d69df89c61bc4e87d4cbc6fcf7477778a"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1530288"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-09-13"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://pasteur.epa.gov/uploads/10.23719/1530288/documents/Sentinel2matchedsets_surface_metadata%20Level%201C.csv"
+        },
+        {
+            "key": "describedByType",
+            "value": "text/csv"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "efa09c1f-1558-470a-9c01-d9f2f67e3e32"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-03-08T23:48:33.910097",
+            "description": "surfchl_withSiteInvID.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "551f9492-a360-4ed5-a806-57d2690bb3fa",
+            "last_modified": null,
+            "metadata_modified": "2024-03-08T23:48:33.875221",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "surfchl_withSiteInvID.zip",
+            "package_id": "684c3626-cf90-446e-92dd-46e06a5ad472",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530288/surfchl_withSiteInvID.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-03-08T23:48:33.910101",
+            "description": "SiteInventoryunique.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "81c20033-8212-488e-8b7e-4f97bff84e65",
+            "last_modified": null,
+            "metadata_modified": "2024-03-08T23:48:33.875416",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "SiteInventoryunique.zip",
+            "package_id": "684c3626-cf90-446e-92dd-46e06a5ad472",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530288/SiteInventoryunique.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-03-08T23:48:33.910103",
+            "description": "Sentinel2matchedsets_surface_uniqstns_NAD83.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "5d5727c8-e72d-4a90-87fa-b1fa4e95a83f",
+            "last_modified": null,
+            "metadata_modified": "2024-03-08T23:48:33.875568",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "Sentinel2matchedsets_surface_uniqstns_NAD83.zip",
+            "package_id": "684c3626-cf90-446e-92dd-46e06a5ad472",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530288/Sentinel2matchedsets_surface_uniqstns_NAD83.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-03-08T23:48:33.910105",
+            "description": "Sentinel2matchedsets_surface_metadata%20Level%201C.csv.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "980a49a6-4c2f-4587-bdc2-b6e3508355c6",
+            "last_modified": null,
+            "metadata_modified": "2024-03-08T23:48:33.875701",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Sentinel2matchedsets_surface_metadata Level 1C.csv.xlsx",
+            "package_id": "684c3626-cf90-446e-92dd-46e06a5ad472",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530288/Sentinel2matchedsets_surface_metadata%20Level%201C.csv.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-03-08T23:48:33.910106",
+            "description": "Sentinel2matchedsets_surface_metadata%20Level%201C.csv",
+            "format": "CSV",
+            "hash": "",
+            "id": "23e91fbc-cda9-4164-93a3-4ea98cdf4866",
+            "last_modified": null,
+            "metadata_modified": "2024-03-08T23:48:33.875840",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Sentinel2matchedsets_surface_metadata Level 1C.csv",
+            "package_id": "684c3626-cf90-446e-92dd-46e06a5ad472",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530288/Sentinel2matchedsets_surface_metadata%20Level%201C.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-03-08T23:48:33.910108",
+            "description": "Sent2matchsurfchl_wStnIndex.csv",
+            "format": "CSV",
+            "hash": "",
+            "id": "596d0886-15af-4361-a36f-761232e1925d",
+            "last_modified": null,
+            "metadata_modified": "2024-03-08T23:48:33.875967",
+            "mimetype": "text/csv",
+            "mimetype_inner": null,
+            "name": "Sent2matchsurfchl_wStnIndex.csv",
+            "package_id": "684c3626-cf90-446e-92dd-46e06a5ad472",
+            "position": 5,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530288/Sent2matchsurfchl_wStnIndex.csv",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-03-08T23:48:33.910109",
+            "description": "L1chl_surface_filtered_comb.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "0e51b6df-469c-4c16-ab72-084493467469",
+            "last_modified": null,
+            "metadata_modified": "2024-03-08T23:48:33.876106",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "L1chl_surface_filtered_comb.zip",
+            "package_id": "684c3626-cf90-446e-92dd-46e06a5ad472",
+            "position": 6,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1530288/L1chl_surface_filtered_comb.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "chlorophyll",
+            "id": "742b6574-e725-4015-9f43-93654ccc6600",
+            "name": "chlorophyll",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "estuaries",
+            "id": "ca1a72eb-460b-4c33-b653-94b965a16e1c",
+            "name": "estuaries",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "estuary",
+            "id": "45c59167-199e-499d-b352-16e4c2ea9f5e",
+            "name": "estuary",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "freshwater-tidal-river",
+            "id": "8ae0f235-098e-4a41-95bb-43ad67eaf865",
+            "name": "freshwater-tidal-river",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remote-sensing",
+            "id": "2669f4e1-0b6a-4258-a19b-5b977f07aab5",
+            "name": "remote-sensing",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sentinel-2",
+            "id": "5ab5b289-b584-4acb-88dc-8104224330ee",
+            "name": "sentinel-2",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 114,
+        "recent": 2
+    }
+}

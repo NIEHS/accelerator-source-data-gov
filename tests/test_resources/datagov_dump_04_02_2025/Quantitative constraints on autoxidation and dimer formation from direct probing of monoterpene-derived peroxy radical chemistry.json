@@ -1,0 +1,218 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "a7fe1647-8d0e-40f6-a184-b408c91b75e9",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Havala Pye",
+    "maintainer_email": "pye.havala@epa.gov",
+    "metadata_created": "2020-11-12T13:43:57.360279",
+    "metadata_modified": "2020-11-12T13:43:57.360290",
+    "name": "quantitative-constraints-on-autoxidation-and-dimer-formation-from-direct-probing-of-monote",
+    "notes": "Laboratory data supporting \"Quantitative constraints on autoxidation and dimer formation from direct probing of monoterpene-derived peroxy radical chemistry\" by Zhao, Thornton, and Pye.  \n\nAbstract: Organic peroxy radicals (RO2) are key intermediates in the atmospheric degradation of organic matter and fuel combustion, but to date, few direct studies of specific RO2 in complex reaction systems exist, leading to large gaps in our understanding of their fate. We show, using direct, speciated measurements of a suite of RO2 and gas-phase dimers from O3-initiated oxidation of \u03b1-pinene that ~150 gaseous dimers (C16-20H24-34O4-13) are primarily formed through RO2 cross-reactions, with a typical rate constant of 0.75-2\u00d710-12 cm3 molecule-1 s-1 and a lower-limit dimer formation branching ratio of 4%. These findings imply a gaseous dimer yield that varies strongly with nitric oxide (NO) concentrations, of at least 0.2-2.5% by mole (0.5-6.6% by mass) for conditions typical of forested regions with low to moderate anthropogenic influence (i.e., \u2264 50 ppt NO). Given their very low volatility, the gaseous C16-20 dimers provide a potentially important organic medium for initial particle formation, and alone can explain 5-60% of \u03b1-pinene secondary organic aerosol mass yields measured at atmospherically relevant particle mass loadings. The responses of RO2, dimers, and highly-oxygenated multifunctional compounds (HOM) to reacted \u03b1-pinene concentration and NO imply that an average ~20% of primary \u03b1-pinene RO2 from OH reaction and 10% from ozonolysis autoxidize at 3-10 s-1 and \u2265 1 s-1, respectively, confirming both oxidation pathways produce HOM efficiently, even at higher NO concentrations typical of urban areas. Thus, gas-phase dimer formation and RO2 autoxdiation are ubiquitous sources of low-volatility organic compounds capable of contributing significantly to atmospheric new particle formation and growth. \n\nThis dataset is associated with the following publication:\nZhao, Y., J. Thornton, and H. Pye. Quantitative constraints on autoxidation and dimer formation from direct probing of monoterpene-derived peroxy radical chemistry.   PNAS  (PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES). National Academy of Sciences, WASHINGTON, DC, USA, 115(48): 12142-12147, (2018).",
+    "num_resources": 1,
+    "num_tags": 10,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Quantitative constraints on autoxidation and dimer formation from direct probing of monoterpene-derived peroxy radical chemistry",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1073/pnas.1812147115"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "73b67c08-1958-4efe-bbd8-701a4a2e5ff2"
+        },
+        {
+            "key": "source_hash",
+            "value": "bcc77e0469b60d465fef96c1c2c222a91a1d837a"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2018-10-29"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1502514"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:43:57.366929",
+            "description": "direct-probing-of-monoterpene-RO2-chemistry.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "85221152-f24f-4972-9b91-ee4376aec459",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:43:57.366929",
+            "mimetype": "application/x-zip-compressed",
+            "mimetype_inner": null,
+            "name": "direct-probing-of-monoterpene-RO2-chemistry.zip",
+            "package_id": "a7fe1647-8d0e-40f6-a184-b408c91b75e9",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1502514/direct-probing-of-monoterpene-RO2-chemistry.zip",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "autoxidation",
+            "id": "a218ad08-b12a-4007-917e-8c9c8162f71f",
+            "name": "autoxidation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "biogenic-voc",
+            "id": "df820216-eef4-42d8-abfc-59722329a87c",
+            "name": "biogenic-voc",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "dimer",
+            "id": "e09b5491-e780-4fcd-b574-319659f1ffd4",
+            "name": "dimer",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "hom",
+            "id": "d517c823-7eca-42af-92aa-5f4f33486da3",
+            "name": "hom",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "monoterpene",
+            "id": "392ea69b-b4cb-4c3c-9395-c8feb62346b9",
+            "name": "monoterpene",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pinene",
+            "id": "ccd59194-17d7-45bf-a811-1a8c74f44865",
+            "name": "pinene",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm2-5",
+            "id": "a1b6b16a-9f6b-4198-aff5-013a1484c09a",
+            "name": "pm2-5",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pm2-5-air-quality-modeling",
+            "id": "0736b777-735a-43a5-bb0f-b30b74fa7a5a",
+            "name": "pm2-5-air-quality-modeling",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "semivolatile-organic-compounds-svocs",
+            "id": "e3d8c736-d7e2-4743-bbac-0cf995826baa",
+            "name": "semivolatile-organic-compounds-svocs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "soa",
+            "id": "ab567db6-fcfa-4ee3-abd1-ac0b96a8f25e",
+            "name": "soa",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 28,
+        "recent": 1
+    }
+}

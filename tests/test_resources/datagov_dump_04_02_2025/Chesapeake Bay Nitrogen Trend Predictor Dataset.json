@@ -1,0 +1,305 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "d93de912-0658-4727-8c33-606f549a8086",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Robert Sabo",
+    "maintainer_email": "sabo.robert@epa.gov",
+    "metadata_created": "2023-01-08T19:47:12.140305",
+    "metadata_modified": "2023-01-08T19:47:12.140312",
+    "name": "chesapeake-bay-nitrogen-trend-predictor-dataset",
+    "notes": "Please review Zhang et al. (2021) for details on study design and datasets (https://doi.org/10.1016/j.watres.2022.118443). In summary, predictor and response variable data was acquired from the Chesapeake Bay Program and USGS. This data was subjected to a trend analysis to estimate the MK linear slope change for both predictor and response variables. After running a cluster analysis on the scaled TN loading time series (the response variable), the cluster assignment was paired with the slope estimates from the suite of predictor variables tied to the nutrient inventory and static geologic and land use variables. From there, an RF analysis was executed to link trends in anthropogenic driver and other contextual environmental factors to the identified trend cluster types. After calibrating the RF model, likelihood of improving, relatively static, or degrading catchments across the Chesapeake Bay were identified for the 2007 to 2018 period. Tabular data is available on the journal website and PUBMED, and the predictor/response variable data can be downloaded individually in the USGS and Chesapeake Bay Program links listed in the data access section. Portions of this dataset are inaccessible because: This data was generate by other federal entities and are housed in their respective data warehouse domains (e.g., USGS and Chesapeake Bay Program). Furthermore, the data can be accessed on the journal website as well as NCBI PUBMED (https://pubmed.ncbi.nlm.nih.gov/35461100/). They can be accessed through the following means: Combined dataset can be accessed on the journal website (https://www.sciencedirect.com/science/article/pii/S0043135422003979?via%3Dihub#ack0001) and will soon be available on NCBI (https://pubmed.ncbi.nlm.nih.gov/35461100/). \r\nThe predictor variable data can be accessed from the Chesapeake Bay Program (https://cast.chesapeakebay.net/) and USGS (https://pubs.er.usgs.gov/publication/ds948 and https://www.sciencebase.gov/catalog/item/5669a79ee4b08895842a1d47). Format: Please review Zhang et al. (2021) for details on study design and datasets (https://doi.org/10.1016/j.watres.2022.118443).\r\n\r\nIn summary, predictor and response variable data was acquired from the Chesapeake Bay Program and USGS. This data was subjected to a trend analysis to estimate the MK linear slope change for both predictor and response variables. After running a cluster analysis on the scaled TN loading time series (the response variable), the cluster assignment was paired with the slope estimates  from the suite of predictor variables tied to the nutrient inventory and static geologic and land use variables. From there, an RF analysis was executed to link trends in anthropogenic driver and other contextual environmental factors to the identified trend cluster types.\r\n\r\nAfter calibrating the RF model, likelihood of improving, relatively static,  or degrading catchments across the Chesapeake Bay were identified for the 2007 to 2018 period. Tabular data is available on the journal website and PUBMED, and the predictor/response variable data can be downloaded individually in the USGS and Chesapeake Bay Program links listed in the data access section. \n\nThis dataset is associated with the following publication:\nZhang, Q., J. Bostic, and R. Sabo. Regional patterns and drivers of total nitrogen trends in the Chesapeake Bay watershed: Insights from machine learning approaches and management implications.   WATER RESEARCH. Elsevier Science Ltd, New York, NY, USA, 218: 1-15, (2022).",
+    "num_resources": 5,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Chesapeake Bay Nitrogen Trend Predictor Dataset",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "cd08965a2728bd27b971dbbfb5d6656827733202"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1528287"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2022-04-09"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.watres.2022.118443",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9743807"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "c5f66939-8319-4e5e-9115-d78b6ea12776"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-01-08T19:47:12.157097",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "5e1e1e54-ef94-4bd0-9581-fa31052573f4",
+            "last_modified": null,
+            "metadata_modified": "2023-01-08T19:47:12.114359",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.usgs.gov/data/nitrogen-phosphorus-and-suspended-sediment-loads-and-trends-measured-chesapeake-bay-nontidal",
+            "package_id": "d93de912-0658-4727-8c33-606f549a8086",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.usgs.gov/data/nitrogen-phosphorus-and-suspended-sediment-loads-and-trends-measured-chesapeake-bay-nontidal",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-01-08T19:47:12.157101",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "bc8b35fe-5e62-495c-8355-a2e62693672c",
+            "last_modified": null,
+            "metadata_modified": "2023-01-08T19:47:12.114580",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://cast.chesapeakebay.net/",
+            "package_id": "d93de912-0658-4727-8c33-606f549a8086",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://cast.chesapeakebay.net/",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-01-08T19:47:12.157103",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "0b1945d0-3b1e-4650-89e0-50d5f988b3e5",
+            "last_modified": null,
+            "metadata_modified": "2023-01-08T19:47:12.114805",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sciencedirect.com/science/article/pii/S0043135422003979?via%3Dihub#ack0001",
+            "package_id": "d93de912-0658-4727-8c33-606f549a8086",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.sciencedirect.com/science/article/pii/S0043135422003979?via%3Dihub#ack0001",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-01-08T19:47:12.157105",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "63d3a0e6-768f-4c91-9e8e-fe85ad1bc857",
+            "last_modified": null,
+            "metadata_modified": "2023-01-08T19:47:12.114979",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://www.sciencebase.gov/catalog/item/5669a79ee4b08895842a1d47",
+            "package_id": "d93de912-0658-4727-8c33-606f549a8086",
+            "position": 3,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.sciencebase.gov/catalog/item/5669a79ee4b08895842a1d47",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2023-01-08T19:47:12.157107",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "ee09700e-b917-415a-bcc9-2baedc4120f1",
+            "last_modified": null,
+            "metadata_modified": "2023-01-08T19:47:12.115131",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://pubs.er.usgs.gov/publication/ds948",
+            "package_id": "d93de912-0658-4727-8c33-606f549a8086",
+            "position": 4,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pubs.er.usgs.gov/publication/ds948",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "acid-deposition",
+            "id": "6501d9ae-a319-4bb8-a3b7-e7d916bba238",
+            "name": "acid-deposition",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "agriculture",
+            "id": "5d759d19-2821-4f8a-9f1b-9c0d1da3291e",
+            "name": "agriculture",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "atmospheric-nitrogen",
+            "id": "da137c5a-4675-4aee-9278-1082e09905da",
+            "name": "atmospheric-nitrogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "forest",
+            "id": "46d69c8b-8ae7-4ed6-9b84-fd8086f87482",
+            "name": "forest",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "machine-learning",
+            "id": "35c350f1-0603-408b-9c87-a11c53197622",
+            "name": "machine-learning",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "nitrogen",
+            "id": "547959b4-f904-484c-9a1e-0f6ab529e4b2",
+            "name": "nitrogen",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "urban",
+            "id": "c715738e-5871-4a53-9a6d-4334bdd6344f",
+            "name": "urban",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "water-quality",
+            "id": "db70369b-b740-4db8-9b3e-74a9a1a1db52",
+            "name": "water-quality",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 59,
+        "recent": 1
+    }
+}

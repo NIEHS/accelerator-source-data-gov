@@ -1,0 +1,310 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "8e8c71c8-1c8f-46a6-b32f-3efa89d5fde0",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:09:08.358032",
+    "metadata_modified": "2025-03-31T20:43:37.699026",
+    "name": "epa-facility-registry-service-frs-power-plants7",
+    "notes": "This GIS dataset contains data on power plants, based on the Energy Information Administration's EIA-860 dataset and supplemented with data from EPA's Facility Registry Service (FRS) compiled from various EPA programs.",
+    "num_resources": 5,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EPA Facility Registry Service (FRS): Power Plants",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "87DA7478-01F7-4706-877C-356C048085F4"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": "4269"
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "eng"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2025-03-30"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "smith.davidg@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "weekly"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[\"None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\"]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[]"
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Environmental Information\", \"roles\": [\"publisher\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-68.147222"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "67.08798"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "18.9742"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-166.479506"
+        },
+        {
+            "key": "lineage",
+            "value": ""
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-166.479506, 18.9742], [-68.147222, 18.9742], [-68.147222, 67.08798], [-166.479506, 67.08798], [-166.479506, 18.9742]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-166.479506, 18.9742], [-68.147222, 18.9742], [-68.147222, 67.08798], [-166.479506, 67.08798], [-166.479506, 18.9742]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f4e08689-c857-4d8c-92e3-0b8ec0d18bb2"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:43:37.729155",
+            "description": "FRS_PowerPlants.zip",
+            "format": "ZIP",
+            "hash": "",
+            "id": "7dd6d74c-f4cc-49fe-a3bf-a7007a89af7c",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:43:37.707734",
+            "mimetype": "application/zip",
+            "mimetype_inner": null,
+            "name": "Zipped file geodatabase",
+            "package_id": "8e8c71c8-1c8f-46a6-b32f-3efa89d5fde0",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://edg.epa.gov/data/Public/OEI/FRS/FRS_PowerPlants.zip",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:43:37.729160",
+            "description": "ArcGIS Server Map/Feature Service",
+            "format": "Esri REST",
+            "hash": "",
+            "id": "fcb7f420-b2ab-4537-9d01-f71a95110505",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:43:37.707860",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Map Service",
+            "package_id": "8e8c71c8-1c8f-46a6-b32f-3efa89d5fde0",
+            "position": 1,
+            "resource_locator_function": "order",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://geodata.epa.gov/arcgis/rest/services/OEI/FRS_PowerPlants/MapServer",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:43:37.729162",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "c0fc50d4-ca82-47e2-9bb7-fa66e6985518",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:43:37.707950",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Data dictionary",
+            "package_id": "8e8c71c8-1c8f-46a6-b32f-3efa89d5fde0",
+            "position": 2,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.epa.gov/frs/frs-physical-data-model",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:43:37.729163",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "1797cf12-22ed-4341-bf5a-bbd5e9ff7959",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:43:37.708038",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Homepage",
+            "package_id": "8e8c71c8-1c8f-46a6-b32f-3efa89d5fde0",
+            "position": 3,
+            "resource_locator_function": "order",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.epa.gov/frs",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-03-31T20:43:37.729164",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "b86b6080-d2d6-4020-b550-b0ec7841b5b7",
+            "last_modified": null,
+            "metadata_modified": "2025-03-31T20:43:37.708124",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Web Resource",
+            "no_real_name": true,
+            "package_id": "8e8c71c8-1c8f-46a6-b32f-3efa89d5fde0",
+            "position": 4,
+            "resource_locator_function": "information",
+            "resource_locator_protocol": "website",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://www.epa.gov/aboutepa/about-office-information-management-oim",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "020:072",
+            "id": "ee6ec260-2686-4482-884a-e21bd34c47f0",
+            "name": "020:072",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "facilities",
+            "id": "e84e6137-8dce-41d2-b63e-38319e3f618a",
+            "name": "facilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 4,
+        "recent": 1
+    }
+}

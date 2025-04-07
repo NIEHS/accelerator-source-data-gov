@@ -1,0 +1,316 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "2b799973-1c1b-432a-af2d-f9b34b05a189",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Justin Mattison",
+    "maintainer_email": "mattison.justin@epa.gov",
+    "metadata_created": "2023-08-24T17:55:24.788486",
+    "metadata_modified": "2023-08-24T17:55:24.788492",
+    "name": "laws-and-regulations-services-lrs-16e08",
+    "notes": "LRS is a catalog of laws relevant to EPA, the regulations that implement those laws, and the EPA programs that oversee those regulations",
+    "num_resources": 1,
+    "num_tags": 17,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Laws and Regulations Services (LRS)",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "e45006d03b92f555855838c8cf0c4fe3cde5d08c"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "accrualPeriodicity",
+            "value": "R/P1W"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "0d18d90b-a358-4948-8fb5-2b72a728b061"
+        },
+        {
+            "key": "issued",
+            "value": "2015"
+        },
+        {
+            "key": "landingPage",
+            "value": "https://sor.epa.gov/sor_internet/registry/lawsreg/home/overview/home.jsp"
+        },
+        {
+            "key": "language",
+            "value": [
+                "en-us"
+            ]
+        },
+        {
+            "key": "license",
+            "value": "https://sor-lrs-api.epa.gov/lrswebservices/swaggerV2"
+        },
+        {
+            "key": "modified",
+            "value": "2021"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:072"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "United States Environmental Protection Agency (EPA)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://sor.epa.gov/sor_internet/registry/lawsreg/home/overview/home.jsp"
+            ]
+        },
+        {
+            "key": "rights",
+            "value": "LRS is available to the public via web services "
+        },
+        {
+            "key": "temporal",
+            "value": "2021/2025"
+        },
+        {
+            "key": "conformsTo",
+            "value": "https://sor.epa.gov/sor_internet/registry/lawsreg/home/overview/home.jsp"
+        },
+        {
+            "key": "describedBy",
+            "value": "https://sor-lrs-api.epa.gov/lrswebservices/swaggerV2"
+        },
+        {
+            "key": "describedByType",
+            "value": "text/html"
+        },
+        {
+            "key": "catalog_@context",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
+        },
+        {
+            "key": "catalog_@id",
+            "value": "https://edg.epa.gov/data/public/OEI/metadata/OEI.json"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "catalog_describedBy",
+            "value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "0e76cab2-9c31-4357-afdb-2edfa68265e0"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "596d9ede-424d-4ed3-bf95-ab83c51a36d9"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "OEI Non-Geo Records"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "conformsTo": "https://sor-lrs-api.epa.gov/lrswebservices/swaggerV2",
+            "created": "2023-08-24T17:55:24.793809",
+            "describedBy": "https://sor-lrs-api.epa.gov/lrswebservices/swaggerV2",
+            "describedByType": "text/html",
+            "description": "The LRS Web Services provide an interface to the System of Registries' Laws and Regulations Registry (LRS). LRS is a catalog of laws relevant to EPA, the regulations that implement those laws, and the EPA programs that oversee those regulations.The statutory and regulatory information is gleaned from the Code of Federal Regulations (CFR), published annually by the Government Publishing Office (GPO).",
+            "format": "API",
+            "hash": "",
+            "id": "ecdab221-a73d-4b40-99db-43e08e38faf0",
+            "last_modified": null,
+            "metadata_modified": "2023-08-24T17:55:24.758865",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "LRS Web Services",
+            "package_id": "2b799973-1c1b-432a-af2d-f9b34b05a189",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://sor-lrs-api.epa.gov/lrswebservices/swaggerV2",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cfr",
+            "id": "6266294d-23f9-4fbd-b65a-8909b3753399",
+            "name": "cfr",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "chemicals",
+            "id": "5cbaa292-842c-4461-a9ea-39ae4ab384f8",
+            "name": "chemicals",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "code-of-federal-regulations",
+            "id": "a1285d48-2a0b-4908-a457-9312c9652a75",
+            "name": "code-of-federal-regulations",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environmental",
+            "id": "8f630884-ddb6-4beb-af4e-e55128c02a35",
+            "name": "environmental",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "government-publishing-office",
+            "id": "c8071a15-101e-49c3-9a31-149ec0442186",
+            "name": "government-publishing-office",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "gpo",
+            "id": "a9975661-5fba-4a0b-bdbe-29d35064ae9c",
+            "name": "gpo",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "law",
+            "id": "4f4a8238-a74e-4ef5-9a8a-6bf51d41c6f0",
+            "name": "law",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "laws",
+            "id": "501be5b9-069d-48ee-980b-c6fb18910830",
+            "name": "laws",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "pesticides",
+            "id": "323d9b30-fa85-4ada-8b8b-2374a8275a6f",
+            "name": "pesticides",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regulation",
+            "id": "452b66af-0777-494b-9da3-063c38dcec56",
+            "name": "regulation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regulations",
+            "id": "cc6313da-0c6c-462e-99b1-09cb8a8b83bc",
+            "name": "regulations",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "regulatory",
+            "id": "50c58c0b-82e9-44b9-b420-0fbbaa729533",
+            "name": "regulatory",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "service",
+            "id": "0e22ea48-bce5-4197-914d-a6a79aa45cf8",
+            "name": "service",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "services",
+            "id": "93c695d8-22c1-42f3-a00b-c61f19fc9d14",
+            "name": "services",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxics",
+            "id": "eae2a732-fcb3-4723-b404-cd80f76fd540",
+            "name": "toxics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united-states",
+            "id": "862eb5b5-773c-400d-bf40-3139b5b902b6",
+            "name": "united-states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 55,
+        "recent": 5
+    }
+}

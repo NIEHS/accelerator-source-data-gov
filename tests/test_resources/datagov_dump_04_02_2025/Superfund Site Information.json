@@ -1,0 +1,313 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "f32e5795-390d-4145-8954-42d5dbe56f35",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:21:53.053773",
+    "metadata_modified": "2025-02-25T05:21:53.053781",
+    "name": "superfund-site-information13",
+    "notes": "This asset includes a number of individual data sets related to site-specific information for Superfund, which is governed under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA) of 1980, which was amended by the Superfund Amendments and Reauthorization Act (SARA) in 1986. The Superfund Enterprise Management System (SEMS) contains basic site description, location, schedule of activities, enforcement and settlement data, contaminants and selected remedy and much more, as well as the records that clearly document site decisions. This asset also includes sampling data and lab results (CLPSS, EDDs), redevelopment and technical assistance case studies, site reuse and land revitalization information, EPAOSC.net information, Superfund Technical Assistance Grants information, site management information records (RODs, Remediation plans, cleanup directives), contract management information, and more.\n\nSuperfund site management information can also be found in agency wide systems such as EAS and COMPASS.",
+    "num_resources": 2,
+    "num_tags": 14,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Superfund Site Information",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "DDE93997-4322-4826-A8C2-F12F1FCBFD6B"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2014\"}, {\"type\": \"revision\", \"value\": \"2014-11-30\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "en-US"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2020-03-04"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "oswerwebmaster@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "nonGeographicDataset"
+        },
+        {
+            "key": "licence",
+            "value": "[]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.htm\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "\n                                    "
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "\n                                    "
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Land and Emergency Management (OLEM)\", \"roles\": [\"owner\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-66"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "72"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "18"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-180"
+        },
+        {
+            "key": "lineage",
+            "value": "Lineage provided in documentation."
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "3e4e388e-83e9-442b-97a9-a8f695ebf487"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:21:53.056343",
+            "description": "URL providing direct access to the downloadable distribution of the data.",
+            "format": "",
+            "hash": "",
+            "id": "fef232ed-5769-4036-8e9d-218cb2bc7ca5",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:21:53.032271",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Download",
+            "package_id": "f32e5795-390d-4145-8954-42d5dbe56f35",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "http",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://www.epa.gov/superfund/superfund-data-and-reports",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:21:53.056347",
+            "description": "Alternative landing page used to redirect user to a contextual, Agency-hosted \"homepage\" for the Dataset or API when selecting this resource from the Data.gov user interface.",
+            "format": "",
+            "hash": "",
+            "id": "032aa79f-4112-4b7b-9fba-9f889045414c",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:21:53.032406",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "Agency Program URL",
+            "package_id": "f32e5795-390d-4145-8954-42d5dbe56f35",
+            "position": 1,
+            "resource_locator_function": "browsing",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            },
+            "url": "https://cumulis.epa.gov/supercpad/cursites/srchsites.cfm",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cerclis",
+            "id": "418bcfeb-04bc-488c-b525-620fe37a4104",
+            "name": "cerclis",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "clp",
+            "id": "0216cae3-82ca-4ad6-8abe-6eb96119f802",
+            "name": "clp",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "clpss",
+            "id": "d358cb79-dbfa-4640-b3bd-85d0c4941d5a",
+            "name": "clpss",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "racs",
+            "id": "42dc3e39-df02-49bc-a0d8-62c6c897eff4",
+            "name": "racs",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sems",
+            "id": "de3ce1ba-b722-4d2e-8570-fdf542bd5f58",
+            "name": "sems",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "site history",
+            "id": "19393c1c-415e-4e87-b0bb-5b4e3ece8b81",
+            "name": "site history",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "site information",
+            "id": "53834e55-575e-44c9-b7ba-1d9df51a60ab",
+            "name": "site information",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "site location",
+            "id": "a23b30e7-5300-4b80-ad4a-04683615f3b4",
+            "name": "site location",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "site reuse",
+            "id": "de290dc7-f763-4d2b-a3a4-3514deeb99b0",
+            "name": "site reuse",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "site status",
+            "id": "1bc588fa-4a12-48ee-ba65-965f2d6c2dbd",
+            "name": "site status",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "superfund redevelopment",
+            "id": "193ee719-c704-4e2a-9718-5d1b75e62518",
+            "name": "superfund redevelopment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "tags",
+            "id": "cea2226d-62de-4507-8dca-7518eb5cbcea",
+            "name": "tags",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 14,
+        "recent": 4
+    }
+}

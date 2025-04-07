@@ -1,0 +1,233 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "bc7d717d-3c87-4f76-b376-bfc463882261",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Jordan West",
+    "maintainer_email": "west.jordan@epa.gov",
+    "metadata_created": "2021-09-07T23:58:11.298378",
+    "metadata_modified": "2021-09-07T23:58:11.298387",
+    "name": "metadata-for-coral-reef-resilience-assessment-for-puerto-rico",
+    "notes": "Climate change threatens coral reefs through multiple pathways and interactions with local stressors. More resilient reefs have a higher likelihood of returning to a coral-dominated state following disturbance. To advance practical approaches to reef resilience assessments and aid resilience-based management of coral reefs, we conducted a resilience assessment for Puerto Rico\u2019s coral reefs modified from methods used in other U.S. jurisdictions. We calculated relative resilience scores for 103 sites from an existing commonwealth-wide survey using eight resilience indicators and identified which indicators most drove resilience. We found that sites of very different relative resilience were generally highly intermixed, underscoring the importance and necessity of decision making and management at fine scales. In combination with information on levels of two localized stressors (fishing pressure and pollution exposure), we used the resilience indicators to assess which of seven potential management actions could be used at each site to maintain or improve resilience. Fishery management was the management action that applied to the most sites. Furthermore, we combined sites\u2019 resilience scores with ocean warming predictions to assign sites to vulnerability categories. Island-wide or local managers can use the actions and vulnerability information as a starting point for resilience-based management of their reefs. This assessment differs from many previous ones because we tested how much information could be yielded by a \u201cdesktop\u201d assessment using freely-available, existing data rather than from a customized, resilience-focused field\nsurvey. The available data still permitted analyses comparable to previous assessments, demonstrating that desktop resilience assessments can substitute for assessments with field components under some circumstances. \n\nThis dataset is associated with the following publication:\nGibbs, D., and J. West. Resilience assessment of Puerto Rico\u2019s coral reefs to inform reef management.   PLOS ONE. Public Library of Science, San Francisco, CA, USA, 14(11): e0224360, (2019).",
+    "num_resources": 3,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Metadata for Coral Reef Resilience Assessment for Puerto Rico",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1523059"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "modified",
+            "value": "2019-04-13"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1371/journal.pone.0224360"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "source_hash",
+            "value": "7b2aa315703701fd4544645473e41b32c990fde9"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "f56cc073-f1d5-4386-b8d8-92168086dfc0"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-09-07T23:58:11.468507",
+            "description": "",
+            "format": "",
+            "hash": "",
+            "id": "d8607b3f-ea6d-40df-9d35-5e8138ca9c31",
+            "last_modified": null,
+            "metadata_modified": "2021-09-07T23:58:11.468507",
+            "mimetype": "",
+            "mimetype_inner": null,
+            "name": "https://github.com/dagibbs22/Puerto_Rico_Resil_assmnt",
+            "package_id": "bc7d717d-3c87-4f76-b376-bfc463882261",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 2
+            },
+            "url": "https://github.com/dagibbs22/Puerto_Rico_Resil_assmnt",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-09-07T23:58:11.468513",
+            "description": "S2%20table-%20resilience_assessment_data_20190413.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "bc055f81-c72f-4a48-944e-59645e953f37",
+            "last_modified": null,
+            "metadata_modified": "2021-09-07T23:58:11.468513",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "S2 table- resilience_assessment_data_20190413.xlsx",
+            "package_id": "bc7d717d-3c87-4f76-b376-bfc463882261",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 2,
+                "recent": 1
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523059/S2%20table-%20resilience_assessment_data_20190413.xlsx",
+            "url_type": null
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2021-09-07T23:58:11.468516",
+            "description": "Raw_NRCMP2014_data_indicators_only_20171129.csv",
+            "format": "XLS",
+            "hash": "",
+            "id": "41e3acd5-73d9-47aa-8020-fbac380944a6",
+            "last_modified": null,
+            "metadata_modified": "2021-09-07T23:58:11.468516",
+            "mimetype": "application/vnd.ms-excel",
+            "mimetype_inner": null,
+            "name": "Raw_NRCMP2014_data_indicators_only_20171129.csv",
+            "package_id": "bc7d717d-3c87-4f76-b376-bfc463882261",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            },
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1523059/Raw_NRCMP2014_data_indicators_only_20171129.csv",
+            "url_type": null
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "adaptation",
+            "id": "64d02386-bd93-4c3c-8589-2e5732d0651d",
+            "name": "adaptation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "climate-resilience",
+            "id": "ec4bd415-1d3f-47e6-9879-fc9f93c68f43",
+            "name": "climate-resilience",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "coral-reef-communities",
+            "id": "e419a22c-4681-45f1-8674-7171ec7156f0",
+            "name": "coral-reef-communities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "natural-resource-management",
+            "id": "06896b90-3830-45b8-ae0c-f75bef43149e",
+            "name": "natural-resource-management",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "puerto-rico",
+            "id": "819734f5-1a90-4839-af2b-6052c49e057e",
+            "name": "puerto-rico",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 167,
+        "recent": 5
+    }
+}

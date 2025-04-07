@@ -1,0 +1,147 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "6e229d63-146b-4971-8ab5-879a83912de8",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Anne Weaver",
+    "maintainer_email": "weaver.anne@epa.gov",
+    "metadata_created": "2024-01-25T15:14:58.136602",
+    "metadata_modified": "2024-01-25T15:14:58.136611",
+    "name": "birth-defects-metadata-2021",
+    "notes": "This dataset describes birth outcomes (weight, gestational age, sex assigned at birth, presence of birth defects, etc.) and parental factors (age, address, health status, etc.) for people born in North Carolina between 2003 and 2015. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Data come from the North Carolina Birth Defects Monitoring Program. These data are not publicly available, but more information can be obtained at https://schs.dph.ncdhhs.gov/units/bdmp/ (accessed 11/9/2021). Format: Data are stored as csv files and contain information on birth records in North Carolina from 2003 to 2015, including addresses of parents and medical information on parents and neonates. \n\nThis dataset is associated with the following publication:\nSlawsky, E., A. Weaver, T. Luben, and K. Rappazzo. A Cross-sectional Study of Brownfields and Birth Defects.   Birth Defects Research. John Wiley & Sons, Inc., Hoboken, NJ, USA, 114(5-6): 197-207, (2022).",
+    "num_resources": 0,
+    "num_tags": 3,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Birth Defects Metadata 2021",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "ed1a5989cf9b4bd17f077b46c58e7dc3fc9e5418dd1c3dcaba55522aeba3529f"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "restricted public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1524239"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2021-11-01"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1002/bdr2.1992"
+            ]
+        },
+        {
+            "key": "rights",
+            "value": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy"
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "ed110528-ecc3-4994-b38c-ca3e95c0d181"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "birth-defects",
+            "id": "13bb5812-73a8-47fc-ba72-034d2ee2bec7",
+            "name": "birth-defects",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "birth-records",
+            "id": "5f8c4206-2d69-4aaf-94a7-3a71d3651cf3",
+            "name": "birth-records",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "north-carolina",
+            "id": "86dd76ec-78d8-4114-9aad-52d5901ba347",
+            "name": "north-carolina",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 97,
+        "recent": 3
+    }
+}

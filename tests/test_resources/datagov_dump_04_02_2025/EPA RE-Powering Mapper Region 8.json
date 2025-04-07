@@ -1,0 +1,252 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "3aeb5f87-a5b3-488a-90ba-fb69f602ce40",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2025-02-25T05:28:01.779614",
+    "metadata_modified": "2025-02-25T05:28:01.779620",
+    "name": "epa-re-powering-mapper-region-811",
+    "notes": "The U.S. Environmental Protection Agency (EPA) Office of Land and Emergency Management (OLEM) Office of Communications, Partnerships and Analysis (OCPA) initiated the RE-Powering America's Land Initiative to demonstrate the enormous potential that contaminated lands, landfills, and mine sites provide for developing renewable energy in the United States. EPA developed national level site screening criteria in partnership with the U.S. Department of Energy (DOE) National Renewable Energy Laboratory (NREL) for wind, solar, biomass, and geothermal facilities. While the screening criteria demonstrate the potential to reuse contaminated land for renewable energy facilities, the criteria and data are neither designed to identify the best sites for developing renewable energy nor all-inclusive. Therefore, more detailed, site-specific analysis is necessary to identify or prioritize the best sites for developing renewable energy facilities based on the technical and economic potential. Please note that these sites were only pre-screened for renewable energy potential. The sites were not evaluated for land use constraints or current on the ground conditions. Additional research and site-specific analysis are needed to verify viability for renewable energy potential at a given site.",
+    "num_resources": 1,
+    "num_tags": 9,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "EPA RE-Powering Mapper Region 8",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "guid",
+            "value": "23DC9A7F-577B-48D7-AE59-16AF4F49717E"
+        },
+        {
+            "key": "spatial_harvester",
+            "value": true
+        },
+        {
+            "key": "spatial-reference-system",
+            "value": ""
+        },
+        {
+            "key": "dataset-reference-date",
+            "value": "[{\"type\": \"publication\", \"value\": \"2013-08-05\"}, {\"type\": \"revision\", \"value\": \"2013-08-05\"}]"
+        },
+        {
+            "key": "metadata-language",
+            "value": "en-us"
+        },
+        {
+            "key": "metadata-date",
+            "value": "2016-07-08"
+        },
+        {
+            "key": "coupled-resource",
+            "value": "[]"
+        },
+        {
+            "key": "contact-email",
+            "value": "thomas.marc@epa.gov"
+        },
+        {
+            "key": "frequency-of-update",
+            "value": "asNeeded"
+        },
+        {
+            "key": "spatial-data-service-type",
+            "value": ""
+        },
+        {
+            "key": "progress",
+            "value": ""
+        },
+        {
+            "key": "resource-type",
+            "value": "dataset"
+        },
+        {
+            "key": "licence",
+            "value": "[]"
+        },
+        {
+            "key": "access_constraints",
+            "value": "[\"https://edg.epa.gov/EPA_Data_License.html\"]"
+        },
+        {
+            "key": "temporal-extent-begin",
+            "value": "\n                                    "
+        },
+        {
+            "key": "temporal-extent-end",
+            "value": "\n                                    "
+        },
+        {
+            "key": "responsible-party",
+            "value": "[{\"name\": \"U.S. EPA Office of Land and Emergency Management (OLEM) Office of Communications, Partnerships and Analysis (OCPA)\", \"roles\": [\"owner\"]}]"
+        },
+        {
+            "key": "bbox-east-long",
+            "value": "-66"
+        },
+        {
+            "key": "bbox-north-lat",
+            "value": "72"
+        },
+        {
+            "key": "bbox-south-lat",
+            "value": "18"
+        },
+        {
+            "key": "bbox-west-long",
+            "value": "-180"
+        },
+        {
+            "key": "lineage",
+            "value": "Lineage provided in documentation."
+        },
+        {
+            "key": "metadata_type",
+            "value": "geospatial"
+        },
+        {
+            "key": "old-spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
+        },
+        {
+            "key": "spatial",
+            "value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "b294691e-184a-43e6-8f73-c80366f9afc1"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "9b3cd81e-5515-4bb7-ad3c-5ae44de9b4bd"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "Environmental Dataset Gateway ISO Geospatial Metadata"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2025-02-25T05:28:01.783319",
+            "description": "repowering_mapper_region_8.kmz",
+            "format": "KML",
+            "hash": "",
+            "id": "e55df6ef-da05-4080-92f8-1e095f000aba",
+            "last_modified": null,
+            "metadata_modified": "2025-02-25T05:28:01.756575",
+            "mimetype": null,
+            "mimetype_inner": null,
+            "name": "KMZ File",
+            "no_real_name": true,
+            "package_id": "3aeb5f87-a5b3-488a-90ba-fb69f602ce40",
+            "position": 0,
+            "resource_locator_function": "download",
+            "resource_locator_protocol": "",
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://www.epa.gov/sites/production/files/2015-04/repowering_mapper_region_8.kmz",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "cleanup",
+            "id": "938981bd-c7aa-45e0-81a2-37961bada1df",
+            "name": "cleanup",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "energy",
+            "id": "7c35fe0d-a745-4f8a-aff7-961189fe994f",
+            "name": "energy",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "environment",
+            "id": "3bd6bde0-008b-457e-bb8f-acac11012cb4",
+            "name": "environment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "facilities",
+            "id": "e84e6137-8dce-41d2-b63e-38319e3f618a",
+            "name": "facilities",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "land",
+            "id": "899e1294-851a-4804-95fa-e0c5a45f19fc",
+            "name": "land",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "remediation",
+            "id": "d7a31147-fbf4-4cc4-9813-fcd875012e5c",
+            "name": "remediation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "sites",
+            "id": "dc7cc095-eb1c-40f0-afb5-f9968a1d82ee",
+            "name": "sites",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "united states",
+            "id": "e91ed835-c966-4d60-a3a1-9f6f774f8a1c",
+            "name": "united states",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "waste",
+            "id": "c8c45fd7-e96a-4e36-9d54-71543519256b",
+            "name": "waste",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 1,
+        "recent": 1
+    }
+}

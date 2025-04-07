@@ -1,0 +1,157 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "6a7fa1b9-b2fb-4b83-9fba-5e7de28f2147",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Jahne",
+    "maintainer_email": "jahne.michael@epa.gov",
+    "metadata_created": "2024-11-17T11:24:32.399149",
+    "metadata_modified": "2024-11-17T11:24:32.399157",
+    "name": "metadata-entry-for-non-targeted-analysis-and-toxicity-prediction-for-evaluation-of-photoca",
+    "notes": "Metadata entry for \"Non-targeted Analysis and Toxicity Prediction for Evaluation of Photocatalytic Membrane Distillation Removing Organic Contaminants from Hypersaline Oil and Gas Field-Produced Water\".  Please contact the corresponding author Pei Xu at pxu@nmsu.edu to request the data. This dataset is not publicly accessible because: The data is non-EPA generated. It can be accessed through the following means: Please contact the corresponding author Pei Xu at pxu@nmsu.edu to request the data. Format: XLSX and/or CSV files. \n\nThis dataset is associated with the following publication:\nM.K. Delanka-Pedige, H., R. B. Young, M. T. Abutokaikah, L. Chen, H. Wang, K. A.B.I. Imihamillage, S. Thimons, M. A. Jahne, A. J. Williams, Y. Zhang, and P. Xu. Non-targeted Analysis and Toxicity Prediction for Evaluation of Photocatalytic Membrane Distillation Removing Organic Contaminants from Hypersaline Oil and Gas Field-Produced Water.   JOURNAL OF HAZARDOUS MATERIALS. Elsevier Science Ltd, New York, NY, USA, 471: 134436, (2024).",
+    "num_resources": 0,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Metadata Entry for \"Non-targeted Analysis and Toxicity Prediction for Evaluation of Photocatalytic Membrane Distillation Removing Organic Contaminants from Hypersaline Oil and Gas Field-Produced Water\"",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "2044239e570c995ca506cdab4a74100cda72c28c7a877675a1c67fe3c3fe4c68"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1530279"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-02-14"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.jhazmat.2024.134436"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "680ca7fa-0732-4219-ad7b-52fb21e04a46"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "non-targeted-screening",
+            "id": "428a4fc7-169f-4fec-8ed6-22c5a4fb4e4d",
+            "name": "non-targeted-screening",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "photocatalytic-membrane-distillation",
+            "id": "725e151c-2703-466c-9b93-07a5fd64b00e",
+            "name": "photocatalytic-membrane-distillation",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "produced-water-treatment",
+            "id": "30da729f-65c9-408a-b468-cacd81fd771a",
+            "name": "produced-water-treatment",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "toxicity-prediction",
+            "id": "1370b996-34ea-426a-b51f-f7a8e23315f6",
+            "name": "toxicity-prediction",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "vacuum-membrane-distillation",
+            "id": "772770b7-a74f-4e51-9d61-dd03790a32c9",
+            "name": "vacuum-membrane-distillation",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "resources": [],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 5,
+        "recent": 1
+    }
+}

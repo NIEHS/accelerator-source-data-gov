@@ -1,0 +1,233 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "1ecd1fb1-1be6-46bb-b90d-07a0762ed104",
+    "id": "c82ef0af-08e5-409b-bfcf-a52e3fccd450",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Hodon Ryu",
+    "maintainer_email": "ryu.hodon@epa.gov",
+    "metadata_created": "2024-09-22T07:10:13.687510",
+    "metadata_modified": "2024-09-22T07:10:13.687520",
+    "name": "legionella-pneumophila-inactivation-results-using-germicidal-uv-leds",
+    "notes": "These data include all the raw data in three Excel files. The first Excel file entitled \"UV-LED Data\" contains several datasheets was prepared separately for each test run with three different strains of Legionella pneumophila. The second and third files \"Linear Regression Data\" and \"ANCOVA Data\" were prepared for each strain of L. pneumophila to calculate statistics such as regression analysis and analysis of covariance, respectively. \n\nThis dataset is associated with the following publication:\nOh, Y., J. Sangsanont, H. Woo, L. Boczek, K. Linden, and H. Ryu. Inactivation efficacy and mechanisms of wavelength-specific UV sources for various strains of Legionella pneumophila serogroup 1.   SCIENCE OF THE TOTAL ENVIRONMENT. Elsevier BV, AMSTERDAM,  NETHERLANDS, 907: 167781, (2024).",
+    "num_resources": 3,
+    "num_tags": 5,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "Legionella pneumophila inactivation results using germicidal UV-LEDs",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "source_hash",
+            "value": "25ed4f6680b79b4e7eddbdea2173cfe7baa1155429e87fbd513101b7a746b78b"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1531736"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "modified",
+            "value": "2024-09-18"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:000"
+            ]
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1016/j.scitotenv.2023.167781"
+            ]
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "fa8600ba-abb0-40af-8ae0-6cd12107900e"
+        },
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-09-22T07:10:13.721307",
+            "description": "UV-LED%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d9a2931f-bad8-4698-abc7-338dd5b85034",
+            "last_modified": null,
+            "metadata_modified": "2024-09-22T07:10:13.668120",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "UV-LED Data.xlsx",
+            "package_id": "c82ef0af-08e5-409b-bfcf-a52e3fccd450",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531736/UV-LED%20Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-09-22T07:10:13.721312",
+            "description": "Linear%20Regression%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "32c8afc3-e2dc-4b1d-ad1c-3ac6d4d87328",
+            "last_modified": null,
+            "metadata_modified": "2024-09-22T07:10:13.668310",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Linear Regression Data.xlsx",
+            "package_id": "c82ef0af-08e5-409b-bfcf-a52e3fccd450",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531736/Linear%20Regression%20Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2024-09-22T07:10:13.721314",
+            "description": "ANCOVA%20Data.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "5ec0465c-37b8-4992-a628-49145dc27e2d",
+            "last_modified": null,
+            "metadata_modified": "2024-09-22T07:10:13.668429",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "ANCOVA Data.xlsx",
+            "package_id": "c82ef0af-08e5-409b-bfcf-a52e3fccd450",
+            "position": 2,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1531736/ANCOVA%20Data.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "electrical-energy-efficiency",
+            "id": "65c67f67-e355-44c5-b1cf-d7485d2bb5cf",
+            "name": "electrical-energy-efficiency",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inactivation-kinetics",
+            "id": "0204cd9d-168e-433e-bcb9-c0db37e5377f",
+            "name": "inactivation-kinetics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "inactivation-mechanisms",
+            "id": "95d30ab6-c27a-4a27-bee7-bab42fc36bf1",
+            "name": "inactivation-mechanisms",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "multiple-wavelength-uv-leds",
+            "id": "0434ed71-25a6-4c49-b369-8e3c188c3fdc",
+            "name": "multiple-wavelength-uv-leds",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "opportunistic-premise-plumbing-pathogens",
+            "id": "1f44fe84-9e41-47c7-933f-c798e3c8763d",
+            "name": "opportunistic-premise-plumbing-pathogens",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 3,
+        "recent": 1
+    }
+}

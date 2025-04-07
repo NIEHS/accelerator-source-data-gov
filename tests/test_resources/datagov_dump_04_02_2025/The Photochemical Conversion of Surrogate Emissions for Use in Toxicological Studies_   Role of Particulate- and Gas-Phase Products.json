@@ -1,0 +1,229 @@
+{
+    "author": null,
+    "author_email": null,
+    "creator_user_id": "2b785922-9f13-491b-a3c2-2a40acbd80c2",
+    "id": "bc71abbb-ecf6-4cbc-8ece-252ca1e6979e",
+    "isopen": false,
+    "license_id": "other-license-specified",
+    "license_title": "other-license-specified",
+    "maintainer": "Michael Lewandowski",
+    "maintainer_email": "lewandowski.michael@epa.gov",
+    "metadata_created": "2020-11-12T13:41:32.126283",
+    "metadata_modified": "2020-11-12T13:41:32.126294",
+    "name": "the-photochemical-conversion-of-surrogate-emissions-for-use-in-toxicological-studies-role-",
+    "notes": "The production of photochemical atmospheres under controlled conditions in an irradiation chamber permits the manipulation of parameters that influence the resulting air pollutant chemistry and potential biological effects.  To date no studies have examined how contrasting atmospheres with a similar Air Quality Health Index (AQHI), but with differing ratios of criteria air pollutants, might differentially affect health endpoints.  Here we produced two atmospheres with similar AQHIs based on the final concentrations of ozone, nitrogen dioxide, and particulate matter (PM2.5).  One simulated atmosphere (SA-PM) generated from irradiation of ~23 ppmC gasoline, ~5 ppmC of \u03b1-pinene, 529 ppb NO, and 3 \u00b5g m-3 (NH4)2SO4 as a seed resulted in ~976 \u00b5g m-3 PM2.5, 326 ppb NO2, and 141 ppb O3 (AQHI 97.7).  The other atmosphere (SA-O3) generated from ~8 ppmC gasoline, 5 ppmC isoprene, 874 ppb NO, 2 \u00b5g m-3 (NH4)2SO4 resulted in ~55 \u00b5g m-3 PM2.5, 643 ppb NO2, and 430 ppb O3 (AQHI of 99.8).  Chemical speciation by gas chromatography showed that photo-oxidation degraded the organic precursors and promoted the de novo formation of secondary reaction products such as formaldehyde and acrolein.  Further work in accompanying papers describe toxicological outcomes from the two distinct photochemical atmospheres. \n\nThis dataset is associated with the following publication:\nKrug, J., M. Lewandowski, J. Offenberg, J. Turlington, W. Lonneman, N. Modak, T. Krantz, C. King, S. Gavett, I. Gilmour, D. DeMarini, and T. Kleindienst. Photochemical Conversion of Surrogate Emissions for Use in Toxicological Studies: Role of Particulate- and Gas-Phase Products.   International Journal of Environmental Science and Technology. Springer, Heidelburg,  GERMANY, 52(5): 3037-3044, (2018).",
+    "num_resources": 2,
+    "num_tags": 8,
+    "organization": {
+        "id": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+        "name": "epa-gov",
+        "title": "U.S. Environmental Protection Agency",
+        "type": "organization",
+        "description": "Our mission is to protect human health and the environment. ",
+        "image_url": "https://edg.epa.gov/EPALogo.svg",
+        "created": "2020-11-10T15:10:42.298896",
+        "is_organization": true,
+        "approval_status": "approved",
+        "state": "active"
+    },
+    "owner_org": "82b85475-f85d-404a-b95b-89d1a42e9f6b",
+    "private": false,
+    "state": "active",
+    "title": "The Photochemical Conversion of Surrogate Emissions for Use in Toxicological Studies:   Role of Particulate- and Gas-Phase Products",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "extras": [
+        {
+            "key": "harvest_source_id",
+            "value": "04b59eaf-ae53-4066-93db-80f2ed0df446"
+        },
+        {
+            "key": "resource-type",
+            "value": "Dataset"
+        },
+        {
+            "key": "harvest_source_title",
+            "value": "EPA ScienceHub"
+        },
+        {
+            "key": "source_schema_version",
+            "value": "1.1"
+        },
+        {
+            "key": "programCode",
+            "value": [
+                "020:094"
+            ]
+        },
+        {
+            "key": "bureauCode",
+            "value": [
+                "020:00"
+            ]
+        },
+        {
+            "key": "references",
+            "value": [
+                "https://doi.org/10.1021/acs.est.7b04879"
+            ]
+        },
+        {
+            "key": "accessLevel",
+            "value": "public"
+        },
+        {
+            "key": "harvest_object_id",
+            "value": "d1f729da-3c48-4449-bca3-b38d48165b0b"
+        },
+        {
+            "key": "source_hash",
+            "value": "7382ecf740459e7e1c4c2a58e283ef5c0f4b423d"
+        },
+        {
+            "key": "publisher",
+            "value": "U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "license",
+            "value": "https://pasteur.epa.gov/license/sciencehub-license.html"
+        },
+        {
+            "key": "publisher_hierarchy",
+            "value": "U.S. Government > U.S. Environmental Protection Agency > U.S. EPA Office of Research and Development (ORD)"
+        },
+        {
+            "key": "modified",
+            "value": "2017-08-24"
+        },
+        {
+            "key": "source_datajson_identifier",
+            "value": true
+        },
+        {
+            "key": "catalog_conformsTo",
+            "value": "https://project-open-data.cio.gov/v1.1/schema"
+        },
+        {
+            "key": "identifier",
+            "value": "https://doi.org/10.23719/1407610"
+        }
+    ],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:32.131932",
+            "description": "Krug_MRC_Figure%202.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "623c254d-61b1-4b93-8215-d6665994d646",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:32.131932",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Krug_MRC_Figure 2.xlsx",
+            "package_id": "bc71abbb-ecf6-4cbc-8ece-252ca1e6979e",
+            "position": 0,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407610/Krug_MRC_Figure%202.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 1,
+                "recent": 1
+            }
+        },
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "created": "2020-11-12T13:41:32.131942",
+            "description": "Krug_MRC_Figure%203.xlsx",
+            "format": "XLS",
+            "hash": "",
+            "id": "d0bf366f-dd79-4692-8048-d47919ecb8f8",
+            "last_modified": null,
+            "metadata_modified": "2020-11-12T13:41:32.131942",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "mimetype_inner": null,
+            "name": "Krug_MRC_Figure 3.xlsx",
+            "package_id": "bc71abbb-ecf6-4cbc-8ece-252ca1e6979e",
+            "position": 1,
+            "resource_type": null,
+            "size": null,
+            "state": "active",
+            "url": "https://pasteur.epa.gov/uploads/10.23719/1407610/Krug_MRC_Figure%203.xlsx",
+            "url_type": null,
+            "tracking_summary": {
+                "total": 0,
+                "recent": 0
+            }
+        }
+    ],
+    "tags": [
+        {
+            "display_name": "air-pollution",
+            "id": "479f3b60-b95d-4708-9034-c531c6695587",
+            "name": "air-pollution",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-quality",
+            "id": "764327dd-d55e-40dd-8dc3-85235cd1ae8e",
+            "name": "air-quality",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "air-toxics",
+            "id": "1d6ca33d-baab-48d8-ab8b-588fbfb7a171",
+            "name": "air-toxics",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "gasoline-surrogate-emissions",
+            "id": "a2b82af1-24d3-4948-8aad-89bbea21cf3a",
+            "name": "gasoline-surrogate-emissions",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "health-effects",
+            "id": "27dc4ffa-4832-446c-baf3-8590cfe752db",
+            "name": "health-effects",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "ozone",
+            "id": "1ac910b2-f4a3-4446-aa5c-8199b6191cbe",
+            "name": "ozone",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "secondary-organic-aerosol",
+            "id": "57fe6170-81a0-4fb9-9310-7e9fe78f8f27",
+            "name": "secondary-organic-aerosol",
+            "state": "active",
+            "vocabulary_id": null
+        },
+        {
+            "display_name": "smog-chamber",
+            "id": "bdca61e7-4573-4643-b7f4-b77c4e1a33de",
+            "name": "smog-chamber",
+            "state": "active",
+            "vocabulary_id": null
+        }
+    ],
+    "groups": [],
+    "relationships_as_subject": [],
+    "relationships_as_object": [],
+    "tracking_summary": {
+        "total": 29,
+        "recent": 2
+    }
+}
