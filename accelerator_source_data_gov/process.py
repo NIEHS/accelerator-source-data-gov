@@ -29,13 +29,12 @@ def main(api_url: str, params: dict, type: str, submitter_name: str, submitter_e
     # Perform data transformation and ingestion into a repository
     for entry in ingest_results.payload:
         logger.info("Processing entry: %s", entry)
-        pass
-    
-    # Transform the data using a crosswalk
-    crosswalk = DataGovCrosswalk()
-    for doc in ingest_results:
-        ingest_result = crosswalk.transform
-        pass
+
+        # Transform the data using a crosswalk
+        crosswalk = DataGovCrosswalk()
+        for doc in ingest_results:
+            ingest_result = crosswalk.transform
+            pass
 
 
 if __name__ == '__main__':
