@@ -47,7 +47,7 @@ class DataGovAccelSource(AccelIngestComponent):
         if count < 1:
             return None
         else:
-            # self.dump_data(datasets=datasets)
+            self.dump_data(datasets=datasets)
 
             # Create an IngestResult object
             ingest_result = IngestResult(self.ingest_source_descriptor)

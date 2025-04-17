@@ -174,3 +174,5 @@ cython_debug/
 
 .idea
 .DS_Store
+
+tests/test_resources/data*
