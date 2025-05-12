@@ -1,8 +1,13 @@
 import logging
 
 from accelerator_core.workflow.accel_source_ingest import IngestSourceDescriptor
-from data_gov_accel_source import DataGovAccelSource
+from datagov_accel_source import DataGovAccelSource
 from datagov_crosswalk import DataGovCrosswalk
+
+from accelerator_core.workflow.accel_source_ingest import (
+    IngestSourceDescriptor,
+    IngestPayload,
+)
 
 logging.basicConfig(
     level=logging.DEBUG,
@@ -13,6 +18,7 @@ logger = logging.getLogger(__name__)
 
 
 def main(api_url: str, params: dict, type: str, submitter_name: str, submitter_email: str):
+    logger.info("process.py::main()")
     # Create an IngestSourceDescriptor instance and populate metadata
     ingest_source_descriptor = IngestSourceDescriptor()
     ingest_source_descriptor.type = type
@@ -29,12 +35,19 @@ def main(api_url: str, params: dict, type: str, submitter_name: str, submitter_e
     # Perform data transformation and ingestion into a repository
     for entry in ingest_results.payload:
         logger.info("Processing entry: %s", entry)
+        # Create an IngestPayload object
+        ingest_payload = IngestPayload(ingest_source_descriptor)
+        ingest_payload.ingest_source_descriptor = ingest_source_descriptor
+        ingest_payload.source_document_detail = 'data.gov'
+        ingest_payload.ingest_successful = False
+        ingest_payload.payload_inline = False
+        ingest_payload.payload = entry
+
+
 
         # Transform the data using a crosswalk
         crosswalk = DataGovCrosswalk()
-        for doc in ingest_results:
-            ingest_result = crosswalk.transform
-            pass
+        ingest_result = crosswalk.transform(ingest_payload)
 
 
 if __name__ == '__main__':

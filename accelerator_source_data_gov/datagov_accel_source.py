@@ -6,7 +6,10 @@ import os
 
 from accelerator_core.workflow.accel_source_ingest import AccelIngestComponent
 from accelerator_core.workflow.accel_source_ingest import IngestSourceDescriptor
-from accelerator_core.workflow.accel_source_ingest import IngestResult
+from accelerator_core.workflow.accel_source_ingest import (
+    IngestSourceDescriptor,
+    IngestPayload,
+)
 
 logging.basicConfig(
     level=logging.DEBUG,
@@ -23,13 +26,14 @@ class DataGovAccelSource(AccelIngestComponent):
     def __init__(self, ingest_source_descriptor: IngestSourceDescriptor):
         super().__init__(ingest_source_descriptor)
 
-    def ingest(self, additional_parameters: dict) -> IngestResult:
+    def ingest(self, additional_parameters: dict) -> IngestPayload:
         """
         Ingest data from a data.gov and return the result in an IngestResult object.
 
         :param additional_parameters: Dictionary containing parameters such as the api url and token
         :return: IngestResult with the parsed data from the spreadsheet
         """
+        logger.info("DataGovAccelSource::ingest()")
         api_url = additional_parameters.get('api_url')
         params = additional_parameters.get('params')
 
@@ -47,20 +51,20 @@ class DataGovAccelSource(AccelIngestComponent):
         if count < 1:
             return None
         else:
-            self.dump_data(datasets=datasets)
+            #self.dump_data(datasets=datasets)
 
             # Create an IngestResult object
-            ingest_result = IngestResult(self.ingest_source_descriptor)
-            ingest_result.payload = datasets
-            ingest_result.ingest_successful = True
-            return ingest_result
+            IngestPayload = IngestPayload(self.ingest_source_descriptor)
+            IngestPayload.payload = datasets
+            IngestPayload.ingest_successful = True
+            return IngestPayload
 
     @staticmethod
     def basic_dataset_search(api_url: str = None, params: dict = None, rows: int = 1000) -> dict:
         """
         Get JSON-formatted lists of data.gov site’s datasets
         """
-
+        logger.info("DataGovAccelSource::basic_dataset_search()")
         if not api_url or not params:
             logger.info("API URL and parameters must be provided.")
             return None
@@ -103,6 +107,7 @@ class DataGovAccelSource(AccelIngestComponent):
         :param datasets: A list of datasets
         :return:
         """
+        logger.info("DataGovAccelSource::dump_data()")
         # Folder containing JSON files
         folder_path = "../tests/test_resources/datagov_dump_04_02_2025"
         MAX_FILENAME_LENGTH = 200  # Set max length for the dataset title
