@@ -54,10 +54,10 @@ class DataGovAccelSource(AccelIngestComponent):
             #self.dump_data(datasets=datasets)
 
             # Create an IngestResult object
-            IngestPayload = IngestPayload(self.ingest_source_descriptor)
-            IngestPayload.payload = datasets
-            IngestPayload.ingest_successful = True
-            return IngestPayload
+            ingest_result = IngestPayload(self.ingest_source_descriptor)
+            ingest_result.payload = datasets
+            ingest_result.ingest_successful = True
+            return ingest_result
 
     @staticmethod
     def basic_dataset_search(api_url: str = None, params: dict = None, rows: int = 1000) -> dict:
