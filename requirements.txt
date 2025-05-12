@@ -1,4 +1,4 @@
-accelerator-cor @ git+https://github.com/NIEHS/accelerator-core@develop
+accelerator-core @ git+https://github.com/NIEHS/accelerator-core@develop
 openpyxl~=3.1.2
 requests~=2.31.0
 urllib3~=2.0.0
