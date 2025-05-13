@@ -26,6 +26,8 @@ from accelerator_core.schema.models.base_model import (
     SubmissionInfoModel,
     TechnicalMetadataModel,
 )
+from accelerator_core.utils.schema_tools import SchemaTools
+from accelerator_core.schema.models.accel_model import build_accel_from_model
 
 logging.basicConfig(
     level=logging.DEBUG,
@@ -57,25 +59,50 @@ class DataGovCrosswalk(Crosswalk):
         # Program
         program = AccelProgramModel()
         program.code = 'CHORDS'
-        program.name = 'CHORDS'
-        program.preferred_label = 'CHORDS'
+        program.name = payload.get('organization', None).get('name', None)
+        program.preferred_label = payload.get('organization', None).get('title', None)
 
         # Project
         project = AccelProjectModel()
-        project.code = payload.get('id', None)
-        project.name = payload.get('title', None)
-        project.sponsor = payload.get('organization', None).get('title', None)
+        if 'display_name' in payload.get('groups', []) and payload.get('groups', []) is not None:
+            project.project_name = payload.get('groups', []).get('display_name', None)
+        if 'id' in payload.get('groups', []) and payload.get('groups', []) is not None:
+            project.project_code = payload.get('groups', []).get('id', None)
+        if 'name' in payload.get('groups', []) and payload.get('groups', []) is not None:
+            project.project_short_name = payload.get('groups', []).get('name', None)
+        if 'title' in payload.get('groups', []) and payload.get('groups', []) is not None:
+            project.name = payload.get('groups', []).get('title', None)
+        if 'type' in payload.get('organization', []) and payload.get('organization', []) is not None:
+            project.project_sponsor = payload.get('organization', []).get('type', None)
+
+        # resource
+        resource = AccelIntermediateResourceModel()
+        resource.name = payload.get('title', None)
+        resource.description = payload.get('notes', None)
+        resource.resource_type = payload.get('type', None)
+        resource.resource_url = payload.get('url', None)
+        resource.version = payload.get('version', None)
 
         for item in extras:
-            if item.get('key') == 'identifier':
-                project.identifier = item.get('value', None)
-                break
+            if item.get('key') == 'display_name':
+                resource.keywords = item.get('value', None)
 
 
+        rendered = build_accel_from_model(
+            version="1.0.0",
+            submission=submission,
+            technical=None,
+            program=program,
+            project=project,
+            resource=resource,
+            data_resource=None,
+            temporal=None,
+            geospatial=None,
+            population=None,
+        )
+        schema_tools = SchemaTools(self.config)
+        result = schema_tools.validate_json_against_schema(
+            rendered, "accelerator", "1.0.0"
+        )
 
-
-
-
-
-
-        pass
+        return result
