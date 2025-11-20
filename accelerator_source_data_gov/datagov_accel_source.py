@@ -56,11 +56,12 @@ class DataGovAccelSource(AccelIngestComponent):
         else:
             # Create an IngestResult object
             ingestPayload = IngestPayload(self.ingest_source_descriptor)
-            ingestPayload.payload_inline = False
+            ingestPayload.payload = cleaned
+
             # Add the ingest item identifier to each dataset
             identifier = uuid.uuid4().hex
             ingestPayload.ingest_source_descriptor.ingest_item_identifier = identifier
-            self.report_individual(ingestPayload, identifier, datasets[0])
+            #self.report_individual(ingestPayload, identifier, datasets[0])
             ingestPayload.ingest_successful = True
             return ingestPayload
 
