@@ -84,6 +84,8 @@ class DataGovAccelSource(AccelIngestComponent):
                 response = requests.get(api_url, params=params)
                 response.raise_for_status()
                 data = response.json()
+                logger.info("Got %d datasets", len(data))
+                logger.info("Data: %s", data)
 
                 if not data.get("success"):
                     logger.info("Error:", data.get("error", "Unknown error"))
