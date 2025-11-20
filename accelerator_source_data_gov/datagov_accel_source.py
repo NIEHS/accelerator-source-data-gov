@@ -12,7 +12,6 @@ from accelerator_core.workflow.accel_source_ingest import (
     IngestSourceDescriptor,
     IngestPayload,
 )
-from connexion.decorators.parameter import sanitized
 
 logger = setup_logger("accelerator")
 
